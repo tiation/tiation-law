@@ -7,4 +7,6 @@ And so the arc, the equation, and the dome carry us beyond exoneration to respon
 
 May that be the legacy that outlives these pages—a testament that justice, once done, can seed a kinder architecture for all.
 
+Please read my ebook and check out Grief To Design
+
 
