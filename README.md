@@ -14,3 +14,7 @@ May that be the legacy that outlives these pages—a testament that justice, onc
 Please read my ebook and check out Grief To Design
 
 
+![image](https://github.com/user-attachments/assets/5d512d20-dd66-47a0-ba20-107eebec7f53)
+
+
+
