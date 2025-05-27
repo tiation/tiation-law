@@ -806,8 +806,6 @@ Such remarks carry persuasive weight with legislators and signal to the public t
 
 ### 14 Conclusion & Orders Sought – The Arc, the Equation, the Dome
 
-*(≈ 500 words in the blended cadences of Martin Luther King Jr., Albert Einstein, and Buckminster Fuller)*
-
 There comes a point in every trial when the evidence, like daybreak, refuses to be kept beneath the horizon. That moment is now. The Crown’s case stood upon four statutory pillars—custody, harm, foreseeability, and reasonable steps—and leaned on a whispered fifth, the rumoured mens rea of murder. Each pillar has been weighed; each is found too slender to bear a verdict of guilt.
 
 * **Custody and harm** were conceded, but they prove only tragedy, not crime.
