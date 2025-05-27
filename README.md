@@ -6,6 +6,7 @@ Our thesis rests on five firm pillars.  **First**, an independently verified tim
 
 When the testimony of physics joins hands with the testimony of character, the only just verdict is innocence.  To affirm less would be to warp both the scales of justice and the equations of truth.
 
+![Uploading JoshuaLily.jpg…]()
 
 
 
