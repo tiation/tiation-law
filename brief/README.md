@@ -1,15 +1,3 @@
-Excellent, I’ll construct a court-style defense brief for Tia based on the case materials provided. This will be tailored for both judge and jury in Western Australia, addressing the charge of 'failure to protect a child' and the previously suggested but unsupported allegation of murder.
-
-The brief will include:
-
-* A factual summary and case chronology.
-* A forensic and psychological analysis referencing DSM-5 and APA standards.
-* Legal arguments under Western Australian law.
-* A thorough refutation of prosecution claims.
-* Character defense and systemic bias considerations.
-* Case precedents including relevant wrongful convictions.
-
-I’ll begin the brief and notify you when it's ready for review.
 
 
 # Defence Brief – State v. Tia (Failure to Protect Charge)
