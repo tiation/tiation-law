@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-07-18 09:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No response?
+
+--- MESSAGE 2 ---
+Date: 2022-07-18 18:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: And I was wrong about who you are as a person too Louisa. Okay I will be there at 9:15am
+
+--- MESSAGE 3 ---
+Date: 2022-07-19 16:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No I wouldn't be. 
+
+--- MESSAGE 4 ---
+Date: 2022-07-23 04:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: You have no right to go through my personal messages. 
+
+--- MESSAGE 5 ---
+Date: 2022-07-23 04:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No you didn't. You logged into it because I got the notification. 
+
+--- MESSAGE 6 ---
+Date: 2022-07-23 04:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: You need to stop. 
+
+--- MESSAGE 7 ---
+Date: 2022-07-23 04:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: You need to stop your behaviour right now Louisa. Log out of my account right now 
+
+--- MESSAGE 8 ---
+Date: 2022-07-23 06:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: You need to stop right now. 
+
+--- MESSAGE 9 ---
+Date: 2022-07-23 06:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: So all I'm asking you Louisa is for you to never login or attempt to login into my accounts again and leave my personal life alone. 
+
+--- MESSAGE 10 ---
+Date: 2022-07-23 07:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No it wasn't. 
+
+--- MESSAGE 11 ---
+Date: 2022-07-23 11:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: You need to stop talking and messaging me and my friends/colleagues/family members.
+
+--- MESSAGE 12 ---
+Date: 2022-07-23 12:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: There's no point talking to you. 
+
+--- MESSAGE 13 ---
+Date: 2022-07-23 12:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No it's not. 
+
+--- MESSAGE 14 ---
+Date: 2022-07-23 12:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No you are 
+
+--- MESSAGE 15 ---
+Date: 2022-07-23 12:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: Then leave me alone. 
+
+--- MESSAGE 16 ---
+Date: 2022-07-23 12:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: Leave my life alone. 
+
+--- MESSAGE 17 ---
+Date: 2022-07-23 12:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: It is no longer your concern. 
+
+--- MESSAGE 18 ---
+Date: 2022-07-23 12:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: Leave. Me. Alone. 
+
+--- MESSAGE 19 ---
+Date: 2022-07-25 11:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: Our conversation is no longer valid. I have asked when I wanted to see Lily and you have clarified that to me. Conversation between you and I is now over. 
+
+--- MESSAGE 20 ---
+Date: 2022-08-12 21:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No I'm just looking at photos and videos of Lily now 
+
+--- MESSAGE 21 ---
+Date: 2022-08-20 21:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: Oh no
+
+--- MESSAGE 22 ---
+Date: 2022-08-27 17:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: There's no food here yet 
+
+--- MESSAGE 23 ---
+Date: 2022-09-08 10:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No I don't actually 
+
+--- MESSAGE 24 ---
+Date: 2022-09-09 21:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No she didn't tell me 
+
+--- MESSAGE 25 ---
+Date: 2022-09-14 09:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: Stop talking about things that happened in my families past 

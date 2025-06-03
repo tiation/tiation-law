@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-06-13 16:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Just finished I can go get them
+
+--- MESSAGE 2 ---
+Date: 2022-06-13 16:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Oh really? Did you do a test?
+
+--- MESSAGE 3 ---
+Date: 2022-06-15 18:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: This has all stemmed from me saying I'm working late tomorrow.
+
+--- MESSAGE 4 ---
+Date: 2022-06-16 14:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hey my Lou, do you mean for tonight?
+
+--- MESSAGE 5 ---
+Date: 2022-06-17 09:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I will get it 
+
+--- MESSAGE 6 ---
+Date: 2022-06-17 12:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 7 ---
+Date: 2022-06-17 12:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼￼
+
+--- MESSAGE 8 ---
+Date: 2022-06-17 13:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 9 ---
+Date: 2022-06-17 13:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Everyone takes her 
+
+--- MESSAGE 10 ---
+Date: 2022-06-17 13:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Are you working tonight?
+
+--- MESSAGE 11 ---
+Date: 2022-06-17 15:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmmm
+
+--- MESSAGE 12 ---
+Date: 2022-06-17 16:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 13 ---
+Date: 2022-06-19 09:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: She is coming to our place 
+
+--- MESSAGE 14 ---
+Date: 2022-06-21 21:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It is your choice
+
+--- MESSAGE 15 ---
+Date: 2022-06-21 21:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ?
+
+--- MESSAGE 16 ---
+Date: 2022-06-22 10:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What does that mean?
+
+--- MESSAGE 17 ---
+Date: 2022-06-23 07:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm leaving now 
+
+--- MESSAGE 18 ---
+Date: 2022-06-23 07:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Why have you sent me this? 
+
+--- MESSAGE 19 ---
+Date: 2022-06-23 08:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What do you mean it's already done?
+
+--- MESSAGE 20 ---
+Date: 2022-06-23 11:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Because of your post and messages you had sent 
+
+--- MESSAGE 21 ---
+Date: 2022-06-23 11:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm talking about the post you did on the theatre company page and the messages you had sent to the staff members 
+
+--- MESSAGE 22 ---
+Date: 2022-06-23 11:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It is not my choice Lou 
+
+--- MESSAGE 23 ---
+Date: 2022-06-26 22:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Why are you trying to call me?
+
+--- MESSAGE 24 ---
+Date: 2022-06-28 09:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Is Lily at daycare today?
+
+--- MESSAGE 25 ---
+Date: 2022-06-30 14:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼

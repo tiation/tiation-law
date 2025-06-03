@@ -1,0 +1,202 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2021-11-10 16:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: Ohhh I see lol 
+
+--- MESSAGE 2 ---
+Date: 2021-11-11 11:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: And a nice colour 
+
+--- MESSAGE 3 ---
+Date: 2021-12-15 14:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: That would be nice ☺️
+
+--- MESSAGE 4 ---
+Date: 2021-12-16 13:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: That looks nice 
+
+--- MESSAGE 5 ---
+Date: 2022-01-24 20:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Keywords: well
+Text: Oh okay then. Well we can leave it till Thursday then when I come over after work.
+
+--- MESSAGE 6 ---
+Date: 2022-02-05 20:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: Yes I can come with you that's nice problem 😊
+
+--- MESSAGE 7 ---
+Date: 2022-02-08 13:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: I'm hoping everyone has learnt their lines today
+
+--- MESSAGE 8 ---
+Date: 2022-02-23 14:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: Hmmm this is true I guess 
+
+--- MESSAGE 9 ---
+Date: 2022-02-28 13:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: Hmmmmm this is true 👿
+
+--- MESSAGE 10 ---
+Date: 2022-03-10 14:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: It'll just be easier for you and me 
+
+--- MESSAGE 11 ---
+Date: 2022-03-14 20:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Keywords: together
+Text: It was nice having a family time together 
+
+--- MESSAGE 12 ---
+Date: 2022-03-22 12:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: I can see you did lol
+
+--- MESSAGE 13 ---
+Date: 2022-03-22 12:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: Liked a movie
+
+--- MESSAGE 14 ---
+Date: 2022-03-23 13:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: Lily is getting a lot of request to wear outfits lol
+
+--- MESSAGE 15 ---
+Date: 2022-03-24 13:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: Look at all the likes she got
+
+--- MESSAGE 16 ---
+Date: 2022-03-27 13:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: Look at what I tagged you in lol 🤪
+
+--- MESSAGE 17 ---
+Date: 2022-03-29 07:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: Hmmm that's true I guess Lou 
+
+--- MESSAGE 18 ---
+Date: 2022-03-29 07:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: They are bathing in it lol
+
+--- MESSAGE 19 ---
+Date: 2022-04-01 18:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: We will go get it because it'll be easier for us to get it instead of you Lou 
+
+--- MESSAGE 20 ---
+Date: 2022-05-31 11:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: Aww that's nice my Lou 
+
+--- MESSAGE 21 ---
+Date: 2022-06-03 15:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: We should just stay somewhere it'll be easier that way 
+
+--- MESSAGE 22 ---
+Date: 2022-08-20 21:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: This is true Lou 
+
+--- MESSAGE 23 ---
+Date: 2022-09-17 20:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: How is it nice? 
+
+--- MESSAGE 24 ---
+Date: 2022-09-17 22:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: And you only cared about Joshuas feelings. 
+
+--- MESSAGE 25 ---
+Date: 2022-09-17 22:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: You cared about his feelings and needs before Lily. 

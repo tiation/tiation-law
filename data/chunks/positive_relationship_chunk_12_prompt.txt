@@ -1,0 +1,212 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2021-12-11 10:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.69)
+Keywords: happy
+Text: Lily looks so happy 
+
+--- MESSAGE 2 ---
+Date: 2022-03-28 13:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.69)
+Text: My alternative would've been to go up and talk to Chris Rock and get him to apologise but the thing is I don't think he would've apologised because even when Will slapped him and swore at him, Chris still thought in his mind that he didn't say anything wrong about his wife 
+
+--- MESSAGE 3 ---
+Date: 2021-12-18 17:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.69)
+Text: Who cares if we don't own our own house, we have a house. We have a car, YOU have a nice car. We have food on the table everyday, we go out to eat sometimes as a family and it doesn't matter whether it's ribs and burgers or McDonald's, we are still getting the luxury of buying food and going out. 
+
+--- MESSAGE 4 ---
+Date: 2021-08-26 16:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.69)
+Text: Alright perfect 
+
+--- MESSAGE 5 ---
+Date: 2021-11-11 11:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.69)
+Text: Yeah which is a bonus, most Subaru cars are AWD
+
+--- MESSAGE 6 ---
+Date: 2022-01-28 09:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.69)
+Keywords: well
+Text: Well that did bring happiness 😊
+
+--- MESSAGE 7 ---
+Date: 2022-02-14 17:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.69)
+Text: Nice and safe
+
+--- MESSAGE 8 ---
+Date: 2022-02-22 13:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.69)
+Text: Haha yes that is him 
+
+--- MESSAGE 9 ---
+Date: 2022-03-01 12:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.69)
+Keywords: care,thank
+Text: Thank you for taking care of me today Lou ❤️
+
+--- MESSAGE 10 ---
+Date: 2022-03-18 18:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.69)
+Keywords: please
+Text: Okay then Lou please be careful okay? 🙇🏻‍♂️
+
+--- MESSAGE 11 ---
+Date: 2022-03-20 12:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.69)
+Text: Yes Lou haha 🙇🏻‍♂️
+
+--- MESSAGE 12 ---
+Date: 2022-03-27 13:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.69)
+Text: His videos are pretty consistent right. Like they are all designed the same 
+
+--- MESSAGE 13 ---
+Date: 2022-04-11 12:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.69)
+Text: Thanks for sharing this information with me my Lou 
+
+--- MESSAGE 14 ---
+Date: 2021-11-13 07:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.69)
+Text: The farm house looks awesome!! 😊
+
+--- MESSAGE 15 ---
+Date: 2022-02-24 08:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.69)
+Text: What are you talking about you look great Lou!! 
+
+--- MESSAGE 16 ---
+Date: 2022-02-27 20:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.69)
+Text: Ohh awesome!! 
+
+--- MESSAGE 17 ---
+Date: 2022-11-22 14:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.69)
+Keywords: please
+Text: Hi Louisa,
+The case regarding Lily Edwards is scheduled tomorrow (23/11) at 10:15am at the Family Court. Please acknowledge that you are aware of this
+Thanks Adam
+
+--- MESSAGE 18 ---
+Date: 2022-02-01 16:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.69)
+Keywords: care,support,good,best
+Text: I'm here for you Louisa. I care for you so much and I'll do my best to support you and the kids no matter what. Court is not a good place to be but as you have said to me before, your voice needs to be heard and you deserve to have your voice and side heard okay?
+
+--- MESSAGE 19 ---
+Date: 2022-03-11 20:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.68)
+Text: You might be angry but you are very beautiful still Lou 🙇🏻‍♂️
+
+--- MESSAGE 20 ---
+Date: 2021-11-16 12:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.68)
+Keywords: good
+Text: Yes that sounds good 
+
+--- MESSAGE 21 ---
+Date: 2021-12-18 16:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.68)
+Text: Okay great Lou, put it all in one amount and I will pay it back 
+
+--- MESSAGE 22 ---
+Date: 2022-01-10 13:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.68)
+Keywords: happy
+Text: I want us to work and cooperate Louisa, I want all of us to be happy in life. I don't want what we are doing right now. 
+
+--- MESSAGE 23 ---
+Date: 2022-01-12 16:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.68)
+Text: How is accepting a car to benefit us disrespecting you? 
+
+--- MESSAGE 24 ---
+Date: 2022-01-18 14:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.68)
+Keywords: thank
+Text: Okay thank you for letting me know. Yeah I can pick him up in the way, the latest time I can get him is around 5:30-6 right?
+
+--- MESSAGE 25 ---
+Date: 2022-03-11 21:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.68)
+Keywords: good
+Text: I'm going to send my brother to Sydney and work with appliances online because he is feeling down on himself and his ex girlfriend has moved on with someone else, do you think sending him to Sydney away from the life he has here and working in a stable job be a good idea? 🙇🏻‍♂️

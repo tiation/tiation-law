@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2021-09-23 14:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We should eat something in fremantle so we are not far away 🙇🏻‍♂️☺️
+
+--- MESSAGE 2 ---
+Date: 2021-09-24 09:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Where did all the guts go??
+
+--- MESSAGE 3 ---
+Date: 2021-09-24 10:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: #NAME?
+
+--- MESSAGE 4 ---
+Date: 2021-09-24 12:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Are you getting lunch for yourself?
+
+--- MESSAGE 5 ---
+Date: 2021-09-24 13:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Woah that is mushrooms!!
+
+--- MESSAGE 6 ---
+Date: 2021-09-25 09:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: If you tell me how much everything is every month I'll send you money. 
+
+--- MESSAGE 7 ---
+Date: 2021-09-25 09:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: So how much will it all cost a week for the chiro?
+
+--- MESSAGE 8 ---
+Date: 2021-09-25 09:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: For you and Joshua
+
+--- MESSAGE 9 ---
+Date: 2021-09-25 09:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: On Monday will be going to HBF
+
+--- MESSAGE 10 ---
+Date: 2021-09-25 14:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hey Lulu!! All this food has come today
+
+--- MESSAGE 11 ---
+Date: 2021-09-25 14:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: And of course they can 
+
+--- MESSAGE 12 ---
+Date: 2021-09-26 09:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: https://coventryvillage.net.au
+
+--- MESSAGE 13 ---
+Date: 2021-09-26 09:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What do you think?
+
+--- MESSAGE 14 ---
+Date: 2021-09-26 15:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I think they are away at the moment 
+
+--- MESSAGE 15 ---
+Date: 2021-09-26 15:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Aren't Di and Terry coming over?
+
+--- MESSAGE 16 ---
+Date: 2021-09-27 17:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Lulu the door is not opening 
+
+--- MESSAGE 17 ---
+Date: 2021-09-28 08:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What is she doing now?? ☺️☺️
+
+--- MESSAGE 18 ---
+Date: 2021-09-28 09:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: She is very small Lulu 
+
+--- MESSAGE 19 ---
+Date: 2021-09-28 19:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 20 ---
+Date: 2021-09-28 20:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I got this one for the baby 
+
+--- MESSAGE 21 ---
+Date: 2021-09-29 09:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Lulu!! Do I wake up a d feed the baby again??
+
+--- MESSAGE 22 ---
+Date: 2021-09-30 08:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ?*
+
+--- MESSAGE 23 ---
+Date: 2021-09-30 09:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 24 ---
+Date: 2021-09-30 10:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 25 ---
+Date: 2021-09-30 10:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: This is the one you sent that's the same price 

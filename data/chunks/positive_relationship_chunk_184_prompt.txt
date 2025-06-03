@@ -1,0 +1,203 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-09-23 08:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: Does me having Lily in my custody mean you will have zero contact and zero influence for Lily? The answer is no. 
+
+--- MESSAGE 2 ---
+Date: 2022-09-23 11:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: Remember how I asked you to stop posting stuff on my work pages Facebook page and you didn't? 
+
+--- MESSAGE 3 ---
+Date: 2022-09-23 11:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: Stop what?
+
+--- MESSAGE 4 ---
+Date: 2022-09-23 11:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Keywords: sorry
+Text: What do you want me to stop and be sorry for?
+
+--- MESSAGE 5 ---
+Date: 2022-09-23 12:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: Did I say that I'm trying to keep you away from Lily? No. 
+
+--- MESSAGE 6 ---
+Date: 2022-09-23 18:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No I'm not 
+
+--- MESSAGE 7 ---
+Date: 2022-10-04 08:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No we have been awake since 5am
+
+--- MESSAGE 8 ---
+Date: 2022-10-04 08:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No not yet 
+
+--- MESSAGE 9 ---
+Date: 2022-10-05 07:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No I didn't 
+
+--- MESSAGE 10 ---
+Date: 2022-10-05 07:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No I didn't 
+
+--- MESSAGE 11 ---
+Date: 2022-10-05 10:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No not yet
+
+--- MESSAGE 12 ---
+Date: 2022-10-05 17:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Keywords: care,understand
+Text: Do you not understand Louisa? That what has happened to Lily under YOUR care and YOUR parenting was wrong and you have lost your right to have full or any custody of Lily. 
+
+--- MESSAGE 13 ---
+Date: 2022-10-05 17:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: There is no normal for Lily, for you or for me normal is done it's gone. 
+
+--- MESSAGE 14 ---
+Date: 2022-10-13 21:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: There is no or what 
+
+--- MESSAGE 15 ---
+Date: 2022-10-18 10:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: And yet you still refuse to tell anyone what had actually happened and how this incident occurred. 
+
+--- MESSAGE 16 ---
+Date: 2022-10-18 12:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: All I wanted was 50% of Lily before this incident happened I asked you so many times and you refused. 
+
+--- MESSAGE 17 ---
+Date: 2022-10-26 13:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No I'm at my place still 
+
+--- MESSAGE 18 ---
+Date: 2022-10-29 12:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: I have no money at the moment 
+
+--- MESSAGE 19 ---
+Date: 2022-11-05 19:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Keywords: well
+Text: Well you can strive to be that parent with your obvious favourite Joshua, you failed with Lily and you will not try again with Lily. 
+
+--- MESSAGE 20 ---
+Date: 2022-11-16 17:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: There's no investigation against you?
+
+--- MESSAGE 21 ---
+Date: 2022-11-19 11:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No one's paying anything Louisa. 
+
+--- MESSAGE 22 ---
+Date: 2022-11-19 11:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: And her life expectancy is much much lower than the average person. 
+
+--- MESSAGE 23 ---
+Date: 2022-11-19 11:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: Upstairs with no gate to the entrance of the stairs too. You should've put Lily in her cot and then go to the toilet. 
+
+--- MESSAGE 24 ---
+Date: 2022-11-19 12:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No I'm not. 
+
+--- MESSAGE 25 ---
+Date: 2022-11-19 12:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No you have not. 

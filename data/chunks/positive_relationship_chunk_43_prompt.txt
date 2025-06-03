@@ -1,0 +1,203 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-03-29 07:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes they do Lou 
+
+--- MESSAGE 2 ---
+Date: 2022-03-30 11:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes that's right Lou 
+
+--- MESSAGE 3 ---
+Date: 2022-04-06 18:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Keywords: help
+Text: I'll come and help one sec
+
+--- MESSAGE 4 ---
+Date: 2022-05-09 11:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes I can 
+
+--- MESSAGE 5 ---
+Date: 2022-05-09 12:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Keywords: wish
+Text: I wish that too Lou 
+
+--- MESSAGE 6 ---
+Date: 2022-05-22 19:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes Lou 
+
+--- MESSAGE 7 ---
+Date: 2022-05-31 08:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes that's right Lou 
+
+--- MESSAGE 8 ---
+Date: 2022-06-09 17:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Hey Lou yes I can 
+
+--- MESSAGE 9 ---
+Date: 2022-06-14 18:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes Lou I can do it 
+
+--- MESSAGE 10 ---
+Date: 2022-06-16 19:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Pear said yes to all the things that you requested 
+
+--- MESSAGE 11 ---
+Date: 2022-06-19 09:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Hey Lou are you definitely going tonight?
+
+--- MESSAGE 12 ---
+Date: 2022-07-18 08:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Keywords: support
+Text: How much child support do you get from Michael every month?
+
+--- MESSAGE 13 ---
+Date: 2022-08-10 20:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes I do remember it
+
+--- MESSAGE 14 ---
+Date: 2022-08-12 21:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes that's right 
+
+--- MESSAGE 15 ---
+Date: 2022-08-13 10:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes I do 
+
+--- MESSAGE 16 ---
+Date: 2022-08-15 12:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes I am 
+
+--- MESSAGE 17 ---
+Date: 2022-09-01 07:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes 
+
+--- MESSAGE 18 ---
+Date: 2022-09-04 16:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Is there anything special I need to do coming up?
+
+--- MESSAGE 19 ---
+Date: 2022-09-09 21:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes Louisa 
+
+--- MESSAGE 20 ---
+Date: 2022-09-14 11:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes Lou 
+
+--- MESSAGE 21 ---
+Date: 2022-09-17 22:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes you are. 
+
+--- MESSAGE 22 ---
+Date: 2022-09-17 22:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes you did. 
+
+--- MESSAGE 23 ---
+Date: 2022-09-18 14:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes I am 
+
+--- MESSAGE 24 ---
+Date: 2022-09-19 19:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes I will
+
+--- MESSAGE 25 ---
+Date: 2022-09-20 17:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: The party on Sunday because I might do half a shift from 5pm-9pm

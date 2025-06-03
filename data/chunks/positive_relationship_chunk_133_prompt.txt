@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-05-03 12:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What a little nugget she is ☺️
+
+--- MESSAGE 2 ---
+Date: 2022-05-03 12:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 3 ---
+Date: 2022-05-04 12:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 4 ---
+Date: 2022-05-05 12:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Are you trying to call me Lou? 
+
+--- MESSAGE 5 ---
+Date: 2022-05-05 15:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It is our relationship Louisa it is not anyone else's. 
+
+--- MESSAGE 6 ---
+Date: 2022-05-06 10:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How far are you?
+
+--- MESSAGE 7 ---
+Date: 2022-05-06 10:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm working today
+
+--- MESSAGE 8 ---
+Date: 2022-05-06 10:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I can take it off 
+
+--- MESSAGE 9 ---
+Date: 2022-05-06 10:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: So I can afford to take today off
+
+--- MESSAGE 10 ---
+Date: 2022-05-06 10:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I can still do it 
+
+--- MESSAGE 11 ---
+Date: 2022-05-06 10:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I've got this assignment due on Sunday night that I need to do so I can do that today
+
+--- MESSAGE 12 ---
+Date: 2022-05-06 10:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'll pick Joshua up from school and take him to the pools
+
+--- MESSAGE 13 ---
+Date: 2022-05-06 11:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Does Joshua have clothes with him?
+
+--- MESSAGE 14 ---
+Date: 2022-05-06 17:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We are at McDonald's 
+
+--- MESSAGE 15 ---
+Date: 2022-05-07 11:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 16 ---
+Date: 2022-05-07 11:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 17 ---
+Date: 2022-05-09 10:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 18 ---
+Date: 2022-05-09 10:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Do we have that too? 
+
+--- MESSAGE 19 ---
+Date: 2022-05-09 10:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Vegan fish and chips 
+
+--- MESSAGE 20 ---
+Date: 2022-05-09 10:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 21 ---
+Date: 2022-05-09 10:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmmmmmmm
+
+--- MESSAGE 22 ---
+Date: 2022-05-09 10:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: They are paying for it 👦🏻👦🏻👦🏻
+
+--- MESSAGE 23 ---
+Date: 2022-05-09 11:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmmm the dentist I have gingivitis 🙇🏻‍♂️
+
+--- MESSAGE 24 ---
+Date: 2022-05-09 11:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: The dentist said*
+
+--- MESSAGE 25 ---
+Date: 2022-05-09 11:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: 🥺🥺🥺

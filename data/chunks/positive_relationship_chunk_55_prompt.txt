@@ -1,0 +1,214 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-09-01 09:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Can you please bring me a coffee from the family room?
+
+--- MESSAGE 2 ---
+Date: 2022-09-08 09:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: A coffee please 
+
+--- MESSAGE 3 ---
+Date: 2022-09-14 19:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Text: This whole time I have been doing things for you to make sure you still get to be with Lily as much as you can
+
+--- MESSAGE 4 ---
+Date: 2022-09-17 22:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Text: Put his needs first, make sure he gets things for him in his life. 
+
+--- MESSAGE 5 ---
+Date: 2022-09-18 20:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Can we talk about this tomorrow please?
+
+--- MESSAGE 6 ---
+Date: 2022-09-21 16:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Text: If it was the other way around Louisa, you would be doing everything in your power to make sure I wouldn't see Lily again. 
+
+--- MESSAGE 7 ---
+Date: 2022-09-21 19:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Text: I do pray for Lily all the time I just do it in my own way 
+
+--- MESSAGE 8 ---
+Date: 2022-09-23 11:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Text: I already am. I'm doing everything I can for Lily to make sure she has some sort of normal life. 
+
+--- MESSAGE 9 ---
+Date: 2022-09-26 12:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Can you come down and open the door for me please? 
+
+--- MESSAGE 10 ---
+Date: 2022-09-27 09:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Text: Make sure it's the right controller 
+
+--- MESSAGE 11 ---
+Date: 2022-09-30 08:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Can you get me a coffee please?
+
+--- MESSAGE 12 ---
+Date: 2022-10-05 07:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Text: I'm probably going to leave like this afternoon and go back to mine
+
+--- MESSAGE 13 ---
+Date: 2022-10-06 18:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Can you please come here tomorrow morning with your mum so that I can go do something's during the day?
+
+--- MESSAGE 14 ---
+Date: 2022-10-06 18:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Can you come here at 10am please?
+
+--- MESSAGE 15 ---
+Date: 2022-10-10 08:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Please reschedule the appointment for later this week. 
+
+--- MESSAGE 16 ---
+Date: 2022-10-26 17:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Can you bring some food please for dinner?
+
+--- MESSAGE 17 ---
+Date: 2022-10-28 15:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Can you come unlike an hour from now please 
+
+--- MESSAGE 18 ---
+Date: 2022-10-30 09:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Aw actually can you come pick me up please?
+
+--- MESSAGE 19 ---
+Date: 2022-11-19 12:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Text: I'm telling the truth. 
+
+--- MESSAGE 20 ---
+Date: 2022-11-19 12:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Text: So you kept the truth from the police and never told them what actually happened. 
+
+--- MESSAGE 21 ---
+Date: 2022-11-29 18:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Text: Next week or the week after I will be setting up sessions for HBOT for Lily. Because you are responsible for Lily's current condition you should be the one paying for these therapy sessions. 
+
+--- MESSAGE 22 ---
+Date: 2022-12-05 11:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Can you please send me a copy of the doctors referral for oxygen therapy for Lily 
+
+--- MESSAGE 23 ---
+Date: 2022-12-29 15:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Can you please speak to the doctor in New Orleans and advise what treatment Lily is getting and if it is enough for the recovery Lily has to get 
+
+--- MESSAGE 24 ---
+Date: 2022-12-31 08:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Text: And now you won't respond because you can't handle people telling you the truth. 
+
+--- MESSAGE 25 ---
+Date: 2023-03-05 12:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Can you reply back to my email request please. 

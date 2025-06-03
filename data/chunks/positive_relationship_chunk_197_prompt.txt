@@ -1,0 +1,209 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2023-01-15 10:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.59)
+Text: You are a horrible parent and Joshua is a horrible kid and you both deserve nothing. I should've taken Lily with me when I had left the two of you, then Lily wouldn't have had drowned and be disabled for the rest of her life. 
+
+--- MESSAGE 2 ---
+Date: 2022-01-09 18:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.59)
+Text: Louisa I never wanted to leave you, I never wanted to be in this situation with you, I never wanted to have a broken family with you. Louisa I'm not threatening you I'm not trying to be unreasonable with you or anything. I wasn't invited to Christmas lunch by my Aunty, she did not welcome me there. You need to stop thinking that I have chosen sides, I have not chosen sides, I have not picked my Auntys side for the 100th time I'll say it again. 
+
+--- MESSAGE 3 ---
+Date: 2022-01-12 19:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.59)
+Keywords: trust
+Text: Yeah and Louisa I'm over here as their dad so if any wrong doing happens I will deal with it in my own way. You just don't trust me doing it though that's what it is
+
+--- MESSAGE 4 ---
+Date: 2022-01-12 16:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.60)
+Keywords: trust
+Text: But you don't want that, you don't trust me on doing that
+
+--- MESSAGE 5 ---
+Date: 2022-02-28 20:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.60)
+Text: My phone will probably die 
+
+--- MESSAGE 6 ---
+Date: 2022-09-22 16:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.60)
+Text: There are parents who are drug dealers that have kids and not even their kids drowned in the bath
+
+--- MESSAGE 7 ---
+Date: 2022-01-15 07:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.60)
+Keywords: respect
+Text: You don't respect me as a parent Louisa. You say the way I parent is wrong, you tell me that I have zero choice in the kids, you overtake when I'm talking to Joshua about something. I didn't feel respected at all and it made me feel you had zero confidence in me as a parent. 
+
+--- MESSAGE 8 ---
+Date: 2023-01-15 10:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.61)
+Text: So fucking stupid. 
+
+--- MESSAGE 9 ---
+Date: 2022-09-08 09:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.61)
+Text: That is so unfair
+
+--- MESSAGE 10 ---
+Date: 2021-10-18 15:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.61)
+Text: No worries Lulu 
+
+--- MESSAGE 11 ---
+Date: 2021-12-08 17:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.61)
+Text: Hi Louisa,
+
+My phone is about to die and I'm stuck on the train at the moment to call, is everything okay? 
+
+--- MESSAGE 12 ---
+Date: 2021-12-08 17:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.61)
+Text: Hi Louisa,
+
+My phone is about to die and I'm stuck on the train at the moment to call, is everything okay? 
+
+--- MESSAGE 13 ---
+Date: 2022-01-17 12:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.61)
+Text: No worries Louisa
+
+--- MESSAGE 14 ---
+Date: 2022-02-25 17:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.61)
+Text: How have I betrayed you Lou? 
+
+--- MESSAGE 15 ---
+Date: 2022-02-25 17:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.61)
+Keywords: care
+Text: And I do care Lou. The perpetrator is dead what do you want to do about that? 
+
+--- MESSAGE 16 ---
+Date: 2022-06-12 17:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.61)
+Text: No worries my Lou getting it for us now 
+
+--- MESSAGE 17 ---
+Date: 2022-09-22 17:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.61)
+Text: But if you were the primary caregiver and I was arguing with you about it, you would simply tell me to go to family court if I wanted visitation 
+
+--- MESSAGE 18 ---
+Date: 2021-09-03 12:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.61)
+Keywords: trust
+Text: That's really not nice to say. It's as if you don't trust any word when I've just said to you. Do you want cash or bank transfer?
+
+--- MESSAGE 19 ---
+Date: 2022-02-28 13:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.62)
+Text: My hair!!! My poor delicate hair!!!
+
+--- MESSAGE 20 ---
+Date: 2022-03-28 13:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.62)
+Text: Yeah people saying that he deserved it and other people saying that showing violence and aggression was not the right way
+
+--- MESSAGE 21 ---
+Date: 2022-03-28 16:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.62)
+Text: Because I don't think she would think violence being the answer
+
+--- MESSAGE 22 ---
+Date: 2022-07-23 12:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.62)
+Text: My life is no longer yours to worry about. 
+
+--- MESSAGE 23 ---
+Date: 2022-09-08 09:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.62)
+Text: You say that I'm the worst human you've ever met
+
+--- MESSAGE 24 ---
+Date: 2022-09-14 19:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.62)
+Text: I'm tired of you coming here and having digs at me for no reason. 
+
+--- MESSAGE 25 ---
+Date: 2022-09-22 15:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.62)
+Text: You think everything is domestic violence 

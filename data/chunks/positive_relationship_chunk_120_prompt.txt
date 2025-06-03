@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-03-12 08:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We are almost there anyway 
+
+--- MESSAGE 2 ---
+Date: 2022-03-12 13:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We will be home by 8ish Lou 🙇🏻‍♂️
+
+--- MESSAGE 3 ---
+Date: 2022-03-12 13:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 4 ---
+Date: 2022-03-12 14:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 5 ---
+Date: 2022-03-12 14:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 6 ---
+Date: 2022-03-12 15:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Lou we are going to comeback early 
+
+--- MESSAGE 7 ---
+Date: 2022-03-12 16:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼￼￼
+
+--- MESSAGE 8 ---
+Date: 2022-03-12 19:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Golly gosh there is covid everywhere Lou!!! 🙇🏻‍♂️
+
+--- MESSAGE 9 ---
+Date: 2022-03-12 20:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 10 ---
+Date: 2022-03-12 20:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You mean covid isn't for us right Lou? 🙇🏻‍♂️
+
+--- MESSAGE 11 ---
+Date: 2022-03-12 20:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 12 ---
+Date: 2022-03-12 20:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: 😮
+
+--- MESSAGE 13 ---
+Date: 2022-03-13 08:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ✊🏿
+
+--- MESSAGE 14 ---
+Date: 2022-03-13 08:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Black power!!! 🙇🏻‍♂️
+
+--- MESSAGE 15 ---
+Date: 2022-03-13 08:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Right Lou??!!
+
+--- MESSAGE 16 ---
+Date: 2022-03-13 09:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Or it can mean black power right Lou??!
+
+--- MESSAGE 17 ---
+Date: 2022-03-13 12:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmmmmmm 😤
+
+--- MESSAGE 18 ---
+Date: 2022-03-13 15:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I don't know 🙇🏻‍♂️
+
+--- MESSAGE 19 ---
+Date: 2022-03-13 15:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I have finished work 
+
+--- MESSAGE 20 ---
+Date: 2022-03-13 15:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 21 ---
+Date: 2022-03-13 15:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What do you think they are $90
+
+--- MESSAGE 22 ---
+Date: 2022-03-13 15:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm going now to get them 🙇🏻‍♂️
+
+--- MESSAGE 23 ---
+Date: 2022-03-13 15:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'll show you the shoes I've gotten, I got them for $80 because I signed up for a membership 
+
+--- MESSAGE 24 ---
+Date: 2022-03-13 15:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 25 ---
+Date: 2022-03-13 16:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼

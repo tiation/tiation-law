@@ -1,0 +1,201 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-02-01 12:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How did you go?
+
+--- MESSAGE 2 ---
+Date: 2022-02-01 12:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: With the mechanic?
+
+--- MESSAGE 3 ---
+Date: 2022-02-01 15:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 4 ---
+Date: 2022-02-01 15:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Now I'm just sitting around doing nothing 
+
+--- MESSAGE 5 ---
+Date: 2022-02-01 16:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Did the lawyer just say that'll be the outcome?
+
+--- MESSAGE 6 ---
+Date: 2022-02-01 16:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What do you mean?
+
+--- MESSAGE 7 ---
+Date: 2022-02-01 16:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What did they say about this Friday?
+
+--- MESSAGE 8 ---
+Date: 2022-02-01 16:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Did they tell you about what would be talked about etc?
+
+--- MESSAGE 9 ---
+Date: 2022-02-01 16:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: But we did?
+
+--- MESSAGE 10 ---
+Date: 2022-02-01 16:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We did it on Friday, 7 days before court
+
+--- MESSAGE 11 ---
+Date: 2022-02-01 18:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: 4.5 hours to go 😅😅
+
+--- MESSAGE 12 ---
+Date: 2022-02-01 18:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What do you mean by that Lou?
+
+--- MESSAGE 13 ---
+Date: 2022-02-01 18:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What do you mean by different?
+
+--- MESSAGE 14 ---
+Date: 2022-02-01 18:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Right now we can't do much because we haven't got any outcome or direction to where this is heading
+
+--- MESSAGE 15 ---
+Date: 2022-02-01 18:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What can I do then? 
+
+--- MESSAGE 16 ---
+Date: 2022-02-01 18:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Because I don't know what I can do right now. 
+
+--- MESSAGE 17 ---
+Date: 2022-02-02 13:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What do I do?
+
+--- MESSAGE 18 ---
+Date: 2022-02-02 14:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmmm do you think it's a dentist issue?
+
+--- MESSAGE 19 ---
+Date: 2022-02-02 14:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I booked an appointment 
+
+--- MESSAGE 20 ---
+Date: 2022-02-02 14:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: For Monday at 3pm
+
+--- MESSAGE 21 ---
+Date: 2022-02-02 19:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I put it as private my relationship status 
+
+--- MESSAGE 22 ---
+Date: 2022-02-02 20:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It's been a long day here 
+
+--- MESSAGE 23 ---
+Date: 2022-02-02 20:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Did Joshua just finish the shower?
+
+--- MESSAGE 24 ---
+Date: 2022-02-02 20:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Jaw*
+
+--- MESSAGE 25 ---
+Date: 2022-02-02 20:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Keywords: listen
+Text: Can I listen to this stuff when I'm going to sleep? 

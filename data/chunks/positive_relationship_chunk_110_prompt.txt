@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-02-09 18:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Just got a photo done for the paper so you'll see me in the paper 
+
+--- MESSAGE 2 ---
+Date: 2022-02-09 21:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Another near 500 people tonight again
+
+--- MESSAGE 3 ---
+Date: 2022-02-10 12:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 4 ---
+Date: 2022-02-10 12:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: See I use chickpeas now 
+
+--- MESSAGE 5 ---
+Date: 2022-02-10 13:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'll be over after 5pm today
+
+--- MESSAGE 6 ---
+Date: 2022-02-10 13:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Why would he not stay on the phone?
+
+--- MESSAGE 7 ---
+Date: 2022-02-10 16:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hey I'm just at your place now 
+
+--- MESSAGE 8 ---
+Date: 2022-02-10 22:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 9 ---
+Date: 2022-02-10 22:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼￼￼
+
+--- MESSAGE 10 ---
+Date: 2022-02-12 09:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm here now 
+
+--- MESSAGE 11 ---
+Date: 2022-02-12 09:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Where are you?
+
+--- MESSAGE 12 ---
+Date: 2022-02-12 09:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'll see you soon then Lou 
+
+--- MESSAGE 13 ---
+Date: 2022-02-12 13:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: My Mums talking with Di and Terry now 
+
+--- MESSAGE 14 ---
+Date: 2022-02-12 13:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: 😊
+
+--- MESSAGE 15 ---
+Date: 2022-02-12 13:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How did everything go?
+
+--- MESSAGE 16 ---
+Date: 2022-02-12 16:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How did Joshua go with Michael today?
+
+--- MESSAGE 17 ---
+Date: 2022-02-12 16:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I mean can I have Joshua the Friday night and Lily the Saturday night on those dates?
+
+--- MESSAGE 18 ---
+Date: 2022-02-12 19:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Which event is this?
+
+--- MESSAGE 19 ---
+Date: 2022-02-12 19:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 20 ---
+Date: 2022-02-12 19:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Do you mean this?
+
+--- MESSAGE 21 ---
+Date: 2022-02-13 17:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 22 ---
+Date: 2022-02-13 17:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: New mask 
+
+--- MESSAGE 23 ---
+Date: 2022-02-13 17:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 24 ---
+Date: 2022-02-13 17:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I got you the mask
+
+--- MESSAGE 25 ---
+Date: 2022-02-13 17:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What are you doing now?

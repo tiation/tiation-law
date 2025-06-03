@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2021-09-16 13:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼Look Lulu!!! Power rangers
+
+--- MESSAGE 2 ---
+Date: 2021-09-16 13:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 3 ---
+Date: 2021-09-16 14:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Can you message asking if I can do my session sometime next week???
+
+--- MESSAGE 4 ---
+Date: 2021-09-16 14:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm working on Saturday
+
+--- MESSAGE 5 ---
+Date: 2021-09-18 17:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You mean rose?
+
+--- MESSAGE 6 ---
+Date: 2021-09-19 15:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hey Lulu 🙇🏻‍♂️ I'm just going to coles to grab some things I'll be back shortly 
+
+--- MESSAGE 7 ---
+Date: 2021-09-19 15:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Have you got keys?
+
+--- MESSAGE 8 ---
+Date: 2021-09-19 15:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Lulu???
+
+--- MESSAGE 9 ---
+Date: 2021-09-19 17:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What time are we leaving Lulu??
+
+--- MESSAGE 10 ---
+Date: 2021-09-20 09:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼For Lulu 🙇🏻‍♂️
+
+--- MESSAGE 11 ---
+Date: 2021-09-20 15:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: LULU!!! You should apply for that job 🥰🥰🥰
+
+--- MESSAGE 12 ---
+Date: 2021-09-21 13:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Guess what Lulu!!! 
+
+--- MESSAGE 13 ---
+Date: 2021-09-21 14:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We may take a bit longer than expected 
+
+--- MESSAGE 14 ---
+Date: 2021-09-21 17:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 15 ---
+Date: 2021-09-21 17:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: These ones??
+
+--- MESSAGE 16 ---
+Date: 2021-09-21 17:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I don't think they have them 
+
+--- MESSAGE 17 ---
+Date: 2021-09-21 17:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Ohh wait 
+
+--- MESSAGE 18 ---
+Date: 2021-09-21 17:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 19 ---
+Date: 2021-09-21 17:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: These ones???
+
+--- MESSAGE 20 ---
+Date: 2021-09-22 11:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I will get it all myself 
+
+--- MESSAGE 21 ---
+Date: 2021-09-22 13:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Where are you??
+
+--- MESSAGE 22 ---
+Date: 2021-09-22 16:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 23 ---
+Date: 2021-09-22 17:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: When will you be home? 🙇🏻‍♂️
+
+--- MESSAGE 24 ---
+Date: 2021-09-23 07:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'll take it now one moment 
+
+--- MESSAGE 25 ---
+Date: 2021-09-23 08:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I can take Joshua to school still 

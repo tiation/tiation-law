@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-02-15 19:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I have to go get tested 
+
+--- MESSAGE 2 ---
+Date: 2022-02-15 19:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I don't know whether it's in my building or not though 
+
+--- MESSAGE 3 ---
+Date: 2022-02-15 19:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What do you mean?
+
+--- MESSAGE 4 ---
+Date: 2022-02-15 19:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How do?
+
+--- MESSAGE 5 ---
+Date: 2022-02-15 19:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How so*
+
+--- MESSAGE 6 ---
+Date: 2022-02-15 20:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hello can you hear me?
+
+--- MESSAGE 7 ---
+Date: 2022-02-15 20:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Why is it not working?
+
+--- MESSAGE 8 ---
+Date: 2022-02-15 20:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Do we just stay on until the time?
+
+--- MESSAGE 9 ---
+Date: 2022-02-15 20:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 10 ---
+Date: 2022-02-15 21:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Did I show you this video of Lily? 🙇🏻‍♂️
+
+--- MESSAGE 11 ---
+Date: 2022-02-15 21:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 12 ---
+Date: 2022-02-15 22:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 13 ---
+Date: 2022-02-15 22:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: This is what I built just then 🙇🏻‍♂️
+
+--- MESSAGE 14 ---
+Date: 2022-02-15 22:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: At least you have something though 
+
+--- MESSAGE 15 ---
+Date: 2022-02-16 07:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmmm 😡
+
+--- MESSAGE 16 ---
+Date: 2022-02-16 11:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: 😡🙇🏻‍♂️
+
+--- MESSAGE 17 ---
+Date: 2022-02-16 11:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm seeing Moonfall 
+
+--- MESSAGE 18 ---
+Date: 2022-02-16 14:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It's up to you though
+
+--- MESSAGE 19 ---
+Date: 2022-02-16 16:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We had 115 cases of covid in the community of WA today it's more than doubled from yesterday
+
+--- MESSAGE 20 ---
+Date: 2022-02-16 16:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Did Sarah email you? 
+
+--- MESSAGE 21 ---
+Date: 2022-02-16 16:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We are coming home now see you soon
+
+--- MESSAGE 22 ---
+Date: 2022-02-17 07:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 23 ---
+Date: 2022-02-17 07:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: That's me in the paper
+
+--- MESSAGE 24 ---
+Date: 2022-02-17 07:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What Lou?
+
+--- MESSAGE 25 ---
+Date: 2022-02-17 09:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Coming now 

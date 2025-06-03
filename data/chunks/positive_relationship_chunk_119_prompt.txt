@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-03-09 20:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I can buy it for you
+
+--- MESSAGE 2 ---
+Date: 2022-03-09 20:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm afraid that my arm hair is going to grow back differently and will look different to my other arm 🙇🏻‍♂️
+
+--- MESSAGE 3 ---
+Date: 2022-03-10 08:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hey Lou. Are you coming at 10?
+
+--- MESSAGE 4 ---
+Date: 2022-03-10 13:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hey have you left yet?
+
+--- MESSAGE 5 ---
+Date: 2022-03-10 13:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: My appointment is only going to be 10 minutes and then I have to go to West Perth
+
+--- MESSAGE 6 ---
+Date: 2022-03-10 13:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm coming out now
+
+--- MESSAGE 7 ---
+Date: 2022-03-10 14:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: The person isn't coming for another 15 minutes 
+
+--- MESSAGE 8 ---
+Date: 2022-03-10 14:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: So maybe you can go and get Joshua 
+
+--- MESSAGE 9 ---
+Date: 2022-03-10 14:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: And I'll meet you at gymnastics 
+
+--- MESSAGE 10 ---
+Date: 2022-03-10 15:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hey Lou I've just finished now 
+
+--- MESSAGE 11 ---
+Date: 2022-03-10 21:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I made it home 🙇🏻‍♂️
+
+--- MESSAGE 12 ---
+Date: 2022-03-11 05:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I have just gotten out of the shower 
+
+--- MESSAGE 13 ---
+Date: 2022-03-11 05:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What are you thinking about Lou?
+
+--- MESSAGE 14 ---
+Date: 2022-03-11 11:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmmmm you took too long, Lily and I are going to the movies next week now 
+
+--- MESSAGE 15 ---
+Date: 2022-03-11 11:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: But we still do sleep over tomorrow and Joshua tonight
+
+--- MESSAGE 16 ---
+Date: 2022-03-11 17:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 17 ---
+Date: 2022-03-11 18:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 18 ---
+Date: 2022-03-11 19:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Louuuuuuuuuuuuuuuuu!!!!!!
+
+--- MESSAGE 19 ---
+Date: 2022-03-11 19:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 20 ---
+Date: 2022-03-11 20:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Joshua keeps saying it's cold but it's only 16 degrees I don't know why he is composing 🤷🏻‍♂️
+
+--- MESSAGE 21 ---
+Date: 2022-03-11 20:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Complaining**
+
+--- MESSAGE 22 ---
+Date: 2022-03-11 20:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How are you and Lily? ☺️
+
+--- MESSAGE 23 ---
+Date: 2022-03-11 20:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: 🤪
+
+--- MESSAGE 24 ---
+Date: 2022-03-12 08:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We will meet you at McDonald's 
+
+--- MESSAGE 25 ---
+Date: 2022-03-12 08:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Actually we will come to your place 

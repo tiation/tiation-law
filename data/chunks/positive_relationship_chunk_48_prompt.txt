@@ -1,0 +1,211 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2021-12-06 16:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Keywords: thank
+Text: Thank you Lulu 😘
+
+--- MESSAGE 2 ---
+Date: 2021-12-08 20:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: I'll send some Uber eats if you'd like
+
+--- MESSAGE 3 ---
+Date: 2021-12-16 10:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: Like what's the process?
+
+--- MESSAGE 4 ---
+Date: 2021-12-16 13:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: That sounds like a plan to me
+
+--- MESSAGE 5 ---
+Date: 2021-12-18 10:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Keywords: thank
+Text: Thank you
+
+--- MESSAGE 6 ---
+Date: 2022-01-09 18:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: And now I feel like I'm dealing with everything I had when I was a kid again in my life. 
+
+--- MESSAGE 7 ---
+Date: 2022-01-13 15:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: Like what kind of response is that Louisa?
+
+--- MESSAGE 8 ---
+Date: 2022-01-18 16:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Keywords: thank
+Text: Thank you for understanding 
+
+--- MESSAGE 9 ---
+Date: 2022-01-19 14:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Keywords: thank
+Text: Thank you for letting me know Louisa 😊
+
+--- MESSAGE 10 ---
+Date: 2022-01-22 21:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Keywords: thank
+Text: Thank you for sending this through
+
+--- MESSAGE 11 ---
+Date: 2022-01-30 14:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: Would Joshua like to come to ribs and burgers with me today/tonight?
+
+--- MESSAGE 12 ---
+Date: 2022-02-02 07:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: You can call now for a little bit, I just have to get ready 
+
+--- MESSAGE 13 ---
+Date: 2022-02-03 10:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Keywords: thank
+Text: Thank you for passing that onto me 
+
+--- MESSAGE 14 ---
+Date: 2022-02-04 14:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: Like have you gone in at all yet or?
+
+--- MESSAGE 15 ---
+Date: 2022-02-04 16:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: It'll be like 10:30ish 
+
+--- MESSAGE 16 ---
+Date: 2022-02-14 14:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: It looks like we are sailing to Fremantle I think
+
+--- MESSAGE 17 ---
+Date: 2022-02-15 11:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Keywords: thank
+Text: Ohh I see thank you then Lou 🙇🏻‍♂️☺️
+
+--- MESSAGE 18 ---
+Date: 2022-02-17 11:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Keywords: thank
+Text: And I just got your resume thank you 
+
+--- MESSAGE 19 ---
+Date: 2022-02-25 19:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: Would you like to use my car? 
+
+--- MESSAGE 20 ---
+Date: 2022-02-27 20:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Keywords: thank
+Text: Thank you Lou 
+
+--- MESSAGE 21 ---
+Date: 2022-02-28 20:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Keywords: thank
+Text: Thank you Lou I need the healing 
+
+--- MESSAGE 22 ---
+Date: 2022-03-09 18:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: My favourite way is eating it in one bite because it can fit in my mouth 🙇🏻‍♂️
+
+--- MESSAGE 23 ---
+Date: 2022-03-09 18:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Keywords: together
+Text: We have to watch Avatar together Lou because I think you will like it 🙇🏻‍♂️
+
+--- MESSAGE 24 ---
+Date: 2022-03-09 19:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: You will like it because of the underlying theme in it 
+
+--- MESSAGE 25 ---
+Date: 2022-03-11 20:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: I'm not getting cold, it's going to feel like a sauna now lol😰

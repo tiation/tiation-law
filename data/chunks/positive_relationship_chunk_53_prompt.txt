@@ -1,0 +1,219 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-09-18 19:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.33)
+Text: But besides that she is okay 
+
+--- MESSAGE 2 ---
+Date: 2022-01-09 18:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.33)
+Keywords: happy
+Text: I don't want to be fighting with you, I don't want to be fighting with my family, I don't want to be fighting with my friends. I just want to be happy and not have conflict in my life. I've had it my whole life Louisa so much conflict and restrictions. 
+
+--- MESSAGE 3 ---
+Date: 2022-10-18 12:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: sorry,well
+Text: Well I didn't know that, sorry to hear Louisa 
+
+--- MESSAGE 4 ---
+Date: 2021-08-21 16:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: The bus goes all the way to Cockburn station, could you please pick me up from Cannington Station, I will let you know when I get there 
+
+--- MESSAGE 5 ---
+Date: 2021-09-03 12:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: together
+Text: You work things out together, you don't just shut someone down when they've made a fair offer to you 
+
+--- MESSAGE 6 ---
+Date: 2021-09-12 19:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Text: You saying "Make sure you tell Cameron" is irrelevant as it is something I'm not doing anymore. I don't tell anyone about us or our issues. I keep it to myself and let it go to myself 
+
+--- MESSAGE 7 ---
+Date: 2021-09-26 16:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Can you please message the lady to let her know I'm here she isn't answering the door ☺️
+
+--- MESSAGE 8 ---
+Date: 2021-11-07 16:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Text: She is huge and chubby now she is not little 
+
+--- MESSAGE 9 ---
+Date: 2021-11-18 12:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Can you please start to make lunch? 🙇🏻‍♂️🙇🏻‍♂️❤️❤️
+
+--- MESSAGE 10 ---
+Date: 2021-11-20 12:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Hmm frappe please 
+
+--- MESSAGE 11 ---
+Date: 2021-11-23 15:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Can I please go for a run after work? 🙇🏻‍♂️
+
+--- MESSAGE 12 ---
+Date: 2021-12-10 17:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Can you please pick me up from there?
+
+--- MESSAGE 13 ---
+Date: 2021-12-16 13:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Can you send me the ad please?
+
+--- MESSAGE 14 ---
+Date: 2021-12-18 09:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Can I please go to the movies tonight?
+
+--- MESSAGE 15 ---
+Date: 2021-12-31 12:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Text: What did they do to make sure it wasn't anything else?
+
+--- MESSAGE 16 ---
+Date: 2021-12-31 12:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Text: Are they sure it's just that?
+
+--- MESSAGE 17 ---
+Date: 2022-01-11 13:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Can you please send me the list of Joshua's school stuff and I'll go get it this weekend and send it to you. 
+
+--- MESSAGE 18 ---
+Date: 2022-01-12 19:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Text: It's not one way, it's the truth. 
+
+--- MESSAGE 19 ---
+Date: 2022-01-16 15:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: well
+Text: I might as well not talk to anyone then Louisa because I'm pretty sure our ancestors have committed crimes, so then that would mean we all come from a lineage of violence and that we all condone violence, according to your logic and beliefs this would be true
+
+--- MESSAGE 20 ---
+Date: 2022-01-16 19:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: I'm just eating dinner at the moment can I call you back shortly please?
+
+--- MESSAGE 21 ---
+Date: 2022-01-20 07:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Could I come over tomorrow evening please?
+
+--- MESSAGE 22 ---
+Date: 2022-01-24 16:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Can I please come and see you guys on Thursday after work?
+
+--- MESSAGE 23 ---
+Date: 2022-01-27 10:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Can I please take Lily to go watch The Batman in March at the movies? 
+
+--- MESSAGE 24 ---
+Date: 2022-02-12 16:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Can I do my routine on February 25th and 26th with the kids please
+
+--- MESSAGE 25 ---
+Date: 2022-02-14 21:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Can you answer the phone please?

@@ -1,0 +1,201 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-09-22 13:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: I don't remember sending that, Louisa sent think I actually didn't mean to send that. I think I actually was mean to send "Yeah that doesn't matter I want you here with Lily." 
+
+--- MESSAGE 2 ---
+Date: 2021-08-21 16:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay I'm on the bus now 
+
+--- MESSAGE 3 ---
+Date: 2021-08-21 17:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Keywords: sorry
+Text: Yeah I got mixed up with them sorry 
+
+--- MESSAGE 4 ---
+Date: 2021-08-21 17:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay then Lulu 
+
+--- MESSAGE 5 ---
+Date: 2021-08-26 16:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay, are you wanting to get the tickets at the cinema then? 
+
+--- MESSAGE 6 ---
+Date: 2021-08-26 16:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay then. How much is the cancellation fee? 
+
+--- MESSAGE 7 ---
+Date: 2021-08-26 16:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay I will pass all this information to her 
+
+--- MESSAGE 8 ---
+Date: 2021-09-03 16:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay then I'll come up with something 
+
+--- MESSAGE 9 ---
+Date: 2021-09-13 19:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay, so what does that mean? 
+
+--- MESSAGE 10 ---
+Date: 2021-09-13 19:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay then, what do we do? 
+
+--- MESSAGE 11 ---
+Date: 2021-09-14 08:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay Lulu 
+
+--- MESSAGE 12 ---
+Date: 2021-09-24 13:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay my lulus 🥰
+
+--- MESSAGE 13 ---
+Date: 2021-09-27 09:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay I will tell them for you ☺️
+
+--- MESSAGE 14 ---
+Date: 2021-09-30 08:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay I will tell them Lulu 
+
+--- MESSAGE 15 ---
+Date: 2021-09-30 10:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay Lulu I will get this one now 
+
+--- MESSAGE 16 ---
+Date: 2021-10-01 09:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Did you get home okay my Lulu? 🙇🏻‍♂️
+
+--- MESSAGE 17 ---
+Date: 2021-10-04 11:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay we can do that ☺️
+
+--- MESSAGE 18 ---
+Date: 2021-10-04 11:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay Lulu 
+
+--- MESSAGE 19 ---
+Date: 2021-10-15 14:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay Lou 
+
+--- MESSAGE 20 ---
+Date: 2021-10-23 11:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay Lulu 
+
+--- MESSAGE 21 ---
+Date: 2021-10-24 09:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay then 
+
+--- MESSAGE 22 ---
+Date: 2021-10-26 12:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: That's okay Lulu ☺️
+
+--- MESSAGE 23 ---
+Date: 2021-10-31 12:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay I'll have to call tomorrow when they are open
+
+--- MESSAGE 24 ---
+Date: 2021-11-05 17:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay Lulu 
+
+--- MESSAGE 25 ---
+Date: 2021-11-06 13:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay then Lulu 

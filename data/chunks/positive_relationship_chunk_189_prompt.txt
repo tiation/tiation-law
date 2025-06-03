@@ -1,0 +1,204 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-11-19 12:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.40)
+Text: You are insane. 
+
+--- MESSAGE 2 ---
+Date: 2022-11-19 12:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.40)
+Text: My uncle chose to do whatever he did and that is his problem. 
+
+--- MESSAGE 3 ---
+Date: 2022-03-12 20:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.40)
+Keywords: trust
+Text: Hmmmm we don't trust this one
+
+--- MESSAGE 4 ---
+Date: 2022-03-13 16:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.40)
+Text: Now the other class members won't make fun of me for having incorrect coloured shoes 🙇🏻‍♂️
+
+--- MESSAGE 5 ---
+Date: 2022-09-22 15:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.40)
+Keywords: trust
+Text: I don't trust anyone because of you. 
+
+--- MESSAGE 6 ---
+Date: 2022-11-05 18:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.40)
+Keywords: trust
+Text: Yes I don't trust you. I don't trust you to be around Lily on your own ever
+
+--- MESSAGE 7 ---
+Date: 2022-10-17 10:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.40)
+Text: I'm not worried about this shit, I'm here for Lily and Lily only. 
+
+--- MESSAGE 8 ---
+Date: 2022-01-15 07:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.41)
+Text: And when someone has a disagreement with you like now, you don't reply or want to talk you ignore.
+
+--- MESSAGE 9 ---
+Date: 2022-03-09 13:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.41)
+Text: Golly gosh Lou my arm is so itchy today 😰
+
+--- MESSAGE 10 ---
+Date: 2021-11-09 12:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.41)
+Text: The wait time here is so long and ridiculous, they only have one doctor on 🙇🏻‍♂️😡
+
+--- MESSAGE 11 ---
+Date: 2022-05-09 11:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.41)
+Keywords: good
+Text: Did you know gingivitis is not good for you Lou?? 
+
+--- MESSAGE 12 ---
+Date: 2022-09-17 22:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.42)
+Text: But you can't accept it. 
+
+--- MESSAGE 13 ---
+Date: 2022-02-18 11:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.42)
+Text: No not gets!! 
+
+--- MESSAGE 14 ---
+Date: 2022-03-13 20:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.42)
+Text: I have never heard of this before I had no idea!! 
+
+--- MESSAGE 15 ---
+Date: 2022-04-09 19:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.42)
+Text: No tell me!!
+
+--- MESSAGE 16 ---
+Date: 2022-06-16 19:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.42)
+Text: Oh no my Lou!! 
+
+--- MESSAGE 17 ---
+Date: 2022-02-25 17:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.42)
+Text: Absolutely ridiculous this is you know that. 
+
+--- MESSAGE 18 ---
+Date: 2023-01-15 10:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.42)
+Text: And both his parents just fucking stand there and don't say anything. Absolutely ridiculous 
+
+--- MESSAGE 19 ---
+Date: 2022-01-24 17:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.42)
+Text: They're saying covid is apparently roaming around WA but no one is getting tested 
+
+--- MESSAGE 20 ---
+Date: 2022-02-02 20:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.42)
+Text: That's how I feel. I just want to feel normal though Lou, I want my arm fixed, my neck fixed, my voice and now my stupid jar 
+
+--- MESSAGE 21 ---
+Date: 2022-03-18 20:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.42)
+Text: All toilets are yucky though, it's where everyone poos 👦🏻
+
+--- MESSAGE 22 ---
+Date: 2022-09-17 22:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.42)
+Text: This is what you did to me when we broke up. You put restrictions on me from having Lily. 
+
+--- MESSAGE 23 ---
+Date: 2022-03-14 21:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.43)
+Text: I'm not too sure though if Eywa makes people disappear 🙇🏻‍♂️
+
+--- MESSAGE 24 ---
+Date: 2022-09-17 21:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.43)
+Text: I have zero say for Joshua so stop bringing it up. 
+
+--- MESSAGE 25 ---
+Date: 2022-11-05 19:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.43)
+Text: You are so hiding something.

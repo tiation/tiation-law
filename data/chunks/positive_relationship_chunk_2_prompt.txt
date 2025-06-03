@@ -1,0 +1,238 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2021-10-16 16:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.91)
+Keywords: hope
+Text: Hi Belinda, I heard there was an incident with Ted today. I hope that he is okay and I hope he was still able to enjoy himself at the party.
+
+--- MESSAGE 2 ---
+Date: 2021-11-14 18:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.91)
+Keywords: love,friend,best
+Text: I love you best friend 🥰🙇🏻‍♂️
+
+--- MESSAGE 3 ---
+Date: 2022-02-10 11:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.91)
+Keywords: good,hope
+Text: Aww good! I hope you like the play, you know if you don't like it you can tell me 🙇🏻‍♂️
+
+--- MESSAGE 4 ---
+Date: 2022-05-10 19:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.91)
+Keywords: love
+Text: Joshua and Michael started the conversation with Michael asking where Joshua is, Joshua stated he is in his bedroom
+Michael then asked why Joshua has an iPad when he has an iPhone now
+Joshua said he has both 
+Joshua then told Michael about his slinky and how he can put a ball inside it 
+Michael asked Joshua what he was doing right now and then asked him what he did at school, Joshua stated he doesn't remember much but did mention that Ms Shave did some marks
+Michael then said to Joshua "do you remember your cousin Noah?" Joshua said "yeah", Michael then said he had dinner with him and Joshua asked to speak to him and if he's still there, Michael then said no he is next door and Michael then said to Joshua when he can stay over his house he can go see Noah again
+Michael asked Joshua about his day, Joshua stated he had a great day as he har baby corn for dinner
+Michael then brought up if he knew the other names of his cousins, Joshua then said no and only remembers Noah and Michael then said that it's his family and he will see them soon 
+Joshua then kept talking about Noah his cousin and that he is his favourite cousin 
+Michael and Joshua then talked about how much he hugged him 
+Then Michael said that he had to go after 4 minutes of the phone call and said he will speak to him on Thursday and see him on Saturday, Michael then said "I love you Joshua Kraus"
+
+--- MESSAGE 5 ---
+Date: 2022-06-21 21:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.91)
+Keywords: love,well
+Text: Okay, because you haven't responded I'm going to go to my place at uni for the night to give us some space. My location will be on for you to see me as well. I do love you Lou, I love you. 
+
+--- MESSAGE 6 ---
+Date: 2021-12-15 11:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.91)
+Keywords: help,good,hope
+Text: I hope Joshua had a really good and fun time with you as parent help this morning ❤️
+
+--- MESSAGE 7 ---
+Date: 2021-12-14 10:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.90)
+Keywords: love,hope
+Text: I love you and I hope you have a great day today ❤️
+
+--- MESSAGE 8 ---
+Date: 2022-02-10 13:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.90)
+Keywords: happy
+Text: I'm really happy for you Lou I'm glad he liked it, I told you you had nothing g to worry about 
+
+--- MESSAGE 9 ---
+Date: 2022-11-19 11:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.90)
+Keywords: care,hope
+Text: I do hope you and Joshua enjoy your lives freely whilst Lily has to have 24/7 care for her whole life.
+
+--- MESSAGE 10 ---
+Date: 2022-03-22 13:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.90)
+Keywords: appreciate,thank
+Text: Thank you Lou I really appreciate your kind and supporting words 🙇🏻‍♂️❤️
+
+--- MESSAGE 11 ---
+Date: 2022-02-15 21:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.90)
+Keywords: love,care,support
+Text: It's okay Lou you don't need to explain yourself. I care for you and I love you and I will always support you 
+
+--- MESSAGE 12 ---
+Date: 2022-03-12 20:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.90)
+Keywords: positive
+Text: I'm really glad that you are Lou. You deserve to have great and positive things in your life 
+
+--- MESSAGE 13 ---
+Date: 2021-08-27 13:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.90)
+Text: Yeah it's very easy to make the joker make up!! Because the way the joker puts it on, it's messy which easy to do and the hair would be so easy
+
+--- MESSAGE 14 ---
+Date: 2022-07-15 20:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.89)
+Text: Okay, you may see it that way and that's your choice that's fine, I don't need to explain my words to you. I meant it sincerely, you can believe me or not it doesn't matter. I don't want to argue or fight with you. 
+
+I don't have a problem with myself or with you there is no problem whatsoever. 
+
+You bringing up that this is a gendered issue like why? Where is this coming from, why have you brought this up? What is going to be accomplished from you stating this a gendered issue? Let me tell you Louisa, it is your issue and your issue alone. 
+
+I will see you on Tuesday at the car park for the court case at 9:15am as you stated in your previous messages.
+
+--- MESSAGE 15 ---
+Date: 2022-03-11 20:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.89)
+Text: But you are still gorgeous Lou, you look very nice 🥰
+
+--- MESSAGE 16 ---
+Date: 2022-02-18 12:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.89)
+Keywords: good,better
+Text: It's not too bad today actually, it's easy now because the wifi is working so that's made it better. Have made a few sales today which is good too
+
+--- MESSAGE 17 ---
+Date: 2023-01-16 20:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.89)
+Keywords: together
+Text: Must be so nice still being called Mum by Joshua. So glad to see the two of you still get to be parent and child together must be fucking nice to have that. 
+
+--- MESSAGE 18 ---
+Date: 2022-03-26 20:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.89)
+Keywords: love,good,well,hope
+Text: Well if you don't rely that's fine. I'll be the one to say that I love you Lou and I think about you all the time and I hope you have a good sleep and I'll see you tomorrow ❤️
+
+--- MESSAGE 19 ---
+Date: 2022-05-05 15:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.89)
+Keywords: love,support,help
+Text: I want to work things out with you, I want to be with you and only you. I want to support you and the kids and help you out when you need it. I love you Lou and I mean that. 
+
+--- MESSAGE 20 ---
+Date: 2022-02-21 11:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.89)
+Keywords: best
+Text: Lily makes the best faces in photos it's so great 😂
+
+--- MESSAGE 21 ---
+Date: 2022-02-18 13:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.89)
+Keywords: well
+Text: Same here! It was a nightmare before so ridiculous 
+
+Aw well that's nice Lou, Lily is great company she keeps you busy all the time haha. Well what do you need then Lou? 
+
+--- MESSAGE 22 ---
+Date: 2021-08-26 11:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.89)
+Text: Okay. Why don't you want to continue having both the parties still? I mean we still can Lou. Yes I can commit taking Joshua to this party that is fine..
+
+--- MESSAGE 23 ---
+Date: 2022-02-12 13:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.89)
+Keywords: good,well
+Text: Well that's good to hear then, I'm glad it went well and you felt supported 😊
+
+--- MESSAGE 24 ---
+Date: 2022-10-09 09:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.89)
+Text: And you can keep enjoying your life and playing with Joshua and giving him everything he wants like you did before. I'll be with Lily making sure that she gets to continue some sort of life 
+
+--- MESSAGE 25 ---
+Date: 2022-04-04 17:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.89)
+Keywords: friend,happy,good
+Text: That's really good Lou I'm very happy you've made that friend in your life ☺️

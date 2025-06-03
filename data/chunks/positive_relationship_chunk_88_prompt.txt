@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2021-10-01 08:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 2 ---
+Date: 2021-10-01 08:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Also Jerry is here with Monty and daisy, Monty and Joshua are in the same class 😊
+
+--- MESSAGE 3 ---
+Date: 2021-10-01 10:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼￼
+
+--- MESSAGE 4 ---
+Date: 2021-10-01 14:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We need to make a list of things we need 
+
+--- MESSAGE 5 ---
+Date: 2021-10-01 15:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I will get it done by tonight
+
+--- MESSAGE 6 ---
+Date: 2021-10-01 17:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Maybe we should get an account where we both have access to it and that can be an account where we buy things to split 
+
+--- MESSAGE 7 ---
+Date: 2021-10-02 15:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 8 ---
+Date: 2021-10-03 10:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 9 ---
+Date: 2021-10-03 11:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How are you Lulu? 
+
+--- MESSAGE 10 ---
+Date: 2021-10-03 14:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: He's not answering his phone 
+
+--- MESSAGE 11 ---
+Date: 2021-10-04 11:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 12 ---
+Date: 2021-10-04 11:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼￼￼￼
+
+--- MESSAGE 13 ---
+Date: 2021-10-04 11:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Do you have your nippie shields?? X 
+
+--- MESSAGE 14 ---
+Date: 2021-10-04 12:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: 👨🏻‍🍼
+
+--- MESSAGE 15 ---
+Date: 2021-10-04 12:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: 👨‍👧
+
+--- MESSAGE 16 ---
+Date: 2021-10-04 14:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Should we just wait for you?
+
+--- MESSAGE 17 ---
+Date: 2021-10-04 14:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We are just out the front waiting for you Lulu 🥰
+
+--- MESSAGE 18 ---
+Date: 2021-10-04 14:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 19 ---
+Date: 2021-10-05 14:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'll come up with something soon so I can take Joshua and Monty out somewhere 
+
+--- MESSAGE 20 ---
+Date: 2021-10-06 15:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 21 ---
+Date: 2021-10-06 15:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Ask Joshua is he wants this one, apparently express post by 12th of October
+
+--- MESSAGE 22 ---
+Date: 2021-10-06 15:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I can't find the green rangers costume anywhere 
+
+--- MESSAGE 23 ---
+Date: 2021-10-07 08:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼￼
+
+--- MESSAGE 24 ---
+Date: 2021-10-07 19:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: 0439983862
+
+--- MESSAGE 25 ---
+Date: 2021-10-08 15:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼

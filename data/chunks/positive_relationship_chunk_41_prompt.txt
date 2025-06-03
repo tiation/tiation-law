@@ -1,0 +1,203 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2021-08-21 16:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes I will 
+
+--- MESSAGE 2 ---
+Date: 2021-08-21 17:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes it does 
+
+--- MESSAGE 3 ---
+Date: 2021-08-26 16:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: I can buy the tickets yes. 
+
+--- MESSAGE 4 ---
+Date: 2021-08-26 17:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: I will clean the house after I finish work. 
+
+--- MESSAGE 5 ---
+Date: 2021-09-13 19:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Keywords: support
+Text: And I will support you 
+
+--- MESSAGE 6 ---
+Date: 2021-09-22 17:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes I have Lulus 
+
+--- MESSAGE 7 ---
+Date: 2021-09-25 09:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Can't do it Monday it's a public holiday never mind.
+
+--- MESSAGE 8 ---
+Date: 2021-09-26 15:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Oh I see, they are currently on holiday down south till Wednesday, I just asked 🥺
+
+--- MESSAGE 9 ---
+Date: 2021-09-30 09:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: It's one reason I'm against it yes Lulu 🙇🏻‍♂️
+
+--- MESSAGE 10 ---
+Date: 2021-10-14 18:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes Lulu of course 
+
+--- MESSAGE 11 ---
+Date: 2021-10-24 09:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes I can Lulu 
+
+--- MESSAGE 12 ---
+Date: 2021-11-10 16:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Of the secured car park 
+
+--- MESSAGE 13 ---
+Date: 2021-11-14 21:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes my Lulu 🙇🏻‍♂️
+
+--- MESSAGE 14 ---
+Date: 2021-11-19 15:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes I did Lulu 
+
+--- MESSAGE 15 ---
+Date: 2021-11-20 12:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes my Lulu 
+
+--- MESSAGE 16 ---
+Date: 2021-11-20 12:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes we are Lulu 🙇🏻‍♂️
+
+--- MESSAGE 17 ---
+Date: 2021-11-22 12:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes I do remember it
+
+--- MESSAGE 18 ---
+Date: 2021-11-22 12:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Keywords: understand
+Text: Yes Lulu I understand what you mean 
+
+--- MESSAGE 19 ---
+Date: 2021-12-03 18:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Okay fine. 
+
+--- MESSAGE 20 ---
+Date: 2021-12-06 16:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: ￼Yes, yes I felt it. 
+
+--- MESSAGE 21 ---
+Date: 2021-12-14 15:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes 
+
+--- MESSAGE 22 ---
+Date: 2021-12-22 12:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes I am Lou 
+
+--- MESSAGE 23 ---
+Date: 2022-01-16 15:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Keywords: support
+Text: And you believe I support this?
+
+--- MESSAGE 24 ---
+Date: 2022-01-18 15:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes that's what I'm expecting that is correct
+
+--- MESSAGE 25 ---
+Date: 2022-01-24 20:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: It's a public holiday that day 

@@ -1,0 +1,205 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-02-03 09:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.20)
+Text: I just got a message saying the wifi might be playing up as it needs maintenance 
+
+--- MESSAGE 2 ---
+Date: 2022-02-15 11:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.20)
+Text: I'm going to be on hold soon too to sort this parking fine out 
+
+--- MESSAGE 3 ---
+Date: 2022-02-24 16:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.20)
+Text: That's fine by me 
+
+--- MESSAGE 4 ---
+Date: 2022-07-16 06:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.20)
+Text: 'It is urgent you work to change these behaviours.' You have stated here that I need to change my behaviours urgently. 
+
+--- MESSAGE 5 ---
+Date: 2022-09-03 16:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.20)
+Text: Playing my games now
+
+--- MESSAGE 6 ---
+Date: 2022-09-08 10:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.20)
+Text: Fine then don't tell me how this happened to Lily. 
+
+--- MESSAGE 7 ---
+Date: 2022-09-18 09:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.20)
+Text: I told work that I can't work and they are fine with it 
+
+--- MESSAGE 8 ---
+Date: 2022-09-26 10:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.20)
+Text: And got her to lie in top of me 
+
+--- MESSAGE 9 ---
+Date: 2022-10-07 18:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.20)
+Text: Fine. 
+
+--- MESSAGE 10 ---
+Date: 2022-10-10 08:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.20)
+Text: Fine. 
+
+--- MESSAGE 11 ---
+Date: 2022-10-15 18:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.20)
+Keywords: respect
+Text: You talk about basic human respect, how about you learn basic human behaviour as you seem to lack it. 
+
+--- MESSAGE 12 ---
+Date: 2022-10-23 20:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.20)
+Text: We are fine 
+
+--- MESSAGE 13 ---
+Date: 2022-10-25 10:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.20)
+Text: We are fine 
+
+--- MESSAGE 14 ---
+Date: 2022-11-05 18:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.20)
+Text: Like seriously Louisa, there's a reason why you're not allowed to be with Lily on her own. There's a reason why you have these restrictions
+
+--- MESSAGE 15 ---
+Date: 2022-11-09 12:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.20)
+Keywords: please
+Text: I have no time to call right now so please do not call me. 
+
+--- MESSAGE 16 ---
+Date: 2022-06-23 07:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.19)
+Text: You've just said that "I'm not here at your home", I asked you if you would like me to come back to yours but you don't respond to my messages till late 
+
+--- MESSAGE 17 ---
+Date: 2022-09-22 16:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.19)
+Text: I do agree with this Louisa but since what has happened to Lily, this statement is now irrelevant. 
+
+--- MESSAGE 18 ---
+Date: 2022-11-03 09:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.19)
+Text: Yet you tell everyone that your kids have been taken from you and that you need sympathy from others but you never tel them why your kids have been taken. 
+
+--- MESSAGE 19 ---
+Date: 2021-09-04 07:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.19)
+Text: Do not cancel dinner Lulu. 
+
+--- MESSAGE 20 ---
+Date: 2022-02-25 20:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.19)
+Text: I'm not being sarcastic. 
+
+--- MESSAGE 21 ---
+Date: 2022-02-15 10:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.19)
+Text: Hey Lou, I'm not sure if I'm going to have enough time to come over, I have to clean and run some errands 🙇🏻‍♂️
+
+--- MESSAGE 22 ---
+Date: 2022-02-28 13:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.19)
+Text: I'm not too sure what they are going to do as of yet hopefully it won't be long 
+
+--- MESSAGE 23 ---
+Date: 2022-07-19 16:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.19)
+Keywords: good
+Text: You can say whatever you want about me Louisa I am
+not a crazy person (you're name calling me again). You and I are not compatible at all. I tried in our relationship and it was not good enough for your standards, almost every week you would pick something up on me  such as watching a certain movie or doing something that I enjoy and make me feel bad about it. 
+
+--- MESSAGE 24 ---
+Date: 2022-03-15 09:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.18)
+Keywords: good
+Text: Hmmmm I did good in my class as I have done blood pressure readings before 😤
+
+--- MESSAGE 25 ---
+Date: 2022-08-09 21:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.18)
+Text: My poor darling 😔

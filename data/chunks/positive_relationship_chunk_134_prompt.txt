@@ -1,0 +1,201 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-05-09 11:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Maybe Lou 
+
+--- MESSAGE 2 ---
+Date: 2022-05-09 11:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Maybe you are right!
+
+--- MESSAGE 3 ---
+Date: 2022-05-10 07:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: https://m.youtube.com/watch?v=a8Gx8wiNbs8
+
+--- MESSAGE 4 ---
+Date: 2022-05-10 11:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I couldn't do the heavy one 
+
+--- MESSAGE 5 ---
+Date: 2022-05-10 14:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm on my way now, I can get Joshua on my way back
+
+--- MESSAGE 6 ---
+Date: 2022-05-10 14:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Of course you can Lou 
+
+--- MESSAGE 7 ---
+Date: 2022-05-10 19:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: The phone call is over Lou 
+
+--- MESSAGE 8 ---
+Date: 2022-05-11 16:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 9 ---
+Date: 2022-05-11 16:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Look at this baby Lou 
+
+--- MESSAGE 10 ---
+Date: 2022-05-11 18:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Eva just came so I'll talk to you soon my Lou 🙇🏻‍♂️
+
+--- MESSAGE 11 ---
+Date: 2022-05-11 18:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We are going out for dinner 
+
+--- MESSAGE 12 ---
+Date: 2022-05-11 19:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 13 ---
+Date: 2022-05-12 17:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 14 ---
+Date: 2022-05-12 19:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I bet he is 
+
+--- MESSAGE 15 ---
+Date: 2022-05-12 19:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Usually he would answer or call back though 
+
+--- MESSAGE 16 ---
+Date: 2022-05-12 19:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Did you call at 7pm?
+
+--- MESSAGE 17 ---
+Date: 2022-05-12 19:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What Lou?
+
+--- MESSAGE 18 ---
+Date: 2022-05-13 08:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: GOOOOOOO LOOOOUUUU!!!
+
+--- MESSAGE 19 ---
+Date: 2022-05-13 12:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How is Lily going?
+
+--- MESSAGE 20 ---
+Date: 2022-05-13 12:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 21 ---
+Date: 2022-05-13 12:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm in the dressing room 🙇🏻‍♂️
+
+--- MESSAGE 22 ---
+Date: 2022-05-13 16:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Keywords: together
+Text: We will drink this together when I'm home with you my Lou ☺️👦🏻
+
+--- MESSAGE 23 ---
+Date: 2022-05-14 16:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 24 ---
+Date: 2022-05-14 16:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: That's me Lou!! 🙇🏻‍♂️
+
+--- MESSAGE 25 ---
+Date: 2022-05-14 17:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It's too much effort for me 

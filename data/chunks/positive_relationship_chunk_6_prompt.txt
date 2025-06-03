@@ -1,0 +1,214 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2021-10-02 13:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.80)
+Keywords: better
+Text: Aww that's okay Lulu 🙇🏻‍♂️ it's better if she's comfortable now and sleeping 
+
+--- MESSAGE 2 ---
+Date: 2022-02-19 16:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.80)
+Keywords: well
+Text: Well I'm glad to hear that. I'm glad that Di and Terry were there with you 
+
+--- MESSAGE 3 ---
+Date: 2022-03-13 16:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.80)
+Text: And yes they fit nicely 
+
+--- MESSAGE 4 ---
+Date: 2022-06-03 13:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.80)
+Keywords: love
+Text: Thanks for the love Lou 🙇🏻‍♂️
+
+--- MESSAGE 5 ---
+Date: 2021-12-06 16:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.80)
+Keywords: well
+Text: Well that's very lucky of Josh to get a gift 
+
+--- MESSAGE 6 ---
+Date: 2022-09-18 09:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.79)
+Keywords: good
+Text: Yeah everything is all good so far and yes I will call you if anything happens 
+
+--- MESSAGE 7 ---
+Date: 2022-03-13 18:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.79)
+Text: ￼Her face is so cute and funny 
+
+--- MESSAGE 8 ---
+Date: 2022-12-03 16:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.79)
+Text: Do you know what's sad Louisa? That every time I take Lily to the park now, she just sits there in her pram watching all the other kids have fun and make friends, no other kid wants to come up and talk or say hi to Lily. Yes you are the one who has made this happen, yes you and Joshua are the reason why Lily is the way she is. But the two of you don't give a fuck, the two of can go on and live normal lives but Lily doesn't. 
+
+--- MESSAGE 9 ---
+Date: 2021-09-21 12:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.79)
+Keywords: appreciate,thank
+Text: Hey Lulus!! No that's okays we are still searching for a car 🙇🏻‍♂️ thank you for asking though I really appreciate it 🥰
+
+--- MESSAGE 10 ---
+Date: 2021-08-26 16:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.78)
+Keywords: love
+Text: Yes I would love to 
+
+--- MESSAGE 11 ---
+Date: 2021-11-21 14:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.78)
+Text: Ohh awesome Lulu we will make our garden nice and colourful 🙇🏻‍♂️☺️
+
+--- MESSAGE 12 ---
+Date: 2021-12-16 13:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.78)
+Text: It's a nice looking car and it's a great brand to go with 
+
+--- MESSAGE 13 ---
+Date: 2022-05-26 13:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.78)
+Text: That sounds amazing! A nice plan for you my Lou 
+
+--- MESSAGE 14 ---
+Date: 2021-08-27 12:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.78)
+Text: Hahaha yes Lulu!! 
+
+--- MESSAGE 15 ---
+Date: 2023-03-05 17:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.78)
+Text: I don't want Lily to continue living like this and if you really cared for Lily you would agree with me. 
+
+--- MESSAGE 16 ---
+Date: 2022-01-04 08:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.78)
+Keywords: love,well,hope,miss
+Text: Hi Louisa, I hope you, Joshua and Lily are doing well. I love and miss all of you and I won't stop caring for you ❤️
+
+--- MESSAGE 17 ---
+Date: 2021-11-11 12:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.78)
+Keywords: best
+Text: I know how you feel but we are trying our best Lulu 
+
+--- MESSAGE 18 ---
+Date: 2021-11-29 16:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.78)
+Keywords: love
+Text: But I love you 😘 
+
+--- MESSAGE 19 ---
+Date: 2022-02-24 11:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.78)
+Text: Yes you are a great parent I've always said this to you Lou 
+
+--- MESSAGE 20 ---
+Date: 2022-02-27 20:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.78)
+Keywords: happy
+Text: I had set boundaries with him last night and he listened to them which I was proud and happy about 
+
+--- MESSAGE 21 ---
+Date: 2022-02-24 09:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.78)
+Text: That's okay 🙇🏻‍♂️ it's true though you look really nice Lou 
+
+--- MESSAGE 22 ---
+Date: 2022-03-27 12:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.78)
+Keywords: best
+Text: Go Lou you're the best woooo no one can beat you, you are the strongest!!!
+
+--- MESSAGE 23 ---
+Date: 2021-08-26 16:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.77)
+Text: Yes we can do that if you'd like. Taking away the Monday would be easier for us as I feel trying to get him ready in the morning in a short amount of time may stress him out a little.
+
+--- MESSAGE 24 ---
+Date: 2021-09-03 12:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.77)
+Keywords: good
+Text: A way to respond to my question of "How about I give you $50 for petrol?" would be to say, "Okay Adam that sounds good, thanks for offering that to me"
+
+--- MESSAGE 25 ---
+Date: 2022-02-14 15:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.77)
+Keywords: thank
+Text: I forgot to cut them 🙇🏻‍♂️ I thought my whole nail came off but it is still there thank goodness 

@@ -1,0 +1,215 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-10-07 18:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: She is stable at the moment
+
+--- MESSAGE 2 ---
+Date: 2022-10-13 20:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah your mum said you came in 
+
+--- MESSAGE 3 ---
+Date: 2022-10-26 08:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Keywords: thank
+Text: No that is okay thank you 
+
+--- MESSAGE 4 ---
+Date: 2022-10-26 08:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Keywords: thank
+Text: No it is okay thank you 
+
+--- MESSAGE 5 ---
+Date: 2022-11-05 19:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah obviously 😂😂😂
+
+--- MESSAGE 6 ---
+Date: 2022-11-16 15:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Keywords: thank
+Text: No that is okay thank you 
+
+--- MESSAGE 7 ---
+Date: 2022-12-30 11:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah I can hear her 
+
+--- MESSAGE 8 ---
+Date: 2022-12-30 21:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah I know Louisa 
+
+--- MESSAGE 9 ---
+Date: 2022-12-31 08:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Absolute joke. 
+
+--- MESSAGE 10 ---
+Date: 2021-11-21 12:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.29)
+Text: It's okay Lulu I can do it! 🙇🏻‍♂️
+
+--- MESSAGE 11 ---
+Date: 2022-08-21 09:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.29)
+Text: Okay it's Batmanvsuperman!1
+
+--- MESSAGE 12 ---
+Date: 2021-11-07 16:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.29)
+Keywords: better
+Text: But it's better if we get her into this mindset now so then she won't be like this in the long term
+
+--- MESSAGE 13 ---
+Date: 2022-02-16 11:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.29)
+Keywords: care
+Text: I'm at the movies on my own having self care after my disturbed morning!! 
+
+--- MESSAGE 14 ---
+Date: 2022-01-15 08:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.29)
+Keywords: support
+Text: How am I not being respectful to you Louisa? I've offered support to you, I've sent you money, I've paid the rent, I've NEVER blocked your number, I haven't called you any names. All I've wanted to do is cooperate with you this whole time, how is that being disrespectful to you?
+
+--- MESSAGE 15 ---
+Date: 2021-11-24 12:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.28)
+Text: I had gotten some free snacks but not actual lunch 🙇🏻‍♂️
+
+--- MESSAGE 16 ---
+Date: 2022-09-22 15:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.28)
+Text: I'm not fighting against you Louisa. I'm not saying you have zero rights for Lily. 
+
+You know this is what you did to me with Lily. 
+
+--- MESSAGE 17 ---
+Date: 2021-03-13 10:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.27)
+Keywords: well
+Text: This as well. 
+
+--- MESSAGE 18 ---
+Date: 2021-08-26 12:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.27)
+Keywords: well
+Text: Well I plan on coming a nurse practitioner where the salary is much more than that 
+
+--- MESSAGE 19 ---
+Date: 2021-08-26 16:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.27)
+Keywords: well
+Text: Well I didn't imply that about her? 
+
+--- MESSAGE 20 ---
+Date: 2021-09-03 12:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.27)
+Keywords: well
+Text: Well I am paying you back Lou. 
+
+--- MESSAGE 21 ---
+Date: 2021-09-03 16:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.27)
+Text: I am going to pay an additional $200 a fortnight to you until the amount I owe from Splitwise is fully paid. I will be paying as promised the phone bill $100 a month. I have made one payment of each so far 
+
+--- MESSAGE 22 ---
+Date: 2021-09-13 19:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.27)
+Keywords: well
+Text: Well think about the pros and cons
+
+--- MESSAGE 23 ---
+Date: 2021-09-25 09:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.27)
+Text: To add you and Joshua on my health insurance. That being said will you be paying anything for that or would you like me to pay for the whole thing?
+
+--- MESSAGE 24 ---
+Date: 2021-09-30 09:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.27)
+Keywords: well
+Text: I'm doing well my Lulu ☺️
+
+--- MESSAGE 25 ---
+Date: 2021-10-16 16:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.27)
+Keywords: well
+Text: Should I message Simon as well?

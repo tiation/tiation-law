@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-05-23 11:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I don't know what to do Lou 
+
+--- MESSAGE 2 ---
+Date: 2022-05-23 12:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What should we do?
+
+--- MESSAGE 3 ---
+Date: 2022-05-23 12:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I need to find someone who can jump start the car for me. I'm figuring that part out 
+
+--- MESSAGE 4 ---
+Date: 2022-05-23 17:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Got my car started, Joshua and I will go get some food for dinner 
+
+--- MESSAGE 5 ---
+Date: 2022-05-24 12:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Did you buy this??
+
+--- MESSAGE 6 ---
+Date: 2022-05-25 08:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Are you trying to call me?
+
+--- MESSAGE 7 ---
+Date: 2022-05-25 08:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Already did it 
+
+--- MESSAGE 8 ---
+Date: 2022-05-25 10:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 9 ---
+Date: 2022-05-25 11:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Guess who got the agent!!!
+
+--- MESSAGE 10 ---
+Date: 2022-05-25 11:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 11 ---
+Date: 2022-05-25 12:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: https://www.actorsmanagementinternational.com
+
+--- MESSAGE 12 ---
+Date: 2022-05-25 12:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: This is the agency I've joined 
+
+--- MESSAGE 13 ---
+Date: 2022-05-26 12:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How is your day my Lou?
+
+--- MESSAGE 14 ---
+Date: 2022-05-29 16:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Cannot find anywhere to get my eyebrows waxed 😰😰
+
+--- MESSAGE 15 ---
+Date: 2022-05-30 12:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I couldn't find my wallet this morning
+
+--- MESSAGE 16 ---
+Date: 2022-05-30 12:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: 🙇🏻‍♂️🙇🏻‍♂️🙇🏻‍♂️
+
+--- MESSAGE 17 ---
+Date: 2022-05-31 10:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Did you see all of the people in the office?
+
+--- MESSAGE 18 ---
+Date: 2022-05-31 10:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Did they all say hello to you? 🙇🏻‍♂️
+
+--- MESSAGE 19 ---
+Date: 2022-05-31 11:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: At least they can look after Lily for me while I rehearse 
+
+--- MESSAGE 20 ---
+Date: 2022-06-01 12:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: GOOOOOOO LOOOOOUUUU!!
+
+--- MESSAGE 21 ---
+Date: 2022-06-02 09:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: They only have the sessions at 12pm 😔
+
+--- MESSAGE 22 ---
+Date: 2022-06-02 13:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm going to go to the doctors tonight and get a facial
+
+--- MESSAGE 23 ---
+Date: 2022-06-02 13:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Is my wallet anywhere at home Lou?
+
+--- MESSAGE 24 ---
+Date: 2022-06-02 14:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Lou...?
+
+--- MESSAGE 25 ---
+Date: 2022-06-02 17:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I am on my way home now Lou 

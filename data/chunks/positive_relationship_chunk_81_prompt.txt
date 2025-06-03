@@ -1,0 +1,201 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-09-16 08:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: What do you want me to respond to your message? 
+
+--- MESSAGE 2 ---
+Date: 2022-09-17 21:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: What do you want from me?
+
+--- MESSAGE 3 ---
+Date: 2022-09-17 21:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Why do you want me to see you? 
+
+--- MESSAGE 4 ---
+Date: 2022-09-18 06:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Why do you want to see me?
+
+--- MESSAGE 5 ---
+Date: 2022-09-21 16:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: What do you want me to do? 
+
+--- MESSAGE 6 ---
+Date: 2022-09-21 16:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: I want to know why and how this happened to her 
+
+--- MESSAGE 7 ---
+Date: 2022-09-22 15:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: I'm going because I want in my full custody. 
+
+--- MESSAGE 8 ---
+Date: 2022-09-22 16:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: I want Lily to have her life back. 
+
+--- MESSAGE 9 ---
+Date: 2022-09-23 08:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: You can think what you want Louisa. 
+
+--- MESSAGE 10 ---
+Date: 2022-09-24 08:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: What do you want from me Louisa?
+
+--- MESSAGE 11 ---
+Date: 2022-10-01 18:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: You can come over if you want 
+
+--- MESSAGE 12 ---
+Date: 2022-10-03 19:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: You want me to open the door for you?
+
+--- MESSAGE 13 ---
+Date: 2022-10-04 08:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Keywords: thank
+Text: No thank you
+
+--- MESSAGE 14 ---
+Date: 2022-10-05 12:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: What do you want from me Louisa?
+
+--- MESSAGE 15 ---
+Date: 2022-10-06 12:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: If you want me not here and you visit then you can
+
+--- MESSAGE 16 ---
+Date: 2022-10-13 19:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: What I want is for Lily to be herself again and with me protecting her
+
+--- MESSAGE 17 ---
+Date: 2022-10-15 17:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: I ask so that if you want to see Lily I can be there with you. 
+
+--- MESSAGE 18 ---
+Date: 2022-10-17 10:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: What do you want me to do? 
+
+--- MESSAGE 19 ---
+Date: 2022-10-21 08:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: What do you want me to do about that?
+
+--- MESSAGE 20 ---
+Date: 2022-10-22 17:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: What is it that you want Lou?
+
+--- MESSAGE 21 ---
+Date: 2022-10-28 17:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Did you want a drink of anything?
+
+--- MESSAGE 22 ---
+Date: 2022-11-16 16:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Because I want Lily to be with me 
+
+--- MESSAGE 23 ---
+Date: 2022-11-16 16:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: And I want to have set boundaries 
+
+--- MESSAGE 24 ---
+Date: 2022-12-15 11:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Lily and I will be at mine tonight for her appointment tomorrow morning if you want to see her
+
+--- MESSAGE 25 ---
+Date: 2023-01-01 14:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: If you want to come see Lily you can 

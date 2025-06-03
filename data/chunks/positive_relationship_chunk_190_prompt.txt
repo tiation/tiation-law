@@ -1,0 +1,203 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-06-04 17:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.44)
+Text: Lily is very upset at the moment too
+
+--- MESSAGE 2 ---
+Date: 2021-11-06 12:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.44)
+Text: Hmmmm maybe she is tired 
+
+--- MESSAGE 3 ---
+Date: 2021-11-21 13:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.44)
+Text: As soon as you leave she cries for attention hmmmm 😡😡
+
+--- MESSAGE 4 ---
+Date: 2022-03-01 14:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.44)
+Text: I do worry. 
+
+--- MESSAGE 5 ---
+Date: 2022-03-01 18:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.44)
+Text: I was tired before and I slept and now I'm awake 
+
+--- MESSAGE 6 ---
+Date: 2022-04-11 12:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.44)
+Text: It feels weird having this no brace Lou 🙇🏻‍♂️
+
+--- MESSAGE 7 ---
+Date: 2022-09-10 20:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.44)
+Text: I'm asking because I do worry about you too Louisa 
+
+--- MESSAGE 8 ---
+Date: 2022-10-13 20:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.44)
+Text: It's beyond frustrating for me that this has happened to Lily. 
+
+--- MESSAGE 9 ---
+Date: 2022-11-16 12:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.44)
+Text: I will live, it is Lily I worry about. 
+
+--- MESSAGE 10 ---
+Date: 2023-01-09 12:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.44)
+Text: And I came to your house because I'm tired of you not replying. 
+
+--- MESSAGE 11 ---
+Date: 2022-01-02 13:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.44)
+Text: But it doesn't matter anyway. I obviously have no choice to spend the day with Lily on my own so if that's the way it is then whatever. 
+
+--- MESSAGE 12 ---
+Date: 2022-11-19 12:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.45)
+Text: Lily had NO CHOICE
+
+--- MESSAGE 13 ---
+Date: 2022-07-19 16:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.45)
+Keywords: positive
+Text: All this time the only things you picked out about me during and after our relationship is the negative impacts that are in my life, you didn't want to shine light on the positive traits that I already had. I felt so alone during our relationship. 
+
+--- MESSAGE 14 ---
+Date: 2022-01-31 17:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.46)
+Text: It's so annoying, you just got it fixed 
+
+--- MESSAGE 15 ---
+Date: 2022-08-27 18:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.46)
+Keywords: happy
+Text: I'm not happy with anything right now. 
+
+--- MESSAGE 16 ---
+Date: 2022-09-22 15:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.46)
+Keywords: happy
+Text: You're just not happy that I'm getting Lily full time and you're not. 
+
+--- MESSAGE 17 ---
+Date: 2022-11-19 11:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.46)
+Text: You are not some perfect person who does everything right in the world. 
+
+--- MESSAGE 18 ---
+Date: 2021-11-20 12:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.46)
+Text: She felt abandoned 
+
+--- MESSAGE 19 ---
+Date: 2022-01-09 18:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.46)
+Text: We can keep arguing about this which is just going around in circles. 
+
+--- MESSAGE 20 ---
+Date: 2022-09-14 19:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.46)
+Text: I'm done arguing with you. 
+
+--- MESSAGE 21 ---
+Date: 2022-11-19 11:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.46)
+Text: All because you abandoned your family you think everyone else should. 
+
+--- MESSAGE 22 ---
+Date: 2022-09-23 11:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.46)
+Text: Why should I stop, because you said so? So when things are against you it's wrong is that correct but when you do to other people you consider it the 'right thing'?
+
+--- MESSAGE 23 ---
+Date: 2021-12-31 12:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.47)
+Text: What was the problem??
+
+--- MESSAGE 24 ---
+Date: 2022-02-24 16:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.47)
+Text: Does Joshua watch you when he's doing gymnastics and then lose balance on the beam?? 😂
+
+--- MESSAGE 25 ---
+Date: 2022-11-05 19:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.47)
+Text: Why did Lily have ligament injuries to her neck? Is it possible when Lily was in Joshua's room he had injured her? 

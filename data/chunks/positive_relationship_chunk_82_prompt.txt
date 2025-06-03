@@ -1,0 +1,214 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2023-01-03 11:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Lily is currently still in hospital if you want to come see her 
+
+--- MESSAGE 2 ---
+Date: 2023-01-05 13:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: We are still at the hospital if you want to come and see Lily 
+
+--- MESSAGE 3 ---
+Date: 2023-01-15 09:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Do you even want to see Lily or have you just given up on her? 
+
+--- MESSAGE 4 ---
+Date: 2023-03-05 17:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Do you want our daughter to be back to normal or not? 
+
+--- MESSAGE 5 ---
+Date: 2022-09-17 22:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.07)
+Text: No you're not, you're arguing about Joshua 
+
+--- MESSAGE 6 ---
+Date: 2022-01-27 10:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.06)
+Text: I do have a feeling it might be MA though but I won't know till closer to the date
+
+--- MESSAGE 7 ---
+Date: 2022-07-18 15:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.06)
+Keywords: please
+Text: I told you I didn't want to continue our conversation and that I will see you tomorrow as I didn't want to continue arguing with you. You then reply saying "please don't come to court". 
+
+I don't know what you want from me. It's like anything I say you have ready to fire back at me.
+
+--- MESSAGE 8 ---
+Date: 2022-09-17 21:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.06)
+Keywords: sorry
+Text: That is something I cannot do I'm sorry
+
+--- MESSAGE 9 ---
+Date: 2022-07-18 09:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.06)
+Keywords: happy,understand
+Text: Matt did apologise to you and you refused his apology. I'm not disagreeing with you about the objectifying I totally understand but he did apologise to you and you were not happy about it. 
+
+--- MESSAGE 10 ---
+Date: 2021-10-05 12:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.05)
+Keywords: better
+Text: Is cream or powder better for the nappy rash?
+
+--- MESSAGE 11 ---
+Date: 2021-11-11 12:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.05)
+Keywords: sorry
+Text: I'm sorry that you are feeling this way and you are allowed to feel these feelings it is normal 
+
+--- MESSAGE 12 ---
+Date: 2022-01-07 10:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.05)
+Keywords: sorry
+Text: I don't know what to say to you Louisa. Your values and morals are yours and yours alone, I'm not here to change them or force you to change. I'm sorry that you feel this way towards me, all I've ever wanted to do was cooperate and work with you in our relationship but from what you have said it looks as though this can't happen between us. 
+
+--- MESSAGE 13 ---
+Date: 2022-03-07 10:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.05)
+Keywords: love,well
+Text: Can you tell Joshua that I do love him. I'm not feeling very well I think I've caught a flu or something 
+
+--- MESSAGE 14 ---
+Date: 2022-11-03 12:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.05)
+Keywords: care,well
+Text: It's the truth and you can't seem to take any responsibility for Lily. You might as well not bother about Lily then as your actions have shown that you don't care for her and only care for Joshua and his well-being. 
+
+--- MESSAGE 15 ---
+Date: 2022-01-10 13:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.05)
+Text: Do you really think I want Lily to have the life I had with having no dad that cares for them? No. 
+
+--- MESSAGE 16 ---
+Date: 2022-09-23 08:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.05)
+Keywords: happy
+Text: You're just upset because it's me now that will have Lily full time and not you. You were more than happy to have Lily full time and let me see her once or twice a week even though I wanted her 50% and you said no. 
+
+--- MESSAGE 17 ---
+Date: 2021-09-03 16:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.04)
+Keywords: well
+Text: Well I'm not sure at this time. 
+
+--- MESSAGE 18 ---
+Date: 2021-11-08 12:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.03)
+Text: Wow Lulu midland is very disgusting 🙇🏻‍♂️
+
+--- MESSAGE 19 ---
+Date: 2021-09-16 13:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.03)
+Text: I was just being silly Lulu 
+
+--- MESSAGE 20 ---
+Date: 2021-11-07 16:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.03)
+Keywords: well
+Text: Hmmmmm well let's try and see if she wants to be in the room alone 😊
+
+--- MESSAGE 21 ---
+Date: 2021-12-07 08:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.03)
+Keywords: thank
+Text: No I will come to the house and I will collect my things and I will leave thank you. 
+
+--- MESSAGE 22 ---
+Date: 2022-02-05 20:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.03)
+Text: I'm getting a bit tired haha 
+
+--- MESSAGE 23 ---
+Date: 2022-03-12 20:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.03)
+Text: It's only a matter of time till it is though 
+
+--- MESSAGE 24 ---
+Date: 2022-03-22 12:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.03)
+Text: I'm posting TikTok video of the video sent me saying Lily is milk drunk or something like that
+
+--- MESSAGE 25 ---
+Date: 2022-03-23 09:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.03)
+Text: Doing something silly 

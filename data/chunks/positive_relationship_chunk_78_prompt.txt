@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-01-12 20:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: I don't know what you want me to say. I feel as though our conversation is veering off somewhere else 
+
+--- MESSAGE 2 ---
+Date: 2022-01-13 13:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: What do you want to do Louisa? 
+
+--- MESSAGE 3 ---
+Date: 2022-01-13 19:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: What do you want to do about us Louisa?
+
+--- MESSAGE 4 ---
+Date: 2022-01-14 12:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: I can call after 1ish if you want? 
+
+--- MESSAGE 5 ---
+Date: 2022-01-14 14:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Why did you want to call?
+
+--- MESSAGE 6 ---
+Date: 2022-01-15 07:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: I want to see the kids too. 
+
+--- MESSAGE 7 ---
+Date: 2022-01-15 07:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: What do you want from me? 
+
+--- MESSAGE 8 ---
+Date: 2022-01-16 15:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: What do you want from me?
+
+--- MESSAGE 9 ---
+Date: 2022-01-28 06:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Or do you want me to wait for you?
+
+--- MESSAGE 10 ---
+Date: 2022-01-28 07:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Do you want me to go park in front of the other lawn?
+
+--- MESSAGE 11 ---
+Date: 2022-01-31 17:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Did you want me to come over and have a look?
+
+--- MESSAGE 12 ---
+Date: 2022-02-04 16:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: If you want I can come over tonight?
+
+--- MESSAGE 13 ---
+Date: 2022-02-05 11:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Does Joshua want to go to McDonald's tomorrow?
+
+--- MESSAGE 14 ---
+Date: 2022-02-16 14:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Did you want me to take Joshua?
+
+--- MESSAGE 15 ---
+Date: 2022-02-19 18:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Did you want me to have Lily tonight?
+
+--- MESSAGE 16 ---
+Date: 2022-02-20 07:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: We can go to the vegan restaurant if you want?
+
+--- MESSAGE 17 ---
+Date: 2022-02-21 18:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: What do you want me to do then? 
+
+--- MESSAGE 18 ---
+Date: 2022-02-23 14:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Why do you want to do traffic controller? 
+
+--- MESSAGE 19 ---
+Date: 2022-02-24 11:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Why do you want that?
+
+--- MESSAGE 20 ---
+Date: 2022-02-24 16:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: And I want to spend the day with Lily going to the beach, getting ice cream 
+
+--- MESSAGE 21 ---
+Date: 2022-02-28 09:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Hey Lou you can come here at 11:30 at the latest if you want more time
+
+--- MESSAGE 22 ---
+Date: 2022-02-28 12:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: What do you want to do then?
+
+--- MESSAGE 23 ---
+Date: 2022-03-01 18:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Hmmm I want to be healed now 
+
+--- MESSAGE 24 ---
+Date: 2022-03-03 10:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: If you want to 🙇🏻‍♂️
+
+--- MESSAGE 25 ---
+Date: 2022-03-18 16:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: You want another baby? 

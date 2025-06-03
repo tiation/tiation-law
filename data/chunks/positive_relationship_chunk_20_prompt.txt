@@ -1,0 +1,203 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2021-09-22 17:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.61)
+Text: Yay!!
+
+--- MESSAGE 2 ---
+Date: 2021-11-15 11:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.61)
+Text: Yay we are getting air con finally!! 
+
+--- MESSAGE 3 ---
+Date: 2022-02-16 14:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.61)
+Text: I'm just about to leave carousel now so would you like me to pick up Joshua and take him to play therapy?
+
+--- MESSAGE 4 ---
+Date: 2022-01-10 13:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.61)
+Keywords: care
+Text: I care for you so much Louisa, I really do and that's never going to change. Things are bad at the moment yes you're right but that doesn't mean it'll be like that forever, we can work things out, we can cooperate that's what we do as humans. 
+
+--- MESSAGE 5 ---
+Date: 2021-09-01 11:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.60)
+Text: Look how beautiful you are Lulu 
+
+--- MESSAGE 6 ---
+Date: 2021-09-18 18:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.60)
+Text: You loved it so much 
+
+--- MESSAGE 7 ---
+Date: 2021-09-21 14:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.60)
+Keywords: love,help
+Text: Loved "https://music.apple.com/au/album/cant-help-falling-in-love/1455906836?i=1455907198"
+
+--- MESSAGE 8 ---
+Date: 2021-09-30 09:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.60)
+Text: Loved an image
+
+--- MESSAGE 9 ---
+Date: 2021-10-17 18:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.60)
+Text: Loved an audio message
+
+--- MESSAGE 10 ---
+Date: 2021-10-29 17:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.60)
+Text: ￼Look how beautiful you are Lulu 🙇🏻‍♂️❤️🥰🥰🥺🥺
+
+--- MESSAGE 11 ---
+Date: 2021-11-06 14:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.60)
+Text: Loved an image
+
+--- MESSAGE 12 ---
+Date: 2021-11-07 16:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.60)
+Text: Loved "You know my milk is enough for her even though I'm only pumping 4-5 times per day"
+
+--- MESSAGE 13 ---
+Date: 2021-11-13 07:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.60)
+Text: Aww how beautiful 🥰
+
+--- MESSAGE 14 ---
+Date: 2021-11-21 12:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.60)
+Text: Loved an image
+
+--- MESSAGE 15 ---
+Date: 2021-11-22 20:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.60)
+Text: Loved an image
+
+--- MESSAGE 16 ---
+Date: 2021-11-28 10:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.60)
+Keywords: please
+Text: Hmmmm maybe I would like whopper with cheese and no pickles meal please and it just have cheese please 🙇🏻‍♂️🙇🏻‍♂️
+
+--- MESSAGE 17 ---
+Date: 2021-12-25 10:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.60)
+Text: Loved an image
+
+--- MESSAGE 18 ---
+Date: 2022-01-24 14:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.60)
+Text: Loved an image
+
+--- MESSAGE 19 ---
+Date: 2022-01-25 11:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.60)
+Text: Loved an image
+
+--- MESSAGE 20 ---
+Date: 2022-01-26 19:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.60)
+Text: Loved "https://www.noongarradio.com"
+
+--- MESSAGE 21 ---
+Date: 2022-01-26 19:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.60)
+Text: Loved an image
+
+--- MESSAGE 22 ---
+Date: 2022-02-02 20:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.60)
+Text: Loved an image
+
+--- MESSAGE 23 ---
+Date: 2022-02-03 18:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.60)
+Text: Loved a movie
+
+--- MESSAGE 24 ---
+Date: 2022-02-03 18:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.60)
+Text: Loved an image
+
+--- MESSAGE 25 ---
+Date: 2022-02-13 17:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.60)
+Text: Loved an image

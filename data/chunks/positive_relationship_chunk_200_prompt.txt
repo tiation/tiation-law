@@ -1,0 +1,207 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-06-14 13:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.74)
+Text: I failed on one thing which was frustrating 
+
+--- MESSAGE 2 ---
+Date: 2022-11-03 09:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.74)
+Text: And Lily doesn't need to be around a dangerous parent and a selfish half brother. 
+
+--- MESSAGE 3 ---
+Date: 2022-11-05 18:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.74)
+Text: You've ruined Lily's life Louisa and you've ruined mine too. You're not a normal person. 
+
+--- MESSAGE 4 ---
+Date: 2022-01-12 18:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.74)
+Text: You know how you compared me to Mike and Simon, let's break this down:
+Mike took over 3 years to get off his butt to finally decide he wanted to see Joshua and is now refusing to cooperate with you even though you asked him
+
+Simon told you that even if you and he broke up that he would still want to be a part of Joshua's life but as soon as you broke up he turned his back on Joshua and doesn't even message to see how he is
+
+--- MESSAGE 5 ---
+Date: 2022-09-22 15:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.74)
+Text: Call me the worst person you e ever met blah blah blah 
+
+--- MESSAGE 6 ---
+Date: 2022-11-19 12:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.74)
+Text: No you weren't Louisa. I had said that I wanted to take Lily with me as I was leaving and you grabbed Lily and ran away because you are an overdramatic person who thinks everything is domestic violence. 
+
+--- MESSAGE 7 ---
+Date: 2022-11-10 21:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.74)
+Text: I will make the final decision about Lily seeing Joshua.
+
+I do not like Joshua, I do not like Joshua's behaviour and the way that he acts is dangerous around Lily and I consider him a hazard towards Lily. 
+
+--- MESSAGE 8 ---
+Date: 2022-01-16 15:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.75)
+Text: You've been messing around with my emotions, blocking me and unblocking me, saying I can see the kids and then changing your mind, you are meant to be a human and so am I but you don't treat me like one. 
+
+--- MESSAGE 9 ---
+Date: 2022-09-17 21:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.75)
+Text: Yeah Joshua is 6. Lily is not even a year old and she drowned. Did Joshua drown? 
+
+--- MESSAGE 10 ---
+Date: 2022-11-10 21:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.76)
+Text: I will always live my life in anger and regret because of you and your actions as a parent. 
+
+--- MESSAGE 11 ---
+Date: 2022-11-19 12:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.76)
+Text: When it was as the department of communities investigation have confirmed you neglected and harmed Lily. 
+
+--- MESSAGE 12 ---
+Date: 2022-12-31 08:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.76)
+Text: You've lied to me about how Lily drowned in the bath. 
+
+--- MESSAGE 13 ---
+Date: 2022-09-22 21:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.76)
+Text: This is not true. It's like I'm a broken record repeating myself all the time. I never said you will not be in mine or Lily's life at all
+
+--- MESSAGE 14 ---
+Date: 2022-07-18 12:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.76)
+Keywords: care,good
+Text: But you don't care Louisa. You don't see the good and right  things that I already do. 
+
+--- MESSAGE 15 ---
+Date: 2022-07-23 04:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.77)
+Text: No one is evil in this world. 
+
+--- MESSAGE 16 ---
+Date: 2022-01-16 15:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.77)
+Text: The person who has a criminal charge in my family is in prison. 
+
+--- MESSAGE 17 ---
+Date: 2022-04-04 17:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.77)
+Text: ￼This sounds horrible and scary
+
+--- MESSAGE 18 ---
+Date: 2021-08-29 10:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.78)
+Text: No TV, no worries!! 👍🏻
+
+--- MESSAGE 19 ---
+Date: 2022-09-08 09:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.78)
+Text: I have not you are such a liar, no one has screamed or yelled at you 
+
+--- MESSAGE 20 ---
+Date: 2022-01-12 19:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.79)
+Keywords: trust
+Text: You don't trust me to stop wrong doing. That's what it is isn't it?
+
+--- MESSAGE 21 ---
+Date: 2022-11-05 18:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.79)
+Text: Yeah I think Joshua may have done something because he would do fucking dangerous shit with Lily such as carrying her down the stairs, like fuck me who let's a 6 year old carry a baby down the stairs. 
+
+--- MESSAGE 22 ---
+Date: 2022-03-20 09:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.80)
+Text: Poor Lily I felt so terrible Lou 😔
+
+--- MESSAGE 23 ---
+Date: 2022-01-27 10:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.80)
+Text: I say this because after we took him to Star Wars, every time Star Wars is mentioned to him now he always goes back on that day when he was scared of it at the cinema haha, he's scarred from it. 
+
+--- MESSAGE 24 ---
+Date: 2022-09-22 15:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.80)
+Text: If that is your standard, then why are you so angry and upset with me following the procedure that's been advised by the communities and CPU?  
+
+--- MESSAGE 25 ---
+Date: 2022-11-05 19:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.80)
+Text: Yeah I do know and I know that if it was the other way around you would've made me out to be a murderer of children posting on my Facebook, my work Facebook and probably message all my friends that I murder children. I know you do this shit because my friends tell me you do. 

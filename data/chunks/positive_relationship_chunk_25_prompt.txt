@@ -1,0 +1,209 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-03-01 14:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.56)
+Keywords: well
+Text: You might as well Lou and you never know it might be something you like doing 
+
+--- MESSAGE 2 ---
+Date: 2022-03-09 10:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.56)
+Keywords: please
+Text: Can you please send me a photo of Lily please?
+
+--- MESSAGE 3 ---
+Date: 2022-03-18 18:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.56)
+Text: Yes I got it straight away 😂
+
+--- MESSAGE 4 ---
+Date: 2022-05-15 11:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.56)
+Text: We will clean the house this week okay
+
+--- MESSAGE 5 ---
+Date: 2022-05-17 18:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.56)
+Keywords: positive
+Text: Joshua has tested positive 
+
+--- MESSAGE 6 ---
+Date: 2021-11-20 12:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.56)
+Text: Very cute right!? 
+
+--- MESSAGE 7 ---
+Date: 2021-12-06 16:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.56)
+Text: Very cute! 🥰
+
+--- MESSAGE 8 ---
+Date: 2021-08-27 12:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.56)
+Text: Oh my goodness!! 
+
+--- MESSAGE 9 ---
+Date: 2021-10-03 13:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.56)
+Keywords: best
+Text: You're the best Lulu, no one can beat you!! 🙇🏻‍♂️
+
+--- MESSAGE 10 ---
+Date: 2021-11-10 16:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.56)
+Text: Oh my goodness!! 
+
+--- MESSAGE 11 ---
+Date: 2021-11-26 14:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.56)
+Keywords: best
+Text: You are the best and no one can beat you!! 👦🏻🥰
+
+--- MESSAGE 12 ---
+Date: 2022-03-09 20:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.56)
+Text: Ohh goodness me!! Did you see it in his  poo?
+
+--- MESSAGE 13 ---
+Date: 2022-03-18 20:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.56)
+Text: Oh my goodness Lou!! 
+
+--- MESSAGE 14 ---
+Date: 2022-03-29 10:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.56)
+Text: Ohh my goodness Lou!! 
+
+--- MESSAGE 15 ---
+Date: 2021-12-06 16:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.55)
+Text: She doesn't hate it at all!! 
+
+--- MESSAGE 16 ---
+Date: 2022-09-17 21:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.55)
+Keywords: care
+Text: And if you can't accept my decision then that's fine I don't care, because I have bigger and more important things to do, such as making sure Lily gets to enjoy some sort of life whilst being in a vegetative state
+
+--- MESSAGE 17 ---
+Date: 2022-12-12 16:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.55)
+Keywords: help
+Text: Lily has another session on Friday morning and they are going to charge only $35 for every session as they really want to help out and see Lily recover
+
+--- MESSAGE 18 ---
+Date: 2022-03-27 13:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.55)
+Text: But there is definitely one that is being done right?
+
+--- MESSAGE 19 ---
+Date: 2022-11-16 17:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.55)
+Text: Yeah but you are responsible for what happened to Lily. 
+
+--- MESSAGE 20 ---
+Date: 2022-07-23 04:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.54)
+Text: I am not an evil man. 
+
+--- MESSAGE 21 ---
+Date: 2022-07-23 04:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.54)
+Text: You are not an evil woman. 
+
+--- MESSAGE 22 ---
+Date: 2022-01-27 09:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.54)
+Keywords: help,well
+Text: Well I thought if I did it'll help ease the stress off you 
+
+--- MESSAGE 23 ---
+Date: 2022-01-31 10:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.54)
+Keywords: well
+Text: Oh well he will play with them still 
+
+--- MESSAGE 24 ---
+Date: 2022-02-15 20:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.54)
+Text: Yes that is fine Lou 
+
+--- MESSAGE 25 ---
+Date: 2022-02-15 20:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.54)
+Text: Yes that is fine Lou

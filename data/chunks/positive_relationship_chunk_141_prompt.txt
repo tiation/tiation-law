@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-07-18 08:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You and Michael need to sort Joshua's health insurance out. I'm not going to be the only one that pays for something that Joshua needs in his life whilst you and Michael just buy him things that he wants. 
+
+--- MESSAGE 2 ---
+Date: 2022-07-18 09:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Then where will Lily be tomorrow?
+
+--- MESSAGE 3 ---
+Date: 2022-07-18 09:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Where will joshua be tomorrow?
+
+--- MESSAGE 4 ---
+Date: 2022-07-18 09:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I have a right to see my child. 
+
+--- MESSAGE 5 ---
+Date: 2022-07-18 09:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I am working this weekend. 
+
+--- MESSAGE 6 ---
+Date: 2022-07-18 12:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Why?
+
+--- MESSAGE 7 ---
+Date: 2022-07-18 13:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: And tomorrow I will have Joshua after school.
+
+--- MESSAGE 8 ---
+Date: 2022-07-18 13:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: And I would a response at a reasonable time not at 4am tomorrow morning.
+
+--- MESSAGE 9 ---
+Date: 2022-07-18 14:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How am I disrespecting you?
+
+--- MESSAGE 10 ---
+Date: 2022-07-18 15:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What are you even talking about Louisa? 
+
+--- MESSAGE 11 ---
+Date: 2022-07-18 18:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You are not my wife. We were never married, you were my partner. 
+
+--- MESSAGE 12 ---
+Date: 2022-07-18 18:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I don't need to explain myself to you.  
+
+--- MESSAGE 13 ---
+Date: 2022-07-18 18:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: And you have done the same to me. 
+
+--- MESSAGE 14 ---
+Date: 2022-07-19 08:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What do you mean?
+
+--- MESSAGE 15 ---
+Date: 2022-07-19 09:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: For not going to the court case? You told me not to come. 
+
+--- MESSAGE 16 ---
+Date: 2022-07-19 13:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How is everything going at court? Have you gone in yet?
+
+--- MESSAGE 17 ---
+Date: 2022-07-19 13:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What do you mean?
+
+--- MESSAGE 18 ---
+Date: 2022-07-19 13:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: So what has Michael got now?
+
+--- MESSAGE 19 ---
+Date: 2022-07-19 13:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: So he's got 50/50?
+
+--- MESSAGE 20 ---
+Date: 2022-07-19 13:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: So he picks him up on Friday after school at 3pm and has a sleepover and then returns to you at Saturday 5pm?
+
+--- MESSAGE 21 ---
+Date: 2022-07-19 13:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Every week?
+
+--- MESSAGE 22 ---
+Date: 2022-07-19 15:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Is Lily available on Thursday?
+
+--- MESSAGE 23 ---
+Date: 2022-07-19 16:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I am not available on Saturday I am working.
+
+--- MESSAGE 24 ---
+Date: 2022-07-19 16:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: If I have her next week Friday and Saturday she will be staying at my place.
+
+--- MESSAGE 25 ---
+Date: 2022-07-19 16:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: And when I say staying she will be staying the night on Friday and returned to you on Saturday.

@@ -1,0 +1,213 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2021-11-21 13:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.50)
+Keywords: good
+Text: But it's good she is working hard as you can see 
+
+--- MESSAGE 2 ---
+Date: 2022-01-27 10:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.50)
+Text: I know that but she's a baby she's not going to be scarred like Joshua did 
+
+--- MESSAGE 3 ---
+Date: 2022-11-08 20:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.50)
+Keywords: thank
+Text: But thank you. 
+
+--- MESSAGE 4 ---
+Date: 2022-02-01 18:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.50)
+Keywords: help
+Text: Hmmmm, I'm not sure what I can do at the moment Lou. I do want to help you though okay, I know you don't want to do this, let's see what happens Friday and we will try and work something out
+
+--- MESSAGE 5 ---
+Date: 2022-10-13 18:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.50)
+Keywords: well
+Text: Yeah well it doesn't matter 
+
+--- MESSAGE 6 ---
+Date: 2022-02-25 17:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.50)
+Text: I have not betrayed you. 
+
+--- MESSAGE 7 ---
+Date: 2022-05-23 16:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.50)
+Text: No it's okay, I'm getting my cousin to jump start my car so don't stress okay? 
+
+--- MESSAGE 8 ---
+Date: 2022-03-12 21:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.50)
+Text: Hmmm that's not a bad age to be a millionaire is it Lou??
+
+--- MESSAGE 9 ---
+Date: 2021-09-25 08:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.49)
+Keywords: well
+Text: Well I don't know yet Lou on how to sort out our finances. What would you like to pay? At the moment I'm paying half the rent, power bills, internet and petrol. 
+
+--- MESSAGE 10 ---
+Date: 2021-11-16 10:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.49)
+Text: There is two here Vini and save the children 
+
+--- MESSAGE 11 ---
+Date: 2021-11-20 12:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.49)
+Text: Enjoy yourself first 🥰
+
+--- MESSAGE 12 ---
+Date: 2021-12-11 11:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.49)
+Text: Those seem pretty reasonable to me Lou 
+
+--- MESSAGE 13 ---
+Date: 2021-12-22 11:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.49)
+Keywords: friend
+Text: He's found a friend
+
+--- MESSAGE 14 ---
+Date: 2022-01-31 08:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.49)
+Text: Okay cool, I'll come tomorrow in the morning
+
+--- MESSAGE 15 ---
+Date: 2022-01-31 18:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.49)
+Text: Hmmmm I guess you can, make sure you call Volkswagen though okay?
+
+--- MESSAGE 16 ---
+Date: 2022-02-04 13:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.49)
+Keywords: care
+Text: Has Joshua got after school care?
+
+--- MESSAGE 17 ---
+Date: 2022-02-04 16:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.49)
+Text: When does that agreement start? 
+
+--- MESSAGE 18 ---
+Date: 2022-02-05 14:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.49)
+Keywords: together
+Text: He will enjoy going out tomorrow together I reckon
+
+--- MESSAGE 19 ---
+Date: 2022-02-27 18:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.49)
+Keywords: care
+Text: They will take care of me right?
+
+--- MESSAGE 20 ---
+Date: 2022-03-23 18:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.49)
+Text: I thought the video was pretty eye opening 
+
+--- MESSAGE 21 ---
+Date: 2022-04-04 15:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.49)
+Keywords: friend
+Text: I have made a new friend 🙇🏻‍♂️
+
+--- MESSAGE 22 ---
+Date: 2022-04-04 16:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.49)
+Keywords: friend
+Text: It's a male friend 
+
+--- MESSAGE 23 ---
+Date: 2022-04-04 17:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.49)
+Keywords: friend
+Text: I'm meeting up with my friend Alan tomorrow evening 😊
+
+--- MESSAGE 24 ---
+Date: 2022-05-13 16:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.49)
+Text: ￼Eva just came by and gave me this, it's from the festival people 
+
+--- MESSAGE 25 ---
+Date: 2022-06-09 11:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.49)
+Keywords: well
+Text: Well we have to keep options up as well then 

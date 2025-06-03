@@ -1,0 +1,209 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-07-01 22:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.53)
+Keywords: thank
+Text: Okay thank you for that. 
+
+--- MESSAGE 2 ---
+Date: 2022-07-01 22:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.53)
+Text: Okay then Lou I will do this action as you have requested. Again I do not believe an incident like this will occur 
+
+--- MESSAGE 3 ---
+Date: 2022-07-12 11:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.53)
+Keywords: thank
+Text: Okay thank you 
+
+--- MESSAGE 4 ---
+Date: 2022-07-16 10:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.53)
+Keywords: thank
+Text: Okay thank you. 
+
+--- MESSAGE 5 ---
+Date: 2022-07-18 18:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.53)
+Keywords: thank
+Text: Okay then. Thank you clarifying. 
+
+--- MESSAGE 6 ---
+Date: 2022-07-21 15:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.53)
+Keywords: thank
+Text: Okay that'll work then thank you 
+
+--- MESSAGE 7 ---
+Date: 2022-09-04 17:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.53)
+Keywords: please,well
+Text: Well can you ask the nurse please 
+
+--- MESSAGE 8 ---
+Date: 2022-09-20 09:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.53)
+Text: She is sleeping peacefully finally 
+
+--- MESSAGE 9 ---
+Date: 2022-09-26 11:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.53)
+Keywords: thank
+Text: Okay thank you 
+
+--- MESSAGE 10 ---
+Date: 2022-10-11 18:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.53)
+Text: She seems to be enjoying the light show 
+
+--- MESSAGE 11 ---
+Date: 2022-10-30 09:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.53)
+Keywords: thank
+Text: That is okay thank you 
+
+--- MESSAGE 12 ---
+Date: 2023-01-08 16:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.53)
+Keywords: thank
+Text: Thank you for answering back now I know when I get there tomorrow I will just go straight into the chamber with Lily
+
+--- MESSAGE 13 ---
+Date: 2023-01-15 09:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.53)
+Text: It's an easy yes or no question Louisa. 
+
+--- MESSAGE 14 ---
+Date: 2022-03-20 13:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.53)
+Text: I'm so proud of myself hehe 
+
+--- MESSAGE 15 ---
+Date: 2021-11-09 12:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.52)
+Text: I mean why can't abusive people just not exist in my entire circles? 
+
+--- MESSAGE 16 ---
+Date: 2022-10-06 19:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.52)
+Text: It's not abuse Louisa
+
+--- MESSAGE 17 ---
+Date: 2021-09-25 08:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.52)
+Text: Is that a pancake or hash haha??
+
+--- MESSAGE 18 ---
+Date: 2022-02-15 19:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.52)
+Text: Oh my goodness by who??
+
+--- MESSAGE 19 ---
+Date: 2022-03-22 07:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.52)
+Text: Lily is getting more and more likes on each video now 
+
+--- MESSAGE 20 ---
+Date: 2022-10-30 09:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.52)
+Text: I will never be okay. I lie in bed just thinking about all the things Lily has missed out on, she didn't even get to celebrate her birthday like every other 1 year old 
+
+--- MESSAGE 21 ---
+Date: 2022-10-09 09:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.52)
+Text: But whatever Louisa, you can sit there your whole life and keep telling yourself you've done nothing wrong
+
+--- MESSAGE 22 ---
+Date: 2022-02-15 22:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.51)
+Text: It's okay Lou it's not your fault that you have these it's not like choosing to have it in your life. It's not your fault just remember that 
+
+--- MESSAGE 23 ---
+Date: 2022-03-16 15:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.51)
+Text: Don't worry about dinner for me I will be okay 
+
+--- MESSAGE 24 ---
+Date: 2021-09-30 09:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.51)
+Text: Okay and is Lily sleeping, is she giving you some resting time? 
+
+--- MESSAGE 25 ---
+Date: 2021-10-09 12:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.51)
+Text: Are you guys having fun? 😊

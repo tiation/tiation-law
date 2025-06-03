@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-06-07 16:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmmm I knew he wasn't trying at school I could tell 
+
+--- MESSAGE 2 ---
+Date: 2022-06-08 12:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Lulu my mum is going to Broome tomorrow and has to be at the airport at 5:30am and I said I will take her to the airport, I'm going to get her to stay at my place in Bentley and tomorrow morning I will pick her up from there and drive her to the airport. Am I allowed to do this? 🙇🏻‍♂️
+
+--- MESSAGE 3 ---
+Date: 2022-06-08 12:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Loooouuuuu?
+
+--- MESSAGE 4 ---
+Date: 2022-06-08 13:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 5 ---
+Date: 2022-06-08 13:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: MUMMA LOOOOUUUUU!!!!
+
+--- MESSAGE 6 ---
+Date: 2022-06-09 11:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What does that mean my Lou?
+
+--- MESSAGE 7 ---
+Date: 2022-06-09 11:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Oh I see 
+
+--- MESSAGE 8 ---
+Date: 2022-06-09 11:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmm 
+
+--- MESSAGE 9 ---
+Date: 2022-06-09 11:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We can work something out I guess 
+
+--- MESSAGE 10 ---
+Date: 2022-06-09 11:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 11 ---
+Date: 2022-06-09 17:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I tried calling you but it wouldn't ring
+
+--- MESSAGE 12 ---
+Date: 2022-06-09 18:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Lily and I are home 
+
+--- MESSAGE 13 ---
+Date: 2022-06-09 18:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What do I have for dinner? 
+
+--- MESSAGE 14 ---
+Date: 2022-06-10 16:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: See you soon my Lou 🙇🏻‍♂️
+
+--- MESSAGE 15 ---
+Date: 2022-06-10 16:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ❤️
+
+--- MESSAGE 16 ---
+Date: 2022-06-10 16:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You can come up
+
+--- MESSAGE 17 ---
+Date: 2022-06-11 13:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmmmm
+
+--- MESSAGE 18 ---
+Date: 2022-06-11 13:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm waiting to get my eyebrows done 🙇🏻‍♂️
+
+--- MESSAGE 19 ---
+Date: 2022-06-11 13:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 20 ---
+Date: 2022-06-11 13:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Have to wait for the appointment hmmmm 😤
+
+--- MESSAGE 21 ---
+Date: 2022-06-11 14:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: When I said "Yeah I can do that for you", I'm meaning that "yes Lou I can get the cash for the babysitter so it saves you going out to the shops to get it as I'm already out and it's no problem for me" 
+
+--- MESSAGE 22 ---
+Date: 2022-06-11 17:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 23 ---
+Date: 2022-06-12 17:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I can do that for you my Lou 🙇🏻‍♂️❤️
+
+--- MESSAGE 24 ---
+Date: 2022-06-12 17:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Red ones right?
+
+--- MESSAGE 25 ---
+Date: 2022-06-13 14:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Have you taken medicines?

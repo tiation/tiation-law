@@ -1,0 +1,204 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2023-03-05 17:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Keywords: together
+Text: Let's work together to get her to the US to get the oxygen therapy. 
+
+--- MESSAGE 2 ---
+Date: 2023-03-14 10:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I forwarded you the email with all the details regarding the oxygen therapy in the US for Lily 
+
+--- MESSAGE 3 ---
+Date: 2023-03-14 10:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We need to get Lily a passport so I would need to get your signature on the forms 
+
+--- MESSAGE 4 ---
+Date: 2023-03-21 10:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I've started a gofundme for Lily to go to New Orleans. 
+
+--- MESSAGE 5 ---
+Date: 2023-03-21 10:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I need to get Lily's passport 
+
+--- MESSAGE 6 ---
+Date: 2023-07-11 14:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 7 ---
+Date: 2023-07-25 16:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 8 ---
+Date: 2023-07-25 18:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 9 ---
+Date: 2023-11-03 08:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Keywords: please
+Text: ￼Please learn to read this because you obviously can't 
+
+--- MESSAGE 10 ---
+Date: 2022-09-14 19:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: -0.02)
+Text: It doesn't matter Louisa. 
+
+--- MESSAGE 11 ---
+Date: 2022-09-21 16:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: -0.02)
+Text: Doesn't matter what the bathroom has or hasn't got. 
+
+--- MESSAGE 12 ---
+Date: 2022-10-15 17:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: -0.02)
+Text: It doesn't matter 
+
+--- MESSAGE 13 ---
+Date: 2022-10-18 10:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: -0.02)
+Text: Nothing matters to me anymore except Lily. 
+
+--- MESSAGE 14 ---
+Date: 2022-07-18 08:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: -0.03)
+Keywords: happy
+Text: All because I laid the reality to you and you're not happy about it because it doesn't work in your favour. 
+
+--- MESSAGE 15 ---
+Date: 2021-12-05 14:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: -0.03)
+Text: Did you want me to transfer to you now and you can pay it?
+
+--- MESSAGE 16 ---
+Date: 2022-03-28 13:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: -0.03)
+Keywords: well
+Text: Well that's the thing Lou, no one is saying anything about an alternative 
+
+--- MESSAGE 17 ---
+Date: 2022-03-29 07:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: -0.03)
+Text: It's such a sad life honestly 
+
+--- MESSAGE 18 ---
+Date: 2022-03-31 16:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: -0.03)
+Text: We are just chilling at mine for a little bit 
+
+--- MESSAGE 19 ---
+Date: 2022-07-18 12:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: -0.03)
+Text: I pay half the rent for you and Joshua to continue living in the area that you both want to be in. 
+
+--- MESSAGE 20 ---
+Date: 2022-08-20 21:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: -0.03)
+Text: I thought it was a different song played at her funeral 
+
+--- MESSAGE 21 ---
+Date: 2022-09-22 16:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: -0.03)
+Text: Oh my god man, you are missing everything that I have said. 
+
+--- MESSAGE 22 ---
+Date: 2022-02-25 20:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: -0.03)
+Text: But it doesn't matter what I think or did. Let's move on from today and continue tomorrow
+
+--- MESSAGE 23 ---
+Date: 2022-03-27 07:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: -0.03)
+Text: I didn't want to wake up but I had to 🤪
+
+--- MESSAGE 24 ---
+Date: 2022-07-23 05:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: -0.04)
+Text: It doesn't matter what you say anymore. It doesn't matter what anyone says to me
+
+--- MESSAGE 25 ---
+Date: 2022-07-23 05:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: -0.04)
+Text: It doesn't matter what you say anymore. It doesn't matter what anyone says to me

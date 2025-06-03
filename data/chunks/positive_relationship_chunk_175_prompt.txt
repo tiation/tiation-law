@@ -1,0 +1,213 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-03-13 20:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.15)
+Text: Yes that's right Lou there is no difference in believing in that than any other religion, like the For r from Star Wars I in a way believe in it a little 🙇🏻‍♂️
+
+--- MESSAGE 2 ---
+Date: 2022-03-18 18:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.15)
+Keywords: miss
+Text: I miss you guys 😔
+
+--- MESSAGE 3 ---
+Date: 2022-05-09 12:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.15)
+Text: I just had the rebel whopper with vegan cheese 
+
+--- MESSAGE 4 ---
+Date: 2022-05-10 11:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.15)
+Text: In my head now I feel like I've done the wrong thing 
+
+--- MESSAGE 5 ---
+Date: 2022-06-08 10:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.15)
+Keywords: miss
+Text: I miss you 24/7 🙇🏻‍♂️
+
+--- MESSAGE 6 ---
+Date: 2022-07-18 12:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.15)
+Text: And because I make a choice that I feel and I know is the right one for myself you scold me for it and you act like everything else I do pay for is irrelevant. 
+
+--- MESSAGE 7 ---
+Date: 2022-08-09 21:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.15)
+Keywords: miss
+Text: I miss you too and Lily 
+
+--- MESSAGE 8 ---
+Date: 2022-08-25 22:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.15)
+Keywords: miss
+Text: I miss Lily too. 
+
+--- MESSAGE 9 ---
+Date: 2022-09-18 09:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.15)
+Text: It sounds like you've eaten something wrong then 
+
+--- MESSAGE 10 ---
+Date: 2022-09-20 19:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.15)
+Keywords: miss
+Text: I miss Lily and the person she was before 
+
+--- MESSAGE 11 ---
+Date: 2022-10-05 17:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.15)
+Text: Lily spent her short normal life with Joshua always making it about him and him getting all the attention, that stops now. 
+
+--- MESSAGE 12 ---
+Date: 2022-10-18 10:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.15)
+Keywords: understand
+Text: It's like you don't understand Louisa, you've ruined everything. 
+
+--- MESSAGE 13 ---
+Date: 2022-10-30 09:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.15)
+Keywords: miss
+Text: That's all I think about it how Lily is going to be treated differently and all the normal things she will miss out on
+
+--- MESSAGE 14 ---
+Date: 2023-01-09 12:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.15)
+Text: No I was on my way to yours and I sent the message because I thought you weren't going to be home but you were 
+
+--- MESSAGE 15 ---
+Date: 2022-09-18 09:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.15)
+Text: I came early because my mum was feeling a little stressed  with Lily this morning
+
+--- MESSAGE 16 ---
+Date: 2021-09-04 13:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.17)
+Keywords: sorry
+Text: Hey Lou, sorry I'm just on the phone what's up??
+
+--- MESSAGE 17 ---
+Date: 2021-10-05 09:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.17)
+Keywords: sorry
+Text: The hydra gel pads, which ones are you referring to sorry? And what kind of mushrooms? 😊
+
+--- MESSAGE 18 ---
+Date: 2021-12-31 12:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.17)
+Text: Ohh are you serious?? 
+
+--- MESSAGE 19 ---
+Date: 2022-03-14 11:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.17)
+Keywords: well
+Text: Well maybe we will get a warning first right Lou?? 👦🏻
+
+--- MESSAGE 20 ---
+Date: 2022-01-09 18:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.17)
+Keywords: well
+Text: Well according to my Aunty I don't think I was invited Louisa. I could be wrong but that was the interpretation I got. You didn't send me the message that you had sent my Aunty Louisa, I remember you showing me the one message that I thought was appropriate that was actually addressing the issues at hand, it was brining anything up from 40-50 years ago. That was the message you shouldn't have sent because it wasn't relevant, what is bringing up events from so long ago going to change? It's not like we can turn back time and stop it from happening. 
+
+--- MESSAGE 21 ---
+Date: 2022-01-09 18:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.17)
+Keywords: together
+Text: All I've wanted Louisa is to cooperate with you and move forward together but you don't want that, you just want to be right about everything above anything else. 
+
+--- MESSAGE 22 ---
+Date: 2022-01-16 14:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.17)
+Text: But you don't want to talk to me about it. You just want me to choose there and then, you actually don't talk to me about it, we don't discuss, we don't cooperate, you tell me what I have to do or else. 
+
+--- MESSAGE 23 ---
+Date: 2022-07-18 09:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.17)
+Text: You are not a psychologist. Not everyone does your method of conversation and for you to not be flexible is inhuman 
+
+--- MESSAGE 24 ---
+Date: 2022-08-10 20:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.17)
+Text: I'll never be okay Louisa 
+
+--- MESSAGE 25 ---
+Date: 2023-01-15 09:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.17)
+Keywords: understand
+Text: I'm not surprised, I understand you must make time and plans for Joshua before Lily. 

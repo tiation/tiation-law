@@ -1,0 +1,201 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-03-11 18:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Lou are you okay?
+
+--- MESSAGE 2 ---
+Date: 2022-03-11 20:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Awwww okay then I'll put it on 19 degrees then hmmm 😤😤
+
+--- MESSAGE 3 ---
+Date: 2022-03-13 09:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay then Lou I believe you 👦🏻
+
+--- MESSAGE 4 ---
+Date: 2022-03-14 14:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay then Lou see how you feel 👦🏻
+
+--- MESSAGE 5 ---
+Date: 2022-03-14 20:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay I will do that Lou, Eywa is always listening 🙇🏻‍♂️
+
+--- MESSAGE 6 ---
+Date: 2022-03-15 06:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Ohh okay then Lou 🙇🏻‍♂️
+
+--- MESSAGE 7 ---
+Date: 2022-03-15 12:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Awwwww okay then 
+
+--- MESSAGE 8 ---
+Date: 2022-03-16 16:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Ohh okay then Lou 🙇🏻‍♂️
+
+--- MESSAGE 9 ---
+Date: 2022-03-18 18:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay then Lou 
+
+--- MESSAGE 10 ---
+Date: 2022-03-19 20:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: I will see you tomorrow after work okay? ☺️
+
+--- MESSAGE 11 ---
+Date: 2022-03-20 07:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay I can do this 🙇🏻‍♂️
+
+--- MESSAGE 12 ---
+Date: 2022-03-20 08:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: I put Lily E. is that okay?
+
+--- MESSAGE 13 ---
+Date: 2022-03-22 07:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Aww okay then Lou so I follow the famous accounts followers correct? 🙇🏻‍♂️
+
+--- MESSAGE 14 ---
+Date: 2022-03-22 13:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay I posted a TikTok have a look Lou 🙇🏻‍♂️
+
+--- MESSAGE 15 ---
+Date: 2022-03-23 09:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay then 
+
+--- MESSAGE 16 ---
+Date: 2022-03-23 18:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay then Lou we can do that 🙇🏻‍♂️
+
+--- MESSAGE 17 ---
+Date: 2022-03-26 19:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Ahh okay I'll just comeback to mine then for tonight 🙇🏻‍♂️
+
+--- MESSAGE 18 ---
+Date: 2022-03-27 12:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Oh okay then. So does that mean your sister is putting a case against your dad?
+
+--- MESSAGE 19 ---
+Date: 2022-03-28 17:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Keywords: thank,miss
+Text: Aww thank you Lou, I miss you too a lot 
+
+--- MESSAGE 20 ---
+Date: 2022-03-29 16:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay
+
+--- MESSAGE 21 ---
+Date: 2022-03-30 14:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay then
+
+--- MESSAGE 22 ---
+Date: 2022-04-01 17:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay I'll call up and order it then 
+
+--- MESSAGE 23 ---
+Date: 2022-04-01 18:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Ohh actually I'll go get it it's okay
+
+--- MESSAGE 24 ---
+Date: 2022-04-02 15:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: You don't have to get vegan it's okay
+
+--- MESSAGE 25 ---
+Date: 2022-04-04 18:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay Lou, what I'll do is after I have dinner with Alan I will come back to yours after Tuesday night and then on Wednesday I have my exam test which I have to do during the day and then uni at 2pm-4pm and then I will comeback to yours so that you can go to your book club

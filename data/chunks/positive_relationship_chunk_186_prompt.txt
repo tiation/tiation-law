@@ -1,0 +1,217 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-09-17 12:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.33)
+Text: That's not true 
+
+--- MESSAGE 2 ---
+Date: 2022-11-16 16:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.33)
+Text: You act as if I'm taking Lily away from you which isn't true 
+
+--- MESSAGE 3 ---
+Date: 2022-01-20 09:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.33)
+Text: I wanted to show you this but I had forgotten 
+
+--- MESSAGE 4 ---
+Date: 2022-03-03 20:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.33)
+Text: But he's stopped now 
+
+--- MESSAGE 5 ---
+Date: 2022-03-23 18:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.33)
+Text: Yes Lou I almost cried in the classroom but I fought back my tears so I didn't embarrass myself hmmmm 🙇🏻‍♂️
+
+--- MESSAGE 6 ---
+Date: 2022-07-16 06:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.33)
+Keywords: appreciate,good
+Text: 'Dishonest, misrepresentation of situations to look good and two-faced back biting.' This is labelling and name calling and I don't appreciate it. 
+
+--- MESSAGE 7 ---
+Date: 2022-04-13 15:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.33)
+Text: Lou where are you?? I have been alone for too long now 🙇🏻‍♂️
+
+--- MESSAGE 8 ---
+Date: 2022-07-23 04:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.34)
+Text: I'm not pretending to be a victim. 
+
+--- MESSAGE 9 ---
+Date: 2021-11-06 15:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.34)
+Text: Lily looks passed out drunk 
+
+--- MESSAGE 10 ---
+Date: 2022-02-01 16:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.34)
+Text: What's an example of a mistake? 
+
+--- MESSAGE 11 ---
+Date: 2022-02-01 16:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.34)
+Text: What mistake could you make?
+
+--- MESSAGE 12 ---
+Date: 2022-03-14 11:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.34)
+Text: My bum is on fire today Lou 😰
+
+--- MESSAGE 13 ---
+Date: 2022-03-18 20:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.34)
+Text: That's crazy man 
+
+--- MESSAGE 14 ---
+Date: 2022-05-19 19:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.34)
+Keywords: together,sorry,better
+Text: Michael asked Joshua his he was and if he's feeling better, Joshua said not really
+Michael then asked Joshua if he has an assignment due, Joshua asked what he meant 
+Joshua's sister then spoke to Joshua and they talked about school years and what type of school they go to 
+Michael then spoke to Joshua again and told him he misses him and says that it's upsetting he can't see him, Joshua then said that he's sorry to Michael and melody that he caught the virus and can't see them 
+Michael then told Joshua that people who die from covid are people who are only in their 70's and no kids die at all 
+Michael and Joshua then talked about the coronavirus more and Michael was then telling Joshua that he is an expert on coronavirus 
+Joshua then asked to speak to melody, Joshua then asked melody to speak in private, the reason why is because he wanted to talk about the treasure map
+Michael then came back on the phone and then asked Joshua if he told melody about the treasure maps
+Joshua and Melody then continued to talk about treasure maps 
+Basically Joshua and Melody were talking on the phone together about different board games they like to play 
+Michael then came back on the phone and Joshua asked him about his cousins 
+Joshua then talked to Michael about spy things such as a lie detector 
+The conversation then ended 
+
+--- MESSAGE 15 ---
+Date: 2022-06-23 11:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.34)
+Text: Unfortunately you are not 
+
+--- MESSAGE 16 ---
+Date: 2022-09-17 22:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.34)
+Text: And now when I do it to you, you find it messed up? 
+
+--- MESSAGE 17 ---
+Date: 2022-09-17 22:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.34)
+Text: You made the mistake not me. 
+
+--- MESSAGE 18 ---
+Date: 2022-09-18 09:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.34)
+Text: My mum said it's okay, she thought because you were sick she'd message me 
+
+--- MESSAGE 19 ---
+Date: 2022-10-13 08:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.34)
+Text: No I haven't. I believe she is on leave until next week 
+
+--- MESSAGE 20 ---
+Date: 2022-12-29 16:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.34)
+Text: I'm working at the moment and it is busy therefore I cannot have a fully focused conversation with you about it
+
+--- MESSAGE 21 ---
+Date: 2022-02-15 19:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.34)
+Keywords: good
+Text: Also Lou about coming tomorrow it may not be a good idea now
+
+--- MESSAGE 22 ---
+Date: 2022-08-27 20:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.34)
+Keywords: good
+Text: What are you talking about, I'm not on good terms with any of them at the moment
+
+--- MESSAGE 23 ---
+Date: 2022-11-03 09:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.34)
+Text: The government doesn't consider you a safe parent. 
+
+--- MESSAGE 24 ---
+Date: 2022-11-16 16:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.34)
+Keywords: good
+Text: You and Joshua are not good. 
+
+--- MESSAGE 25 ---
+Date: 2022-01-27 10:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.34)
+Text: When I come over tonight I'll show him the preview and see what he thinks. There's no point forcing him to watch a movie he doesn't want to watch

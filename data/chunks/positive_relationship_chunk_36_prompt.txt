@@ -1,0 +1,213 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2021-11-10 16:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Keywords: good
+Text: I think that's a good idea 
+
+--- MESSAGE 2 ---
+Date: 2021-11-11 11:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Keywords: good
+Text: And Subaru is a good brand 
+
+--- MESSAGE 3 ---
+Date: 2021-11-11 11:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Keywords: good
+Text: And looks good
+
+--- MESSAGE 4 ---
+Date: 2021-12-06 16:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Keywords: good
+Text: Have you had a good day? 
+
+--- MESSAGE 5 ---
+Date: 2021-12-17 16:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Text: Thanks lou 
+
+--- MESSAGE 6 ---
+Date: 2021-12-22 11:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Text: It's funny
+
+--- MESSAGE 7 ---
+Date: 2021-12-24 16:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Text: Thanks Lulu 🙇🏻‍♂️
+
+--- MESSAGE 8 ---
+Date: 2021-12-28 11:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Keywords: good
+Text: It's good to make connections 
+
+--- MESSAGE 9 ---
+Date: 2021-12-31 12:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Keywords: good
+Text: Good idea 
+
+--- MESSAGE 10 ---
+Date: 2022-01-18 16:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Keywords: good
+Text: I can take him for dinner if that's all good with you?
+
+--- MESSAGE 11 ---
+Date: 2022-02-05 13:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Keywords: better
+Text: I'll do better then
+
+--- MESSAGE 12 ---
+Date: 2022-02-08 13:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Keywords: good
+Text: I'll check it tomorrow morning for you to see if the oil is all good.
+
+--- MESSAGE 13 ---
+Date: 2022-02-09 16:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Text: Thanks Lou 🙇🏻‍♂️
+
+--- MESSAGE 14 ---
+Date: 2022-02-13 20:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Text: Thanks for that Lou and I've gotten confirmation to direct 2 shows I think in June so that's confirmed for me now 
+
+--- MESSAGE 15 ---
+Date: 2022-02-15 22:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Text: Aww thanks Lou I need them 🙈🙈
+
+--- MESSAGE 16 ---
+Date: 2022-02-16 09:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Text: I am careful I promise 
+
+--- MESSAGE 17 ---
+Date: 2022-02-17 08:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Text: Ohhh thanks Lou 🙇🏻‍♂️
+
+--- MESSAGE 18 ---
+Date: 2022-02-22 13:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Text: Aw thanks for letting me know Lou. It looks as though it's a promo thing because The Batman is coming out next week 
+
+--- MESSAGE 19 ---
+Date: 2022-02-25 19:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Keywords: better
+Text: Better you have a car then me. 
+
+--- MESSAGE 20 ---
+Date: 2022-02-28 13:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Text: Thanks for that Lou 
+
+--- MESSAGE 21 ---
+Date: 2022-03-01 14:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Keywords: good
+Text: I think that's a good idea Lou
+
+--- MESSAGE 22 ---
+Date: 2022-03-03 20:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Keywords: good
+Text: I'm in a good position now 
+
+--- MESSAGE 23 ---
+Date: 2022-03-07 13:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Text: Thanks Lou ☺️
+
+--- MESSAGE 24 ---
+Date: 2022-03-09 18:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Keywords: better
+Text: It's because I'm a fatty at the moment 😔 until my arm is better then you'll see, you'll all see hmmmm 👿
+
+--- MESSAGE 25 ---
+Date: 2022-03-09 20:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Text: Thanks Lou 🙇🏻‍♂️

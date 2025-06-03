@@ -1,0 +1,211 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-09-20 17:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Keywords: good
+Text: Sounds good to me 
+
+--- MESSAGE 2 ---
+Date: 2022-09-23 08:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Text: I'm going to family court to have Lily in my custody due to her incident Louisa. I trusted you to have Lily safe in your custody, I was wrong. 
+
+--- MESSAGE 3 ---
+Date: 2022-09-30 08:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Keywords: good
+Text: Lily is going good so far 
+
+--- MESSAGE 4 ---
+Date: 2022-10-11 13:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Keywords: better
+Text: The doctors stated that Lily has actually tolerated the virus much better than other children 
+
+--- MESSAGE 5 ---
+Date: 2022-10-13 19:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Keywords: good
+Text: Lily has been good the last few days 
+
+--- MESSAGE 6 ---
+Date: 2022-10-13 21:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Keywords: better
+Text: It better. 
+
+--- MESSAGE 7 ---
+Date: 2022-10-24 09:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Keywords: good
+Text: We are good
+
+--- MESSAGE 8 ---
+Date: 2022-11-16 17:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Text: You still favour him now 
+
+--- MESSAGE 9 ---
+Date: 2022-12-05 11:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Keywords: better
+Text: It better
+
+--- MESSAGE 10 ---
+Date: 2022-12-06 19:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Keywords: good
+Text: Good 
+
+--- MESSAGE 11 ---
+Date: 2022-12-31 08:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Keywords: good
+Text: You and him are the cause for Lily drowning, you claimed to be a good parent and never let anything happen to your kids and Joshua claimed to be a big brother for Lily 
+
+--- MESSAGE 12 ---
+Date: 2022-01-15 07:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Text: Tell me the truth Louisa. Is that what you really want? 
+
+--- MESSAGE 13 ---
+Date: 2022-02-01 13:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Text: The set here at the theatre looks really cool! 
+
+--- MESSAGE 14 ---
+Date: 2021-11-23 09:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Keywords: please
+Text: I want more photos please
+
+--- MESSAGE 15 ---
+Date: 2022-02-28 12:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Text: Alright I'm going in!!!
+
+--- MESSAGE 16 ---
+Date: 2022-09-22 21:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.43)
+Text: Why do you say these things? You are a mum to both these kids so yeah you are needed Louisa. 
+
+--- MESSAGE 17 ---
+Date: 2021-12-16 10:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.43)
+Text: What do you mean? Like Budget rental?
+
+--- MESSAGE 18 ---
+Date: 2022-02-15 22:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.43)
+Text: Did you like the video of Lily?? 
+
+--- MESSAGE 19 ---
+Date: 2022-03-20 12:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.43)
+Text: Did you like it??
+
+--- MESSAGE 20 ---
+Date: 2022-06-03 13:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.43)
+Text: That's not a bad idea I guess my Lou 
+
+--- MESSAGE 21 ---
+Date: 2022-01-12 19:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.43)
+Keywords: well
+Text: That's awesome Louisa you did so well to make sure someone had some punishment for their wrong doing. 
+
+--- MESSAGE 22 ---
+Date: 2021-08-21 17:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: Would that be easier?
+
+--- MESSAGE 23 ---
+Date: 2021-10-26 13:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: And it looks nice Lulu 
+
+--- MESSAGE 24 ---
+Date: 2021-11-06 15:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: I thought she liked sleeping on her side too
+
+--- MESSAGE 25 ---
+Date: 2021-11-08 16:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: So it'll make life easier 

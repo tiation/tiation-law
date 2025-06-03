@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-02-20 14:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What time are you coming?
+
+--- MESSAGE 2 ---
+Date: 2022-02-21 11:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: My car service cost $860 today
+
+--- MESSAGE 3 ---
+Date: 2022-02-21 11:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How has your day been? 
+
+--- MESSAGE 4 ---
+Date: 2022-02-21 11:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I've also done my admittance form for hospital next week
+
+--- MESSAGE 5 ---
+Date: 2022-02-21 12:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: For me personally I can see the same message from Lucifer to the video you shown me 
+
+--- MESSAGE 6 ---
+Date: 2022-02-21 19:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ?
+
+--- MESSAGE 7 ---
+Date: 2022-02-22 13:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I didn't know that im going to look now 
+
+--- MESSAGE 8 ---
+Date: 2022-02-22 13:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 9 ---
+Date: 2022-02-23 11:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hey Lou 🙇🏻‍♂️
+
+--- MESSAGE 10 ---
+Date: 2022-02-23 13:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How has your day been?
+
+--- MESSAGE 11 ---
+Date: 2022-02-23 14:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Why is that Lou? 
+
+--- MESSAGE 12 ---
+Date: 2022-02-23 17:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 13 ---
+Date: 2022-02-23 18:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 14 ---
+Date: 2022-02-23 18:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 15 ---
+Date: 2022-02-24 08:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hey Lou, did you see we had over 600 cases of covid yesterday?? 🙇🏻‍♂️
+
+--- MESSAGE 16 ---
+Date: 2022-02-24 11:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Myself Lou 
+
+--- MESSAGE 17 ---
+Date: 2022-02-24 13:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hey Lou I've finished here, can I come over now and I can take Joshua to gymnastics 
+
+--- MESSAGE 18 ---
+Date: 2022-02-24 14:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm here 
+
+--- MESSAGE 19 ---
+Date: 2022-02-24 15:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Meet at McDonald's O'Connor at 4:55 😊
+
+--- MESSAGE 20 ---
+Date: 2022-02-24 16:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: See Lou I told you, China is not putting any sanctions on Russia they will trade as normal 
+
+--- MESSAGE 21 ---
+Date: 2022-02-24 16:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: And then on Saturday meet you at McDonald's for the exchange of Joshua with Michael
+
+--- MESSAGE 22 ---
+Date: 2022-02-24 16:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What time are we taking Joshua to McDonald's on Saturday? Was it 1pm?
+
+--- MESSAGE 23 ---
+Date: 2022-02-24 16:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I was going to take her to see my mum 
+
+--- MESSAGE 24 ---
+Date: 2022-02-24 16:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What time does gymnastics finish? 
+
+--- MESSAGE 25 ---
+Date: 2022-02-24 16:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: They are still going 

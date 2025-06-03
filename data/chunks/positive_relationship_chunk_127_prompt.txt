@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-03-26 08:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Or should I? 
+
+--- MESSAGE 2 ---
+Date: 2022-03-26 08:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Waiting for it to download 
+
+--- MESSAGE 3 ---
+Date: 2022-03-26 08:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmmmmm 😤
+
+--- MESSAGE 4 ---
+Date: 2022-03-26 10:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I got to tell everyone my idea for my script 🙇🏻‍♂️
+
+--- MESSAGE 5 ---
+Date: 2022-03-26 19:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Because I'm driving 
+
+--- MESSAGE 6 ---
+Date: 2022-03-26 19:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I start early tomorrow
+
+--- MESSAGE 7 ---
+Date: 2022-03-26 20:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 8 ---
+Date: 2022-03-26 20:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼￼￼￼
+
+--- MESSAGE 9 ---
+Date: 2022-03-26 23:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 10 ---
+Date: 2022-03-26 23:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmmm I am home
+
+--- MESSAGE 11 ---
+Date: 2022-03-27 07:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Of course I did Lou!! 
+
+--- MESSAGE 12 ---
+Date: 2022-03-27 10:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 13 ---
+Date: 2022-03-27 11:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: They probably track your location and storm your house and take all your belongings 🙇🏻‍♂️
+
+--- MESSAGE 14 ---
+Date: 2022-03-27 13:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Oh I see now Lou that makes sense now
+
+--- MESSAGE 15 ---
+Date: 2022-03-27 13:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What will happen then if everything were to go through to court?
+
+--- MESSAGE 16 ---
+Date: 2022-03-27 13:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 17 ---
+Date: 2022-03-27 15:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Where am I meeting you?
+
+--- MESSAGE 18 ---
+Date: 2022-03-28 10:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: New video on TikTok 
+
+--- MESSAGE 19 ---
+Date: 2022-03-28 11:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: https://amp.abc.net.au/article/100944638
+
+--- MESSAGE 20 ---
+Date: 2022-03-28 11:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Which video?
+
+--- MESSAGE 21 ---
+Date: 2022-03-28 11:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I didn't see that whole video 
+
+--- MESSAGE 22 ---
+Date: 2022-03-28 11:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I know what you mean now 
+
+--- MESSAGE 23 ---
+Date: 2022-03-28 11:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I haven't seen it 
+
+--- MESSAGE 24 ---
+Date: 2022-03-28 12:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: https://fb.watch/c0X8_0aiDA/
+
+--- MESSAGE 25 ---
+Date: 2022-03-28 12:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Did you see Will Smith yelling at him afterwards?

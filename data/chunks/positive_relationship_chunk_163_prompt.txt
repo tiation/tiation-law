@@ -1,0 +1,201 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-10-18 12:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We will visit you Lily and I 
+
+--- MESSAGE 2 ---
+Date: 2022-10-18 12:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: As I have stated to you many times before 
+
+--- MESSAGE 3 ---
+Date: 2022-10-18 12:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You can still go see Joshua 
+
+--- MESSAGE 4 ---
+Date: 2022-10-18 14:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What did you think was going to happen?
+
+--- MESSAGE 5 ---
+Date: 2022-10-18 15:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Why did you call me?
+
+--- MESSAGE 6 ---
+Date: 2022-10-18 17:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Keywords: sorry
+Text: I don't know what you want me to say sorry. 
+
+--- MESSAGE 7 ---
+Date: 2022-10-18 20:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Why are you calling me?
+
+--- MESSAGE 8 ---
+Date: 2022-10-19 08:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What time will you be here?
+
+--- MESSAGE 9 ---
+Date: 2022-10-19 08:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What do you mean? 
+
+--- MESSAGE 10 ---
+Date: 2022-10-19 08:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I am too 
+
+--- MESSAGE 11 ---
+Date: 2022-10-19 08:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm going to my house now 
+
+--- MESSAGE 12 ---
+Date: 2022-10-19 09:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm on the toilet
+
+--- MESSAGE 13 ---
+Date: 2022-10-19 09:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Outside the door of my place?
+
+--- MESSAGE 14 ---
+Date: 2022-10-20 15:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm at the hospital 
+
+--- MESSAGE 15 ---
+Date: 2022-10-21 09:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Are you coming in today or not because I'm leaving at lunchtime
+
+--- MESSAGE 16 ---
+Date: 2022-10-23 16:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Are you coming back or not?
+
+--- MESSAGE 17 ---
+Date: 2022-10-24 09:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Why?
+
+--- MESSAGE 18 ---
+Date: 2022-10-24 10:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What do you mean? What do you think we are?
+
+--- MESSAGE 19 ---
+Date: 2022-10-26 08:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Why have you sent me money?
+
+--- MESSAGE 20 ---
+Date: 2022-10-26 13:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'll be going to the hospital soon
+
+--- MESSAGE 21 ---
+Date: 2022-10-26 16:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 22 ---
+Date: 2022-10-26 17:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I am at the hospital now. 
+
+--- MESSAGE 23 ---
+Date: 2022-10-27 10:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I already got myself breakfast 
+
+--- MESSAGE 24 ---
+Date: 2022-10-27 20:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼￼￼￼
+
+--- MESSAGE 25 ---
+Date: 2022-10-28 09:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: When are you coming in because I'll be leaving around lunchtime 

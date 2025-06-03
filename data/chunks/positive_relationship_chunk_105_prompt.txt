@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-01-20 15:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: They've moved it up because of covid 
+
+--- MESSAGE 2 ---
+Date: 2022-01-20 19:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'll book it in now 
+
+--- MESSAGE 3 ---
+Date: 2022-01-20 19:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I got a 16 pack of toilet paper for you 😊
+
+--- MESSAGE 4 ---
+Date: 2022-01-20 19:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'll have a look now 
+
+--- MESSAGE 5 ---
+Date: 2022-01-21 09:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 6 ---
+Date: 2022-01-21 09:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: This is my confirmed date for surgery now 😊
+
+--- MESSAGE 7 ---
+Date: 2022-01-21 15:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'll see you later this evening still
+
+--- MESSAGE 8 ---
+Date: 2022-01-21 15:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ?
+
+--- MESSAGE 9 ---
+Date: 2022-01-21 16:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We've finished early so I'm on my way now 😊
+
+--- MESSAGE 10 ---
+Date: 2022-01-21 16:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm just here now. Where are you at the moment? 😊
+
+--- MESSAGE 11 ---
+Date: 2022-01-21 17:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 12 ---
+Date: 2022-01-21 17:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 13 ---
+Date: 2022-01-21 18:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 14 ---
+Date: 2022-01-22 17:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Did Joshua get my voice message? 
+
+--- MESSAGE 15 ---
+Date: 2022-01-23 14:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'll give you the address one moment
+
+--- MESSAGE 16 ---
+Date: 2022-01-23 14:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Building 431 Cnr Beazley Avenue &, University Bvd, Bentley WA 6102
+
+--- MESSAGE 17 ---
+Date: 2022-01-23 14:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: When do you plan on getting here?
+
+--- MESSAGE 18 ---
+Date: 2022-01-23 18:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Is this from a book you're reading?
+
+--- MESSAGE 19 ---
+Date: 2022-01-24 09:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I sent you some money for you 😊
+
+--- MESSAGE 20 ---
+Date: 2022-01-24 20:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Can I come over on Wednesday morning instead?
+
+--- MESSAGE 21 ---
+Date: 2022-01-24 20:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: And I'm working from home from 12pm till 8pm
+
+--- MESSAGE 22 ---
+Date: 2022-01-26 12:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Where was this rally?
+
+--- MESSAGE 23 ---
+Date: 2022-01-26 19:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Work has been busy today
+
+--- MESSAGE 24 ---
+Date: 2022-01-27 09:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I paid rent for you so that you can keep getting ahead 😊
+
+--- MESSAGE 25 ---
+Date: 2022-01-27 09:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I've never done this before so this is all new to me 🙇🏻‍♂️

@@ -1,0 +1,204 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-11-05 18:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.62)
+Keywords: sorry
+Text: You're acting as if you're a victim through all of this, that you're the one who is hurting the most and you're the one everyone should feel sorry for. 
+
+--- MESSAGE 2 ---
+Date: 2022-12-31 08:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.62)
+Text: Just remember Louisa, this whole situation is YOUR fault and you can only blame yourself for it all
+
+--- MESSAGE 3 ---
+Date: 2021-11-15 13:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.62)
+Text: NO ONE!!!!! 😡😡😡
+
+--- MESSAGE 4 ---
+Date: 2022-11-03 10:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.63)
+Text: I don't want you to visit Lily until you tell me how and why Lily drowned in the bath. 
+
+--- MESSAGE 5 ---
+Date: 2022-09-08 13:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.63)
+Text: No she is staying in this room but isolation is over 
+
+--- MESSAGE 6 ---
+Date: 2022-09-17 21:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.63)
+Text: It's not fair that Lily has suffered this incident before she could even experience her own life. 
+
+--- MESSAGE 7 ---
+Date: 2022-03-12 20:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.63)
+Text: I used a sock so it would stop hurting me 🙇🏻‍♂️
+
+--- MESSAGE 8 ---
+Date: 2022-10-18 11:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.63)
+Text: No you have not, you have it gone through step by step how this happened, you keep stating Lily wasn't left alone but how is that possible how could she be not left alone and drown at the same time 
+
+--- MESSAGE 9 ---
+Date: 2021-12-15 17:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.63)
+Text: It doesn't matter if this threat can be proven or not it is already been accepted by the passport office and has been supported by the 2 year family violence restraining order AND the police order that was issued by the detective 
+
+--- MESSAGE 10 ---
+Date: 2022-10-30 09:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.64)
+Text: It's beyond unfair because Lily wasn't born like this. Her normal everyday life was taken. 
+
+--- MESSAGE 11 ---
+Date: 2022-10-10 11:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.65)
+Keywords: care,trust
+Text: I don't care, I don't trust that kid at all around Lily as he was present when Lily drowned. 
+
+--- MESSAGE 12 ---
+Date: 2022-01-09 18:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.65)
+Text: My god you messaged me with a routine, then you don't want to anymore. That is not fair and emotionally abusive towards me. 
+
+--- MESSAGE 13 ---
+Date: 2022-02-16 16:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.65)
+Text: Apparently she emailed you saying she was sick and to cancel todays session? 
+
+--- MESSAGE 14 ---
+Date: 2022-07-19 13:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.65)
+Text: Oh no never mind I read it wrong 
+
+--- MESSAGE 15 ---
+Date: 2022-02-25 17:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.66)
+Keywords: trust,hope
+Text: You obviously don't trust me as a parent. You don't believe in me, you don't have any faith in me. If you want me to bring Lily back tonight I will because you have no hope or faith in me as a parent
+
+--- MESSAGE 16 ---
+Date: 2022-03-09 12:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.66)
+Text: Lou I am bored but I'm too scared to go anywhere because of covid
+
+--- MESSAGE 17 ---
+Date: 2022-02-27 20:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.66)
+Text: I got negative on my covid again today, so I am definitely covid negative
+
+--- MESSAGE 18 ---
+Date: 2022-06-02 17:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.67)
+Text: I don't know why but on my way home I started to feel sick 🙇🏻‍♂️
+
+--- MESSAGE 19 ---
+Date: 2022-03-25 20:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.67)
+Text: Women weren't allowed credit cards!!? That's crazy!
+
+--- MESSAGE 20 ---
+Date: 2022-11-19 12:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.67)
+Text: You just can't handle the truth because it makes you look bad
+
+--- MESSAGE 21 ---
+Date: 2022-03-18 20:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.67)
+Text: Emphasised "My sister told me there were ghosts in the trains (it backs onto the railway line) so I was terrified especially at night"
+
+--- MESSAGE 22 ---
+Date: 2022-11-05 18:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.67)
+Text: Yeah the way you have raised Joshua is so wrong. He has such bad behaviour issues and even his Dad Michael agrees. 
+
+--- MESSAGE 23 ---
+Date: 2022-01-12 16:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.67)
+Text: And I was going to sort everything out, I was going to speak to my family about all of this bullshit 
+
+--- MESSAGE 24 ---
+Date: 2022-06-23 11:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.67)
+Text: I'm done fighting and arguing with you. 
+
+--- MESSAGE 25 ---
+Date: 2022-09-14 19:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.67)
+Keywords: thank
+Text: I can't even say thank you for getting me food without you saying something hurtful towards me 

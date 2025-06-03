@@ -1,0 +1,203 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-09-21 16:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: These are all nice photos 
+
+--- MESSAGE 2 ---
+Date: 2022-09-22 07:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: It's easier if the buttons are not on 
+
+--- MESSAGE 3 ---
+Date: 2022-09-23 12:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: It sounds like what you want Louisa is to have Lily full time custody again and let me visit her once or twice a week, the same arrangement that suited you and only you. 
+
+--- MESSAGE 4 ---
+Date: 2022-09-26 11:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: That'll be easier 
+
+--- MESSAGE 5 ---
+Date: 2022-10-13 19:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: That looks nice 
+
+--- MESSAGE 6 ---
+Date: 2022-10-13 19:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: That sounds nice 
+
+--- MESSAGE 7 ---
+Date: 2022-10-13 19:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: That sounds nice Louisa 
+
+--- MESSAGE 8 ---
+Date: 2022-10-28 17:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: How nice 
+
+--- MESSAGE 9 ---
+Date: 2022-11-16 17:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: You favoured Joshua all the time. 
+
+--- MESSAGE 10 ---
+Date: 2022-12-30 19:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: I'm not having a go at you or anything I just want to know because I may take her to the hospital if she still is like this 
+
+--- MESSAGE 11 ---
+Date: 2023-01-06 16:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: A response would be nice. 
+
+--- MESSAGE 12 ---
+Date: 2023-03-07 16:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: I would like to get Lily a passport because I want to take her to the doctor in America 
+
+--- MESSAGE 13 ---
+Date: 2023-03-15 09:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Keywords: future
+Text: A response regarding your daughters health and future would be nice. 
+
+--- MESSAGE 14 ---
+Date: 2022-03-18 20:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: That place looks very natural 
+
+--- MESSAGE 15 ---
+Date: 2022-03-27 07:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: Ohhh that sounds more like a nightmare Lou 🙇🏻‍♂️
+
+--- MESSAGE 16 ---
+Date: 2021-11-08 16:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Keywords: thank
+Text: Thank you Lulu! I have an audition for the theatre company due this Friday too, it's a musical so I have to do a song 🙇🏻‍♂️🙇🏻‍♂️
+
+--- MESSAGE 17 ---
+Date: 2022-05-31 12:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: What a little cutie!! 
+
+--- MESSAGE 18 ---
+Date: 2022-12-03 17:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: Lily doesn't have a brother, Lily doesn't need a brother especially a kid like Joshua. 
+
+--- MESSAGE 19 ---
+Date: 2022-01-12 16:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: Me telling you that I don't want to talk is respectful to you. 
+
+--- MESSAGE 20 ---
+Date: 2022-09-17 21:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: I'm not lying, the situation has totally changed from that time Louisa 
+
+--- MESSAGE 21 ---
+Date: 2022-09-22 16:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.42)
+Text: I didn't say you hurt Lily intentionally. 
+
+--- MESSAGE 22 ---
+Date: 2022-03-11 11:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.41)
+Text: I was thinking maybe next week to let my arm heal a little bit more, do you agree? 
+
+--- MESSAGE 23 ---
+Date: 2022-03-28 10:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.41)
+Text: We should do more of them like that 
+
+--- MESSAGE 24 ---
+Date: 2022-07-19 16:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.41)
+Keywords: sorry
+Text: I'm sorry you feel that way but that is not my fault. 
+
+--- MESSAGE 25 ---
+Date: 2022-09-14 19:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: You are not getting abused here. 

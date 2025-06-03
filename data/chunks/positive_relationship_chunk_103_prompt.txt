@@ -1,0 +1,201 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-01-09 18:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I still haven't spoken to her Louisa as we speak. 
+
+--- MESSAGE 2 ---
+Date: 2022-01-09 18:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: And did you tell them that you told me I have zero choice with Lily? 
+
+--- MESSAGE 3 ---
+Date: 2022-01-09 18:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: That is not the law Louisa. 
+
+--- MESSAGE 4 ---
+Date: 2022-01-09 18:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It is not. 
+
+--- MESSAGE 5 ---
+Date: 2022-01-09 18:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: So then why should I parent if you are the one who makes the decisions about everything? 
+
+--- MESSAGE 6 ---
+Date: 2022-01-09 18:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Then we have nothing further to talk about and I will be calling family court tomorrow.
+
+--- MESSAGE 7 ---
+Date: 2022-01-09 18:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Then we have nothing further to talk about and I will be calling family court tomorrow.
+
+--- MESSAGE 8 ---
+Date: 2022-01-10 09:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Keywords: listen
+Text: I can't listen to audio messages because I'm at work
+
+--- MESSAGE 9 ---
+Date: 2022-01-12 15:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I don't do that. 
+
+--- MESSAGE 10 ---
+Date: 2022-01-12 16:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I can't talk to you without you always labelling me and putting me in groups that I'm not in. 
+
+--- MESSAGE 11 ---
+Date: 2022-01-12 16:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Just keep labelling me
+
+--- MESSAGE 12 ---
+Date: 2022-01-12 16:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Here 
+
+--- MESSAGE 13 ---
+Date: 2022-01-12 16:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It 
+
+--- MESSAGE 14 ---
+Date: 2022-01-12 16:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Everything you have just said Louisa
+
+--- MESSAGE 15 ---
+Date: 2022-01-12 16:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: See the key differences between you and I?
+
+--- MESSAGE 16 ---
+Date: 2022-01-12 19:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I left you louisa. 
+
+--- MESSAGE 17 ---
+Date: 2022-01-12 19:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Then why don't you do that with your father? 
+
+--- MESSAGE 18 ---
+Date: 2022-01-12 19:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Why don't you report him to several agencies?
+
+--- MESSAGE 19 ---
+Date: 2022-01-12 19:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It wasn't for me 
+
+--- MESSAGE 20 ---
+Date: 2022-01-12 19:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Because I'm it involved her?
+
+--- MESSAGE 21 ---
+Date: 2022-01-12 19:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: And it didn't involve you
+
+--- MESSAGE 22 ---
+Date: 2022-01-12 19:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: So why do we have to keep talking about it?
+
+--- MESSAGE 23 ---
+Date: 2022-01-12 20:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Getting along with everyone with boundaries is not impossible. You may think it is but it's not 
+
+--- MESSAGE 24 ---
+Date: 2022-01-13 14:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What even is that response Louisa? 
+
+--- MESSAGE 25 ---
+Date: 2022-01-13 14:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: These are your demands for me to see the kids again?

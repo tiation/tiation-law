@@ -1,0 +1,216 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-01-24 20:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.62)
+Keywords: good
+Text: Yeah I can do that then, sounds good 😊
+
+--- MESSAGE 2 ---
+Date: 2022-01-29 06:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.62)
+Keywords: good
+Text: Yeah that sounds good 😊
+
+--- MESSAGE 3 ---
+Date: 2022-02-15 22:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.62)
+Keywords: thank
+Text: Haha no it's okay but thank you for the offer Lou I have bandaids here actually 
+
+--- MESSAGE 4 ---
+Date: 2022-02-17 12:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.62)
+Keywords: good
+Text: Yeah that is a good resume/CV Lou
+
+--- MESSAGE 5 ---
+Date: 2022-02-27 20:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.62)
+Keywords: please
+Text: That would be nice if you can for me please 
+
+--- MESSAGE 6 ---
+Date: 2022-03-01 18:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.62)
+Keywords: good
+Text: Yeah I'm doing good 
+
+--- MESSAGE 7 ---
+Date: 2022-03-02 14:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.62)
+Keywords: thank
+Text: Okay then Lou. I should be fine though but thank you 
+
+--- MESSAGE 8 ---
+Date: 2022-05-03 12:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.62)
+Text: Thanks for being supportive Lou 🙇🏻‍♂️
+
+--- MESSAGE 9 ---
+Date: 2022-05-10 14:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.62)
+Text: Awesome Lou 👦🏻🙌🏼
+
+--- MESSAGE 10 ---
+Date: 2022-07-01 22:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.62)
+Text: Yes I will Lou. I do not plan on having any kind of rough play with Joshua at all. 
+
+--- MESSAGE 11 ---
+Date: 2022-07-03 19:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.62)
+Keywords: well
+Text:  Well I'm glad he did. 
+
+--- MESSAGE 12 ---
+Date: 2022-09-03 16:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.62)
+Keywords: good
+Text: Yeah she told me that's good then 
+
+--- MESSAGE 13 ---
+Date: 2022-09-17 21:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.62)
+Text: And that's great that's my Mums choice. 
+
+--- MESSAGE 14 ---
+Date: 2022-09-22 18:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.62)
+Keywords: support,good,well
+Text: You had to make sure Joshua was well and good first even though he wasn't the one who drowned and was on life support. 
+
+--- MESSAGE 15 ---
+Date: 2022-12-30 21:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.62)
+Text: I gave her nurofen to see if that helps. If she is still like this tomorrow I am taking her to the hospital
+
+--- MESSAGE 16 ---
+Date: 2023-04-01 11:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.62)
+Keywords: please
+Text: Could you please respond with a mature and reasonable response regarding Lily's passport. 
+
+--- MESSAGE 17 ---
+Date: 2022-06-04 11:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.62)
+Text: These are all very lovely photos 
+
+--- MESSAGE 18 ---
+Date: 2022-09-20 17:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.62)
+Text: These are very lovely photos 
+
+--- MESSAGE 19 ---
+Date: 2022-01-24 09:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.62)
+Text: Thanks Louisa 😊 the day has just started! Doing physical warm ups 
+
+--- MESSAGE 20 ---
+Date: 2022-01-09 18:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.62)
+Keywords: please,understand
+Text: I didn't want to leave at all. Please understand this but you kept telling me I had zero choice with Lily, do you know how that makes me feel? It makes me feel like I'm not a parent, I'm not a dad. That's why I left Louisa. I didn't leave to go choose sides as you keep stating this is untrue. 
+
+--- MESSAGE 21 ---
+Date: 2022-01-12 16:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.62)
+Keywords: better
+Text: As I've said before you, it doesn't matter who or how I got it, it was going to make our lives a whole lot better, it's not my fault you couldn't see the bigger picture 
+
+--- MESSAGE 22 ---
+Date: 2022-11-16 16:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.62)
+Text: So what are you saying Louisa? That what happened to Lily wasn't your fault or responsibility? That it is all Lily's fault for the way that she currently is?
+
+--- MESSAGE 23 ---
+Date: 2022-09-17 22:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.62)
+Text: So if you want to visit Lily on certain days and times we would have to organise it and if you want to bring Joshua along you can as I would not cut Joshua out of Lily's life
+
+--- MESSAGE 24 ---
+Date: 2022-02-24 16:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.62)
+Text: He is fast, he didn't even bother putting his socks on just his shoes haha
+
+--- MESSAGE 25 ---
+Date: 2022-06-23 07:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.62)
+Keywords: help
+Text: What do you want me to do Lou? 
+
+You do not have to resign from work, I said I would help you you do not have to do that. 

@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-08-20 21:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What do you mean?
+
+--- MESSAGE 2 ---
+Date: 2022-08-20 21:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Oh was it?
+
+--- MESSAGE 3 ---
+Date: 2022-08-20 21:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmm what a coincidence 
+
+--- MESSAGE 4 ---
+Date: 2022-08-21 09:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I was going to take Lily to watch it 
+
+--- MESSAGE 5 ---
+Date: 2022-08-21 09:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: At the movies 
+
+--- MESSAGE 6 ---
+Date: 2022-08-21 09:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How did my mum go? 
+
+--- MESSAGE 7 ---
+Date: 2022-08-21 09:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: The password should be Batmamvsuperman1 
+
+--- MESSAGE 8 ---
+Date: 2022-08-21 09:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Or it might be Batmanvsuperman2
+
+--- MESSAGE 9 ---
+Date: 2022-08-21 09:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmmm
+
+--- MESSAGE 10 ---
+Date: 2022-08-21 09:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I just reset it 
+
+--- MESSAGE 11 ---
+Date: 2022-08-23 07:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You can come down 
+
+--- MESSAGE 12 ---
+Date: 2022-08-23 17:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm coming now 
+
+--- MESSAGE 13 ---
+Date: 2022-08-24 08:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Are you coming down?
+
+--- MESSAGE 14 ---
+Date: 2022-08-24 08:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You can come down 
+
+--- MESSAGE 15 ---
+Date: 2022-08-25 12:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I've got the runs 
+
+--- MESSAGE 16 ---
+Date: 2022-08-25 12:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Then go to the toilet
+
+--- MESSAGE 17 ---
+Date: 2022-08-25 12:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It's probably the kfc
+
+--- MESSAGE 18 ---
+Date: 2022-08-25 22:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: The real Lily 
+
+--- MESSAGE 19 ---
+Date: 2022-08-25 22:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 20 ---
+Date: 2022-08-25 22:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What do you mean?
+
+--- MESSAGE 21 ---
+Date: 2022-08-26 20:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I got McDonald's 
+
+--- MESSAGE 22 ---
+Date: 2022-08-26 20:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What did you and my sister eat?
+
+--- MESSAGE 23 ---
+Date: 2022-08-26 20:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: About to fall asleep 
+
+--- MESSAGE 24 ---
+Date: 2022-08-27 07:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm using my phone to take calls for work 
+
+--- MESSAGE 25 ---
+Date: 2022-08-27 17:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Are your parents hungry?

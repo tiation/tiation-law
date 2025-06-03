@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-10-28 15:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I just woke up from a nap
+
+--- MESSAGE 2 ---
+Date: 2022-10-28 17:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Did you get any drinks with the order?
+
+--- MESSAGE 3 ---
+Date: 2022-10-29 13:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You sent me so much money 
+
+--- MESSAGE 4 ---
+Date: 2022-10-29 17:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What's the license plate?
+
+--- MESSAGE 5 ---
+Date: 2022-10-30 15:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I will be at the hospital at 4:30
+
+--- MESSAGE 6 ---
+Date: 2022-11-01 15:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm finished 
+
+--- MESSAGE 7 ---
+Date: 2022-11-02 16:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Just not yet until I have a routine set in 
+
+--- MESSAGE 8 ---
+Date: 2022-11-03 09:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How do you think Lily is? 
+
+--- MESSAGE 9 ---
+Date: 2022-11-03 09:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How does this work?
+
+--- MESSAGE 10 ---
+Date: 2022-11-03 09:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You have not told me. 
+
+--- MESSAGE 11 ---
+Date: 2022-11-04 15:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Are you coming?
+
+--- MESSAGE 12 ---
+Date: 2022-11-05 15:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm leaving now. 
+
+--- MESSAGE 13 ---
+Date: 2022-11-05 18:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How deep was the water in the bath? Was Lily floating in the bath? 
+
+--- MESSAGE 14 ---
+Date: 2022-11-05 18:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It's not a lie. 
+
+--- MESSAGE 15 ---
+Date: 2022-11-05 18:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Joshua had done this and I told him not to and his response was that you let him and he can do what he wants. 
+
+--- MESSAGE 16 ---
+Date: 2022-11-05 18:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: When child protection tell me that there are so many questions left unanswered it raises so many concerns about you. 
+
+--- MESSAGE 17 ---
+Date: 2022-11-05 18:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 18 ---
+Date: 2022-11-05 19:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 19 ---
+Date: 2022-11-05 19:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How fucking dare you!
+
+--- MESSAGE 20 ---
+Date: 2022-11-06 15:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I've Just left 
+
+--- MESSAGE 21 ---
+Date: 2022-11-08 20:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You don't have to keep sending me money 
+
+--- MESSAGE 22 ---
+Date: 2022-11-09 12:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How is Lily? 
+
+--- MESSAGE 23 ---
+Date: 2022-11-10 20:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Will have to wait and see what NDIS says
+
+--- MESSAGE 24 ---
+Date: 2022-11-10 20:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: When have you seen Lily?
+
+--- MESSAGE 25 ---
+Date: 2022-11-10 21:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You carry fucking nothing Louisa. 

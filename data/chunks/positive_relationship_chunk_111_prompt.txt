@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-02-13 20:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: 840 people tonight
+
+--- MESSAGE 2 ---
+Date: 2022-02-13 20:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We are going to a rooftop penthouse tonight for afters I'll send a photo
+
+--- MESSAGE 3 ---
+Date: 2022-02-13 22:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 4 ---
+Date: 2022-02-14 10:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Ohh it is at 2pm till 5pm
+
+--- MESSAGE 5 ---
+Date: 2022-02-14 10:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How are you today?
+
+--- MESSAGE 6 ---
+Date: 2022-02-14 13:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 7 ---
+Date: 2022-02-14 13:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: This is the boat we are going on today
+
+--- MESSAGE 8 ---
+Date: 2022-02-14 14:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 9 ---
+Date: 2022-02-14 15:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 10 ---
+Date: 2022-02-14 15:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: My manager is looking into it for you 
+
+--- MESSAGE 11 ---
+Date: 2022-02-14 17:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We are now at a bar now in Elizabeth Quay so we are off the boat on land ☺️
+
+--- MESSAGE 12 ---
+Date: 2022-02-14 18:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ❤️❤️❤️
+
+--- MESSAGE 13 ---
+Date: 2022-02-14 20:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What happened?
+
+--- MESSAGE 14 ---
+Date: 2022-02-14 20:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Lou?
+
+--- MESSAGE 15 ---
+Date: 2022-02-14 20:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ??
+
+--- MESSAGE 16 ---
+Date: 2022-02-14 21:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hey Lou 
+
+--- MESSAGE 17 ---
+Date: 2022-02-14 21:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Lou!!
+
+--- MESSAGE 18 ---
+Date: 2022-02-15 10:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Lou!!??
+
+--- MESSAGE 19 ---
+Date: 2022-02-15 11:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hey Lou 
+
+--- MESSAGE 20 ---
+Date: 2022-02-15 11:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What are you up to Lou 
+
+--- MESSAGE 21 ---
+Date: 2022-02-15 11:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: My ticket blew over when I closed the door 
+
+--- MESSAGE 22 ---
+Date: 2022-02-15 11:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: And I didn't realise 
+
+--- MESSAGE 23 ---
+Date: 2022-02-15 11:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What is the rose for? 🙇🏻‍♂️
+
+--- MESSAGE 24 ---
+Date: 2022-02-15 11:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: 🥇
+
+--- MESSAGE 25 ---
+Date: 2022-02-15 19:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼

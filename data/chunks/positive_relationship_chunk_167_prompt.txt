@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-12-22 21:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Lily does not deserve to live her life the way she is currently. 
+
+--- MESSAGE 2 ---
+Date: 2022-12-23 10:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Are you coming today?
+
+--- MESSAGE 3 ---
+Date: 2022-12-23 10:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ??
+
+--- MESSAGE 4 ---
+Date: 2022-12-23 18:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼Lily was not born to be the way she is now. 
+
+--- MESSAGE 5 ---
+Date: 2022-12-24 17:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I've had my whole parenting experience taken away from me. You didn't, you got to have Joshua and watch him grow up and develop. 
+
+--- MESSAGE 6 ---
+Date: 2022-12-24 17:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm not even considered a parent anymore, I'm just carer for Lily now. 
+
+--- MESSAGE 7 ---
+Date: 2022-12-29 15:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Is doing 3 sessions a week enough?
+
+--- MESSAGE 8 ---
+Date: 2022-12-29 15:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I was gonna give it 20 sessions and do a review
+
+--- MESSAGE 9 ---
+Date: 2022-12-29 15:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: So far she has only done 7 sessions 
+
+--- MESSAGE 10 ---
+Date: 2022-12-29 15:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I don't think so because she is too prone to seizures 
+
+--- MESSAGE 11 ---
+Date: 2022-12-29 16:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I will look into it later on
+
+--- MESSAGE 12 ---
+Date: 2022-12-29 21:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I didn't take any sides 
+
+--- MESSAGE 13 ---
+Date: 2022-12-29 21:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We can talk about it tomorrow
+
+--- MESSAGE 14 ---
+Date: 2022-12-29 21:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: In person 
+
+--- MESSAGE 15 ---
+Date: 2022-12-29 22:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We will discuss it tomorrow
+
+--- MESSAGE 16 ---
+Date: 2022-12-30 10:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ??
+
+--- MESSAGE 17 ---
+Date: 2022-12-30 21:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: She is settled now 
+
+--- MESSAGE 18 ---
+Date: 2022-12-30 21:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: She is sleeping 
+
+--- MESSAGE 19 ---
+Date: 2022-12-30 21:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I will bring it up with them 
+
+--- MESSAGE 20 ---
+Date: 2022-12-30 21:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Yet you think I don't know anything. 
+
+--- MESSAGE 21 ---
+Date: 2022-12-31 08:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Every time I move her right leg she twitches and jolts. 
+
+--- MESSAGE 22 ---
+Date: 2022-12-31 08:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Next time don't do any stretches in the chamber because you must've pulled something 
+
+--- MESSAGE 23 ---
+Date: 2022-12-31 08:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How dare you. 
+
+--- MESSAGE 24 ---
+Date: 2022-12-31 08:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Do not come to the therapy sessions again. 
+
+--- MESSAGE 25 ---
+Date: 2022-12-31 08:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: And next time you speak to Joshua you can tell him from me that he is never seeing Lily again and that Lily is not his sister at all. 

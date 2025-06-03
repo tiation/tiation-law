@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2021-11-15 11:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: And just before summer too 
+
+--- MESSAGE 2 ---
+Date: 2021-11-15 11:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I wonder what air con we are going to have 
+
+--- MESSAGE 3 ---
+Date: 2021-11-15 11:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: The one in the office right? 
+
+--- MESSAGE 4 ---
+Date: 2021-11-15 11:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I know what you mean 
+
+--- MESSAGE 5 ---
+Date: 2021-11-15 12:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm going to cook kangaroo tomorrow
+
+--- MESSAGE 6 ---
+Date: 2021-11-15 13:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: That was quick for the pram 
+
+--- MESSAGE 7 ---
+Date: 2021-11-16 10:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I've already parked 🙇🏻‍♂️
+
+--- MESSAGE 8 ---
+Date: 2021-11-16 10:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Which one do I go to??? 
+
+--- MESSAGE 9 ---
+Date: 2021-11-16 10:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Oh golly gosh 🙇🏻‍♂️
+
+--- MESSAGE 10 ---
+Date: 2021-11-17 13:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'll come down after this call 
+
+--- MESSAGE 11 ---
+Date: 2021-11-17 13:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: And grab her
+
+--- MESSAGE 12 ---
+Date: 2021-11-18 10:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 13 ---
+Date: 2021-11-19 15:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Are you still in the car? 
+
+--- MESSAGE 14 ---
+Date: 2021-11-19 15:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: 🙇🏻‍♂️
+
+--- MESSAGE 15 ---
+Date: 2021-11-19 15:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Just finishing up 
+
+--- MESSAGE 16 ---
+Date: 2021-11-19 15:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Maybe 5-10 minutes 
+
+--- MESSAGE 17 ---
+Date: 2021-11-19 15:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It's just underneath you hehe 😜
+
+--- MESSAGE 18 ---
+Date: 2021-11-19 15:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It's closed 😔
+
+--- MESSAGE 19 ---
+Date: 2021-11-20 10:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmm probably not, we would have to plan it 
+
+--- MESSAGE 20 ---
+Date: 2021-11-20 12:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 21 ---
+Date: 2021-11-20 12:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 22 ---
+Date: 2021-11-20 12:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmmmm 
+
+--- MESSAGE 23 ---
+Date: 2021-11-20 12:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I don't know 
+
+--- MESSAGE 24 ---
+Date: 2021-11-20 12:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: 🙇🏻‍♂️🙇🏻‍♂️🙇🏻‍♂️
+
+--- MESSAGE 25 ---
+Date: 2021-11-20 12:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Don't rush 

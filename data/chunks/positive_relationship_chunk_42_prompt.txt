@@ -1,0 +1,205 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-01-27 10:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: It'll definitely be rated M
+
+--- MESSAGE 2 ---
+Date: 2022-02-14 10:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: And yes I will ask for you 
+
+--- MESSAGE 3 ---
+Date: 2022-02-14 15:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: And yes I did
+
+--- MESSAGE 4 ---
+Date: 2022-02-14 15:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Keywords: help
+Text: I'm going to help you though Lou with things especially financially because I'm not going to let you go without money, food or rent 
+
+--- MESSAGE 5 ---
+Date: 2022-02-14 15:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Keywords: help
+Text: I am going to help you Lou
+
+--- MESSAGE 6 ---
+Date: 2022-02-14 21:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes you can come over 
+
+--- MESSAGE 7 ---
+Date: 2022-02-21 12:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: I go to the shops now to get healthy food 🙇🏻‍♂️
+
+--- MESSAGE 8 ---
+Date: 2022-02-23 15:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Ohh okay then, no extra Lily coming this year haha
+
+--- MESSAGE 9 ---
+Date: 2022-02-24 16:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes Lou 
+
+--- MESSAGE 10 ---
+Date: 2022-02-26 21:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: And yes you can bring me back home and borrow the car 
+
+--- MESSAGE 11 ---
+Date: 2022-02-27 15:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes you can 
+
+--- MESSAGE 12 ---
+Date: 2022-02-28 09:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: I'm definitely more of an in class student 
+
+--- MESSAGE 13 ---
+Date: 2022-02-28 12:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes I did Lou 
+
+--- MESSAGE 14 ---
+Date: 2022-02-28 20:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Hey Lou yes I'm staying over night
+
+--- MESSAGE 15 ---
+Date: 2022-03-09 14:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Hopefully they'll reply back and they'll get it sorted out 
+
+--- MESSAGE 16 ---
+Date: 2022-03-09 19:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Keywords: together
+Text: There is a way yes and I believe you and I can achieve it together. 
+
+--- MESSAGE 17 ---
+Date: 2022-03-09 20:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Keywords: wish
+Text: Why do you wish this Lou? 
+
+--- MESSAGE 18 ---
+Date: 2022-03-11 05:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes I am awake 
+
+--- MESSAGE 19 ---
+Date: 2022-03-13 19:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes I do 🙇🏻‍♂️
+
+--- MESSAGE 20 ---
+Date: 2022-03-14 07:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes I will Lou 
+
+--- MESSAGE 21 ---
+Date: 2022-03-14 20:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes I vacuum and get my brace fixed 👦🏻
+
+--- MESSAGE 22 ---
+Date: 2022-03-20 09:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes Lou 🙇🏻‍♂️
+
+--- MESSAGE 23 ---
+Date: 2022-03-21 13:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes really Lou 
+
+--- MESSAGE 24 ---
+Date: 2022-03-23 09:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Keywords: help
+Text: Help him choose what?
+
+--- MESSAGE 25 ---
+Date: 2022-03-27 13:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Hmmmm that's interesting then. So there are two cases at the moment?

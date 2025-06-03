@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-03-14 13:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You can maybe come after my class? 🙇🏻‍♂️
+
+--- MESSAGE 2 ---
+Date: 2022-03-14 13:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It finishes at 4pm
+
+--- MESSAGE 3 ---
+Date: 2022-03-14 13:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I bring my laptop this time 
+
+--- MESSAGE 4 ---
+Date: 2022-03-14 16:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm coming now
+
+--- MESSAGE 5 ---
+Date: 2022-03-14 20:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ✊🏿
+
+--- MESSAGE 6 ---
+Date: 2022-03-14 20:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Ohh golly gosh Lou covid is now everywhere hmmmm
+
+--- MESSAGE 7 ---
+Date: 2022-03-14 20:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: My class is only going for 1 hour now tomorrow
+
+--- MESSAGE 8 ---
+Date: 2022-03-15 06:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I was awoken at 2am by my TV turning on all by itself 🙇🏻‍♂️😰
+
+--- MESSAGE 9 ---
+Date: 2022-03-15 07:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It was a demon I know it was 🙇🏻‍♂️
+
+--- MESSAGE 10 ---
+Date: 2022-03-15 07:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: My PlayStation had turned on too
+
+--- MESSAGE 11 ---
+Date: 2022-03-15 07:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It was just the blue screen 
+
+--- MESSAGE 12 ---
+Date: 2022-03-15 07:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I will show you 
+
+--- MESSAGE 13 ---
+Date: 2022-03-15 07:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 14 ---
+Date: 2022-03-15 07:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: And the only way for that to be turned on is if the power button on the tv remote was pushed 
+
+--- MESSAGE 15 ---
+Date: 2022-03-15 07:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 16 ---
+Date: 2022-03-15 07:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: 😱😱😱
+
+--- MESSAGE 17 ---
+Date: 2022-03-15 07:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: That extraterrestrial dimensional beings are planning to capture me for the inner power I hold 🙇🏻‍♂️
+
+--- MESSAGE 18 ---
+Date: 2022-03-15 07:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 19 ---
+Date: 2022-03-15 12:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Lou can I come over to see you pleeeeeeeeease?? 🙇🏻‍♂️
+
+--- MESSAGE 20 ---
+Date: 2022-03-15 12:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I can do that Lou!! 👦🏻
+
+--- MESSAGE 21 ---
+Date: 2022-03-15 12:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: A plain calculator and a plain orange shirt?
+
+--- MESSAGE 22 ---
+Date: 2022-03-15 12:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Kmart doesn't have Joshua's size in the t-shirt 
+
+--- MESSAGE 23 ---
+Date: 2022-03-15 12:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: The smallest they have is size 10
+
+--- MESSAGE 24 ---
+Date: 2022-03-15 12:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 25 ---
+Date: 2022-03-15 12:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What about this?

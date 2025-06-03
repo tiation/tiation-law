@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2021-11-29 16:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I may be home much later s than usual 😤😤
+
+--- MESSAGE 2 ---
+Date: 2021-11-29 16:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 3 ---
+Date: 2021-11-29 16:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I wonder what happened 🙇🏻‍♂️🙇🏻‍♂️
+
+--- MESSAGE 4 ---
+Date: 2021-11-29 16:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Lulu!!! 
+
+--- MESSAGE 5 ---
+Date: 2021-11-29 16:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: LUUUUULUUUUU!!!!! 
+
+--- MESSAGE 6 ---
+Date: 2021-11-29 16:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hellooooooooo Lou!!!!! 👦🏻👦🏻
+
+--- MESSAGE 7 ---
+Date: 2021-11-29 16:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I am here Lulu!!! 🥰🥰
+
+--- MESSAGE 8 ---
+Date: 2021-11-29 16:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Lulu Lulu Lulu!!!! 🙇🏻‍♂️🙇🏻‍♂️🙇🏻‍♂️
+
+--- MESSAGE 9 ---
+Date: 2021-11-29 17:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 10 ---
+Date: 2021-11-29 17:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Finally we have made it 👦🏻
+
+--- MESSAGE 11 ---
+Date: 2021-11-30 18:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼￼￼￼￼￼￼￼￼￼￼￼
+
+--- MESSAGE 12 ---
+Date: 2021-11-30 19:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼I send what you told me to send 🙇🏻‍♂️
+
+--- MESSAGE 13 ---
+Date: 2021-11-30 19:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: This is the right thing to send right?
+
+--- MESSAGE 14 ---
+Date: 2021-12-02 15:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Is rugby on tonight?
+
+--- MESSAGE 15 ---
+Date: 2021-12-03 10:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hey the password is Wrestlemania28 
+
+--- MESSAGE 16 ---
+Date: 2021-12-03 10:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You still haven't found your laptop 
+
+--- MESSAGE 17 ---
+Date: 2021-12-03 10:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Ohh golly gosh 
+
+--- MESSAGE 18 ---
+Date: 2021-12-03 10:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: 🙇🏻‍♂️
+
+--- MESSAGE 19 ---
+Date: 2021-12-03 10:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Maybe check under the bed 
+
+--- MESSAGE 20 ---
+Date: 2021-12-03 10:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Or near the bed 
+
+--- MESSAGE 21 ---
+Date: 2021-12-03 11:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Did you find it?
+
+--- MESSAGE 22 ---
+Date: 2021-12-03 11:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: On my way home now 
+
+--- MESSAGE 23 ---
+Date: 2021-12-04 08:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Maybe try the green apple password
+
+--- MESSAGE 24 ---
+Date: 2021-12-04 09:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Password: App14Gr44n
+
+--- MESSAGE 25 ---
+Date: 2021-12-04 19:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Do I go now to do the socks at Polly and Jerry's now?

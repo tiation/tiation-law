@@ -1,0 +1,205 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-09-22 15:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: And why do you think you should be getting Lily full time? 
+
+--- MESSAGE 2 ---
+Date: 2022-09-22 16:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What happened to Lily should never ever ever had happened. 
+
+--- MESSAGE 3 ---
+Date: 2022-09-22 16:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Keywords: understand
+Text: Do you understand that? 
+
+--- MESSAGE 4 ---
+Date: 2022-09-22 16:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Keywords: understand
+Text: It's you that doesn't understand it 
+
+--- MESSAGE 5 ---
+Date: 2022-09-22 16:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Keywords: understand
+Text: You'll never understand. 
+
+--- MESSAGE 6 ---
+Date: 2022-09-22 16:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You told me that Lily was in your supervision the whole time, so if she was in your supervision the whole time, does that mean you supervised her when she was drowning in the bath??
+
+--- MESSAGE 7 ---
+Date: 2022-09-22 16:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Far out man, I can't believe that you are literally trying to put this on me. 
+
+--- MESSAGE 8 ---
+Date: 2022-09-22 16:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You cannot take responsibility. 
+
+--- MESSAGE 9 ---
+Date: 2022-09-22 16:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: DID I SAY YOU WILL NOT BE PART OF LILY'S LIFE? 
+
+--- MESSAGE 10 ---
+Date: 2022-09-22 16:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How many times do I have to tell you this until it registers?
+
+--- MESSAGE 11 ---
+Date: 2022-09-22 17:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You are making it out to be a competition 
+
+--- MESSAGE 12 ---
+Date: 2022-09-22 17:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I have to grow a whole lot more than the normal everyday parent. 
+
+--- MESSAGE 13 ---
+Date: 2022-09-22 17:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 14 ---
+Date: 2022-09-22 17:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I then told Joshua to never ever do it again and his response was that "mum lets me do it"
+
+--- MESSAGE 15 ---
+Date: 2022-09-22 17:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You let Joshua do whatever even if it includes potentially him dropping Lily down the stairs because you considered Joshua above Lily 
+
+--- MESSAGE 16 ---
+Date: 2022-09-22 19:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Which card are you referring to because I've gotten many different cards from you 
+
+--- MESSAGE 17 ---
+Date: 2022-09-23 07:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You use to put me down for going to the movies. 
+
+--- MESSAGE 18 ---
+Date: 2022-09-23 07:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Who does that.
+
+--- MESSAGE 19 ---
+Date: 2022-09-23 08:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What is happening this Sunday?
+
+--- MESSAGE 20 ---
+Date: 2022-09-23 08:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You do have rights as you are Lily's mum. You saying you have zero rights implies to me that you are willing to give up on Lily because she's not in your custody. 
+
+--- MESSAGE 21 ---
+Date: 2022-09-23 11:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm not driving any wedge between you and Lily. I have stated to you that you will always be able to see Lily as you are her mum. 
+
+--- MESSAGE 22 ---
+Date: 2022-09-23 11:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You are a hypocrite Louisa. 
+
+--- MESSAGE 23 ---
+Date: 2022-09-23 11:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Keywords: understand
+Text: That's what you don't understand Louisa
+
+--- MESSAGE 24 ---
+Date: 2022-09-23 12:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What am I making right?
+
+--- MESSAGE 25 ---
+Date: 2022-09-23 12:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Keywords: understand
+Text: I don't understand what you are wanting to get from me

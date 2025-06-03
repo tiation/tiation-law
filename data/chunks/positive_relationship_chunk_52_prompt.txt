@@ -1,0 +1,209 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2021-09-21 14:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.34)
+Text: Don't worry about me I will be home when I can Lulu ❤️
+
+--- MESSAGE 2 ---
+Date: 2022-02-03 08:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.34)
+Text: I have been don't worry 
+
+--- MESSAGE 3 ---
+Date: 2022-06-17 09:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.34)
+Text: Don't worry about dinner 
+
+--- MESSAGE 4 ---
+Date: 2022-08-13 11:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.34)
+Text: Don't worry 
+
+--- MESSAGE 5 ---
+Date: 2022-10-09 06:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.34)
+Text: Don't worry about it. 
+
+--- MESSAGE 6 ---
+Date: 2021-12-03 18:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.34)
+Text: I'm agreeing with you. 
+
+--- MESSAGE 7 ---
+Date: 2022-01-31 10:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.34)
+Text: He would've been excited too 
+
+--- MESSAGE 8 ---
+Date: 2022-02-08 13:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.34)
+Text: We have the preview today for the play, one at 2:30 the other at 7:30
+
+--- MESSAGE 9 ---
+Date: 2022-02-10 11:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.34)
+Text: Lou are you excited for tonight?
+
+--- MESSAGE 10 ---
+Date: 2022-02-12 18:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.34)
+Text: We had 691 people attend this afternoons session of the play 
+
+--- MESSAGE 11 ---
+Date: 2022-02-14 20:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.34)
+Keywords: together
+Text: Wimiya (Billy) and I are going to write a play together 
+
+--- MESSAGE 12 ---
+Date: 2022-02-16 11:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.34)
+Keywords: good
+Text: Okay that's good then but I meant about the school pick up for today, if you're still at the court at 2:30 let me know and I can go get him 😊
+
+--- MESSAGE 13 ---
+Date: 2022-03-28 10:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.34)
+Text: Showing adventures of Lily 
+
+--- MESSAGE 14 ---
+Date: 2022-06-10 16:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.34)
+Keywords: love,miss
+Text: No I just wanted to say that to you because I love you and miss you 🙇🏻‍♂️
+
+--- MESSAGE 15 ---
+Date: 2022-07-15 19:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.34)
+Keywords: sorry
+Text: Yes I'm working all weekend sorry
+
+--- MESSAGE 16 ---
+Date: 2022-09-04 20:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.34)
+Keywords: please
+Text: Tomorrow can you please get me from McDonald's a mighty McMuffin meal with a cappuccino and a cheeseburger with extra sauce and onions and no pickles with large chips please
+
+--- MESSAGE 17 ---
+Date: 2022-09-21 16:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.34)
+Keywords: well
+Text: Well what else do you want me to do?
+
+--- MESSAGE 18 ---
+Date: 2022-09-22 17:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.34)
+Keywords: well
+Text: Well that's what happened Louisa. I remember it clear as day, I was shocked by what Joshua said. 
+
+--- MESSAGE 19 ---
+Date: 2022-09-29 21:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.34)
+Text: Innocent baby. 
+
+--- MESSAGE 20 ---
+Date: 2022-11-02 18:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.34)
+Text: Yeah I'm busy driving on the freeway 
+
+--- MESSAGE 21 ---
+Date: 2022-11-16 17:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.34)
+Keywords: happy
+Text: I've lost my daughter Lily. You expect me to be happy?
+
+--- MESSAGE 22 ---
+Date: 2021-09-04 10:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.34)
+Text: Okay Lou, my sister can drive up but she will probably have to stay the night because she can't drive past midnight due to her being on Red P's but if she drives she can bring the cat, thoughts??!!
+
+--- MESSAGE 23 ---
+Date: 2022-02-27 20:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.34)
+Keywords: well
+Text: You are doing more than well 
+
+--- MESSAGE 24 ---
+Date: 2021-11-05 14:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.34)
+Text: It's so funny Lulu seeing all the parents complaining about nits, why don't they do what I did and shave their kids head problem solved right Lulu!!? 🙇🏻‍♂️
+
+--- MESSAGE 25 ---
+Date: 2022-12-03 17:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.33)
+Text: I still believe he did something to Lily and you are just hiding it from everyone so he doesn't get hated or get in trouble with anyone, again you will and always have preferred to favour Joshua over Lily. 

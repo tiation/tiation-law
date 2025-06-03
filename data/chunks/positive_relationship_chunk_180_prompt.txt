@@ -1,0 +1,202 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-09-21 16:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.28)
+Text: I'm doing what is being advised. If you don't like it then speak to the communities and CPU here about it 
+
+--- MESSAGE 2 ---
+Date: 2022-01-12 16:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.29)
+Keywords: support,please,understand
+Text: I did not support what my Aunty had sent so please understand that and stop saying and accusing me that I did. 
+
+--- MESSAGE 3 ---
+Date: 2022-09-22 16:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.29)
+Text: You can't accept responsibility. 
+
+--- MESSAGE 4 ---
+Date: 2022-11-15 09:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.29)
+Keywords: well
+Text: Because I may need to go back to mine I am not feeling well at the moment 
+
+--- MESSAGE 5 ---
+Date: 2021-08-26 12:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No after 5 years of study I'll only be on 89k doing medicine because I have to do the internship first 
+
+--- MESSAGE 6 ---
+Date: 2021-08-26 16:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No I don't Lou. 
+
+--- MESSAGE 7 ---
+Date: 2021-09-04 10:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No I can do this 
+
+--- MESSAGE 8 ---
+Date: 2021-09-12 18:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: As I said. I don't plan on talking to anyone about my life. There will be no one I talk to about us, you or me. Whatever happens between us will be only between us. 
+
+--- MESSAGE 9 ---
+Date: 2021-11-04 12:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No I haven't actually 
+
+--- MESSAGE 10 ---
+Date: 2021-11-08 08:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: You're the beat and no one can beat you 🙇🏻‍♂️❤️
+
+--- MESSAGE 11 ---
+Date: 2021-11-09 12:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No I don't think so
+
+--- MESSAGE 12 ---
+Date: 2021-11-11 12:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No I'm not getting takeaway for lunch 
+
+--- MESSAGE 13 ---
+Date: 2021-11-25 16:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: There is no cheese platters or anything here 😡😡😡
+
+--- MESSAGE 14 ---
+Date: 2021-11-25 16:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: And no vegan Doritos 😡😡😱😱
+
+--- MESSAGE 15 ---
+Date: 2021-12-05 14:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No you're not Lou. 
+
+--- MESSAGE 16 ---
+Date: 2021-12-07 08:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No 
+
+--- MESSAGE 17 ---
+Date: 2021-12-11 06:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No I pulled out of it because I wasn't in the right head space. 
+
+--- MESSAGE 18 ---
+Date: 2021-12-15 16:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: You've got written proof of what you said to the passport office, the thing is the passport office would've declined the application if they just went off your word and no written evidence 
+
+--- MESSAGE 19 ---
+Date: 2021-12-15 17:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: Where are you at the moment? There is no key here for me to get in 
+
+--- MESSAGE 20 ---
+Date: 2021-12-18 17:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: Stop. 
+
+--- MESSAGE 21 ---
+Date: 2022-01-06 11:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No response?
+
+--- MESSAGE 22 ---
+Date: 2022-01-09 18:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: There is no legacy. 
+
+--- MESSAGE 23 ---
+Date: 2022-01-13 15:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: Why do you want me to do that ridiculous thing then?
+
+--- MESSAGE 24 ---
+Date: 2022-02-04 17:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No we are not allowed to go out until the show is over 
+
+--- MESSAGE 25 ---
+Date: 2022-02-08 21:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: The show just finished it's why I missed your call 

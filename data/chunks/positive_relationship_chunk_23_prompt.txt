@@ -1,0 +1,212 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-02-27 20:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.59)
+Keywords: good
+Text: Ahh okay then that's good 
+
+--- MESSAGE 2 ---
+Date: 2022-03-12 09:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.59)
+Keywords: please
+Text: Can you please have some breakfast ready for Joshua 
+
+--- MESSAGE 3 ---
+Date: 2022-03-18 20:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.59)
+Text: When we win the lotto then we can do it Lou 🙇🏻‍♂️
+
+--- MESSAGE 4 ---
+Date: 2022-03-27 13:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.59)
+Text: Wow that's a long time until then Lou. 
+
+--- MESSAGE 5 ---
+Date: 2022-03-28 12:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.59)
+Keywords: well
+Text: It's going well Lou I'm just finishing healthy lunch 
+
+--- MESSAGE 6 ---
+Date: 2022-03-31 16:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.59)
+Keywords: hope
+Text: Hope you're okay 
+
+--- MESSAGE 7 ---
+Date: 2022-07-10 10:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.59)
+Keywords: please
+Text: I would like to pick up Lily this coming Tuesday please
+
+--- MESSAGE 8 ---
+Date: 2022-07-18 09:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.59)
+Keywords: please
+Text: I would like to pick Lily up tomorrow morning please.
+
+--- MESSAGE 9 ---
+Date: 2022-07-19 16:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.59)
+Keywords: please
+Text: Now I would like to have Lily 50% of the time please. 
+
+--- MESSAGE 10 ---
+Date: 2022-09-17 22:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.59)
+Keywords: better
+Text: Okay, you got a better idea? 
+
+--- MESSAGE 11 ---
+Date: 2022-09-21 16:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.59)
+Text: These are all lovely memories and moments Louisa ❤️
+
+--- MESSAGE 12 ---
+Date: 2022-10-01 18:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.59)
+Text: I'm going okay thanks
+
+--- MESSAGE 13 ---
+Date: 2022-10-13 19:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.59)
+Text: I'm sure Lily will like it
+
+--- MESSAGE 14 ---
+Date: 2022-10-13 20:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.59)
+Text: Lily looks like she's having an adventure 
+
+--- MESSAGE 15 ---
+Date: 2022-10-20 11:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.59)
+Text: Okay thanks for letting me know 
+
+--- MESSAGE 16 ---
+Date: 2022-10-23 19:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.59)
+Text: Okay thanks
+
+--- MESSAGE 17 ---
+Date: 2023-03-25 13:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.59)
+Keywords: thank,please
+Text: Can you please respond regarding Lily's passport? Thank you 
+
+--- MESSAGE 18 ---
+Date: 2021-12-09 13:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.58)
+Keywords: good
+Text: That's so good Lou!!
+
+--- MESSAGE 19 ---
+Date: 2022-06-07 16:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.58)
+Text: I won't but how bad is it?
+
+--- MESSAGE 20 ---
+Date: 2022-02-07 15:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.58)
+Keywords: care
+Text: Hey Lou, I've finished the dentist already did you want me to come now so I can take care of the kids whilst you do your zoom meeting?
+
+--- MESSAGE 21 ---
+Date: 2022-02-16 11:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.58)
+Keywords: thank
+Text: Thank you Lou, let me know about Joshua though okay??
+
+--- MESSAGE 22 ---
+Date: 2022-07-01 21:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.58)
+Text: Okay then I can do that. What time would you like her back? Maybe 5:30pm?
+
+--- MESSAGE 23 ---
+Date: 2022-02-24 08:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.58)
+Text: Did you see the photos I sent of Lily and you with Lily's head poking out it's so funny 
+
+--- MESSAGE 24 ---
+Date: 2022-03-28 17:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.58)
+Text: ￼Her face after the dog locked her is so funny 😂🤪
+
+--- MESSAGE 25 ---
+Date: 2021-09-25 14:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.57)
+Text: We have delicious food now Lulu 🥰🥺

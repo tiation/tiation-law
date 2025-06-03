@@ -1,0 +1,222 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2021-09-23 11:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.25)
+Text: Yeah we can leave after I finish work 
+
+--- MESSAGE 2 ---
+Date: 2021-11-29 17:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.25)
+Text: You guys look like you're having fun ☺️ I'm still on the bus the traffic is horrendous 🙇🏻‍♂️
+
+--- MESSAGE 3 ---
+Date: 2022-01-30 09:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.25)
+Text: Okay, then let me have the kids every second weekend then that way you won't be having them 24/7 anymore. 
+
+Louisa I do feel strongly about this whole situation, I'm suffering everyday. I never wanted to be here, I never wanted to be a casual dad. 
+
+What do you want me to do?
+
+--- MESSAGE 4 ---
+Date: 2022-02-16 14:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.25)
+Text: Alright I'm just going to do it Lou. I'll go and pick up Joshua now.
+
+--- MESSAGE 5 ---
+Date: 2022-02-28 11:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.25)
+Text: I just checked the dates for uni with the plays, I think I'll be able to do this 
+
+--- MESSAGE 6 ---
+Date: 2022-03-20 06:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.25)
+Text: Look at Lily go she's gotten over 300 plays of her first video ☺️
+
+--- MESSAGE 7 ---
+Date: 2022-05-26 19:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.25)
+Keywords: sorry
+Text: Joshua asked if he wanted to speak to melody to start the call
+Michael asked Joshua if he was staying for a long time or a short time on Saturday 
+Joshua said a short time, Michael asked him who said that and Joshua said his mum 
+Michael asked who Joshua was with, Joshua said he was with Adam and mum has gone to get dinner
+Michael asked Joshua what they are going to do this weekend, Joshua asked if melody is going to be back on the weekends 
+Joshua told Michael about how he has a day off from school tomorrow on Friday, Michael asked him why and Joshua told him it's a pupil free day
+Joshua asked Michael if he knew it was sorry day, Joshua said to Michael that Adam is aboriginal 
+Joshua said to Michael that he is aboriginal but only half aboriginal, Michael told Joshua that he is not aboriginal and Michael kept explaining to Joshua that he is not aboriginal but Joshua kept persisting that he is half aboriginal 
+Michael then asked Joshua what his heritage is and asked if he wanted to know his heritage and Michael told him he is actually from Europe and polish and that is his heritage 
+Michael then said to Joshua that this weekend he is going to have double time with him and Joshua asked what they can do on the weekend and Michael brought up that they can see Joshua's cousins 
+Michael then said he had to go now as he has to drive home because he's at the factory 
+They said goodbye and the call ended
+
+--- MESSAGE 8 ---
+Date: 2022-07-18 12:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.25)
+Text: I pay the wifi for your house so that Joshua is able to either watch or play on his iPad. 
+
+--- MESSAGE 9 ---
+Date: 2022-09-03 16:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.25)
+Text: It was alright 
+
+--- MESSAGE 10 ---
+Date: 2022-09-09 16:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.25)
+Text: Have you heard from Anne by any chance?
+
+--- MESSAGE 11 ---
+Date: 2022-09-17 22:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.25)
+Keywords: sorry
+Text: Sorry to tell you the truth Louisa. 
+
+--- MESSAGE 12 ---
+Date: 2022-09-17 22:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.25)
+Keywords: care
+Text: Lily was in your care and this is what has happened and you still refuse to tell me what happened. 
+
+--- MESSAGE 13 ---
+Date: 2022-10-13 20:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.25)
+Keywords: well,wish
+Text: Well I wish that Lily did t have to be in this situation where she has to recover from a brain injury 
+
+--- MESSAGE 14 ---
+Date: 2022-11-16 16:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.25)
+Keywords: care
+Text: No it is not. I'm confirming to have Lily in my full time care and then we can arrange days for you to see Lily 
+
+--- MESSAGE 15 ---
+Date: 2022-11-19 11:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.25)
+Text: You're the one who slammed the door and I had just put my hand out to stop it from actually slamming. 
+
+--- MESSAGE 16 ---
+Date: 2022-12-30 10:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.25)
+Text: Is everything alright in there?
+
+--- MESSAGE 17 ---
+Date: 2022-12-31 08:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.25)
+Text: You two are absolute jokes to this world. 
+
+--- MESSAGE 18 ---
+Date: 2023-01-12 19:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.25)
+Keywords: happy
+Text: So typical, you always put Joshua's bratty needs before anything else, just like you did when Lily was in the bath struggling for her life and all you did was make sure Joshua was "happy" even though he is a spoiled brat who deserves nothing. 
+
+--- MESSAGE 19 ---
+Date: 2022-06-23 11:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.25)
+Keywords: together,wish
+Text: I really do wish we were together as we had planned but too much has happened between us. 
+
+--- MESSAGE 20 ---
+Date: 2022-09-17 21:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.24)
+Text: Yeah and I've made my choice Louisa. I do not want to be Joshua's stepdad or parent figure. 
+
+--- MESSAGE 21 ---
+Date: 2021-09-30 09:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.24)
+Text: He is haha, I knew he would. When he was complaining this morning I knew there was no point explaining because he wouldn't have cared or had known how fun it would be until he got here 😊
+
+--- MESSAGE 22 ---
+Date: 2022-10-18 10:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.24)
+Text: You can just never admit you're wrong. 
+
+--- MESSAGE 23 ---
+Date: 2022-01-13 14:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.24)
+Text: What do you want from me? What do you actually want me to do?
+
+--- MESSAGE 24 ---
+Date: 2022-02-24 16:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.24)
+Text: What do you want to do tonight? Do you want me to comeback to yours or do I just go to mine and then I'll come in the morning to pick up Lily?
+
+--- MESSAGE 25 ---
+Date: 2022-05-10 11:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: When you say "seriously" to me that sounds like it's not fine 

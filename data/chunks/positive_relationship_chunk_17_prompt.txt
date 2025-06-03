@@ -1,0 +1,219 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-03-23 09:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: love
+Text: I love you too Lou 
+
+--- MESSAGE 2 ---
+Date: 2022-03-23 19:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: love
+Text: I love you too Lou 
+
+--- MESSAGE 3 ---
+Date: 2022-03-26 20:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: love
+Text: I love you 
+
+--- MESSAGE 4 ---
+Date: 2022-04-11 12:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: best
+Text: I can do my best 🙇🏻‍♂️
+
+--- MESSAGE 5 ---
+Date: 2022-05-09 12:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: wish
+Text: I wish there was vegan franchise foods like McDonald's 
+
+--- MESSAGE 6 ---
+Date: 2022-05-22 16:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: love
+Text: We love you Lou 🙇🏻‍♂️
+
+--- MESSAGE 7 ---
+Date: 2022-05-22 17:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: love
+Text: We love you sooooo much my Lou 
+
+--- MESSAGE 8 ---
+Date: 2022-07-02 18:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: appreciate,thank
+Text: Louisa. Thank you for letting me see Lily today. I appreciate it a lot.
+
+--- MESSAGE 9 ---
+Date: 2022-07-11 22:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Text: Yes I can attend if you would like me there.  
+
+--- MESSAGE 10 ---
+Date: 2022-08-09 21:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: love
+Text: I love you too Lou 
+
+--- MESSAGE 11 ---
+Date: 2022-10-24 10:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: love
+Text: You say you love me why?
+
+--- MESSAGE 12 ---
+Date: 2021-10-30 13:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Text: The most beautiful woman in the world it's you Lulu 🙇🏻‍♂️🙇🏻‍♂️🥰🥰
+
+--- MESSAGE 13 ---
+Date: 2022-03-11 20:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Text: And you still look very beautiful Lou 🙇🏻‍♂️
+
+--- MESSAGE 14 ---
+Date: 2021-11-07 13:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: good
+Text: Okay that sounds good! You can leave Lily here if you want? 
+
+--- MESSAGE 15 ---
+Date: 2022-03-21 12:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: help
+Text: Okay then Lou I can help you!! ☺️☺️
+
+--- MESSAGE 16 ---
+Date: 2022-02-21 11:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.63)
+Text: And need to get more done haha, another $600 worth of repairs 😂
+
+--- MESSAGE 17 ---
+Date: 2021-10-09 15:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.63)
+Keywords: best
+Text: Lulu it's perfect!!!! See you're the best, no one can beat you 🥰🥰🙇🏻‍♂️🙇🏻‍♂️
+
+--- MESSAGE 18 ---
+Date: 2021-11-24 12:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.63)
+Keywords: best
+Text: You see you're the best and no one can beat you!!!! 🥰🥰
+
+--- MESSAGE 19 ---
+Date: 2023-01-12 19:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.63)
+Keywords: happy
+Text: Lily right now should be enjoying her life and be going on her first holiday but no, she lies in bed not being able to move, not have emotions or anything. You, Joshua and Michael must be so happy. 
+
+--- MESSAGE 20 ---
+Date: 2022-02-03 08:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.63)
+Keywords: support
+Text: Did you know there are guys who pay like $20 a fortnight for child support??
+
+--- MESSAGE 21 ---
+Date: 2022-10-09 09:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.63)
+Text: You just accept it and are still in denial that you have done nothing wrong 
+
+--- MESSAGE 22 ---
+Date: 2022-07-21 15:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.63)
+Keywords: please
+Text: I'll be working on the Sunday so could you please pick up Joshua from my place please?
+
+--- MESSAGE 23 ---
+Date: 2021-12-21 15:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.63)
+Keywords: peaceful
+Text: She looks so peaceful 
+
+--- MESSAGE 24 ---
+Date: 2021-12-10 14:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.62)
+Keywords: good
+Text: Yeah that sounds good 
+
+--- MESSAGE 25 ---
+Date: 2022-01-01 15:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.62)
+Text: These are great Lou. 

@@ -1,0 +1,201 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-06-02 19:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: The call has finished
+
+--- MESSAGE 2 ---
+Date: 2022-06-02 19:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Keywords: good
+Text: Sounds good*
+
+--- MESSAGE 3 ---
+Date: 2022-06-03 12:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: GOOOOO MY LOOOOUUU!!!
+
+--- MESSAGE 4 ---
+Date: 2022-06-03 13:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I am working none my Lou 🙇🏻‍♂️
+
+--- MESSAGE 5 ---
+Date: 2022-06-03 13:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We can do one thing either on Sunday
+
+--- MESSAGE 6 ---
+Date: 2022-06-03 13:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I need to learn all my lines 
+
+--- MESSAGE 7 ---
+Date: 2022-06-03 13:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm about 75% there
+
+--- MESSAGE 8 ---
+Date: 2022-06-03 13:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Of knowing all my lines 
+
+--- MESSAGE 9 ---
+Date: 2022-06-03 16:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmm maybe check Busselton?
+
+--- MESSAGE 10 ---
+Date: 2022-06-03 16:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'll have to call and ask 
+
+--- MESSAGE 11 ---
+Date: 2022-06-03 16:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm on the phone with him now and they don't have room because they've already got people staying there 
+
+--- MESSAGE 12 ---
+Date: 2022-06-03 16:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: So let me have a look to find anywhere in Busselton 
+
+--- MESSAGE 13 ---
+Date: 2022-06-04 09:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What?
+
+--- MESSAGE 14 ---
+Date: 2022-06-04 11:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Which one my Lou?
+
+--- MESSAGE 15 ---
+Date: 2022-06-04 11:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Ohhh I see
+
+--- MESSAGE 16 ---
+Date: 2022-06-04 11:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What is it called?
+
+--- MESSAGE 17 ---
+Date: 2022-06-04 12:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm just getting a haircut my Lou 
+
+--- MESSAGE 18 ---
+Date: 2022-06-04 17:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What do I do for dinner Lou?
+
+--- MESSAGE 19 ---
+Date: 2022-06-04 17:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I get KFC for us 🙇🏻‍♂️
+
+--- MESSAGE 20 ---
+Date: 2022-06-04 17:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I guess we can come, I ordered Uber eats though 
+
+--- MESSAGE 21 ---
+Date: 2022-06-04 17:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We can come by really quickly Lou 
+
+--- MESSAGE 22 ---
+Date: 2022-06-07 09:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We are upstairs 
+
+--- MESSAGE 23 ---
+Date: 2022-06-07 09:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: In the rehearsal room 
+
+--- MESSAGE 24 ---
+Date: 2022-06-07 12:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmmmm I don't know, maybe or maybe not 🤷🏻‍♂️
+
+--- MESSAGE 25 ---
+Date: 2022-06-07 15:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I need to go to Kmart today to get costume stuff

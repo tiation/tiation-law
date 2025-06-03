@@ -1,0 +1,221 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2021-12-04 13:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.08)
+Keywords: sorry
+Text: I'm sorry Lou. 
+
+--- MESSAGE 2 ---
+Date: 2021-12-04 14:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.08)
+Keywords: sorry
+Text: I'm sorry that this has happened Lou
+
+--- MESSAGE 3 ---
+Date: 2021-12-16 10:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.08)
+Keywords: sorry
+Text: I'm sorry. 
+
+--- MESSAGE 4 ---
+Date: 2021-12-25 09:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.08)
+Text: No it's okay 
+
+--- MESSAGE 5 ---
+Date: 2022-01-14 09:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.08)
+Keywords: sorry
+Text: Sorry I missed your call Louisa I'm in the theatre getting things ready so I won't be able to call sorry till later 
+
+--- MESSAGE 6 ---
+Date: 2022-01-23 14:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.08)
+Keywords: sorry
+Text: Hey Louisa, I'm still working at the moment I'll be finishing soon sorry
+
+--- MESSAGE 7 ---
+Date: 2022-01-27 21:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.08)
+Keywords: sorry
+Text: You don't have to be sorry 😊
+
+--- MESSAGE 8 ---
+Date: 2022-02-02 20:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.08)
+Keywords: sorry
+Text: I'm sorry that I can't be there with you on Friday 🙇🏻‍♂️
+
+--- MESSAGE 9 ---
+Date: 2022-02-05 13:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.08)
+Keywords: sorry
+Text: Tell him that I'm sorry and I'll make it up to him tomorrow 😊
+
+--- MESSAGE 10 ---
+Date: 2022-02-12 09:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.08)
+Text: Ohh okay, no I said I'll meet you at McDonald's at 9:30
+
+--- MESSAGE 11 ---
+Date: 2022-02-14 10:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.08)
+Keywords: sorry
+Text: Aww it is only invited only sorry Lou 🙇🏻‍♂️
+
+--- MESSAGE 12 ---
+Date: 2022-02-14 18:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.08)
+Keywords: sorry
+Text: I meant to say I forgot about Valentine's Day and I'm sorry Lou 😔
+
+--- MESSAGE 13 ---
+Date: 2022-02-21 09:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.08)
+Keywords: sorry
+Text: I'm sorry. 
+
+--- MESSAGE 14 ---
+Date: 2022-02-25 19:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.08)
+Keywords: sorry
+Text: I'm sorry 
+
+--- MESSAGE 15 ---
+Date: 2022-02-28 13:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.08)
+Text: No it's okay 
+
+--- MESSAGE 16 ---
+Date: 2022-03-09 11:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.08)
+Keywords: sorry
+Text: I'm sorry for asking. 
+
+--- MESSAGE 17 ---
+Date: 2022-04-04 16:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.08)
+Keywords: sorry
+Text: How did I do that sorry?
+
+--- MESSAGE 18 ---
+Date: 2022-04-04 16:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.08)
+Keywords: sorry
+Text: I'm sorry Lou 
+
+--- MESSAGE 19 ---
+Date: 2022-04-28 14:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.08)
+Keywords: sorry
+Text: I'm sorry Lou 
+
+--- MESSAGE 20 ---
+Date: 2022-05-04 08:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.08)
+Keywords: sorry
+Text: I'm sorry. 
+
+--- MESSAGE 21 ---
+Date: 2022-05-06 10:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.08)
+Keywords: sorry
+Text: I'm sorry Lou. 
+
+--- MESSAGE 22 ---
+Date: 2022-05-06 10:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.08)
+Text: No it's okay. I'm working the whole weekend 
+
+--- MESSAGE 23 ---
+Date: 2022-05-10 11:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.08)
+Keywords: sorry
+Text: I'm sorry you feel this way. I will turn around and comeback now 
+
+--- MESSAGE 24 ---
+Date: 2022-05-10 11:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.08)
+Keywords: sorry
+Text: I'm sorry 🙇🏻‍♂️
+
+--- MESSAGE 25 ---
+Date: 2022-05-12 19:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.08)
+Keywords: sorry
+Text: I feel sorry for Joshua 

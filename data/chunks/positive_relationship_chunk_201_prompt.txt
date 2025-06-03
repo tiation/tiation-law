@@ -1,0 +1,207 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-11-05 19:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.80)
+Text: Or was it you that hurt Lily's neck? How do you think Lily hurt her neck?
+
+--- MESSAGE 2 ---
+Date: 2022-11-16 16:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.80)
+Text: But not like this Louisa. You know all about parenting don't you? You claim you be done so much parenting classes and read plenty of parenting books, so why didn't you know leaving a baby unsupervised was the wrong thing to do? 
+
+--- MESSAGE 3 ---
+Date: 2022-02-02 14:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.80)
+Text: I just want to feel normal and stop being in pain it's really annoying now 
+
+--- MESSAGE 4 ---
+Date: 2022-08-27 18:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.80)
+Text: I'm sick of this fucking shit. 
+
+--- MESSAGE 5 ---
+Date: 2022-02-03 08:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.80)
+Text: No I do worry. What seems to be wrong? 
+
+--- MESSAGE 6 ---
+Date: 2022-09-17 21:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.80)
+Text: Lily is my responsibility and she's not just a child in my life, she is a child who has suffered a brain injury due to drowning in the bath and can no longer do the normal things that you or I can do in my life. 
+
+--- MESSAGE 7 ---
+Date: 2022-02-14 14:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.81)
+Text: It was very restricted, Eva had to fight for the stage manager to be allowed on that's how restricted it was 
+
+--- MESSAGE 8 ---
+Date: 2022-09-23 07:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.81)
+Text: You just can't handle criticism just like Joshua. You say that I've said things since Lily's incident, how about the whole time during our relationship where you made it your mission to ruin my life, tell me how bad I am, tell me to leave the house, ruin my relationship with my family 
+
+--- MESSAGE 9 ---
+Date: 2022-10-05 17:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.81)
+Text: This photo is of a time before our daughter, my first daughter drowned where she now has to suffer her whole life. 
+
+--- MESSAGE 10 ---
+Date: 2022-11-19 11:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.81)
+Text: I hate Joshua and I hate you. 
+
+--- MESSAGE 11 ---
+Date: 2022-11-03 09:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.82)
+Text: She is confused, scared and frustrated. 
+
+--- MESSAGE 12 ---
+Date: 2022-09-17 22:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.83)
+Keywords: care
+Text: No I don't care about Adam's feelings. I care about Lily's feelings, you know, the one who apparently has no brain activity to even have her own feelings. 
+
+--- MESSAGE 13 ---
+Date: 2022-10-06 19:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.83)
+Text: You are not seeing Lily because you state "I unfortunately now have an incomprehensible amount of life admin to wade though at an excruciatingly difficult time"
+
+--- MESSAGE 14 ---
+Date: 2021-09-30 09:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.83)
+Keywords: together
+Text: I remember when Ian and I were together and I was about 5, we were joking around and that and then he got frustrated with me and smacked me on my bottom and I still feel the way I felt back then, this traumatic betrayal by someone that you believe would not harm you in anyway then it happens
+
+--- MESSAGE 15 ---
+Date: 2022-03-26 20:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.83)
+Text: I don't want to pick a fight, I'm sick of fighting Lou I don't want to do it anymore. 
+
+--- MESSAGE 16 ---
+Date: 2023-01-15 10:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.84)
+Text: Your stupid fucking parenting is what killed Lily's life. 
+
+--- MESSAGE 17 ---
+Date: 2022-11-03 09:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.84)
+Text: You told me some bullshit saying that Lily was in your sight 100% of the time yet she drowned in the bath, how does that make fucking sense?!
+
+--- MESSAGE 18 ---
+Date: 2023-01-15 10:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.84)
+Keywords: understand
+Text: And you can sit there and play victim and say you and Joshua have been traumatised and all that bullshit but in reality Lily is the one who is permanently traumatised mentally and physically you understand that?
+
+--- MESSAGE 19 ---
+Date: 2022-01-02 14:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.84)
+Text: There is no disrespect here Louisa. You are acting selfish right now, it's like you want me to suffer in my life, no car, no name on the lease. There are no sides to be taken here, I have not chosen a side and how dare you say that I'm being disrespectful to the kids when I'm trying to do everything right by them by making sure we have enough resources for them and us. 
+
+This relationship is not working between you and I. I can't make any decisions that I know will benefit us more. I can't take the kids to see anyone in my own it's like you have to supervise or something with the kids which is ridiculous 
+
+--- MESSAGE 20 ---
+Date: 2021-12-15 17:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.85)
+Text: You've put down that Michael verbally threatened you and Joshua with a gun with intent to kill. The passport office have accepted this and have accepted your part of it being verbal so the email is irrelevant it doesn't matter, the passport have accepted this evidence of a verbal life threatening allegation
+
+--- MESSAGE 21 ---
+Date: 2022-09-22 15:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.85)
+Text: You think arguing with your partner is considered domestic violence. You have no concept on what happens in a relationship 
+
+--- MESSAGE 22 ---
+Date: 2021-11-09 12:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.85)
+Keywords: support,sorry
+Text: I mean I'm sorry for the way I responded to you, it was wrong. I'm sorry that I went and blocked my family members, that was immature. I'm sorry you feel as though I don't support you and your beliefs because I do support them and want to follow them. 
+
+--- MESSAGE 23 ---
+Date: 2022-10-10 11:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.86)
+Text: You have no right to tell me I'm a bad parent. Im protecting my daughter from people who let her drown in the first place. 
+
+--- MESSAGE 24 ---
+Date: 2022-11-10 21:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.86)
+Text: And Lily will always live her life in pain and suffering because of your choices as a parent such as leaving her with a dangerous sibling. 
+
+--- MESSAGE 25 ---
+Date: 2022-07-23 06:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.87)
+Keywords: together
+Text: Stop interfering in my personal life. We are no longer together, what you have done is outrageous I'm sick of doing this with you Louisa. 

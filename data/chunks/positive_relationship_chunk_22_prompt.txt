@@ -1,0 +1,211 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-10-13 20:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.60)
+Keywords: well
+Text: Well that's nice of her to do that for Lily 
+
+--- MESSAGE 2 ---
+Date: 2022-11-02 19:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.60)
+Text: ￼Lily was once able to move around, talk, smile, laugh, socialise, eat and many other things and now that has been taken away from her for no reason. 
+
+--- MESSAGE 3 ---
+Date: 2022-11-03 08:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.60)
+Text: Lily was once able to move around, talk, smile, laugh, socialise, eat and many other things and now that has been taken away from her for no reason. 
+
+--- MESSAGE 4 ---
+Date: 2022-11-16 16:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.60)
+Keywords: wish
+Text: Yeah and I wish I had never left Lily with you. 
+
+--- MESSAGE 5 ---
+Date: 2021-11-21 12:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.60)
+Text: Ahhh their Lego this time is a bit more sophisticated and structured 
+
+--- MESSAGE 6 ---
+Date: 2022-11-16 16:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.60)
+Text: I should've taken Lily when I left and she would've been safer and most likely be completely fine today.
+
+--- MESSAGE 7 ---
+Date: 2021-12-06 08:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.60)
+Text: Lilys hands are very strong for a tiny baby! I try to get the hair out and she clenches so tightly 😳
+
+--- MESSAGE 8 ---
+Date: 2022-03-09 20:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.60)
+Text: Hehehe how right you are Lou, that is definitely a baby who never cried and did everything on his own hmmmm 😤
+
+--- MESSAGE 9 ---
+Date: 2021-11-22 20:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.60)
+Text: It's so cute!!
+
+--- MESSAGE 10 ---
+Date: 2021-11-23 10:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.60)
+Keywords: best
+Text: See you're the best no one can beat you!!! 👦🏻👦🏻
+
+--- MESSAGE 11 ---
+Date: 2022-06-16 16:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.60)
+Text: Oh my goodness my Lou!!! 😰😰
+
+--- MESSAGE 12 ---
+Date: 2022-03-29 07:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.59)
+Keywords: friend
+Text: Are you watching The Batman tonight with your friend Elle??! 🙇🏻‍♂️😁
+
+--- MESSAGE 13 ---
+Date: 2022-01-12 16:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.59)
+Keywords: better
+Text: But why send the message Louisa? So you can feel better about yourself and fill your ego 
+
+--- MESSAGE 14 ---
+Date: 2022-03-14 08:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.59)
+Text: But now it's get to relax on the toilet and don't need to rush 🙇🏻‍♂️
+
+--- MESSAGE 15 ---
+Date: 2022-02-13 17:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.59)
+Text: Lily looks so drunk haha!! And you look very nice Lou ☺️
+
+--- MESSAGE 16 ---
+Date: 2021-08-26 16:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.59)
+Keywords: better
+Text: Okay then Lou. Whatever makes you feel better about things we can do. Is Allegra still going to come then?
+
+--- MESSAGE 17 ---
+Date: 2021-09-30 08:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.59)
+Text: How are you my darling?
+
+--- MESSAGE 18 ---
+Date: 2021-11-10 16:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.59)
+Keywords: good
+Text: Okay I will do this I am good at this 🤪
+
+--- MESSAGE 19 ---
+Date: 2021-11-15 11:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.59)
+Keywords: good
+Text: Okay sounds good 
+
+--- MESSAGE 20 ---
+Date: 2021-11-21 14:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.59)
+Text: Okay thanks Lou 
+
+--- MESSAGE 21 ---
+Date: 2021-11-23 10:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.59)
+Keywords: please
+Text: I would like both of them please
+
+--- MESSAGE 22 ---
+Date: 2021-11-24 12:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.59)
+Text: Awww my darling 😰😰
+
+--- MESSAGE 23 ---
+Date: 2021-11-24 12:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.59)
+Keywords: please
+Text: I would like a wrap please my Lulu 
+
+--- MESSAGE 24 ---
+Date: 2021-12-11 15:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.59)
+Text: Okay then I will improve on this for Joshua 
+
+--- MESSAGE 25 ---
+Date: 2022-02-26 20:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.59)
+Keywords: well
+Text: Yes we are going well 

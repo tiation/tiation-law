@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-12-31 08:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: So typical
+
+--- MESSAGE 2 ---
+Date: 2023-01-01 14:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I am at the Perth children's hospital with Lily. 
+
+--- MESSAGE 3 ---
+Date: 2023-01-01 16:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We will be at the hospital till Tuesday or Wednesday
+
+--- MESSAGE 4 ---
+Date: 2023-01-04 08:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Are you coming to see Lily?
+
+--- MESSAGE 5 ---
+Date: 2023-01-04 09:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ??
+
+--- MESSAGE 6 ---
+Date: 2023-01-04 17:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We maybe getting discharged tomorrow, so if you have time today to come see Lily then you can.
+
+--- MESSAGE 7 ---
+Date: 2023-01-06 15:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: If you come to the hyperbaric therapy and go in the chamber with Lily do not do any exercises with her at all
+
+--- MESSAGE 8 ---
+Date: 2023-01-06 15:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: She can't do any exercises because her bones are brittle
+
+--- MESSAGE 9 ---
+Date: 2023-01-08 11:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Are you coming to Lily's therapy tomorrow?
+
+--- MESSAGE 10 ---
+Date: 2023-01-09 09:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 11 ---
+Date: 2023-01-09 10:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: This was Lily at the hospital last week and you didn't even come see her
+
+--- MESSAGE 12 ---
+Date: 2023-01-09 12:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You don't come and see Lily in hospital even when I messaged daily to let you know we are there but you'll choose and make time to speak to Joshua 
+
+--- MESSAGE 13 ---
+Date: 2023-01-10 12:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: And what about Friday?
+
+--- MESSAGE 14 ---
+Date: 2023-01-10 12:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ??
+
+--- MESSAGE 15 ---
+Date: 2023-01-11 10:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ??
+
+--- MESSAGE 16 ---
+Date: 2023-01-11 10:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 17 ---
+Date: 2023-01-11 12:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ??
+
+--- MESSAGE 18 ---
+Date: 2023-01-11 14:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ??
+
+--- MESSAGE 19 ---
+Date: 2023-01-12 18:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: -0.00)
+Text: Must be real nice for you, Michael and Joshua to have everything you want and being able to live your normal lives whilst Lily suffers everyday. 
+
+--- MESSAGE 20 ---
+Date: 2023-01-12 19:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: If I had known you would only put Joshua's needs before any other kid then I wouldn't have had a baby with you. 
+
+--- MESSAGE 21 ---
+Date: 2023-01-13 10:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 22 ---
+Date: 2023-01-15 11:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I've told Michael to tell Joshua that he is never seeing Lily ever again. Joshua doesn't deserve to see Lily 
+
+--- MESSAGE 23 ---
+Date: 2023-01-16 16:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Why couldn't you just look after Lily normally??
+
+--- MESSAGE 24 ---
+Date: 2023-01-17 19:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼How can this? 
+
+--- MESSAGE 25 ---
+Date: 2023-01-17 19:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼Go to this??!! 

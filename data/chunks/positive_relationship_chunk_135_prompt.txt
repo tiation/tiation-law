@@ -1,0 +1,201 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-05-14 17:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'll bring her to you 
+
+--- MESSAGE 2 ---
+Date: 2022-05-15 10:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 3 ---
+Date: 2022-05-15 10:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 4 ---
+Date: 2022-05-15 10:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I couldn't find her jumpers 
+
+--- MESSAGE 5 ---
+Date: 2022-05-16 08:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Lou if I have a runny nose does that mean I stay home? 🙇🏻‍♂️
+
+--- MESSAGE 6 ---
+Date: 2022-05-17 18:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 7 ---
+Date: 2022-05-17 18:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 8 ---
+Date: 2022-05-21 21:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We now have a new government 
+
+--- MESSAGE 9 ---
+Date: 2022-05-22 16:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Is she doing vomits?
+
+--- MESSAGE 10 ---
+Date: 2022-05-22 16:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I forgot to take the test with me 
+
+--- MESSAGE 11 ---
+Date: 2022-05-22 16:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: But I think I have some here 
+
+--- MESSAGE 12 ---
+Date: 2022-05-22 17:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Ohh she is saying dad Lou!!!
+
+--- MESSAGE 13 ---
+Date: 2022-05-22 17:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 14 ---
+Date: 2022-05-22 17:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: So that's from your sister?
+
+--- MESSAGE 15 ---
+Date: 2022-05-22 17:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼One of Lily's selfies 
+
+--- MESSAGE 16 ---
+Date: 2022-05-22 17:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How do you feel after your sisters email?
+
+--- MESSAGE 17 ---
+Date: 2022-05-22 19:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: That's you and your sister Lou
+
+--- MESSAGE 18 ---
+Date: 2022-05-22 19:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: That's you and your family Lou 
+
+--- MESSAGE 19 ---
+Date: 2022-05-22 19:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Keywords: together
+Text: When you were all together 
+
+--- MESSAGE 20 ---
+Date: 2022-05-23 08:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: My car is out of battery because I left the lights on 
+
+--- MESSAGE 21 ---
+Date: 2022-05-23 08:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We are catching an Uber to the theatre now. 
+
+--- MESSAGE 22 ---
+Date: 2022-05-23 08:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Do you have any jumper cables?
+
+--- MESSAGE 23 ---
+Date: 2022-05-23 09:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We finish at 5pm at the Subiaco Arts centre
+
+--- MESSAGE 24 ---
+Date: 2022-05-23 11:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What's happening with your car?
+
+--- MESSAGE 25 ---
+Date: 2022-05-23 11:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Is it not turning on?

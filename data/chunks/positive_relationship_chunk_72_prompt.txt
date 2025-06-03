@@ -1,0 +1,201 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-09-26 10:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: No ok it's okay I got the laundry last night 
+
+--- MESSAGE 2 ---
+Date: 2022-10-01 11:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: I'm doing okay 
+
+--- MESSAGE 3 ---
+Date: 2022-10-02 15:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay see you soon 
+
+--- MESSAGE 4 ---
+Date: 2022-10-03 08:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay Lou 
+
+--- MESSAGE 5 ---
+Date: 2022-10-03 19:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Are you okay?
+
+--- MESSAGE 6 ---
+Date: 2022-10-05 08:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay I will Louisa 
+
+--- MESSAGE 7 ---
+Date: 2022-10-05 08:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay
+
+--- MESSAGE 8 ---
+Date: 2022-10-05 12:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Keywords: care,understand
+Text: I don't understand why you are angry with me. You had your chance to have Lily in your full time custody and look what happened. Lily is going to be in my full time care and unlike you, I'm more than willing to visit you with Lily each week 
+
+--- MESSAGE 9 ---
+Date: 2022-10-06 13:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay
+
+--- MESSAGE 10 ---
+Date: 2022-10-06 19:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay
+
+--- MESSAGE 11 ---
+Date: 2022-10-12 10:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay then, I will update on you on Lily after the meeting 
+
+--- MESSAGE 12 ---
+Date: 2022-10-13 17:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Ah okay 
+
+--- MESSAGE 13 ---
+Date: 2022-10-13 21:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay 
+
+--- MESSAGE 14 ---
+Date: 2022-10-19 08:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay 
+
+--- MESSAGE 15 ---
+Date: 2022-10-19 08:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: I said okay. 
+
+--- MESSAGE 16 ---
+Date: 2022-10-19 09:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Oh okay 
+
+--- MESSAGE 17 ---
+Date: 2022-10-19 10:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: That is okay 
+
+--- MESSAGE 18 ---
+Date: 2022-10-20 15:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay 
+
+--- MESSAGE 19 ---
+Date: 2022-10-25 21:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: I am doing just okay 
+
+--- MESSAGE 20 ---
+Date: 2022-10-26 13:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: I am okay 
+
+--- MESSAGE 21 ---
+Date: 2022-10-28 09:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: We are going okay Lily is asleep now 
+
+--- MESSAGE 22 ---
+Date: 2022-10-28 17:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay I'll go to IGA then 
+
+--- MESSAGE 23 ---
+Date: 2022-10-28 17:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay
+
+--- MESSAGE 24 ---
+Date: 2022-10-29 12:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay 
+
+--- MESSAGE 25 ---
+Date: 2022-10-29 15:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay I'll see you soo 

@@ -1,0 +1,203 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2021-12-04 08:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.26)
+Keywords: sorry
+Text: I'm not sure sorry! 
+
+--- MESSAGE 2 ---
+Date: 2022-03-13 18:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.26)
+Text: I've never seen such innocent eyes before Lou 🙇🏻‍♂️
+
+--- MESSAGE 3 ---
+Date: 2022-03-26 20:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.26)
+Text: Come on Lou let's not leave the night like that on a negative note 
+
+--- MESSAGE 4 ---
+Date: 2022-10-18 10:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.27)
+Text: So you're complaining about posts on Facebook correct? 
+
+--- MESSAGE 5 ---
+Date: 2021-11-21 11:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.27)
+Text: Maybe because you blocked me that one time? 🙇🏻‍♂️
+
+--- MESSAGE 6 ---
+Date: 2022-01-09 17:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.27)
+Text: I will arrive on Thursday morning at 8am this coming week and drop Lily off at 8am Sunday
+
+--- MESSAGE 7 ---
+Date: 2022-01-09 18:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.27)
+Text: Now are we able to cooperate right now for Lily and organise me to pick her up Thursday 6pm and drop her off at Saturday 7pm?
+
+--- MESSAGE 8 ---
+Date: 2022-01-09 18:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.27)
+Text: Are we going to be doing the routine of pick Thursday 6pm and drop Saturday 7pm?
+
+--- MESSAGE 9 ---
+Date: 2022-01-15 07:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.27)
+Text: All because you've decided to cut your family doesn't mean everyone else has to. 
+
+--- MESSAGE 10 ---
+Date: 2022-01-31 10:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.27)
+Text: Was he nervous?
+
+--- MESSAGE 11 ---
+Date: 2022-02-14 14:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.27)
+Text: As soon as we left I cut my toe open and there all this blood 🙇🏻‍♂️
+
+--- MESSAGE 12 ---
+Date: 2022-02-24 16:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.27)
+Text: I'll drop him off home then I'll go to my chiro sessions 
+
+--- MESSAGE 13 ---
+Date: 2022-02-27 18:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.27)
+Text: Lou my arm is going to be cut open tomorrow 🙇🏻‍♂️
+
+--- MESSAGE 14 ---
+Date: 2022-03-14 15:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.27)
+Text: We have finished the class now they have cut 30 minutes off every in class because of covid 🙇🏻‍♂️
+
+--- MESSAGE 15 ---
+Date: 2022-06-03 16:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.27)
+Text: We can drop in and say hello he said 
+
+--- MESSAGE 16 ---
+Date: 2022-08-11 12:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.27)
+Text: Hey Lou do you want to come down for lunch because we went to outside the hospital had to be fire evacuated 
+
+--- MESSAGE 17 ---
+Date: 2022-08-20 21:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.27)
+Text: Put yourself on low power mode then 
+
+--- MESSAGE 18 ---
+Date: 2022-09-17 22:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.27)
+Text: Yeah I told you that I had cheated on my previous girlfriends. 
+
+--- MESSAGE 19 ---
+Date: 2022-10-06 19:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.27)
+Keywords: good
+Text: You kind of don't and I don't find that a good enough excuse. 
+
+--- MESSAGE 20 ---
+Date: 2021-10-02 16:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.28)
+Text: I can return one of them if it doesn't fit my Lulu 🥰
+
+--- MESSAGE 21 ---
+Date: 2022-01-12 19:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.28)
+Text: Because it had nothing to do with you, you weren't even born Louisa and it's not like what happened so long ago in the last defines that person as that. 
+
+--- MESSAGE 22 ---
+Date: 2022-01-19 08:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.28)
+Keywords: thank
+Text: I didn't know that, thank you for telling me. Also o put Joshua's car seat next to the pram I was just leaving and realised it was in my car still 😊
+
+--- MESSAGE 23 ---
+Date: 2022-02-17 15:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.28)
+Text: Isn't it like a Skype thing? 
+
+--- MESSAGE 24 ---
+Date: 2022-07-18 09:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.28)
+Text: So if she is not available I would like to pick her up on Wednesday
+
+--- MESSAGE 25 ---
+Date: 2022-09-21 16:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.28)
+Text: It's not like Lily is getting taken from you forever 

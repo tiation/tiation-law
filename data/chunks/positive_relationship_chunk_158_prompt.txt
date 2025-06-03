@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-09-23 18:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: My sister is there 
+
+--- MESSAGE 2 ---
+Date: 2022-09-24 15:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Far out 
+
+--- MESSAGE 3 ---
+Date: 2022-09-24 15:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I think from 10am
+
+--- MESSAGE 4 ---
+Date: 2022-09-24 15:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Just at the hospital 
+
+--- MESSAGE 5 ---
+Date: 2022-09-24 15:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It's only my grandparents coming I think 
+
+--- MESSAGE 6 ---
+Date: 2022-09-24 15:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Because they can't make it tomorrow
+
+--- MESSAGE 7 ---
+Date: 2022-09-24 15:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Today?
+
+--- MESSAGE 8 ---
+Date: 2022-09-24 15:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I finish at 9pm
+
+--- MESSAGE 9 ---
+Date: 2022-09-25 15:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 10 ---
+Date: 2022-09-25 15:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 11 ---
+Date: 2022-09-25 16:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 12 ---
+Date: 2022-09-26 10:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 13 ---
+Date: 2022-09-26 10:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I gave her cuddles this morning
+
+--- MESSAGE 14 ---
+Date: 2022-09-26 11:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Are you coming in today?
+
+--- MESSAGE 15 ---
+Date: 2022-09-26 11:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Are you catching an Uber?
+
+--- MESSAGE 16 ---
+Date: 2022-09-26 11:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What if I just pick you up
+
+--- MESSAGE 17 ---
+Date: 2022-09-26 11:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Then I can grab my PlayStation 
+
+--- MESSAGE 18 ---
+Date: 2022-09-26 11:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I need to give Lily a bath 
+
+--- MESSAGE 19 ---
+Date: 2022-09-26 11:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Poonami 
+
+--- MESSAGE 20 ---
+Date: 2022-09-26 11:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 21 ---
+Date: 2022-09-26 11:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm leaving now 
+
+--- MESSAGE 22 ---
+Date: 2022-09-26 12:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Never mind 
+
+--- MESSAGE 23 ---
+Date: 2022-09-26 12:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm coming up 
+
+--- MESSAGE 24 ---
+Date: 2022-09-27 08:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What did you send me?
+
+--- MESSAGE 25 ---
+Date: 2022-09-27 08:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Nothing is coming through 

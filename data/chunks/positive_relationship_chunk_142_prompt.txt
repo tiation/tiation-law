@@ -1,0 +1,205 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-07-19 16:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I could say the exact same thing about you. 
+
+--- MESSAGE 2 ---
+Date: 2022-07-19 17:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm doing my exam at the moment. 
+
+--- MESSAGE 3 ---
+Date: 2022-07-19 17:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It started at 2:30pm and goes for 4 hours
+
+--- MESSAGE 4 ---
+Date: 2022-07-21 14:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You told me Lily was unavailable on Friday
+
+--- MESSAGE 5 ---
+Date: 2022-07-21 14:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Next week:
+Tuesday afternoon
+Friday overnight returned on Saturday
+
+--- MESSAGE 6 ---
+Date: 2022-07-21 14:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Tuesday 12pm-6pm 
+Friday 10am-Saturday 5:30pm
+
+--- MESSAGE 7 ---
+Date: 2022-07-21 15:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I don't know when to see him
+
+--- MESSAGE 8 ---
+Date: 2022-07-22 09:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Why are you sending me all of these songs?
+
+--- MESSAGE 9 ---
+Date: 2022-07-22 09:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What are you wanting to do with me? 
+
+--- MESSAGE 10 ---
+Date: 2022-07-23 04:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Get out of my account right now. 
+
+--- MESSAGE 11 ---
+Date: 2022-07-23 04:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I can't believe you would do that to me. 
+
+--- MESSAGE 12 ---
+Date: 2022-07-23 04:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What are you even trying to do? 
+
+--- MESSAGE 13 ---
+Date: 2022-07-23 04:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I can't believe this is something I have woken up to
+
+--- MESSAGE 14 ---
+Date: 2022-07-23 04:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm not the one who is continuously out to get you and logging into your accounts 
+
+--- MESSAGE 15 ---
+Date: 2022-07-23 04:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Get out of my account right now. 
+
+--- MESSAGE 16 ---
+Date: 2022-07-23 04:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I can't believe you went through my account. 
+
+--- MESSAGE 17 ---
+Date: 2022-07-23 05:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I don't even know what to say to you anymore
+
+--- MESSAGE 18 ---
+Date: 2022-07-23 05:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You really gave Louisa
+
+--- MESSAGE 19 ---
+Date: 2022-07-23 05:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I just don't even know what to do anymore now. 
+
+--- MESSAGE 20 ---
+Date: 2022-07-23 06:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You don't have to believe me 
+
+--- MESSAGE 21 ---
+Date: 2022-07-23 06:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I need you to logout if my accounts right now. 
+
+--- MESSAGE 22 ---
+Date: 2022-07-23 06:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Log out of my accounts now. 
+
+--- MESSAGE 23 ---
+Date: 2022-07-23 06:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I can't believe you've done this. 
+
+--- MESSAGE 24 ---
+Date: 2022-07-23 06:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Keywords: together
+Text: We weren't together. 
+
+--- MESSAGE 25 ---
+Date: 2022-07-23 06:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Keywords: together
+Text: We weren't together Louisa. 

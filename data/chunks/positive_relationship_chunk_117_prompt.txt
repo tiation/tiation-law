@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-02-28 21:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 2 ---
+Date: 2022-02-28 21:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Loooouuuuuuuuuuuu!!!!!
+
+--- MESSAGE 3 ---
+Date: 2022-02-28 21:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: LOOOOOUUUUUUUUUUU!!!!!!
+
+--- MESSAGE 4 ---
+Date: 2022-02-28 21:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 5 ---
+Date: 2022-03-01 13:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Aww look at her doing her planks 
+
+--- MESSAGE 6 ---
+Date: 2022-03-01 14:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: And if not then you don't have to do it
+
+--- MESSAGE 7 ---
+Date: 2022-03-01 14:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What don't I get?
+
+--- MESSAGE 8 ---
+Date: 2022-03-01 14:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Then don't do it 
+
+--- MESSAGE 9 ---
+Date: 2022-03-01 18:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hey Lou I was just sleeping 
+
+--- MESSAGE 10 ---
+Date: 2022-03-01 18:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How are you going?
+
+--- MESSAGE 11 ---
+Date: 2022-03-01 19:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Lou? 
+
+--- MESSAGE 12 ---
+Date: 2022-03-02 07:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Lots of medicine 
+
+--- MESSAGE 13 ---
+Date: 2022-03-02 07:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm in bed now Lou 
+
+--- MESSAGE 14 ---
+Date: 2022-03-02 08:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm going to have a shower now Lou 
+
+--- MESSAGE 15 ---
+Date: 2022-03-02 14:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I was vomiting before Lou 
+
+--- MESSAGE 16 ---
+Date: 2022-03-03 10:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: When are you coming Lou?
+
+--- MESSAGE 17 ---
+Date: 2022-03-03 11:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I guess we will Lou 
+
+--- MESSAGE 18 ---
+Date: 2022-03-03 20:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: He's tossing and turning a bit 
+
+--- MESSAGE 19 ---
+Date: 2022-03-03 20:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You focus on yourself 
+
+--- MESSAGE 20 ---
+Date: 2022-03-03 20:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 21 ---
+Date: 2022-03-05 16:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: 61601550
+
+--- MESSAGE 22 ---
+Date: 2022-03-07 10:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Lou did you get my voice message??
+
+--- MESSAGE 23 ---
+Date: 2022-03-07 13:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 24 ---
+Date: 2022-03-07 13:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 25 ---
+Date: 2022-03-07 13:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼

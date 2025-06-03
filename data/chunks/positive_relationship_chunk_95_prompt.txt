@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2021-11-20 12:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 2 ---
+Date: 2021-11-20 16:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: She is on her way to my Mums place now 
+
+--- MESSAGE 3 ---
+Date: 2021-11-21 11:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We must get vegan steak pleeeeeeeeease!!!!
+
+--- MESSAGE 4 ---
+Date: 2021-11-21 12:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Ummm you can get them from the pools themselves 
+
+--- MESSAGE 5 ---
+Date: 2021-11-21 12:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Or from the chemist sometimes 
+
+--- MESSAGE 6 ---
+Date: 2021-11-21 13:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 7 ---
+Date: 2021-11-21 13:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 8 ---
+Date: 2021-11-21 14:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What's the address? 
+
+--- MESSAGE 9 ---
+Date: 2021-11-22 14:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I just put it in the calendar for you ☺️
+
+--- MESSAGE 10 ---
+Date: 2021-11-22 14:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hi Lou!! 👦🏻👦🏻
+
+--- MESSAGE 11 ---
+Date: 2021-11-22 15:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 12 ---
+Date: 2021-11-23 13:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 13 ---
+Date: 2021-11-23 15:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Ohh actually can I go to the bike class at the gym instead at 5:45pm???
+
+--- MESSAGE 14 ---
+Date: 2021-11-24 07:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼Hmmmmmmm 🙇🏻‍♂️🙇🏻‍♂️🙇🏻‍♂️
+
+--- MESSAGE 15 ---
+Date: 2021-11-24 08:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 16 ---
+Date: 2021-11-24 12:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm on my way home Lulu 
+
+--- MESSAGE 17 ---
+Date: 2021-11-24 12:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I should be home in about 15-20 minutes ☺️👍🏻
+
+--- MESSAGE 18 ---
+Date: 2021-11-24 12:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You can make it!! 
+
+--- MESSAGE 19 ---
+Date: 2021-11-24 12:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I believe in you!!
+
+--- MESSAGE 20 ---
+Date: 2021-11-25 15:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'll take myself and Joshua to get hair trimming
+
+--- MESSAGE 21 ---
+Date: 2021-11-26 14:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: This is my face when you sent that message: 
+
+--- MESSAGE 22 ---
+Date: 2021-11-26 14:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: 👦🏻👦🏻👦🏻
+
+--- MESSAGE 23 ---
+Date: 2021-11-27 13:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I gave her the bottle that was upstairs with her 
+
+--- MESSAGE 24 ---
+Date: 2021-11-28 10:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Awww I don't know 🙇🏻‍♂️
+
+--- MESSAGE 25 ---
+Date: 2021-11-28 11:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Details on the movies? 

@@ -1,0 +1,209 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-07-16 07:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.03)
+Keywords: understand,well,hope
+Text: There is no case here. I don't even understand how this conversation has even started, you have now made my simple first message: 'Hi Louisa. Hope you and the kids are going well.' into a conversation about my behaviour and my entitlement. 
+
+I no longer want to continue this conversation with you because all it's doing is going back and forth and I'm over it. You can say whatever you want Louisa, I'm not here to change your mind or pull you up on your behaviour that's not my responsibility. 
+
+Again, I will see you on Tuesday at the car park for the court case at 9:15am as you stated on your previous messages. Which court will this be at?
+
+--- MESSAGE 2 ---
+Date: 2022-08-25 11:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.03)
+Keywords: please
+Text: Can you get the bbq bacon burger, cheese and gravy chips and coke no sugar please 
+
+--- MESSAGE 3 ---
+Date: 2022-09-14 13:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.03)
+Keywords: please
+Text: Can you get me whopper with cheese meal please no pickles 
+
+--- MESSAGE 4 ---
+Date: 2022-11-19 11:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.02)
+Keywords: good,best
+Text: Your best was not good enough, you kept refusing for me to have Lily for 50% of the time, you obviously couldn't handle Lily as I know you would've paid more attention for Joshua's needs. 
+
+--- MESSAGE 5 ---
+Date: 2022-09-17 22:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.02)
+Text: It's not my fault you can't accept the inevitable 
+
+--- MESSAGE 6 ---
+Date: 2022-01-07 14:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Keywords: please,better
+Text: Louisa. You and I just need to stop talking at this moment. We are both fighting and it is not healthy for either of us or the kids. So please let's take a break for the day/night and maybe we can discuss this better as matured adults tomorrow when we are not letting our emotions out.
+
+--- MESSAGE 7 ---
+Date: 2021-03-13 10:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: This is what I believe your perspective was. 
+
+--- MESSAGE 8 ---
+Date: 2021-03-13 10:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Also this. 
+
+--- MESSAGE 9 ---
+Date: 2021-08-21 15:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Lulu? 
+
+--- MESSAGE 10 ---
+Date: 2021-08-21 17:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'll be at Murdoch station at exactly 5:34pm
+
+--- MESSAGE 11 ---
+Date: 2021-08-21 17:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Canning bridge station is the one I was going to go to 
+
+--- MESSAGE 12 ---
+Date: 2021-08-21 17:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'll be there at 5:41pm
+
+--- MESSAGE 13 ---
+Date: 2021-08-22 11:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Are you and Joshua having lunch with Di and Terry? 😊
+
+--- MESSAGE 14 ---
+Date: 2021-08-26 11:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Can I ask what your main focus is now?
+
+--- MESSAGE 15 ---
+Date: 2021-08-26 11:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Are you implying that I'm going to be doing this job for the rest of my life? 
+
+--- MESSAGE 16 ---
+Date: 2021-08-26 12:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 17 ---
+Date: 2021-08-26 12:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: By the time I study and graduate I'll be earning around 84-95k and then I can work doing that whilst learning and training to be a nurse practitioner 
+
+--- MESSAGE 18 ---
+Date: 2021-08-26 12:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: As I've told you before, I will be working full time hours and saving money for us 
+
+--- MESSAGE 19 ---
+Date: 2021-08-26 16:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What time does the movie start and which cinema? 
+
+--- MESSAGE 20 ---
+Date: 2021-08-26 16:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Have the tickets been bought yet? 
+
+--- MESSAGE 21 ---
+Date: 2021-08-26 16:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'll get the iPad from Joshua in about 10-15 minutes 
+
+--- MESSAGE 22 ---
+Date: 2021-08-26 17:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I have passed your information onto Allegra for you 
+
+--- MESSAGE 23 ---
+Date: 2021-08-27 11:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼￼Handmade teddy bears 
+
+--- MESSAGE 24 ---
+Date: 2021-08-27 12:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We have to get this 
+
+--- MESSAGE 25 ---
+Date: 2021-08-27 12:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: For them 

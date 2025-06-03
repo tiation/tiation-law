@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-02-28 07:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm going to have to remember to bring a laptop to this lecture next time
+
+--- MESSAGE 2 ---
+Date: 2022-02-28 09:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmmm finished my first class 
+
+--- MESSAGE 3 ---
+Date: 2022-02-28 11:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm coming!!
+
+--- MESSAGE 4 ---
+Date: 2022-02-28 12:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I could be 5-6 hours 
+
+--- MESSAGE 5 ---
+Date: 2022-02-28 12:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: The nurses are going to message or call you to let you know when to come and get me 
+
+--- MESSAGE 6 ---
+Date: 2022-02-28 12:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Is this at Volkswagen?
+
+--- MESSAGE 7 ---
+Date: 2022-02-28 13:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: So...I have to wait till around 5pm now for my surgery
+
+--- MESSAGE 8 ---
+Date: 2022-02-28 13:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: So it may be later tonight till I get picked up
+
+--- MESSAGE 9 ---
+Date: 2022-02-28 13:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I have to lay in the hospital bed until then 
+
+--- MESSAGE 10 ---
+Date: 2022-02-28 13:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 11 ---
+Date: 2022-02-28 13:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I can't stay overnight because I have uni tomorrow morning
+
+--- MESSAGE 12 ---
+Date: 2022-02-28 13:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It's at 8am
+
+--- MESSAGE 13 ---
+Date: 2022-02-28 13:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmmm I guess we will have to wait and see because they said I'll be getting discharged today
+
+--- MESSAGE 14 ---
+Date: 2022-02-28 13:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: But that could change 
+
+--- MESSAGE 15 ---
+Date: 2022-02-28 13:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: If they are sleeping 
+
+--- MESSAGE 16 ---
+Date: 2022-02-28 13:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm waiting waiting waiting 
+
+--- MESSAGE 17 ---
+Date: 2022-02-28 16:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm so hungry 
+
+--- MESSAGE 18 ---
+Date: 2022-02-28 20:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It's on less than 20%
+
+--- MESSAGE 19 ---
+Date: 2022-02-28 20:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I send a photo 
+
+--- MESSAGE 20 ---
+Date: 2022-02-28 20:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I've had heaps already 
+
+--- MESSAGE 21 ---
+Date: 2022-02-28 20:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 22 ---
+Date: 2022-02-28 20:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I told everyone that I'm studying nursing too 🙇🏻‍♂️
+
+--- MESSAGE 23 ---
+Date: 2022-02-28 21:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 24 ---
+Date: 2022-02-28 21:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I wasn't expecting to stay overnight and didn't pack a charger 😔
+
+--- MESSAGE 25 ---
+Date: 2022-02-28 21:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: But I have tv in my room

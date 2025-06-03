@@ -1,0 +1,248 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-03-09 19:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.85)
+Text: ￼Look at the innocent happiness and excitement on her face 
+
+--- MESSAGE 2 ---
+Date: 2022-11-07 14:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.85)
+Keywords: best
+Text: She is the smartest and best baby 
+
+--- MESSAGE 3 ---
+Date: 2022-02-24 10:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.84)
+Keywords: friend
+Text: Haha that's funny I have a close friend called Liam 
+
+--- MESSAGE 4 ---
+Date: 2022-09-24 22:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.84)
+Keywords: love
+Text: Loved "We just sending love ❤️ "
+
+--- MESSAGE 5 ---
+Date: 2022-02-05 20:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.84)
+Text: Oh golly gosh did you haha! That sounds like fun 
+
+--- MESSAGE 6 ---
+Date: 2022-10-05 17:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.84)
+Text: But you still sit there thinking nothing wrong happened, everything is okay and will go back to normal. You are wrong. 
+
+--- MESSAGE 7 ---
+Date: 2022-09-22 17:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.84)
+Keywords: care,support,understand
+Text: You just don't understand Louisa, you don't see how unfair life is for Lily now, you compare that her life is as equal as Joshua's which is untrue. You don't see how much more care and support she needs. 
+
+--- MESSAGE 8 ---
+Date: 2021-12-09 08:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.84)
+Keywords: love,hope
+Text: I hope you, Lily and Joshua are okay I love you all ❤️
+
+--- MESSAGE 9 ---
+Date: 2022-01-23 12:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.84)
+Keywords: care,good,hope
+Text: Hi Louisa, I hope you, Joshua and Lily have been having a good day 😊 I care for you guys a lot and I always will 
+
+--- MESSAGE 10 ---
+Date: 2022-03-13 19:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.84)
+Text: They are innocent and cute and I can only see happiness 
+
+--- MESSAGE 11 ---
+Date: 2022-04-06 09:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.84)
+Text: Yeah this definitely can be Lily she would be great at this
+
+--- MESSAGE 12 ---
+Date: 2022-06-02 20:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.84)
+Keywords: happy
+Text: Joshua and Michael said hello
+Joshua asked to speak to melody, melody was present and started speaking to him
+Joshua asked Melody to speak in private 
+They started talking about treasure maps and Joshua stated the treasure maps got stolen 
+The conversation between melody and Joshua was just about treasure maps
+Michael came back on the phone and Joshua told Michael about the treasure maps
+The conversation between Michael and Joshua was about treasure maps and how the treasure maps were stolen 
+Michael asked what Joshua is doing tonight, Joshua stated he is eating dinner and watching tv 
+Joshua's grandma then came on the phone, Joshua asked if she bought the sloth for Lily yet she said no
+Joshua's grandma then said that there will be another baby in the family 
+Joshua then said it was Adam's birthday today and Joshua's grandma said to Joshua to say happy birthday 
+Michael came back on the phone and Joshua asked to end the call and Michael said yes they said goodbye and the call ended
+
+--- MESSAGE 13 ---
+Date: 2022-03-08 12:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.84)
+Keywords: better,hope
+Text: Thanks Lou. I hope you start to feel better soon too! I just came to uni to order my name badge, it was $20 🙇🏻‍♂️
+
+--- MESSAGE 14 ---
+Date: 2021-12-18 12:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.84)
+Keywords: well
+Text: Okay well you enjoy yourself Lulu ❤️ and yes I'll put it on the calendar 
+
+--- MESSAGE 15 ---
+Date: 2022-01-23 18:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.84)
+Text: It's a nice saying to be honest and a true one at that 
+
+--- MESSAGE 16 ---
+Date: 2022-03-28 11:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.84)
+Keywords: best
+Text: Will Smith won best actor 
+
+--- MESSAGE 17 ---
+Date: 2022-06-14 19:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.83)
+Keywords: trust
+Text: Joshua and Michael said hello to each other
+Michael stated to Joshua that Joshua's grandma was present and she said hello to Joshua
+Joshua immediately asked his grandma to buy him a nerf gun so he can play with it, she responded that he will have to wait for his birthday to her new presents
+Joshua told her that he likes ninja stuff and would like ninja stuff
+She then asked Joshua what he's doing, Joshua responded with gibberish noises to this question and Joshua then told her it's a new language he made up, Joshua said to his grandma that it's a secret language that he uses with only people that he trust 
+Michael then came back on the phone and Joshua kept saying his gibberish language to Michael continuously when Michael was asking him things, Michael then started to speak this gibberish language back to Michael...the conversation was then just them making noises to each other, then Michael said he was going to go now because Joshua wasn't talking to him and that he will talk to him soon
+The conversation ended 
+
+
+--- MESSAGE 18 ---
+Date: 2022-01-29 22:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.83)
+Keywords: good,hope
+Text: Okay Louisa. It's a timeout right now and that's what we agreed on. Have a good night, I hope you get some sleep
+
+--- MESSAGE 19 ---
+Date: 2021-11-06 15:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.83)
+Text: Why is she so chubby it's so cute haha!!
+
+--- MESSAGE 20 ---
+Date: 2021-09-30 09:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.83)
+Keywords: good
+Text: No my mum or Troy didn't smack me at all, I think I got yelled at though by Troy but it was very rare because he wanted to be the good and fun dad to me but my mum would tell me off from time to time 
+
+--- MESSAGE 21 ---
+Date: 2022-03-09 20:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.83)
+Keywords: happy,better,well
+Text: Well you've got the medication now and he'll get better abs he'll be happy that it's gone 
+
+--- MESSAGE 22 ---
+Date: 2022-04-28 19:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.83)
+Keywords: good
+Text: Joshua and Michael were talking about the sticky hands
+Michael asked Joshua what he was doing twice 
+Michael then said to Joshua that he can call him anytime he wants on the phone
+Joshua then said to Michael "don't answer if you're busy"
+Joshua asked about Michaels house and Michael said did you want to see it on Saturday and Joshua replied with yes
+Joshua said to Michael that he wants a separate birthday party with Michael 
+Joshua asked to go to Adventure World for his birthday with Michael 
+Michaels father spoke to Joshua briefly
+Joshua asked Michael when he wants to stop talking 
+Joshua then asked if he wants to go now
+Michael then asked if Joshua was on his phone as it came up with no caller ID when he called
+Michael then asked Joshua what he wants to do on Saturday, Joshua replied with getting more army stuff 
+Joshua then asked if they can go now, Michael said that he wants to tell Joshua a secret about treasure maps and can talk about it on Saturday 
+Michael asked what he did at school, Joshua replied with "I don't remember" and Michael asked what his favourite thing at school was, Joshua replied with "going home and having a good time"
+
+--- MESSAGE 23 ---
+Date: 2022-02-14 17:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.83)
+Keywords: good
+Text: Ohh good! I am safe Lou I have the people to protect me 🙇🏻‍♂️
+
+--- MESSAGE 24 ---
+Date: 2022-03-03 20:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.83)
+Text: Okay then Lou Lily will be fine I got it! Goodnight Lou and sweet dreams 
+
+--- MESSAGE 25 ---
+Date: 2022-09-11 20:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.83)
+Keywords: appreciate,thank
+Text: Thanks for doing that Jo we really do appreciate it so much. Thank you again for organising everything ❤️🙌🏼

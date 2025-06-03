@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-10-13 17:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: https://music.apple.com/au/playlist/lily-piano/pl.u-pMyl1Kmu0x1el9
+
+--- MESSAGE 2 ---
+Date: 2022-10-13 17:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I haven't made it yet 
+
+--- MESSAGE 3 ---
+Date: 2022-10-13 17:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: But I know what you're talking about 
+
+--- MESSAGE 4 ---
+Date: 2022-10-13 18:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: So the police investigation is over 
+
+--- MESSAGE 5 ---
+Date: 2022-10-13 18:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I just got told now 
+
+--- MESSAGE 6 ---
+Date: 2022-10-13 18:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Just as expected really 
+
+--- MESSAGE 7 ---
+Date: 2022-10-13 18:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What do you mean?
+
+--- MESSAGE 8 ---
+Date: 2022-10-13 19:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You're right I didn't say it 
+
+--- MESSAGE 9 ---
+Date: 2022-10-13 19:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I cannot answer that question at this time 
+
+--- MESSAGE 10 ---
+Date: 2022-10-13 19:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: At least it came I guess 
+
+--- MESSAGE 11 ---
+Date: 2022-10-13 19:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What are you doing now?
+
+--- MESSAGE 12 ---
+Date: 2022-10-13 19:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I am at my place tonight as I'm looking after Lily tomorrow night instead now
+
+--- MESSAGE 13 ---
+Date: 2022-10-13 20:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 14 ---
+Date: 2022-10-13 20:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I would do anything to swap places with Lily 
+
+--- MESSAGE 15 ---
+Date: 2022-10-13 21:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I do believe 
+
+--- MESSAGE 16 ---
+Date: 2022-10-14 16:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 17 ---
+Date: 2022-10-14 17:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 18 ---
+Date: 2022-10-15 14:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: When are you seeing Lily next? 
+
+--- MESSAGE 19 ---
+Date: 2022-10-15 14:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: When are you seeing Lily next? 
+
+--- MESSAGE 20 ---
+Date: 2022-10-15 16:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ?
+
+--- MESSAGE 21 ---
+Date: 2022-10-15 18:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Our daughter will not have a normal everyday life because of you and your behaviour and your parenting. 
+
+--- MESSAGE 22 ---
+Date: 2022-10-18 07:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: And why are you messaging me about this? 
+
+--- MESSAGE 23 ---
+Date: 2022-10-18 10:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: So why are you allowed to post on Facebook about other people on their work page etc but when something similar happens to you, you whinge about it?
+
+--- MESSAGE 24 ---
+Date: 2022-10-18 10:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Again now I know where Joshua gets it from. 
+
+--- MESSAGE 25 ---
+Date: 2022-10-18 11:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: So you're saying she was under your supervision 100%? That would imply you were seeing her the whole time, including seeing her drowning 

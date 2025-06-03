@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-03-15 12:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I got it anyway 
+
+--- MESSAGE 2 ---
+Date: 2022-03-15 15:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmm Ms Shave takes ages doesn't she 
+
+--- MESSAGE 3 ---
+Date: 2022-03-15 20:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I have made it to the movies 👦🏻
+
+--- MESSAGE 4 ---
+Date: 2022-03-16 09:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text:  Ohh golly gosh I'm 324
+
+--- MESSAGE 5 ---
+Date: 2022-03-16 09:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm just getting out of bed hehe 
+
+--- MESSAGE 6 ---
+Date: 2022-03-16 09:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Level 3 
+
+--- MESSAGE 7 ---
+Date: 2022-03-16 09:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm just in the shower my door is open just push it open
+
+--- MESSAGE 8 ---
+Date: 2022-03-16 13:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Going to my class, going to my class!!! 👦🏻
+
+--- MESSAGE 9 ---
+Date: 2022-03-17 10:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: https://www.thesun.co.uk/news/16825334/boy-murdered-stepmum-dad-torture-audio/
+
+--- MESSAGE 10 ---
+Date: 2022-03-17 14:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 11 ---
+Date: 2022-03-18 11:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What makes you say that?
+
+--- MESSAGE 12 ---
+Date: 2022-03-18 14:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼Lily filmed herself in slow motion this morning 🙇🏻‍♂️
+
+--- MESSAGE 13 ---
+Date: 2022-03-18 16:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: So another Lily right?? 🙇🏻‍♂️
+
+--- MESSAGE 14 ---
+Date: 2022-03-18 16:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We should've just had twins then Lou 
+
+--- MESSAGE 15 ---
+Date: 2022-03-18 17:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmm not really Lou 
+
+--- MESSAGE 16 ---
+Date: 2022-03-18 18:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You already fixed it now?
+
+--- MESSAGE 17 ---
+Date: 2022-03-18 20:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmmmm 😤
+
+--- MESSAGE 18 ---
+Date: 2022-03-18 20:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You didn't have a bathroom? 
+
+--- MESSAGE 19 ---
+Date: 2022-03-18 20:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How did you deal with that?
+
+--- MESSAGE 20 ---
+Date: 2022-03-18 20:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Because you had the bathroom outside?
+
+--- MESSAGE 21 ---
+Date: 2022-03-18 20:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What was the house you lived in before? 
+
+--- MESSAGE 22 ---
+Date: 2022-03-18 20:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Ohh I see Lou so that place you don't remember because you were too young 🙇🏻‍♂️
+
+--- MESSAGE 23 ---
+Date: 2022-03-18 20:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: That's why we make it exist Lou 🤪
+
+--- MESSAGE 24 ---
+Date: 2022-03-18 20:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I know Lou but I think it get it off in April 
+
+--- MESSAGE 25 ---
+Date: 2022-03-18 20:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: On the 11th 

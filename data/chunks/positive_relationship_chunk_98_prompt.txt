@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2021-12-08 17:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ??
+
+--- MESSAGE 2 ---
+Date: 2021-12-08 18:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You are more than enough Lou. 
+
+--- MESSAGE 3 ---
+Date: 2021-12-08 18:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Is the electricity working??
+
+--- MESSAGE 4 ---
+Date: 2021-12-08 19:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Let me call them 
+
+--- MESSAGE 5 ---
+Date: 2021-12-08 19:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Is the neighbours power on?
+
+--- MESSAGE 6 ---
+Date: 2021-12-08 19:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Apparently there is some outages happening 
+
+--- MESSAGE 7 ---
+Date: 2021-12-08 19:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: There are power outages in Mosman Park 
+
+--- MESSAGE 8 ---
+Date: 2021-12-08 19:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Apparently there is some outages happening 
+
+--- MESSAGE 9 ---
+Date: 2021-12-08 19:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: They said the estimated time to fix is later tonight 
+
+--- MESSAGE 10 ---
+Date: 2021-12-08 19:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: At least we know now it's not just your house 
+
+--- MESSAGE 11 ---
+Date: 2021-12-08 20:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 12 ---
+Date: 2021-12-08 20:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It's really hot today I know
+
+--- MESSAGE 13 ---
+Date: 2021-12-08 20:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Lulu?
+
+--- MESSAGE 14 ---
+Date: 2021-12-08 20:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You always have been enough for me 
+
+--- MESSAGE 15 ---
+Date: 2021-12-09 08:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You are Lou. Is the power back on?
+
+--- MESSAGE 16 ---
+Date: 2021-12-09 08:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: At least you'll get aircon installed today so you guys won't be so hot in the house now
+
+--- MESSAGE 17 ---
+Date: 2021-12-09 13:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Are you getting the aircon installed?
+
+--- MESSAGE 18 ---
+Date: 2021-12-10 08:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What do we do then? 
+
+--- MESSAGE 19 ---
+Date: 2021-12-10 11:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What are you guys doing at the moment?
+
+--- MESSAGE 20 ---
+Date: 2021-12-10 11:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How did that go?
+
+--- MESSAGE 21 ---
+Date: 2021-12-10 13:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I do now
+
+--- MESSAGE 22 ---
+Date: 2021-12-10 17:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm leaving the theatre now we finished early today
+
+--- MESSAGE 23 ---
+Date: 2021-12-10 17:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Ahh I see 
+
+--- MESSAGE 24 ---
+Date: 2021-12-10 17:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'll be at Swanbourne station at 5:26pm
+
+--- MESSAGE 25 ---
+Date: 2021-12-10 17:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Have you parked anywhere?

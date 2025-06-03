@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-03-23 11:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 2 ---
+Date: 2022-03-23 11:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: https://yirrayaakin.com.au/production/bilya-kaatijin/
+
+--- MESSAGE 3 ---
+Date: 2022-03-23 11:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: This the full acting gig I was talking to you about. So I would be travelling to schools and performing 
+
+--- MESSAGE 4 ---
+Date: 2022-03-23 13:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 5 ---
+Date: 2022-03-23 13:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmmmmm 🙇🏻‍♂️🙇🏻‍♂️🙇🏻‍♂️
+
+--- MESSAGE 6 ---
+Date: 2022-03-23 13:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I get my brace off on the 11th of April 👦🏻
+
+--- MESSAGE 7 ---
+Date: 2022-03-23 13:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It would've been 7 weeks then from my surgery date 
+
+--- MESSAGE 8 ---
+Date: 2022-03-23 13:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It's gone so fast 
+
+--- MESSAGE 9 ---
+Date: 2022-03-23 13:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmmmmmmmm 😒😒
+
+--- MESSAGE 10 ---
+Date: 2022-03-23 13:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I made it in time 
+
+--- MESSAGE 11 ---
+Date: 2022-03-23 17:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: https://m.youtube.com/watch?v=cDDWvj_q-o8
+
+--- MESSAGE 12 ---
+Date: 2022-03-23 17:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: https://m.youtube.com/watch?v=9uS0PRr7q2I
+
+--- MESSAGE 13 ---
+Date: 2022-03-23 17:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Lily has a new TikTok video 🙇🏻‍♂️
+
+--- MESSAGE 14 ---
+Date: 2022-03-23 18:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We never know who the person next to us is going through
+
+--- MESSAGE 15 ---
+Date: 2022-03-23 18:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Look at what I tagged you in on Facebook 🙇🏻‍♂️
+
+--- MESSAGE 16 ---
+Date: 2022-03-24 07:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: The jalapeño poppers have awoken 🙇🏻‍♂️
+
+--- MESSAGE 17 ---
+Date: 2022-03-24 08:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: My toot was burning Lou 
+
+--- MESSAGE 18 ---
+Date: 2022-03-24 09:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I did two poos
+
+--- MESSAGE 19 ---
+Date: 2022-03-24 09:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Ohh golly gosh another one has come Lou 😰😰😰
+
+--- MESSAGE 20 ---
+Date: 2022-03-24 16:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Joshua told me that he hits himself in the head at school because his brain tells him mean things 
+
+--- MESSAGE 21 ---
+Date: 2022-03-24 16:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: He hasn't told me yet 
+
+--- MESSAGE 22 ---
+Date: 2022-03-25 19:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: https://vm.tiktok.com/ZSdNaCErs/
+
+--- MESSAGE 23 ---
+Date: 2022-03-25 19:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Naughty 
+
+--- MESSAGE 24 ---
+Date: 2022-03-26 08:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hey my Lou 🤪🙇🏻‍♂️
+
+--- MESSAGE 25 ---
+Date: 2022-03-26 08:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: She can make her own choice when she's a bit older 

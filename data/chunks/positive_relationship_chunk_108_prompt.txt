@@ -1,0 +1,201 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-02-02 20:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Keywords: listen
+Text: I'll listen to it on Friday night because I won't have to wake up so early on Saturday for rehearsals
+
+--- MESSAGE 2 ---
+Date: 2022-02-03 08:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Why do you ask?
+
+--- MESSAGE 3 ---
+Date: 2022-02-03 08:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Are you behind?
+
+--- MESSAGE 4 ---
+Date: 2022-02-03 08:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Ohh so you are ahead and not behind?
+
+--- MESSAGE 5 ---
+Date: 2022-02-03 10:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I feel the same way for you Louisa and I always will 
+
+--- MESSAGE 6 ---
+Date: 2022-02-03 18:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: They still exist Louisa 
+
+--- MESSAGE 7 ---
+Date: 2022-02-04 09:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What time does it start?
+
+--- MESSAGE 8 ---
+Date: 2022-02-04 13:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How is everything going??
+
+--- MESSAGE 9 ---
+Date: 2022-02-04 13:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Ohh really?? 
+
+--- MESSAGE 10 ---
+Date: 2022-02-04 13:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Lily is at daycare too? 
+
+--- MESSAGE 11 ---
+Date: 2022-02-04 13:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: At least you can get her later on 
+
+--- MESSAGE 12 ---
+Date: 2022-02-04 13:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Can't just Di or Terry go get Joshua and one of them stay with you?
+
+--- MESSAGE 13 ---
+Date: 2022-02-04 13:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What has been done so far?
+
+--- MESSAGE 14 ---
+Date: 2022-02-04 15:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What's happened so far?
+
+--- MESSAGE 15 ---
+Date: 2022-02-04 16:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: So all that being said, does that mean Joshua sees Michael when you arrange between the two of you after the 8 weeks of visits on Saturday?
+
+--- MESSAGE 16 ---
+Date: 2022-02-04 16:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: So does he not get 50% then?
+
+--- MESSAGE 17 ---
+Date: 2022-02-04 16:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Oh so I'm June he will get his 50%?
+
+--- MESSAGE 18 ---
+Date: 2022-02-04 16:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: In*
+
+--- MESSAGE 19 ---
+Date: 2022-02-04 16:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: So will there be another court case for that then? 
+
+--- MESSAGE 20 ---
+Date: 2022-02-04 16:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: The Saturday 8 week visits?
+
+--- MESSAGE 21 ---
+Date: 2022-02-04 16:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Can I come over tomorrow after my chiropractor session?
+
+--- MESSAGE 22 ---
+Date: 2022-02-04 16:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Will they be doing the same to Michael?
+
+--- MESSAGE 23 ---
+Date: 2022-02-04 16:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How do you feel?
+
+--- MESSAGE 24 ---
+Date: 2022-02-04 17:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We've finished early today
+
+--- MESSAGE 25 ---
+Date: 2022-02-04 17:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Because of covid

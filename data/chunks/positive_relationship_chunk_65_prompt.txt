@@ -1,0 +1,201 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2021-12-18 17:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: We are going to be okay. 
+
+--- MESSAGE 2 ---
+Date: 2021-12-22 11:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: That's okay
+
+--- MESSAGE 3 ---
+Date: 2021-12-23 15:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: (To let you know I am only joking when I say this)
+
+--- MESSAGE 4 ---
+Date: 2021-12-24 17:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Ahh okay 
+
+--- MESSAGE 5 ---
+Date: 2021-12-25 15:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay 
+
+--- MESSAGE 6 ---
+Date: 2022-01-09 17:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay then Louisa 
+
+--- MESSAGE 7 ---
+Date: 2022-01-10 08:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: What do you want to do Louisa? Like we can say all these things to each other but you haven't told me what we do from now. 
+
+--- MESSAGE 8 ---
+Date: 2022-01-12 15:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Louisa I left because I felt like I wasn't being treated like a parent to our kids. Anything I did was wrong according to you 
+
+--- MESSAGE 9 ---
+Date: 2022-01-12 16:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay
+
+--- MESSAGE 10 ---
+Date: 2022-01-12 16:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay whatever Louisa
+
+--- MESSAGE 11 ---
+Date: 2022-01-14 09:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Is everything okay?
+
+--- MESSAGE 12 ---
+Date: 2022-01-14 13:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Are you okay?
+
+--- MESSAGE 13 ---
+Date: 2022-01-17 08:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay one sec
+
+--- MESSAGE 14 ---
+Date: 2022-01-17 17:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Hi Louisa, I'm not going to be able to talk tonight as I have to go to the shops now to buy a few things and for me to set everything up. Would it be okay if I can come over tomorrow after I finish rehearsals? 🙂
+
+--- MESSAGE 15 ---
+Date: 2022-01-18 16:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: I'll probably be getting to Joshua just after 6pm, it'll take 30 minutes to get there from where I am. Is that still okay?
+
+--- MESSAGE 16 ---
+Date: 2022-01-18 21:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: That's okay Louisa 😊
+
+--- MESSAGE 17 ---
+Date: 2022-01-27 09:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay then 
+
+--- MESSAGE 18 ---
+Date: 2022-01-28 06:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: It'll be okay 
+
+--- MESSAGE 19 ---
+Date: 2022-01-29 15:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Just before 5 if that's okay?
+
+--- MESSAGE 20 ---
+Date: 2022-01-30 14:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: I'll come at 5 so he has an early night before school tomorrow if that's okay?
+
+--- MESSAGE 21 ---
+Date: 2022-02-01 16:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay then, so you're saying he won't get 50% till roughly 2 years time then? 
+
+--- MESSAGE 22 ---
+Date: 2022-02-01 16:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay now it's making more sense to me 
+
+--- MESSAGE 23 ---
+Date: 2022-02-01 16:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay then Lou. I'm only asking because I don't know any of this stuff. Can I take Lily then on Friday when you go to court?
+
+--- MESSAGE 24 ---
+Date: 2022-02-01 18:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: We've got to wait and see what happens on Friday and we can go from there okay?
+
+--- MESSAGE 25 ---
+Date: 2022-02-02 20:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Keywords: best
+Text: I'm doing my best. Even being in pain I'm still doing my everyday duties 🙇🏻‍♂️

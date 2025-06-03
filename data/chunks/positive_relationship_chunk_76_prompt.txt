@@ -1,0 +1,203 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-02-21 18:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.15)
+Keywords: sorry
+Text: Okay I'm sorry about that. 
+
+--- MESSAGE 2 ---
+Date: 2022-06-14 13:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.15)
+Text: Thanks so much for your kind words Lou 🙇🏻‍♂️ I unfortunately failed my exam this morning so will have to potentially retake it in July 🥺
+
+--- MESSAGE 3 ---
+Date: 2022-09-17 22:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.15)
+Text: You lied about caring for Lily. 
+
+--- MESSAGE 4 ---
+Date: 2022-09-20 09:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.15)
+Text: Who are you going to invite?
+
+--- MESSAGE 5 ---
+Date: 2022-09-20 10:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.15)
+Text: So who do I have to message and invite?
+
+--- MESSAGE 6 ---
+Date: 2022-09-21 16:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.15)
+Text: I want to know details, I want to know what happened to my daughter. 
+
+--- MESSAGE 7 ---
+Date: 2022-09-22 17:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.15)
+Text: Yeah I get to grow in character but Lily doesn't does she
+
+--- MESSAGE 8 ---
+Date: 2022-10-18 10:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.15)
+Text: Yeah you did mean something to me but then your actions have cost me my life and Lily's life. 
+
+--- MESSAGE 9 ---
+Date: 2022-06-22 10:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.15)
+Text: So what do you want the schedule to be then? Because I don't want to keep being told by you that I'm fully responsible of you losing your job. 
+
+--- MESSAGE 10 ---
+Date: 2022-10-13 19:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.15)
+Text: What I really want does t exist 
+
+--- MESSAGE 11 ---
+Date: 2021-12-10 07:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.14)
+Text: So do you want to work us out? 
+
+--- MESSAGE 12 ---
+Date: 2022-03-09 20:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.14)
+Text: Oh my goodness he would've been freaking out right??
+
+--- MESSAGE 13 ---
+Date: 2021-08-27 12:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.13)
+Text: Then we can make a movie with them called Batman and Joker and they combine forces 
+
+--- MESSAGE 14 ---
+Date: 2021-12-14 17:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.13)
+Text: Nah it's okay
+
+--- MESSAGE 15 ---
+Date: 2022-03-30 14:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.13)
+Text: How are you feeling Lou?
+
+--- MESSAGE 16 ---
+Date: 2022-05-09 10:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.13)
+Text: Why would it be helpful? I'm confused by your statement 🙇🏻‍♂️
+
+--- MESSAGE 17 ---
+Date: 2022-08-14 10:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.13)
+Text: I do have a feeling that Lily is somewhat recovering 
+
+--- MESSAGE 18 ---
+Date: 2022-09-20 16:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.13)
+Text: Yes and they have said no Lou
+
+--- MESSAGE 19 ---
+Date: 2022-12-31 08:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.13)
+Text: You have kept the truth hidden from me because I believe you're trying to protect that stupid kid Joshua. 
+
+--- MESSAGE 20 ---
+Date: 2023-01-08 12:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.13)
+Text: A yes or no answer would suffice. 
+
+--- MESSAGE 21 ---
+Date: 2022-05-26 13:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.13)
+Text: Aww my poor Lou 🙇🏻‍♂️ I can't wait for you to start uni too my Lou it's going to be fun for you! 
+
+--- MESSAGE 22 ---
+Date: 2023-01-04 10:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.12)
+Keywords: care,please
+Text: If you don't care or want to come see Lily please let me know and I won't bother messaging you about her again. 
+
+--- MESSAGE 23 ---
+Date: 2021-10-01 14:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.12)
+Text: Okay but what do we need to buy from the shops 
+
+--- MESSAGE 24 ---
+Date: 2022-01-27 10:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.12)
+Keywords: together
+Text: I know but this is Batman and I want the first movie we spend together to be Batman 
+
+--- MESSAGE 25 ---
+Date: 2022-10-17 07:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.12)
+Text: It is spelt 'pedophile'. You state that your dad is a pedophile. Your dad visits with your mum. Joshua has behavioural issues and as soon as he fixes that he can visit, if you must know I arrange with Michael (Joshua's actual dad) to visit on Saturday but Joshua had refused get ready or do anything to visit Lily proving my point that Joshua has issues, so Joshua did not visit due to his attitude and behaviour.

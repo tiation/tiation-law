@@ -1,0 +1,201 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-04-04 18:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Okay. What's the alternative you want me to do then?
+
+--- MESSAGE 2 ---
+Date: 2022-05-09 10:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah I did watch the pus one, the animals have big pimples inside their meat
+
+--- MESSAGE 3 ---
+Date: 2022-05-13 09:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah I can do that Lou 
+
+--- MESSAGE 4 ---
+Date: 2022-06-11 14:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah I can do that for you 
+
+--- MESSAGE 5 ---
+Date: 2022-06-17 11:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Hey Lou yeah it'll be around normal time today
+
+--- MESSAGE 6 ---
+Date: 2022-07-01 22:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah I can do that Louisa. I do not believe I will be triggered though 
+
+--- MESSAGE 7 ---
+Date: 2022-07-23 06:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah I do. 
+
+--- MESSAGE 8 ---
+Date: 2022-07-30 05:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah I can do that give me a sec won't be long 
+
+--- MESSAGE 9 ---
+Date: 2022-08-05 07:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah I'm upstairs 
+
+--- MESSAGE 10 ---
+Date: 2022-08-08 16:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah I am 
+
+--- MESSAGE 11 ---
+Date: 2022-08-10 09:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah I'm going to 
+
+--- MESSAGE 12 ---
+Date: 2022-08-10 11:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah I'm just on the toilet 
+
+--- MESSAGE 13 ---
+Date: 2022-08-13 09:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah I can do that Lou 
+
+--- MESSAGE 14 ---
+Date: 2022-08-17 09:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah I am 
+
+--- MESSAGE 15 ---
+Date: 2022-09-03 07:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah I think I did
+
+--- MESSAGE 16 ---
+Date: 2022-09-03 16:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Quiet surprisingly 
+
+--- MESSAGE 17 ---
+Date: 2022-09-09 16:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah I guess 
+
+--- MESSAGE 18 ---
+Date: 2022-09-17 21:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah and I will 
+
+--- MESSAGE 19 ---
+Date: 2022-09-17 21:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah so let's figure out what we are going to do with Lily. 
+
+--- MESSAGE 20 ---
+Date: 2022-09-20 19:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah that's right 
+
+--- MESSAGE 21 ---
+Date: 2022-09-22 13:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah I don't have that message being sent today at 8:29am
+
+--- MESSAGE 22 ---
+Date: 2022-09-22 16:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Keywords: understand
+Text: Yeah I do understand it. 
+
+--- MESSAGE 23 ---
+Date: 2022-09-22 16:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah I was asking you because you stated to me Lily was under your continuous supervision during the whole morning 
+
+--- MESSAGE 24 ---
+Date: 2022-09-26 10:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah I think so too, I'm going to take her for a walk soon
+
+--- MESSAGE 25 ---
+Date: 2022-10-05 08:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah you can, I'm having a meeting with the welfare officer at 9am

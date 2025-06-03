@@ -1,0 +1,221 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2021-12-14 15:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.70)
+Keywords: good,hope
+Text: I hope your day has been good ☺️
+
+--- MESSAGE 2 ---
+Date: 2022-01-06 14:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.70)
+Keywords: love,care
+Text: Look Lulu, I want to work and cooperate with you I don't want us to have hostility towards each other. I love you and the kids and I care for you a lot. We can't cooperate and not work if you don't want to contact each other or talk
+
+--- MESSAGE 3 ---
+Date: 2022-01-22 17:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.70)
+Keywords: good,hope
+Text: I hope you guys had a good day today 😊
+
+--- MESSAGE 4 ---
+Date: 2022-01-25 11:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.70)
+Keywords: good,hope
+Text: Hi Louisa, I hope you and the kids have a good day today 😊
+
+--- MESSAGE 5 ---
+Date: 2022-01-28 09:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.70)
+Keywords: good
+Text: That's all I wanted to do. I just wanted him to be a good person and to learn to do good things in life
+
+--- MESSAGE 6 ---
+Date: 2022-01-28 09:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.70)
+Keywords: good,hope
+Text: I hope you and the kids have a good day today
+
+--- MESSAGE 7 ---
+Date: 2022-02-03 18:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.70)
+Keywords: good,hope
+Text: I hope you and the kids have had good days today ❤️
+
+--- MESSAGE 8 ---
+Date: 2022-02-05 20:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.70)
+Text: Looks like you guys had fun. Where'd you get the canoe from? 😊
+
+--- MESSAGE 9 ---
+Date: 2022-02-12 17:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.70)
+Keywords: together,good,hope
+Text: Hope you and the kids have a good night together 
+
+--- MESSAGE 10 ---
+Date: 2022-02-15 11:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.70)
+Text: Oh golly gosh that sounds like fun 
+
+--- MESSAGE 11 ---
+Date: 2022-02-18 11:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.70)
+Keywords: good
+Text: I am good thanks 🙇🏻‍♂️ how is your day going?
+
+--- MESSAGE 12 ---
+Date: 2022-02-18 12:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.70)
+Keywords: good,hope
+Text: I hope you are having a good day 
+
+--- MESSAGE 13 ---
+Date: 2022-02-27 16:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.70)
+Keywords: good,hope
+Text: I hope you and the kids have had a good day 
+
+--- MESSAGE 14 ---
+Date: 2022-03-09 21:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.70)
+Text: Yes yes Lou I am a luvo but I'm also an innocent boy/man too 
+
+--- MESSAGE 15 ---
+Date: 2022-03-18 20:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.70)
+Text: My goodness my Mum likes older style stuff too. I always told her to be more modern 
+
+--- MESSAGE 16 ---
+Date: 2022-09-03 07:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.70)
+Keywords: good
+Text: I'm good thanks 
+
+--- MESSAGE 17 ---
+Date: 2022-09-08 09:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.70)
+Keywords: good
+Text: Great then stop telling me that I'm a good person 
+
+--- MESSAGE 18 ---
+Date: 2022-09-17 21:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.70)
+Keywords: hope
+Text: Thanks for understanding my decision. I hope that you can see that Lily has more needs than Joshua. 
+
+--- MESSAGE 19 ---
+Date: 2022-01-27 21:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.70)
+Keywords: care,support,help
+Text: It's okay, I told you I'd help you and support with things. I care for you and the kids and always will. It's totally fine, if he answers and refuses to sign it'll just keep looking bad on him so if he wants to keep acting this way then he can, he'll be the one that loses. 
+
+--- MESSAGE 20 ---
+Date: 2022-09-22 16:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.70)
+Keywords: hope
+Text: I really hope they can accept you for that. 
+
+--- MESSAGE 21 ---
+Date: 2021-10-24 09:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.70)
+Keywords: best
+Text: The best team ever!!
+
+--- MESSAGE 22 ---
+Date: 2021-10-24 09:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.70)
+Keywords: best
+Text: And you make the best food!! 🙇🏻‍♂️
+
+--- MESSAGE 23 ---
+Date: 2021-11-13 07:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.70)
+Keywords: love
+Text: I love you guys!!
+
+--- MESSAGE 24 ---
+Date: 2022-05-25 13:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.70)
+Keywords: best
+Text: They are one of the best ones in the country!! 
+
+--- MESSAGE 25 ---
+Date: 2022-09-21 19:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.70)
+Keywords: care
+Text: You know what I think Louisa. I think that you are stating that Lily drowning and having her normal everyday life taken away under your care wasn't the wrong thing. You're trying to bring everything up that happened in your past life. 

@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-09-03 18:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Where are you sleeping tonight?
+
+--- MESSAGE 2 ---
+Date: 2022-09-03 18:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmmmm
+
+--- MESSAGE 3 ---
+Date: 2022-09-03 19:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Are you asking to stay at mine?
+
+--- MESSAGE 4 ---
+Date: 2022-09-03 19:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I don't mind seeing you Lou 
+
+--- MESSAGE 5 ---
+Date: 2022-09-03 19:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Just come over 
+
+--- MESSAGE 6 ---
+Date: 2022-09-03 20:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: So what are you doing?
+
+--- MESSAGE 7 ---
+Date: 2022-09-03 20:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Where are you?
+
+--- MESSAGE 8 ---
+Date: 2022-09-04 16:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I've just parked 
+
+--- MESSAGE 9 ---
+Date: 2022-09-04 16:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I don't think I do have the exemption letter 
+
+--- MESSAGE 10 ---
+Date: 2022-09-04 16:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: So I have to do a RAR?
+
+--- MESSAGE 11 ---
+Date: 2022-09-04 20:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Have you made it?
+
+--- MESSAGE 12 ---
+Date: 2022-09-04 21:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ?
+
+--- MESSAGE 13 ---
+Date: 2022-09-07 07:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'll have a shower now 
+
+--- MESSAGE 14 ---
+Date: 2022-09-07 07:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm out the shower 
+
+--- MESSAGE 15 ---
+Date: 2022-09-08 09:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Are you coming up or not?
+
+--- MESSAGE 16 ---
+Date: 2022-09-08 09:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Come up 
+
+--- MESSAGE 17 ---
+Date: 2022-09-08 09:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I do not yell at you 
+
+--- MESSAGE 18 ---
+Date: 2022-09-08 09:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I do not. 
+
+--- MESSAGE 19 ---
+Date: 2022-09-08 09:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I've spent 6 weeks here not knowing what happened to Lily. 
+
+--- MESSAGE 20 ---
+Date: 2022-09-08 10:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You haven't detailed anything to me 
+
+--- MESSAGE 21 ---
+Date: 2022-09-08 10:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Was she in the bath when you left? Was she outside the bath? 
+
+--- MESSAGE 22 ---
+Date: 2022-09-08 10:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You haven't told me anything. 
+
+--- MESSAGE 23 ---
+Date: 2022-09-08 10:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Are you coming up or not?
+
+--- MESSAGE 24 ---
+Date: 2022-09-08 14:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I think you got food here too from the Mums at school 
+
+--- MESSAGE 25 ---
+Date: 2022-09-09 08:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: She's done another big poo this morning

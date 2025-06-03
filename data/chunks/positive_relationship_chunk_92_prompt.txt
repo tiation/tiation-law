@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2021-11-08 12:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I saw....the suburb 🙇🏻‍♂️
+
+--- MESSAGE 2 ---
+Date: 2021-11-08 16:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Are you coming to get me Lulu? 
+
+--- MESSAGE 3 ---
+Date: 2021-11-08 16:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I will be home soon!! ☺️☺️
+
+--- MESSAGE 4 ---
+Date: 2021-11-08 16:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I don't know that one 🙇🏻‍♂️
+
+--- MESSAGE 5 ---
+Date: 2021-11-08 16:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: They said I can pick any song
+
+--- MESSAGE 6 ---
+Date: 2021-11-08 16:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It's a video 
+
+--- MESSAGE 7 ---
+Date: 2021-11-08 16:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Maybe I should do this one, it worked before
+
+--- MESSAGE 8 ---
+Date: 2021-11-09 09:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: When are you coming home Lulu? I need to go to the doctors they tried to call me before 🙇🏻‍♂️
+
+--- MESSAGE 9 ---
+Date: 2021-11-09 12:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: All I've had with people throughout my life is a relationship and I determine that I have this kind of relationship with this person and this kind of relationship with that person. That's how I've lived my life with other people
+
+--- MESSAGE 10 ---
+Date: 2021-11-09 12:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We can choose to have them in our life or not 
+
+--- MESSAGE 11 ---
+Date: 2021-11-09 12:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It's not my job to explain myself 
+
+--- MESSAGE 12 ---
+Date: 2021-11-09 13:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I don't know at the moment. 
+
+--- MESSAGE 13 ---
+Date: 2021-11-09 13:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I need to sit down and write it down
+
+--- MESSAGE 14 ---
+Date: 2021-11-09 13:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What is Norries?
+
+--- MESSAGE 15 ---
+Date: 2021-11-09 13:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Ohh I see 🙇🏻‍♂️
+
+--- MESSAGE 16 ---
+Date: 2021-11-09 13:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm still waiting at the doctors
+
+--- MESSAGE 17 ---
+Date: 2021-11-09 13:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm up next finally!!
+
+--- MESSAGE 18 ---
+Date: 2021-11-09 15:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I put my appointment for the surgeon in the calendar 
+
+--- MESSAGE 19 ---
+Date: 2021-11-09 16:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmmmmm 😤😤 
+
+--- MESSAGE 20 ---
+Date: 2021-11-09 16:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 21 ---
+Date: 2021-11-09 16:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 22 ---
+Date: 2021-11-09 16:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ☺️☺️
+
+--- MESSAGE 23 ---
+Date: 2021-11-09 16:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Lulu??
+
+--- MESSAGE 24 ---
+Date: 2021-11-09 16:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 25 ---
+Date: 2021-11-10 16:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Did you get in??

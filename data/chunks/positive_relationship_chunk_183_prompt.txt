@@ -1,0 +1,203 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-09-14 19:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: You have no right to say anything to me. 
+
+--- MESSAGE 2 ---
+Date: 2022-09-14 19:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: You still refuse to tell me what happened to Lily
+
+--- MESSAGE 3 ---
+Date: 2022-09-17 11:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No I'm not my brother stayed overnight 
+
+--- MESSAGE 4 ---
+Date: 2022-09-17 21:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No. 
+
+--- MESSAGE 5 ---
+Date: 2022-09-17 21:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Keywords: understand
+Text: I still don't understand how you can put this on me. You have no right to put anything on me after what's happened with Lily
+
+--- MESSAGE 6 ---
+Date: 2022-09-17 21:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: The real answer is no. 
+
+--- MESSAGE 7 ---
+Date: 2022-09-17 21:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No it's not. 
+
+--- MESSAGE 8 ---
+Date: 2022-09-17 21:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No you don't Louisa. 
+
+--- MESSAGE 9 ---
+Date: 2022-09-17 22:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: Our daughter is in hospital right now as we speak and all you've worried about is Joshua and how he is and what he needs in his life. 
+
+--- MESSAGE 10 ---
+Date: 2022-09-17 22:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: Again you have no right to put anything on me. 
+
+--- MESSAGE 11 ---
+Date: 2022-09-17 22:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No it's not actually. 
+
+--- MESSAGE 12 ---
+Date: 2022-09-17 22:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No. 
+
+--- MESSAGE 13 ---
+Date: 2022-09-20 09:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No it's not 
+
+--- MESSAGE 14 ---
+Date: 2022-09-20 16:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: They said no because her obs are at a normal rate 
+
+--- MESSAGE 15 ---
+Date: 2022-09-21 16:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No I didn't. 
+
+--- MESSAGE 16 ---
+Date: 2022-09-22 07:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No that's not what happened 
+
+--- MESSAGE 17 ---
+Date: 2022-09-22 08:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No. 
+
+--- MESSAGE 18 ---
+Date: 2022-09-22 15:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No I need someone there from 5pm to 7pm
+
+--- MESSAGE 19 ---
+Date: 2022-09-22 16:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Keywords: good
+Text: I'm going to tell you something Louisa, you stated to me that you are the worst parent so what makes you think you having Lily full time is good then? 
+
+--- MESSAGE 20 ---
+Date: 2022-09-22 16:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Keywords: understand
+Text: No you don't understand. 
+
+--- MESSAGE 21 ---
+Date: 2022-09-22 16:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No I did not do that intentionally, why would you say that? 
+
+--- MESSAGE 22 ---
+Date: 2022-09-22 16:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No you don't hear me Louisa. 
+
+--- MESSAGE 23 ---
+Date: 2022-09-22 16:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: NO. 
+
+--- MESSAGE 24 ---
+Date: 2022-09-22 18:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: When Lily was in the ICU, the main thing you were worried about was Joshua. 
+
+--- MESSAGE 25 ---
+Date: 2022-09-22 19:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No I don't remember the card 

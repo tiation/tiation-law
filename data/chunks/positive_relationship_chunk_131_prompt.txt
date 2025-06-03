@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-04-12 10:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How are you my Lou?
+
+--- MESSAGE 2 ---
+Date: 2022-04-12 10:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: When I get to my place I FaceTime you
+
+--- MESSAGE 3 ---
+Date: 2022-04-14 14:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 4 ---
+Date: 2022-04-17 16:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: https://vt.tiktok.com/ZSdBsma5V/
+
+--- MESSAGE 5 ---
+Date: 2022-04-20 12:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I have finally printed my scripts Lou 🙇🏻‍♂️
+
+--- MESSAGE 6 ---
+Date: 2022-04-20 12:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Yea we can my Lou 
+
+--- MESSAGE 7 ---
+Date: 2022-04-20 12:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I know right Lou!!? 👦🏻
+
+--- MESSAGE 8 ---
+Date: 2022-04-20 12:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: But took me so long to set the account up hmmmmm 👿👿
+
+--- MESSAGE 9 ---
+Date: 2022-04-20 12:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 10 ---
+Date: 2022-04-20 12:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: My new wallpaper Lou 🙇🏻‍♂️
+
+--- MESSAGE 11 ---
+Date: 2022-04-20 13:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: The occupational therapist finally answered the phone 
+
+--- MESSAGE 12 ---
+Date: 2022-04-20 13:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I can go get my exercises done now 
+
+--- MESSAGE 13 ---
+Date: 2022-04-20 13:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm going there at 2pm today
+
+--- MESSAGE 14 ---
+Date: 2022-04-20 15:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 15 ---
+Date: 2022-04-20 15:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: 😤😤😤
+
+--- MESSAGE 16 ---
+Date: 2022-04-20 15:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You'll see, you'll all see!!!!
+
+--- MESSAGE 17 ---
+Date: 2022-04-20 15:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: 🙇🏻‍♂️🙇🏻‍♂️🙇🏻‍♂️
+
+--- MESSAGE 18 ---
+Date: 2022-04-20 17:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Was there for soooooooooo long
+
+--- MESSAGE 19 ---
+Date: 2022-04-20 17:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: LOOOOOOOUUUUUU!!!!!!!!
+
+--- MESSAGE 20 ---
+Date: 2022-04-20 17:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm driving Lou 🙇🏻‍♂️
+
+--- MESSAGE 21 ---
+Date: 2022-04-20 17:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Let me finish my dinner first and I'll be over soon
+
+--- MESSAGE 22 ---
+Date: 2022-04-20 18:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm leaving now, will be there soon. 
+
+--- MESSAGE 23 ---
+Date: 2022-04-21 19:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How late will you be my Lou? 
+
+--- MESSAGE 24 ---
+Date: 2022-04-24 14:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Did you try to call me?
+
+--- MESSAGE 25 ---
+Date: 2022-04-24 14:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmmm must've been a Gypsy 😤😤

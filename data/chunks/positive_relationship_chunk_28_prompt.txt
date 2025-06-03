@@ -1,0 +1,201 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2021-10-12 14:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.51)
+Text: Have fun showing off Lily 🥰
+
+--- MESSAGE 2 ---
+Date: 2022-01-16 09:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.51)
+Text: Why are you playing with my emotions like this?
+
+--- MESSAGE 3 ---
+Date: 2022-01-28 09:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.51)
+Text: I am fine. I have dealt with things like this many times through my life. 
+
+--- MESSAGE 4 ---
+Date: 2022-03-02 07:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.51)
+Text: Strong ones they said
+
+--- MESSAGE 5 ---
+Date: 2022-03-26 08:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.51)
+Text: Lily will be strong willed too 
+
+--- MESSAGE 6 ---
+Date: 2022-03-27 10:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.51)
+Keywords: trust
+Text: Who would trust this
+
+--- MESSAGE 7 ---
+Date: 2022-05-31 10:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.51)
+Text: Lily enjoyed her time here 
+
+--- MESSAGE 8 ---
+Date: 2022-06-19 09:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.51)
+Text: Okay, because one of the actors/directors from my play wants to work on scene stuff with me at 5pm and work on my audition
+
+--- MESSAGE 9 ---
+Date: 2022-07-01 22:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.51)
+Text: Not at this current time. I am just wanting to be with the kids and have fun with them 
+
+--- MESSAGE 10 ---
+Date: 2022-09-22 07:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.51)
+Text: The buttons that are like clip on and off are fine 
+
+--- MESSAGE 11 ---
+Date: 2021-08-27 12:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.51)
+Text: That's so cute 
+
+--- MESSAGE 12 ---
+Date: 2021-11-13 07:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.51)
+Text: Those messages were very sweet Lulu and Joshua 🥰
+
+--- MESSAGE 13 ---
+Date: 2022-01-17 08:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.51)
+Text: That was a very sweet audio message 😊
+
+--- MESSAGE 14 ---
+Date: 2022-01-20 07:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.51)
+Text: That's very cute 😊
+
+--- MESSAGE 15 ---
+Date: 2022-01-28 09:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.51)
+Text: Very cute 😊
+
+--- MESSAGE 16 ---
+Date: 2022-02-09 17:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.51)
+Text: You're most welcome 
+
+--- MESSAGE 17 ---
+Date: 2022-03-09 18:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.51)
+Text: She's very cute 
+
+--- MESSAGE 18 ---
+Date: 2022-03-12 20:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.51)
+Text: Watch Lily's face when she looks into the camera it's really cute 
+
+--- MESSAGE 19 ---
+Date: 2022-03-30 09:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.51)
+Text: You are most welcome Lou 
+
+--- MESSAGE 20 ---
+Date: 2022-05-13 09:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.51)
+Text: You are most welcome Lou 🙇🏻‍♂️
+
+--- MESSAGE 21 ---
+Date: 2022-10-13 20:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.51)
+Text: She looks really cute as usual 
+
+--- MESSAGE 22 ---
+Date: 2022-01-23 15:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.51)
+Text: Yeah that's fine! I asked so I could come down and get you guys won't be long 
+
+--- MESSAGE 23 ---
+Date: 2021-09-02 14:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.51)
+Text: Yes I am!!
+
+--- MESSAGE 24 ---
+Date: 2022-03-23 18:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.51)
+Text: Yes Lou that is absolutely correct!!
+
+--- MESSAGE 25 ---
+Date: 2022-09-17 21:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.50)
+Text: Great, so start acting like it and stop worrying about Joshua who can do normal things in his life. 

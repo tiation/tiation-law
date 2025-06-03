@@ -1,0 +1,211 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-10-11 12:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.21)
+Keywords: well
+Text: Lily wasn't well over the weekend and had kept coughing up secretions so I stayed up with her to do suctioning
+
+--- MESSAGE 2 ---
+Date: 2022-11-10 21:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.21)
+Text: I will never forgive you and Joshua. 
+
+--- MESSAGE 3 ---
+Date: 2022-11-16 17:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.21)
+Text: I can never forgive you or Joshua for what happened to Lily. 
+
+--- MESSAGE 4 ---
+Date: 2022-05-06 10:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.21)
+Keywords: sorry
+Text: And I'm sorry that I didn't leave straight away 
+
+--- MESSAGE 5 ---
+Date: 2022-02-25 20:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.21)
+Keywords: please
+Text: I've got nothing else to say. I'm going with what you're saying and I've got nothing else to say to the matter. I do not want to continue arguing please. 
+
+--- MESSAGE 6 ---
+Date: 2022-02-26 21:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.21)
+Text: Joshua spends one time unsupervised with his family and then he comebacks nearly brainwashed about Jesus and God. That's not fair on Joshua and it's not fair on us. 
+
+--- MESSAGE 7 ---
+Date: 2022-06-28 09:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.22)
+Text: You've ruined my career and life already Louisa so I don't know why you're saying you don't want to do that. I've got nothing left to give you so there's really nothing else for us to talk about anymore. I told you the other day that our relationship is over and I stand by that. 
+
+If you don't want to let me see Lily then that is fine by you but I will be going to family court tomorrow so I can at least get some visitation for my child.
+
+--- MESSAGE 8 ---
+Date: 2021-09-01 11:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.22)
+Text: Haha Joshua looks angry!! 
+
+--- MESSAGE 9 ---
+Date: 2021-09-03 11:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.22)
+Keywords: sorry
+Text: Aww I'm sorry Lou!! 
+
+--- MESSAGE 10 ---
+Date: 2021-09-22 11:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.22)
+Keywords: sorry
+Text: Sorry Lulu I only just saw this message!!
+
+--- MESSAGE 11 ---
+Date: 2021-10-03 11:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.22)
+Keywords: sorry
+Text: Sorry for asking!! I just remembered I had the car 
+
+--- MESSAGE 12 ---
+Date: 2022-01-12 15:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.22)
+Text: Then you're not supportive of me
+
+--- MESSAGE 13 ---
+Date: 2021-11-20 12:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.23)
+Text: She had tears in her eyes 
+
+--- MESSAGE 14 ---
+Date: 2022-01-20 19:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.23)
+Text: I think the border opening has been delayed
+
+--- MESSAGE 15 ---
+Date: 2022-03-28 16:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.23)
+Text: Yeah I think she would be sad 
+
+--- MESSAGE 16 ---
+Date: 2022-07-23 12:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.23)
+Text: I want you to stop contacting me and people that are in my life. 
+
+--- MESSAGE 17 ---
+Date: 2022-08-20 20:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.23)
+Text: I've forgotten my password to login and I can't reset it 
+
+--- MESSAGE 18 ---
+Date: 2022-09-17 22:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.23)
+Text: I want to know because then I feel closure and stop coming up with 100 different scenarios in my head. 
+
+--- MESSAGE 19 ---
+Date: 2022-10-10 11:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.23)
+Keywords: well
+Text: To me, you and Joshua are coming spidered unsafe around Lily. I have to prioritise Lily's safety and well-being from the people who let her drown. 
+
+--- MESSAGE 20 ---
+Date: 2022-10-18 16:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.23)
+Text: What do you want me to do about that? You're the one who cuts people off from your life. 
+
+--- MESSAGE 21 ---
+Date: 2022-12-30 21:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.23)
+Text: She did have tears and was making the same noises as before 
+
+--- MESSAGE 22 ---
+Date: 2021-11-08 16:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.23)
+Text: I should be home by 5:30ish 🥰 I'm on the fremantle train line train, I almost missed it because I didn't know the fremantle and midland train line is the same it goes all the way 
+
+--- MESSAGE 23 ---
+Date: 2022-02-25 19:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.23)
+Keywords: trust
+Text: You don't have to trust me it doesn't matter anymore. The only time I'll see Lily is when I see you so we are just going to go with that. I'm done arguing and doing this anymore. I don't want negative things in my life and all I want now is just to make sure you and the kids have a normal life
+
+--- MESSAGE 24 ---
+Date: 2022-10-15 18:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.23)
+Keywords: care
+Text: You don't say that I abuse children. Did any kid that was in my care drown or have severe brain injuries? No. 
+
+--- MESSAGE 25 ---
+Date: 2021-08-21 17:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.24)
+Text: I'm not sure where to park though at canning bridge station 

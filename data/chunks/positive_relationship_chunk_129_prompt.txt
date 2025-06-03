@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-03-31 16:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Lou!!!
+
+--- MESSAGE 2 ---
+Date: 2022-03-31 17:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Joshua and I are leaving now and getting KFC 
+
+--- MESSAGE 3 ---
+Date: 2022-03-31 17:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I know Lou 
+
+--- MESSAGE 4 ---
+Date: 2022-04-01 08:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Did you order Joshua's lunch?
+
+--- MESSAGE 5 ---
+Date: 2022-04-01 17:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Joshua and I will get pizza for dinner?
+
+--- MESSAGE 6 ---
+Date: 2022-04-01 17:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Loooouuuuuuuuuuu!!!!
+
+--- MESSAGE 7 ---
+Date: 2022-04-01 17:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'll put it under your name 🙇🏻‍♂️
+
+--- MESSAGE 8 ---
+Date: 2022-04-02 09:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Where are you Lou? 😰
+
+--- MESSAGE 9 ---
+Date: 2022-04-04 09:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 10 ---
+Date: 2022-04-04 16:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I didn't mean to. 
+
+--- MESSAGE 11 ---
+Date: 2022-04-04 16:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Him and myself and three other people are doing a group assessment 
+
+--- MESSAGE 12 ---
+Date: 2022-04-04 16:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Just him and myself were the only ones in a group that attended class today
+
+--- MESSAGE 13 ---
+Date: 2022-04-04 16:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: So we bonded over that. 
+
+--- MESSAGE 14 ---
+Date: 2022-04-04 17:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We just have the discussion board on the blackboard 
+
+--- MESSAGE 15 ---
+Date: 2022-04-04 17:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: So I've already sent a message to start it 
+
+--- MESSAGE 16 ---
+Date: 2022-04-04 17:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: That's the plan!! 
+
+--- MESSAGE 17 ---
+Date: 2022-04-04 17:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It's a PowerPoint presentation assessment 
+
+--- MESSAGE 18 ---
+Date: 2022-04-04 17:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It's both from what I can read 
+
+--- MESSAGE 19 ---
+Date: 2022-04-04 17:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I don't see the point bringing up past events. I'm trying everything I can to rectify everything with you and the kids
+
+--- MESSAGE 20 ---
+Date: 2022-04-04 17:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm trying to move forward here with you Lou. 
+
+--- MESSAGE 21 ---
+Date: 2022-04-04 17:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I will tell him what happened 
+
+--- MESSAGE 22 ---
+Date: 2022-04-04 17:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I will be over Wednesday evening.
+
+--- MESSAGE 23 ---
+Date: 2022-04-04 20:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 24 ---
+Date: 2022-04-04 20:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I took them Lou 🙇🏻‍♂️
+
+--- MESSAGE 25 ---
+Date: 2022-04-04 20:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I need to go to the doctors to get it looked at 

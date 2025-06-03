@@ -1,0 +1,219 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-02-16 16:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Can you please come down and let us in?
+
+--- MESSAGE 2 ---
+Date: 2022-02-22 09:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Can I come over today please?
+
+--- MESSAGE 3 ---
+Date: 2022-02-27 18:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Text: I will I promise I will do this Lou 
+
+--- MESSAGE 4 ---
+Date: 2022-02-28 16:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: miss
+Text: Aw thanks Lou I miss you too 
+
+--- MESSAGE 5 ---
+Date: 2022-03-01 12:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Can you send me a photo of Lily please? 🙇🏻‍♂️
+
+--- MESSAGE 6 ---
+Date: 2022-03-11 11:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Tell me now please Lou 🙇🏻‍♂️
+
+--- MESSAGE 7 ---
+Date: 2022-03-20 08:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Text: ￼Lily has a fan on TikTok wanting to say hi 😂
+
+--- MESSAGE 8 ---
+Date: 2022-03-20 09:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Can you please send me the photos you took yesterday at the movies?
+
+--- MESSAGE 9 ---
+Date: 2022-03-22 21:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Can I come up now please?
+
+--- MESSAGE 10 ---
+Date: 2022-04-01 17:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: And can you pick it up please for us?
+
+--- MESSAGE 11 ---
+Date: 2022-04-04 18:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: If this alternative is not up to standard then please respond with one that is suitable for you 
+
+--- MESSAGE 12 ---
+Date: 2022-04-10 07:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Text: That would be cool
+
+--- MESSAGE 13 ---
+Date: 2022-04-21 18:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Text: I got fresh washing powder for you 🙇🏻‍♂️
+
+--- MESSAGE 14 ---
+Date: 2022-04-29 12:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Send me the report please
+
+--- MESSAGE 15 ---
+Date: 2022-05-12 19:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Text: I'm sure there would be too
+
+--- MESSAGE 16 ---
+Date: 2022-06-28 09:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Can I please come see her?
+
+--- MESSAGE 17 ---
+Date: 2022-07-01 21:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Can I please pick her up from McDonald's Bicton at the time Joshua is getting picked up?
+
+--- MESSAGE 18 ---
+Date: 2022-07-12 11:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Hi Louisa. I have finished work here can I please come and pick up Lily earlier?
+
+--- MESSAGE 19 ---
+Date: 2022-07-18 18:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Text: That is the truth. 
+
+--- MESSAGE 20 ---
+Date: 2022-08-13 11:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Can you please come open the door to the ward? 
+
+--- MESSAGE 21 ---
+Date: 2022-08-14 17:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Can you grab knifes, forks and plates please?
+
+--- MESSAGE 22 ---
+Date: 2022-08-15 17:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Can you grab knives and forks please?
+
+--- MESSAGE 23 ---
+Date: 2022-08-19 15:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Can you open the door please?
+
+--- MESSAGE 24 ---
+Date: 2022-08-20 08:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Lou when you come down can you bring my towel that's on the door and coffee please?
+
+--- MESSAGE 25 ---
+Date: 2022-08-24 08:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Can you bring me a coffee please?

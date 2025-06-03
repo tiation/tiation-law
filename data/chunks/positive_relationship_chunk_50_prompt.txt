@@ -1,0 +1,206 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-07-19 17:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Keywords: thank
+Text: Thank you. 
+
+--- MESSAGE 2 ---
+Date: 2022-07-21 15:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: I can probably have him on Saturday night and return him on Sunday that's if you and Michael agree he can sleepover at mine
+
+--- MESSAGE 3 ---
+Date: 2022-07-29 08:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: I'm coming down now would you like a coffee or anything?
+
+--- MESSAGE 4 ---
+Date: 2022-07-30 09:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: Would you like a coffee or anything?
+
+--- MESSAGE 5 ---
+Date: 2022-08-05 10:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: Would you like anything?
+
+--- MESSAGE 6 ---
+Date: 2022-08-20 08:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Keywords: thank
+Text: Thank you 
+
+--- MESSAGE 7 ---
+Date: 2022-08-25 22:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: The Lily where she was able to do normal everyday things like all the other babies 
+
+--- MESSAGE 8 ---
+Date: 2022-09-04 08:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Keywords: thank
+Text: Ohh thank you 
+
+--- MESSAGE 9 ---
+Date: 2022-09-08 10:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Keywords: thank
+Text: Thank you for getting me McDonald's 
+
+--- MESSAGE 10 ---
+Date: 2022-09-15 17:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: So you can be here with my mum if you'd like 
+
+--- MESSAGE 11 ---
+Date: 2022-09-17 21:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: You can come over if you'd like 
+
+--- MESSAGE 12 ---
+Date: 2022-09-17 21:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: Lily is my only priority. I don't know what you expect me to do with Joshua. It's like you're telling me I have to take my time away from Lily to spend time with Joshua
+
+--- MESSAGE 13 ---
+Date: 2022-09-17 21:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: It's like you're implying Lily and Joshua are on the same level. 
+
+--- MESSAGE 14 ---
+Date: 2022-09-17 22:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: I will state now, I would like our conversations to be about Lily and what Lily needs in her life only. 
+
+--- MESSAGE 15 ---
+Date: 2022-09-21 17:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: It's like you totally skipped that message. 
+
+--- MESSAGE 16 ---
+Date: 2022-09-21 19:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: It's like you can't take responsibility for what has happened to Lily. 
+
+--- MESSAGE 17 ---
+Date: 2022-09-22 15:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: I know what you are like. 
+
+--- MESSAGE 18 ---
+Date: 2022-09-22 17:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: Like letting Joshua carry Lily down the stairs at your home will never happen again. 
+
+--- MESSAGE 19 ---
+Date: 2022-09-22 17:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: Like you do now. 
+
+--- MESSAGE 20 ---
+Date: 2022-09-23 11:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: I already am, I don't need you to tell me to start acting like a primary parent when I already am. 
+
+--- MESSAGE 21 ---
+Date: 2022-10-13 16:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Keywords: thank
+Text: Thank you 
+
+--- MESSAGE 22 ---
+Date: 2022-10-13 19:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: What does the room you made for Lily look like?
+
+--- MESSAGE 23 ---
+Date: 2022-10-29 13:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Keywords: thank
+Text: Oh thank you 
+
+--- MESSAGE 24 ---
+Date: 2022-11-05 19:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: I like how you can't newer anything I ask 
+
+--- MESSAGE 25 ---
+Date: 2022-11-06 15:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: Like an hour or two

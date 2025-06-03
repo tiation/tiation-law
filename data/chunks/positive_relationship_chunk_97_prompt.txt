@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2021-12-05 14:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How much is it?
+
+--- MESSAGE 2 ---
+Date: 2021-12-05 14:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Never mind I see now 
+
+--- MESSAGE 3 ---
+Date: 2021-12-05 14:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: After I finish work let's go to the beach 👦🏻
+
+--- MESSAGE 4 ---
+Date: 2021-12-05 14:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 5 ---
+Date: 2021-12-06 08:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 6 ---
+Date: 2021-12-06 12:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm making pancakes tonight remember
+
+--- MESSAGE 7 ---
+Date: 2021-12-06 12:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Don't make anything for dinner 😘 
+
+--- MESSAGE 8 ---
+Date: 2021-12-06 16:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Did Jo tell you that?
+
+--- MESSAGE 9 ---
+Date: 2021-12-06 16:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmm I don't mind Lulu 
+
+--- MESSAGE 10 ---
+Date: 2021-12-06 16:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: When you said "#meangirls" I knew exactly who you were referring to 
+
+--- MESSAGE 11 ---
+Date: 2021-12-06 16:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It doesn't end 
+
+--- MESSAGE 12 ---
+Date: 2021-12-06 16:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 13 ---
+Date: 2021-12-06 16:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Now he has something to look forward to 
+
+--- MESSAGE 14 ---
+Date: 2021-12-06 16:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hahahahaha I know I remember you saying this!! 
+
+--- MESSAGE 15 ---
+Date: 2021-12-06 16:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You should just grab some of his bday presents and wrap them 😏
+
+--- MESSAGE 16 ---
+Date: 2021-12-06 16:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: 👶🏻👶🏻👶🏻
+
+--- MESSAGE 17 ---
+Date: 2021-12-06 16:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What is she doing now?
+
+--- MESSAGE 18 ---
+Date: 2021-12-07 08:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: After 6:30pm
+
+--- MESSAGE 19 ---
+Date: 2021-12-07 08:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I will be there at 6:31pm
+
+--- MESSAGE 20 ---
+Date: 2021-12-08 17:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: That's impossible 
+
+--- MESSAGE 21 ---
+Date: 2021-12-08 17:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I paid the bill 
+
+--- MESSAGE 22 ---
+Date: 2021-12-08 17:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: There must be an issue with the electricity then 
+
+--- MESSAGE 23 ---
+Date: 2021-12-08 17:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Check the motherboard 
+
+--- MESSAGE 24 ---
+Date: 2021-12-08 17:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: To see if things are switched on 
+
+--- MESSAGE 25 ---
+Date: 2021-12-08 17:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Anything? 

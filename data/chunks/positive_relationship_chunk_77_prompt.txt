@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-06-16 16:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.10)
+Text: How did you hurt your foot my darling?
+
+--- MESSAGE 2 ---
+Date: 2022-02-20 14:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.09)
+Text: I finish at 3pm so if you want to leave at that time and get here around 3:30 you can
+
+--- MESSAGE 3 ---
+Date: 2022-05-06 10:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.09)
+Text: Okay let's not go back and forth and continue fighting, I don't want to fight with you 
+
+--- MESSAGE 4 ---
+Date: 2021-12-18 17:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.09)
+Text: The answer is no. We are not a poor family. 
+
+--- MESSAGE 5 ---
+Date: 2021-09-02 17:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: My number is 0894064330
+
+--- MESSAGE 6 ---
+Date: 2021-09-23 10:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Did you want to go out for dinner then?
+
+--- MESSAGE 7 ---
+Date: 2021-09-25 08:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Did you want to split the food budget?
+
+--- MESSAGE 8 ---
+Date: 2021-09-25 09:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: I want a combined rate
+
+--- MESSAGE 9 ---
+Date: 2021-10-03 11:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Did you want to come down with the baby?
+
+--- MESSAGE 10 ---
+Date: 2021-10-28 18:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: What is their number?
+
+--- MESSAGE 11 ---
+Date: 2021-11-02 09:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Want us to come get you now?
+
+--- MESSAGE 12 ---
+Date: 2021-11-07 12:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: I want the Cheeseburger one 🙇🏻‍♂️
+
+--- MESSAGE 13 ---
+Date: 2021-11-09 13:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: I'm going to read it in my own time. I've got a bit to do this week so after this week, after I've done things I want and need to do, I will read it. 
+
+--- MESSAGE 14 ---
+Date: 2021-12-08 20:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Did you want me to order something for you guys? 
+
+--- MESSAGE 15 ---
+Date: 2021-12-15 14:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: I want to go to the movies soon
+
+--- MESSAGE 16 ---
+Date: 2021-12-15 16:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Then what do you want to do? 
+
+--- MESSAGE 17 ---
+Date: 2021-12-16 10:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Do you want me to go hire a car now?
+
+--- MESSAGE 18 ---
+Date: 2021-12-16 12:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: We can borrow my Mums car if you want?
+
+--- MESSAGE 19 ---
+Date: 2021-12-18 17:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: I put the car seats in your car if you want to go somewhere with the kids 
+
+--- MESSAGE 20 ---
+Date: 2021-12-22 15:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Do you want to come get us at 4pm?
+
+--- MESSAGE 21 ---
+Date: 2022-01-06 10:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: What do you want to do Louisa? 
+
+--- MESSAGE 22 ---
+Date: 2022-01-07 10:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Whatever you say Louisa. You can just keep repeating that all you want. If that's your response to every message I'll send then we have nothing further to talk about at this current time. 
+
+--- MESSAGE 23 ---
+Date: 2022-01-08 14:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: I don't know what you want from me Lou. 
+
+--- MESSAGE 24 ---
+Date: 2022-01-10 11:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: What do you want to do Louisa? 
+
+--- MESSAGE 25 ---
+Date: 2022-01-12 16:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Your number 2. Point 

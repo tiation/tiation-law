@@ -1,0 +1,206 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-01-09 17:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.17)
+Keywords: sorry
+Text: If you don't want to cooperate with me regarding Lily then we are going to have to go to court, it's not what I want to do at all Louisa but if you're not going to cooperate then that's what will have to happen. I'm sorry. 
+
+--- MESSAGE 2 ---
+Date: 2022-03-10 08:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.18)
+Text: No that time is fine! I'll see you around then 
+
+--- MESSAGE 3 ---
+Date: 2022-03-13 09:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.18)
+Text: It's very hard for me Lou 
+
+--- MESSAGE 4 ---
+Date: 2021-12-22 11:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.18)
+Text: You should've heard him go down the tunnel of terror it was hilarious 😂
+
+--- MESSAGE 5 ---
+Date: 2022-09-03 19:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.18)
+Text: That's a weird question 
+
+--- MESSAGE 6 ---
+Date: 2022-09-21 17:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.18)
+Text: I say one thing and you make it out like I'm insulting you which I'm actually not. 
+
+--- MESSAGE 7 ---
+Date: 2022-07-18 09:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.19)
+Keywords: trust
+Text: Again these messages you are referring to were nothing more than a friendly conversation which you have refused to trust or believe from me. 
+
+--- MESSAGE 8 ---
+Date: 2022-02-01 16:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.19)
+Keywords: sorry
+Text: I'm not too sure it's working days or not I couldn't tell you sorry
+
+--- MESSAGE 9 ---
+Date: 2022-03-27 07:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.19)
+Text: I can't remember my dream 
+
+--- MESSAGE 10 ---
+Date: 2022-01-24 14:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.19)
+Text: Haha they look so tired
+
+--- MESSAGE 11 ---
+Date: 2022-10-10 11:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.19)
+Keywords: care
+Text: You say I'm a bad parent, I don't believe Lily drowned and technically died when she was in my care. 
+
+--- MESSAGE 12 ---
+Date: 2022-01-12 16:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.19)
+Keywords: love
+Text: Okay Louisa I don't want to continue this conversation if all you're going to do is be disrespectful to me, accuse me and not cooperate with me. Honestly the other day you say you love me but that's a lie, you don't love me. You hate me the things you are saying are just showing how much you hate me. 
+
+--- MESSAGE 13 ---
+Date: 2022-06-11 14:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.20)
+Keywords: sorry
+Text: But now I don't want to talk about that with you. I will get the cash out for US for the babysitter, sorry I did not word my message correctly 
+
+--- MESSAGE 14 ---
+Date: 2022-09-23 11:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.20)
+Text: Why should I apologise when you haven't even apologised to me for Lily's accident. 
+
+--- MESSAGE 15 ---
+Date: 2021-11-21 11:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.20)
+Text: Hmm that's strange?
+
+--- MESSAGE 16 ---
+Date: 2021-12-08 19:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.20)
+Text: This is strange
+
+--- MESSAGE 17 ---
+Date: 2021-12-31 12:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.20)
+Text: I thought you meant something seriously wrong with the car haha
+
+--- MESSAGE 18 ---
+Date: 2022-03-28 13:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.20)
+Text: He would look bad yes 
+
+--- MESSAGE 19 ---
+Date: 2022-05-12 19:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.20)
+Text: Hmmm that's strange 
+
+--- MESSAGE 20 ---
+Date: 2022-05-12 19:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.20)
+Text: A bit strange 
+
+--- MESSAGE 21 ---
+Date: 2022-05-23 11:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.20)
+Text: Hmmmm that's strange. 
+
+--- MESSAGE 22 ---
+Date: 2022-09-17 21:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.20)
+Text: And Michael has refused Joshua to see Lily and you've had to accept that, so what makes you think that he has no choice for Joshua to see me? 
+
+--- MESSAGE 23 ---
+Date: 2022-10-28 17:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.20)
+Text: That's strange 
+
+--- MESSAGE 24 ---
+Date: 2022-12-02 21:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.20)
+Text: You sent me an empty message? 
+
+--- MESSAGE 25 ---
+Date: 2023-02-05 19:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.20)
+Text: If you plan on doing any parenting classes or workshops, be sure to read the part about NOT leaving a 10 month old baby with a dangerous sibling and running water in a bath

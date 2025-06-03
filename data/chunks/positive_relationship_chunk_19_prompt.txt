@@ -1,0 +1,218 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2021-08-31 10:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.61)
+Keywords: please
+Text: Yes please ❤️
+
+--- MESSAGE 2 ---
+Date: 2021-11-23 10:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.61)
+Keywords: please
+Text: Yes please my Lulu 🙇🏻‍♂️
+
+--- MESSAGE 3 ---
+Date: 2022-01-31 10:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.61)
+Keywords: good,well
+Text: Well that's good to hear then 
+
+--- MESSAGE 4 ---
+Date: 2022-02-09 17:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.61)
+Text: I want to make sure you are ahead Lou and I won't see you become homeless play?
+
+--- MESSAGE 5 ---
+Date: 2022-02-10 13:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.61)
+Keywords: good,well
+Text: Ohh golly gosh well that's good then Lou ☺️
+
+--- MESSAGE 6 ---
+Date: 2022-02-10 13:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.61)
+Keywords: good,well
+Text: Oh well that's good then Lou 
+
+--- MESSAGE 7 ---
+Date: 2022-02-15 22:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.61)
+Keywords: good,well
+Text: Well that's good Lou ☺️
+
+--- MESSAGE 8 ---
+Date: 2022-02-28 20:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.61)
+Text: I'm in my ward now ready to sleep like a baby 
+
+--- MESSAGE 9 ---
+Date: 2022-03-13 16:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.61)
+Text: It is nice supportive foam 
+
+--- MESSAGE 10 ---
+Date: 2022-03-29 10:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.61)
+Keywords: good,well
+Text: Well i think it's good you kept Joshua back today
+
+--- MESSAGE 11 ---
+Date: 2022-05-09 10:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.61)
+Keywords: good,well
+Text: Well that is good then Lou 
+
+--- MESSAGE 12 ---
+Date: 2022-07-15 18:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.61)
+Keywords: well,hope
+Text: Hi Louisa. I hope you and the kids are going well
+
+--- MESSAGE 13 ---
+Date: 2022-07-18 08:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.61)
+Text: I feel like I'm being used to buy things for Joshua when it's something that he needs, like when I picked him up he needed a haircut and you left that responsibility on me to do when Joshua a day before was with Michael and Michael technically should've been the one to have gotten him a haircut. 
+
+--- MESSAGE 14 ---
+Date: 2022-08-26 20:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.61)
+Keywords: good,well
+Text: Well that's good then 
+
+--- MESSAGE 15 ---
+Date: 2022-09-01 07:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.61)
+Keywords: please
+Text: Yes please 
+
+--- MESSAGE 16 ---
+Date: 2022-09-07 07:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.61)
+Keywords: please
+Text: Yes please 
+
+--- MESSAGE 17 ---
+Date: 2022-09-12 17:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.61)
+Keywords: better,well
+Text: Well it's better if I get it because I have my phone 
+
+--- MESSAGE 18 ---
+Date: 2022-09-17 21:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.61)
+Text: Yeah I talk to them. I do things that progress my life so that Lily can have a life 
+
+--- MESSAGE 19 ---
+Date: 2022-10-13 19:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.61)
+Keywords: better,well
+Text: Oh well. Things must move on to better things 
+
+--- MESSAGE 20 ---
+Date: 2022-11-05 19:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.61)
+Keywords: good,well
+Text: Well all I can say to you louisa is have a good life with your favourite child Joshua. 
+
+--- MESSAGE 21 ---
+Date: 2022-02-03 18:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.61)
+Keywords: together,happy
+Text: You guys look very happy together ☺️
+
+--- MESSAGE 22 ---
+Date: 2022-02-27 20:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.61)
+Keywords: happy
+Text: He seems very happy with his office 
+
+--- MESSAGE 23 ---
+Date: 2021-11-22 20:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.61)
+Text: She loves you sooooo much! 
+
+--- MESSAGE 24 ---
+Date: 2022-02-14 18:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.61)
+Keywords: happy
+Text: Aww it is?! Happy Valentines Day Lou 🥰
+
+--- MESSAGE 25 ---
+Date: 2021-09-28 08:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.61)
+Text: I will bring all of this for you, I'm so proud of you too 🥰

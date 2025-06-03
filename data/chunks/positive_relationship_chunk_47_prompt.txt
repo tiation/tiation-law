@@ -1,0 +1,208 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-09-21 16:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.38)
+Text: They said it today clear as day that they don't know what happened and that is the main reason these plans are happening
+
+--- MESSAGE 2 ---
+Date: 2022-10-13 08:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.38)
+Text: Lily will be having another swab tomorrow to see if she is in the clear
+
+--- MESSAGE 3 ---
+Date: 2021-09-30 08:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.38)
+Keywords: please
+Text: Can you please send me the email for vac swim!
+
+--- MESSAGE 4 ---
+Date: 2022-03-22 12:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.38)
+Text: You don't want to be seen as a bombarder lol 🙇🏻‍♂️
+
+--- MESSAGE 5 ---
+Date: 2022-09-21 16:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.38)
+Text: I don't want two statements that can possibly be true. 
+
+--- MESSAGE 6 ---
+Date: 2022-04-04 16:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.37)
+Text: You are not wrong 
+
+--- MESSAGE 7 ---
+Date: 2022-05-12 19:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.37)
+Text: Then you did not get it wrong Lou 
+
+--- MESSAGE 8 ---
+Date: 2022-05-12 20:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.37)
+Text: Remember to tell Joshua that he hasn't done anything wrong 
+
+--- MESSAGE 9 ---
+Date: 2022-08-09 21:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.37)
+Text: That is a lovely thought. I just want Lily to be what she was before but I don't know 
+
+--- MESSAGE 10 ---
+Date: 2022-09-17 21:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.37)
+Text: And if Joshua is allowed to see my mum then that's great but again that's not my decision, that comes down to Michael making that decision. 
+
+--- MESSAGE 11 ---
+Date: 2022-07-18 08:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.37)
+Text: Okay Michael gives you $900 or something every month and you've stated the doesn't always pay it. I pay half your rent and your wifi for your house $380 x 2 = $760 and $90. Which equals up to $850 a month and I work casually and I'm a full time student, I don't earn over a 100k a year but I still pay $850 a month to for you and the kids to continue living in Mosman Park and having internet and I don't complain one bit about that. 
+
+You may say it's low all you want but you forget my situation and the things I already pay for you. It is really not my responsibility to pay for yours and Joshua's health insurance, Joshua's health insurance should be 100% discussed with you and Michael. 
+
+--- MESSAGE 12 ---
+Date: 2022-03-28 13:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: Like he didn't even apologise after Will Smith hit him and swore at him, he was still trying to justify what he said was a joke 
+
+--- MESSAGE 13 ---
+Date: 2022-09-17 22:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Keywords: wish
+Text: I wish the system was different, when I had left the house I should've taken Lily with me but you wouldn't allow it. You wanted Lily all to yourself and put certain times and days on when I could see her. 
+
+--- MESSAGE 14 ---
+Date: 2021-09-12 17:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: Would you like vegan spicy veg trio my lulus? 🙇🏻‍♂️
+
+--- MESSAGE 15 ---
+Date: 2021-09-21 14:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Keywords: thank
+Text: Thank you for that Lulu 
+
+--- MESSAGE 16 ---
+Date: 2021-09-23 14:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: Where would you like to go Lulu?
+
+--- MESSAGE 17 ---
+Date: 2021-09-25 10:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: I would like joshuas birth certificate 
+
+--- MESSAGE 18 ---
+Date: 2021-10-02 13:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Keywords: thank
+Text: I'll hold her after I finish work thank yous for asking 🥰
+
+--- MESSAGE 19 ---
+Date: 2021-10-27 18:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: It sounds like it's from next door 
+
+--- MESSAGE 20 ---
+Date: 2021-11-07 13:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: What do they smell like?
+
+--- MESSAGE 21 ---
+Date: 2021-11-08 16:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Keywords: thank
+Text: Thank you Lulu 🙇🏻‍♂️
+
+--- MESSAGE 22 ---
+Date: 2021-11-08 16:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Keywords: thank
+Text: I have to thank you for pushing to do it
+
+--- MESSAGE 23 ---
+Date: 2021-11-09 16:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: Would you like the vegan burger from here?
+
+--- MESSAGE 24 ---
+Date: 2021-11-20 12:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: I feel like iced coffee....
+
+--- MESSAGE 25 ---
+Date: 2021-11-29 17:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: Hmmm 😤😤 it has been on 1 minute till the train arrives for like 10 minutes now 🙇🏻‍♂️

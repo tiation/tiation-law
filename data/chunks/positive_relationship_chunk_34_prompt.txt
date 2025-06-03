@@ -1,0 +1,208 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-03-26 19:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Keywords: best
+Text: Just remember Lou, you're the best and no one can beat you, I really believe that 
+
+--- MESSAGE 2 ---
+Date: 2022-03-27 10:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Text: Ohh my goodness 
+
+--- MESSAGE 3 ---
+Date: 2022-03-28 17:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Text: Laughed at a movie
+
+--- MESSAGE 4 ---
+Date: 2022-04-09 19:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Text: My goodness 
+
+--- MESSAGE 5 ---
+Date: 2022-04-20 12:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Text: I'm glad I came to uni to do it because it was only 5 cents per page 
+
+--- MESSAGE 6 ---
+Date: 2022-04-20 17:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Text: Oh my goodness I have just left my therapy Lou 
+
+--- MESSAGE 7 ---
+Date: 2022-04-26 13:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Text: Lily was smiling at you so much Lou 
+
+--- MESSAGE 8 ---
+Date: 2022-05-03 12:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Text: Sooooooooo cute
+
+--- MESSAGE 9 ---
+Date: 2022-05-10 11:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Text: You're welcome 
+
+--- MESSAGE 10 ---
+Date: 2022-05-22 17:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Text: Laughed at an audio message
+
+--- MESSAGE 11 ---
+Date: 2022-05-25 11:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Text: You are welcome my Lou 
+
+--- MESSAGE 12 ---
+Date: 2022-05-31 12:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Text: Laughed at an image
+
+--- MESSAGE 13 ---
+Date: 2022-06-22 10:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Keywords: help
+Text: Lou I am over this. I will help you with the kids because that seems to be what you want from me. 
+
+--- MESSAGE 14 ---
+Date: 2022-07-03 11:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Keywords: well
+Text: Okay then. Well all I wanted was to tell and show you that this mark was not from me at all. 
+
+--- MESSAGE 15 ---
+Date: 2022-07-18 13:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Keywords: support
+Text: I'll ask now do you want me at the court case tomorrow to support you or not?
+
+--- MESSAGE 16 ---
+Date: 2022-07-18 18:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Keywords: support
+Text: Do you want me to be there at court tomorrow to support you or not?
+
+--- MESSAGE 17 ---
+Date: 2022-08-04 12:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Keywords: well
+Text: Okay then, well I'll eat my food here then 
+
+--- MESSAGE 18 ---
+Date: 2022-08-08 10:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Text: Hey Lou, yeah I'm fine I'm just waiting for him he is taking public transport here 
+
+--- MESSAGE 19 ---
+Date: 2022-08-29 13:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Text: Yeah that is fine 
+
+--- MESSAGE 20 ---
+Date: 2022-09-03 16:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Text: I'm glad she's done some poo
+
+--- MESSAGE 21 ---
+Date: 2022-09-16 15:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Keywords: well
+Text: Okay well I'm actually packing up leaving the meeting now 
+
+--- MESSAGE 22 ---
+Date: 2022-09-17 21:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Keywords: good
+Text: Sure about missing the good times with you? 
+
+--- MESSAGE 23 ---
+Date: 2022-09-17 22:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Text: And I have given you my respectful decision regarding Joshua 
+
+--- MESSAGE 24 ---
+Date: 2022-09-17 22:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Text: I'm glad you put my words down 
+
+--- MESSAGE 25 ---
+Date: 2022-09-20 09:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Text: You want the party on Sunday?

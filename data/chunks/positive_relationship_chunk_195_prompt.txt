@@ -1,0 +1,204 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-11-09 12:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.54)
+Text: I called up and they said she had a bad night. 
+
+--- MESSAGE 2 ---
+Date: 2023-01-18 11:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.54)
+Text: Fuck you. 
+
+--- MESSAGE 3 ---
+Date: 2022-12-24 17:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.54)
+Text: This is all yours and Joshua's fault. I should've taken Lily with me when I left and none of this would've happened to her and I will never forgive myself for it
+
+--- MESSAGE 4 ---
+Date: 2021-10-24 09:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.54)
+Text: I won't I promise Lulu okays?
+
+--- MESSAGE 5 ---
+Date: 2021-09-13 19:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.55)
+Text: But then wouldn't we get in trouble for not showing up?
+
+--- MESSAGE 6 ---
+Date: 2022-01-07 13:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.55)
+Text: I wanted to cooperate and work things out with you but you are too stubborn to do that. 
+
+--- MESSAGE 7 ---
+Date: 2022-01-14 07:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.56)
+Keywords: sorry
+Text: I'm really sorry that Michael is trying to get that type of custody as I know it's not something you want and is not ideal for you 
+
+--- MESSAGE 8 ---
+Date: 2021-12-16 10:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.56)
+Text: I'm so angry
+
+--- MESSAGE 9 ---
+Date: 2021-12-16 10:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.56)
+Text: I'm a fucking idiot 
+
+--- MESSAGE 10 ---
+Date: 2021-09-04 02:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.56)
+Text: I will pay for dinner tonight. No need to cancel.
+
+--- MESSAGE 11 ---
+Date: 2022-02-28 21:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.56)
+Text: If I don't reply that means my phone died
+
+--- MESSAGE 12 ---
+Date: 2022-03-18 20:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.56)
+Text: I have finished work and I'm bored and lonely now Lou 🙇🏻‍♂️
+
+--- MESSAGE 13 ---
+Date: 2022-07-23 12:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.56)
+Text: You are harming me. 
+
+--- MESSAGE 14 ---
+Date: 2022-09-22 15:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.56)
+Text: Instead of worrying about all of that, you should've worried about Lily and the hazards around her. 
+
+--- MESSAGE 15 ---
+Date: 2022-10-15 18:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.56)
+Keywords: good
+Text: You're not the good parent that you think you are Louisa and you need to stop telling yourself that. 
+
+--- MESSAGE 16 ---
+Date: 2022-09-22 16:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.56)
+Text: What has this accident got to do with anything?
+
+--- MESSAGE 17 ---
+Date: 2022-10-05 17:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.56)
+Keywords: trust
+Text: What do you mean by life admin, I don't know what you mean. There's really no information to give you I told you I filled out forms for Centrelink to put me as Lily's carer and Medicare card what more do you want? 
+Lily doesn't need a kid in her life that makes everything about himself. Joshua was at the house when Lily's incident occurred and therefore I do not trust him to be around or talk to Lily.
+
+--- MESSAGE 18 ---
+Date: 2021-12-16 10:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.57)
+Text: I'm so ticking stupid 
+
+--- MESSAGE 19 ---
+Date: 2022-04-05 16:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.57)
+Text: No not today Lou haha
+
+--- MESSAGE 20 ---
+Date: 2021-12-24 16:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.57)
+Text: I got something in my eye and it hurts!! 
+
+--- MESSAGE 21 ---
+Date: 2021-11-06 15:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.57)
+Text: No Lulu, you said no to alcohol remember?! 😇
+
+--- MESSAGE 22 ---
+Date: 2021-11-10 16:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.57)
+Text: Stranger danger!
+
+--- MESSAGE 23 ---
+Date: 2022-03-13 09:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.57)
+Text: I feel so disgusting 
+
+--- MESSAGE 24 ---
+Date: 2022-05-17 18:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.57)
+Text: Lily has tested negative 
+
+--- MESSAGE 25 ---
+Date: 2022-09-17 22:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.57)
+Text: Why and how did she drown? 

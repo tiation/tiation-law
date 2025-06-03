@@ -1,0 +1,236 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2021-10-10 12:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.82)
+Keywords: best
+Text: YES!!! You're the best Lulu, no one can beat you!!! 🥰
+
+--- MESSAGE 2 ---
+Date: 2022-06-07 14:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.82)
+Keywords: good
+Text: It was so good to see you today my darling 🙇🏻‍♂️
+
+--- MESSAGE 3 ---
+Date: 2022-06-08 10:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.82)
+Keywords: good
+Text: It was so good to see you my darling 🙇🏻‍♂️
+
+--- MESSAGE 4 ---
+Date: 2022-06-09 08:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.82)
+Keywords: good
+Text: It was so good to see you this morning my darling 🙇🏻‍♂️
+
+--- MESSAGE 5 ---
+Date: 2022-06-20 17:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.82)
+Keywords: good
+Text: It'll be so good to see you tonight my darling 🙇🏻‍♂️
+
+--- MESSAGE 6 ---
+Date: 2022-10-17 07:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.82)
+Keywords: care,respect
+Text: You want me to respect you? You don't have any respect towards me, you don't tell me what happened to Lily and now the police investigation is over I now must live my life with Lily never knowing how this incident happened to her. You are that disrespecting that you refuse to tell the father of your child about how she became the way she is when she was in YOUR care. 
+
+--- MESSAGE 7 ---
+Date: 2022-03-11 20:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.82)
+Keywords: happy,good
+Text: We are doing really good!! We are always happy here having a movie night 
+
+--- MESSAGE 8 ---
+Date: 2021-09-30 09:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.81)
+Text: Thanks gorgeous one 🥰 how are you feeling?
+
+--- MESSAGE 9 ---
+Date: 2022-01-07 14:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.81)
+Keywords: love,care
+Text: I care and love you Louisa and I'll always be here for you if you need anything. I've said this to you before and I'll say it again 
+
+--- MESSAGE 10 ---
+Date: 2022-03-09 11:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.81)
+Keywords: better,well,hope
+Text: I hope you are feeling better today Lou and are resting well
+
+--- MESSAGE 11 ---
+Date: 2022-07-23 06:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.81)
+Keywords: understand
+Text: You are despicable Louisa. You can say you're free that's fine you've been free since I left you so I don't understand why you're saying that now. 
+
+--- MESSAGE 12 ---
+Date: 2022-09-17 22:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.81)
+Keywords: love,care
+Text: I hear that she needs someone who is going to give her the proper care and love in her life. 
+
+--- MESSAGE 13 ---
+Date: 2022-09-17 22:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.81)
+Keywords: love,care
+Text: The care and love you haven't been able to give. 
+
+--- MESSAGE 14 ---
+Date: 2022-11-10 20:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.81)
+Keywords: care,understand,best
+Text: I just don't understand how you, someone who claims so much that they are the best parent and they care about their kids and you've done so much research and then this happens
+
+--- MESSAGE 15 ---
+Date: 2022-11-16 17:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.81)
+Keywords: happy
+Text: So Lily didn't drown in the bath? Lily is happy and still at your house?
+
+--- MESSAGE 16 ---
+Date: 2022-10-13 19:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.81)
+Keywords: good,well
+Text: Well that's good of them, they should do it for free after waiting that long 
+
+--- MESSAGE 17 ---
+Date: 2021-12-15 11:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.81)
+Keywords: hope
+Text: And I hope you have a great day too Lou! 
+
+--- MESSAGE 18 ---
+Date: 2022-09-17 21:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.81)
+Keywords: care
+Text: Yeah he does actually, Joshua is in his care full time at the moment so yeah he does make that choice Louisa 
+
+--- MESSAGE 19 ---
+Date: 2022-03-18 18:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.80)
+Keywords: happy,good
+Text: ￼A happy baby is a good baby right Lou??! 🙇🏻‍♂️
+
+--- MESSAGE 20 ---
+Date: 2021-09-16 11:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.80)
+Keywords: help
+Text: Hmmmmm but I wanted to help you Lulu. I wanted to show I cared for you 🙇🏻‍♂️
+
+--- MESSAGE 21 ---
+Date: 2021-12-11 06:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.80)
+Text: And you're welcome Lou, thanks for inviting me
+
+--- MESSAGE 22 ---
+Date: 2022-03-09 20:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.80)
+Keywords: hope
+Text: Hmmm I hope so Lou my arm hairs are nice and soft so it must grow back like that 
+
+--- MESSAGE 23 ---
+Date: 2022-04-26 19:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.80)
+Keywords: good,well
+Text: Joshua is talking to also his Aunty on the phone as well as Michael 
+Michael and his Aunty were talking about school 
+It's the Aunty from next door 
+Joshua then said I was an army doctor from a movie I was in 
+Joshua asked if they had a good time during the holidays 
+Joshua's Aunty was on the phone with Michael for a total of 2 minutes and then she left 
+Michael then said that when Joshua sees him next he will meet his biological family 
+Joshua then kept on saying things what he wanted for his birthday 
+Joshua said to Michael he is going to have an early birthday 
+Michael asked Joshua what he's doing, Joshua said he is in his playroom, Michael then asked who he is with, Joshua responded "no one" which is true because Joshua was in his playroom with the door closed 
+After this, they kept talking about army stuff 
+From there Michaels parents had arrived and Joshua was speaking with them 
+Michaels parents weren't on the phone for even a minute
+From there Michael then stated he needed to go too 
+The phone call ended 
+
+--- MESSAGE 24 ---
+Date: 2021-12-10 08:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.80)
+Text: Lily looks very cute and you look beautiful too ☺️
+
+--- MESSAGE 25 ---
+Date: 2022-01-15 08:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.80)
+Keywords: love,please
+Text: I love you so much and I always will. I don't know what we do from here so please tel me what do we do? 

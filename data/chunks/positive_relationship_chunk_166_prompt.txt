@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-11-19 12:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: And never told anyone what happened. 
+
+--- MESSAGE 2 ---
+Date: 2022-11-19 12:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Then why is she in hospital with a small life expectancy?
+
+--- MESSAGE 3 ---
+Date: 2022-11-19 12:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: And you don't have to learn that by reading parenting books or going to a parenting class. 
+
+--- MESSAGE 4 ---
+Date: 2022-11-21 13:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Are you coming in for this meeting today or not?
+
+--- MESSAGE 5 ---
+Date: 2022-11-28 17:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You have clothes here at the hospital that need to be taken away 
+
+--- MESSAGE 6 ---
+Date: 2022-11-28 17:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What are you doing now?
+
+--- MESSAGE 7 ---
+Date: 2022-11-30 14:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I dropped your belongings off to your house 
+
+--- MESSAGE 8 ---
+Date: 2022-12-03 14:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Yea we have 
+
+--- MESSAGE 9 ---
+Date: 2022-12-03 15:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I told you that we were moving here. 
+
+--- MESSAGE 10 ---
+Date: 2022-12-03 16:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Did those exact words come out of my mouth or did I message you saying that? 
+
+--- MESSAGE 11 ---
+Date: 2022-12-04 14:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 12 ---
+Date: 2022-12-05 11:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Lily is getting a session done next week on Wednesday
+
+--- MESSAGE 13 ---
+Date: 2022-12-05 12:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Did the doctor in America say 1.35 is enough because I can see he did 1.5
+
+--- MESSAGE 14 ---
+Date: 2022-12-06 09:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: When I research it, everyone is saying 1.5 ATA 
+
+--- MESSAGE 15 ---
+Date: 2022-12-06 18:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Did you send money then for Lily's oxygen therapy?
+
+--- MESSAGE 16 ---
+Date: 2022-12-08 06:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I know that. I'm going to take her 3-4 times a week
+
+--- MESSAGE 17 ---
+Date: 2022-12-08 06:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 18 ---
+Date: 2022-12-08 09:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You did not have to send me all of the money louisa. I wasn't going to go halves in you with it. 
+
+--- MESSAGE 19 ---
+Date: 2022-12-08 09:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I will send half back of what you sent me 
+
+--- MESSAGE 20 ---
+Date: 2022-12-08 11:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 21 ---
+Date: 2022-12-08 11:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: They use the same chambers at Thrive
+
+--- MESSAGE 22 ---
+Date: 2022-12-15 17:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We are 15 minutes away to my place
+
+--- MESSAGE 23 ---
+Date: 2022-12-21 09:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Are you coming to Lily's therapy?
+
+--- MESSAGE 24 ---
+Date: 2022-12-21 09:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ??
+
+--- MESSAGE 25 ---
+Date: 2022-12-22 14:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: When is Lily going to get more noticeable results? 

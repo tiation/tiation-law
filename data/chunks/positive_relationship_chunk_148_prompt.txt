@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-08-27 18:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Do what?
+
+--- MESSAGE 2 ---
+Date: 2022-08-28 14:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'll be leaving in 10-15 minutes 
+
+--- MESSAGE 3 ---
+Date: 2022-08-28 21:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: She's still awake 
+
+--- MESSAGE 4 ---
+Date: 2022-08-29 15:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 5 ---
+Date: 2022-08-29 21:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 6 ---
+Date: 2022-08-29 21:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I fixed her bed up 
+
+--- MESSAGE 7 ---
+Date: 2022-08-29 21:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmmmm
+
+--- MESSAGE 8 ---
+Date: 2022-08-29 21:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Nothing Lou 
+
+--- MESSAGE 9 ---
+Date: 2022-08-30 08:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm awake
+
+--- MESSAGE 10 ---
+Date: 2022-08-31 19:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Where are you now? 
+
+--- MESSAGE 11 ---
+Date: 2022-09-01 07:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: They are taking Lily for another MRI 
+
+--- MESSAGE 12 ---
+Date: 2022-09-01 09:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I've finished 
+
+--- MESSAGE 13 ---
+Date: 2022-09-01 15:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Has your mum left?
+
+--- MESSAGE 14 ---
+Date: 2022-09-01 15:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Are you in the family room?
+
+--- MESSAGE 15 ---
+Date: 2022-09-01 15:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm coming up 
+
+--- MESSAGE 16 ---
+Date: 2022-09-02 13:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Let me know when the nurse says what they are going to do regarding the covid situation 
+
+--- MESSAGE 17 ---
+Date: 2022-09-02 13:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: My sister is going to come up for tonight and tomorrow night
+
+--- MESSAGE 18 ---
+Date: 2022-09-02 14:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: But the infections team haven't changed anything or anything been said to you?
+
+--- MESSAGE 19 ---
+Date: 2022-09-03 06:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: My sister is there now 
+
+--- MESSAGE 20 ---
+Date: 2022-09-03 06:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Lou?
+
+--- MESSAGE 21 ---
+Date: 2022-09-03 16:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: The same as usual 
+
+--- MESSAGE 22 ---
+Date: 2022-09-03 16:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How is Lily?
+
+--- MESSAGE 23 ---
+Date: 2022-09-03 16:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Yea I did louisa 
+
+--- MESSAGE 24 ---
+Date: 2022-09-03 16:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It's there 
+
+--- MESSAGE 25 ---
+Date: 2022-09-03 16:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: In a plastic bag 

@@ -1,0 +1,201 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-02-21 12:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.47)
+Text: I know what you mean it hits you so hard that you have no words to express how you feel
+
+--- MESSAGE 2 ---
+Date: 2022-03-10 14:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.47)
+Keywords: best
+Text: Okay that is fine and no she's not so it's best you go then Lou 
+
+--- MESSAGE 3 ---
+Date: 2022-02-28 21:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.47)
+Text: There's no Netflix!!! 😰😰😰
+
+--- MESSAGE 4 ---
+Date: 2022-03-09 20:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.47)
+Text: Ohhh no!!! 
+
+--- MESSAGE 5 ---
+Date: 2022-03-15 07:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.47)
+Text: I had thought I was lying on the remote but the remote was located right here!!!
+
+--- MESSAGE 6 ---
+Date: 2022-05-22 16:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.47)
+Text: Ohhh no Lou!!! 
+
+--- MESSAGE 7 ---
+Date: 2021-11-21 12:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.48)
+Text: Okay then no worries 
+
+--- MESSAGE 8 ---
+Date: 2021-12-18 17:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.48)
+Text: The car got smashed and we didn't have a car, YOU bought a new car within a few hours, if you were a poor person you wouldn't have been able to do that. 
+
+--- MESSAGE 9 ---
+Date: 2022-01-02 13:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.48)
+Text: They haven't barred you, they are just sad at the moment and need time 
+
+--- MESSAGE 10 ---
+Date: 2022-01-10 09:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.48)
+Text: Why is it worse Louisa? 
+
+--- MESSAGE 11 ---
+Date: 2022-01-24 16:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.48)
+Text: I just updated my pictures because the other ones were upsetting me 
+
+--- MESSAGE 12 ---
+Date: 2022-01-24 18:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.48)
+Text: It'll just get worse I reckon 
+
+--- MESSAGE 13 ---
+Date: 2022-02-25 17:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.48)
+Text: What is wrong Lou?
+
+--- MESSAGE 14 ---
+Date: 2022-03-15 20:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.48)
+Text: Hmmm I am sad though 😔
+
+--- MESSAGE 15 ---
+Date: 2022-03-28 13:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.48)
+Text: I think sad. 
+
+--- MESSAGE 16 ---
+Date: 2022-04-04 16:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.48)
+Text: I never said you were wrong 
+
+--- MESSAGE 17 ---
+Date: 2022-04-11 17:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.48)
+Text: What's wrong my Lou?
+
+--- MESSAGE 18 ---
+Date: 2022-05-12 20:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.48)
+Text: Because I bet he feels as though he did something wrong for him not to talk 
+
+--- MESSAGE 19 ---
+Date: 2022-07-18 12:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.48)
+Text: Why should I be ashamed of myself? 
+
+--- MESSAGE 20 ---
+Date: 2022-07-18 12:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.48)
+Text: You and Michael should both be ashamed of yourselves for letting me, the stepparent, be the one who purchases things for yours and his kid the things that he needs while you both buy Joshua things that he wants and try to one up each other. 
+
+--- MESSAGE 21 ---
+Date: 2022-07-19 09:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.48)
+Text: That's a very broad statement Louisa that you're disappointed in me for 'everything'
+
+--- MESSAGE 22 ---
+Date: 2022-07-19 09:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.48)
+Text: That's a very broad statement Louisa that you're disappointed in me for 'everything'
+
+--- MESSAGE 23 ---
+Date: 2022-07-23 05:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.48)
+Text: You've broken me. 
+
+--- MESSAGE 24 ---
+Date: 2022-09-08 09:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.48)
+Text: That means I'm worse than Michael according to you 
+
+--- MESSAGE 25 ---
+Date: 2022-09-17 22:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.48)
+Text: You are Louisa and you should be ashamed of yourself for doing that to me. 

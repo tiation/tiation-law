@@ -1,0 +1,214 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-11-15 09:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.10)
+Text: You can pay for Lily's session for HBOT 
+
+--- MESSAGE 2 ---
+Date: 2022-11-16 16:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.10)
+Keywords: well
+Text: Well you keep fighting about it
+
+--- MESSAGE 3 ---
+Date: 2022-12-29 21:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.10)
+Text: And no because I'm playing my game 
+
+--- MESSAGE 4 ---
+Date: 2021-12-08 20:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.11)
+Text: That's not true. You are enough for me okay?
+
+--- MESSAGE 5 ---
+Date: 2022-06-28 10:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.11)
+Text: Louisa
+
+I do not want to try for our relationship nor do I want to continue our relationship any further. 
+
+--- MESSAGE 6 ---
+Date: 2023-07-11 14:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.11)
+Text: Lily has done nothing wrong to you and you have abandoned her
+
+--- MESSAGE 7 ---
+Date: 2022-01-12 15:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.12)
+Keywords: support,help
+Text: I have not chosen sides. I hate how you keep staring I've chosen sides when the only side I've chosen is my own, I've chosen things to benefit me and OUR family. I've offered to support and help you, I do things to show that I'm still here to support you financially, I've wanted to have Lily for time with me not only just for me but to give you a break from Lily and how do you respond to all this? You block my number and don't speak to me, you then unblock me and then complain how you have NO support which is untrue, as I have been here waiting for you to respond to me 
+
+--- MESSAGE 8 ---
+Date: 2022-07-23 04:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.12)
+Text: It's like you want me to go into this huge depression and have no life. 
+
+--- MESSAGE 9 ---
+Date: 2022-07-23 12:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.13)
+Text: So leave me off it. 
+
+--- MESSAGE 10 ---
+Date: 2022-02-01 16:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.13)
+Text: Whether he agrees or disagrees correct?
+
+--- MESSAGE 11 ---
+Date: 2023-01-16 19:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.13)
+Keywords: help
+Text: Because you refused to help this week, I've had to cancel Lily's oxygen therapy sessions 
+
+--- MESSAGE 12 ---
+Date: 2022-03-27 10:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.13)
+Text: It's so bad haha 
+
+--- MESSAGE 13 ---
+Date: 2022-05-06 10:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.13)
+Keywords: sorry
+Text: I did not want to any of that to you and I'm sorry 
+
+--- MESSAGE 14 ---
+Date: 2021-08-26 16:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.14)
+Text: No I had not forgotten. 
+
+--- MESSAGE 15 ---
+Date: 2022-08-09 21:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.14)
+Keywords: wish
+Text: Loved "I wish I could say something. There's nothing I can say. 
+
+The nurse tonight, her cousins daughter was the same as Lily. But age 3. Her cousin so sad she says because she was quite old so felt she could not have another child.
+
+She says God is everywhere church, mosque, the outback"
+
+--- MESSAGE 16 ---
+Date: 2022-03-18 18:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.14)
+Keywords: help,wish
+Text: I wish I could help you but I have a sore arm 
+
+--- MESSAGE 17 ---
+Date: 2022-01-15 07:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.14)
+Text: You want me to be alone? You want me to cut everyone off in my life and start fresh so that the people in my life are the ones YOU choose for me? 
+
+--- MESSAGE 18 ---
+Date: 2022-02-02 20:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.15)
+Text: It's really sore! I don't know why it's like this. I've booked an appointment for the doctor too on Monday before the dentist just to get looked at by both. I can't open my mouth properly
+
+--- MESSAGE 19 ---
+Date: 2021-12-16 10:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.15)
+Text: It's not fine 
+
+--- MESSAGE 20 ---
+Date: 2021-12-16 10:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.15)
+Text: What happened was not fine 
+
+--- MESSAGE 21 ---
+Date: 2022-01-12 15:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.15)
+Text: Even saying that Lily looks like a girl, you said to me that was wrong to say. 
+
+--- MESSAGE 22 ---
+Date: 2022-01-18 08:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.15)
+Text: I'll ask but it might be hard to have it off as we are doing tech week that and it's the week before opening but I'll still ask and push for it 😊
+
+--- MESSAGE 23 ---
+Date: 2022-01-24 16:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.15)
+Text: Yes I was angry then. 
+
+--- MESSAGE 24 ---
+Date: 2022-02-02 06:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.15)
+Keywords: sorry
+Text: Hey sorry I missed your calls I was sleeping 🙇🏻‍♂️ is everything okay?
+
+--- MESSAGE 25 ---
+Date: 2022-02-17 21:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.15)
+Keywords: miss
+Text: Hmmmm I miss you 

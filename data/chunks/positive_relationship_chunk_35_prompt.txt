@@ -1,0 +1,214 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-09-29 21:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Keywords: calm
+Text: She calms down then stops being calm 
+
+--- MESSAGE 2 ---
+Date: 2022-11-05 18:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Text: Who cares. 
+
+--- MESSAGE 3 ---
+Date: 2023-02-27 08:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Keywords: wish
+Text: I do wish that Lily could be enjoying her life rather than suffering everyday. 
+
+--- MESSAGE 4 ---
+Date: 2021-11-14 15:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Text: You are most welcomes 
+
+--- MESSAGE 5 ---
+Date: 2022-03-15 20:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Keywords: wish
+Text: Because I really wish Lily was here watching it with me 
+
+--- MESSAGE 6 ---
+Date: 2022-06-23 11:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Keywords: wish
+Text: I really wish things were different between us Lou. Last night when we opened the show I wished you and the kids were there with me. 
+
+--- MESSAGE 7 ---
+Date: 2022-03-28 12:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Text: My cheek is so sure today
+
+--- MESSAGE 8 ---
+Date: 2022-04-04 20:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Text: My jaw is so sure again because it's the Monday
+
+--- MESSAGE 9 ---
+Date: 2021-10-16 16:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.45)
+Text: So it's definitely Belinda right?
+
+--- MESSAGE 10 ---
+Date: 2022-11-16 16:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.45)
+Keywords: care
+Text: I don't want to talk to you anymore today. I'm on my way to see my daughter Lily, the one who actually needs 100% care and supervision something you could not do on July 26th 2022.
+
+--- MESSAGE 11 ---
+Date: 2021-12-24 17:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.45)
+Text: What truth do you want me to see??
+
+--- MESSAGE 12 ---
+Date: 2022-01-27 10:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.45)
+Text: Yeah I can but will Mike allow that? 
+
+--- MESSAGE 13 ---
+Date: 2022-09-17 21:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.45)
+Text: You may think that but it's the truth I am not his dad Michael is his dad and that is a fact. 
+
+--- MESSAGE 14 ---
+Date: 2022-11-03 12:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.45)
+Text: And Lily didn't deserve to be the way she is but you and Joshua made sure about that. 
+
+--- MESSAGE 15 ---
+Date: 2022-01-09 17:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.45)
+Keywords: please
+Text: Louisa I'm her dad, I'm a parent too. I want to cooperate with you on this please. 
+
+--- MESSAGE 16 ---
+Date: 2022-10-15 18:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Text: You don't say shit. 
+
+--- MESSAGE 17 ---
+Date: 2021-09-30 08:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Keywords: good
+Text: All good don't need it ☺️☺️
+
+--- MESSAGE 18 ---
+Date: 2021-10-03 14:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Keywords: good
+Text: All good 
+
+--- MESSAGE 19 ---
+Date: 2021-10-26 13:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Keywords: good
+Text: These cars seem to have good reviews on them the brand and model 
+
+--- MESSAGE 20 ---
+Date: 2021-10-28 11:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Keywords: good
+Text: Sounds good to me my Lulu 🙇🏻‍♂️
+
+--- MESSAGE 21 ---
+Date: 2021-11-06 13:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Keywords: good
+Text: It's all good we can watch the replay when I get home
+
+--- MESSAGE 22 ---
+Date: 2021-11-06 15:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Keywords: better
+Text: I think it's because her breathing is better 
+
+--- MESSAGE 23 ---
+Date: 2021-11-06 15:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Text: We are always safe when we are at the beach 😡😡
+
+--- MESSAGE 24 ---
+Date: 2021-11-08 16:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Keywords: good
+Text: ￼Just got this email, I think I did good Lulu 🙇🏻‍♂️🙇🏻‍♂️
+
+--- MESSAGE 25 ---
+Date: 2021-11-09 16:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.44)
+Keywords: good
+Text: We decided to be good boys and go to ribs and burgers 

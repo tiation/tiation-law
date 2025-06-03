@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-08-16 09:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: My laptop is coming today
+
+--- MESSAGE 2 ---
+Date: 2022-08-16 11:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I have my new laptop 
+
+--- MESSAGE 3 ---
+Date: 2022-08-16 11:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm going to get lunch
+
+--- MESSAGE 4 ---
+Date: 2022-08-16 17:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Got the food 
+
+--- MESSAGE 5 ---
+Date: 2022-08-17 09:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'll be down shortly 
+
+--- MESSAGE 6 ---
+Date: 2022-08-17 13:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I said goodbye 
+
+--- MESSAGE 7 ---
+Date: 2022-08-17 13:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'll still be here 
+
+--- MESSAGE 8 ---
+Date: 2022-08-17 17:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I have the food
+
+--- MESSAGE 9 ---
+Date: 2022-08-18 10:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Do the people here put your washing in the dryer for you?
+
+--- MESSAGE 10 ---
+Date: 2022-08-18 17:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Have the food
+
+--- MESSAGE 11 ---
+Date: 2022-08-19 18:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I've got the food 
+
+--- MESSAGE 12 ---
+Date: 2022-08-19 18:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Lou
+
+--- MESSAGE 13 ---
+Date: 2022-08-19 18:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I have the food 
+
+--- MESSAGE 14 ---
+Date: 2022-08-20 08:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We are awake now 
+
+--- MESSAGE 15 ---
+Date: 2022-08-20 09:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Ask if you're allowed in the room still if I'm on the toilet
+
+--- MESSAGE 16 ---
+Date: 2022-08-20 20:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I did but it's different now because the system gets you to update your password every 30 days 
+
+--- MESSAGE 17 ---
+Date: 2022-08-20 20:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm trying to remember 
+
+--- MESSAGE 18 ---
+Date: 2022-08-20 20:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm just waiting for the IT people to get back to me 
+
+--- MESSAGE 19 ---
+Date: 2022-08-20 20:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: If they can't fix it I won't be able to work
+
+--- MESSAGE 20 ---
+Date: 2022-08-20 20:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I still can't remember it 
+
+--- MESSAGE 21 ---
+Date: 2022-08-20 21:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: None of the passwords that I would've used worked 
+
+--- MESSAGE 22 ---
+Date: 2022-08-20 21:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: And now it won't let me do anymore attempts 
+
+--- MESSAGE 23 ---
+Date: 2022-08-20 21:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'll probably be back tomorrow early then
+
+--- MESSAGE 24 ---
+Date: 2022-08-20 21:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Are you still there with her?
+
+--- MESSAGE 25 ---
+Date: 2022-08-20 21:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It should last for the night 

@@ -1,0 +1,211 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-10-22 09:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: I'm with Lily now because Michael messaged me last night to see if Joshua can see Lily this morning and I said yes if Joshua can behave himself.
+
+--- MESSAGE 2 ---
+Date: 2022-10-30 14:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes I'll be going towards Lily in about an hour 
+
+--- MESSAGE 3 ---
+Date: 2022-11-05 12:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes I am
+
+--- MESSAGE 4 ---
+Date: 2022-11-06 15:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes. 
+
+--- MESSAGE 5 ---
+Date: 2022-11-10 20:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: She needs a special bed not a cot
+
+--- MESSAGE 6 ---
+Date: 2022-11-10 20:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Keywords: wish
+Text: I wish I had taken Lily with me when I left you. At least this wouldn't have happened to Lily 
+
+--- MESSAGE 7 ---
+Date: 2022-11-13 11:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes I will
+
+--- MESSAGE 8 ---
+Date: 2022-11-14 14:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes I am. I'm in Mandurah at the moment dropping my cousins car off 
+
+--- MESSAGE 9 ---
+Date: 2022-11-16 15:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes I am
+
+--- MESSAGE 10 ---
+Date: 2022-11-16 16:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes 
+
+--- MESSAGE 11 ---
+Date: 2022-12-05 11:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Keywords: help
+Text: Is the 1.35 oxygen rate going to help her?
+
+--- MESSAGE 12 ---
+Date: 2022-12-19 10:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes we are nearly there 
+
+--- MESSAGE 13 ---
+Date: 2022-12-29 15:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes twice a day 
+
+--- MESSAGE 14 ---
+Date: 2022-12-30 21:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: Yes she was 
+
+--- MESSAGE 15 ---
+Date: 2023-01-09 12:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Keywords: help
+Text: On Wednesday and Friday you will help at the oxygen therapy.
+
+--- MESSAGE 16 ---
+Date: 2023-01-10 12:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Keywords: help
+Text: Are you going to come help tomorrow at the oxygen therapy?
+
+--- MESSAGE 17 ---
+Date: 2023-01-11 11:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Keywords: help
+Text: Next week I will be working in Perth. I will be taking Lily to the oxygen therapy at around 6pm on Monday, Wednesday and Friday. Are you available to help out?
+
+--- MESSAGE 18 ---
+Date: 2023-01-15 08:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Keywords: help
+Text: Are you coming tomorrow night at 6PM to help with Lily for her oxygen therapy?
+
+--- MESSAGE 19 ---
+Date: 2021-09-27 09:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: I called Di so don't worry 🥰
+
+--- MESSAGE 20 ---
+Date: 2021-10-26 13:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Keywords: well
+Text: Well it's up to you Lulu!! 
+
+--- MESSAGE 21 ---
+Date: 2022-09-21 16:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.40)
+Text: No you weren't. You refused to let me have Lily at certain times and days, you refused to let her have a sleepover at mine. 
+
+--- MESSAGE 22 ---
+Date: 2022-11-05 19:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.39)
+Keywords: well
+Text: Well you're not giving me any clear path on how this has happened and I'm speculating due to previous experiences with Joshua and his behaviour. 
+
+--- MESSAGE 23 ---
+Date: 2022-01-12 20:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.39)
+Keywords: together
+Text: I wanted to be the one responsible where everyone got along and was able to work together, whether it was family and friends it didn't matter. I spent my whole life Louisa in a world where this didn't exist and I wanted that to change not just for me but our kids too. 
+
+--- MESSAGE 24 ---
+Date: 2021-10-04 15:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.39)
+Keywords: please
+Text: Lulu can you please send me your id photo??
+
+--- MESSAGE 25 ---
+Date: 2021-10-10 12:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.39)
+Keywords: please
+Text: Can I post about the baby please?? 🙇🏻‍♂️

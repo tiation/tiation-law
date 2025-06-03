@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-02-15 22:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: Ohh no I didn't, the crew on the boat gave me spare bandaids for me to take 
+
+--- MESSAGE 2 ---
+Date: 2022-02-19 18:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No I haven't gotten anything back yet Lou 
+
+--- MESSAGE 3 ---
+Date: 2022-02-24 16:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No we said I would come and pick Lily up in the morning 
+
+--- MESSAGE 4 ---
+Date: 2022-02-28 09:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: Actually no come at 11 still 
+
+--- MESSAGE 5 ---
+Date: 2022-03-03 20:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No I'm not 🙇🏻‍♂️
+
+--- MESSAGE 6 ---
+Date: 2022-03-09 13:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No I don't seem to have the receipt. I do know though I kept it somewhere in the house. It could in the kitchen drawers or in the office drawers
+
+--- MESSAGE 7 ---
+Date: 2022-03-12 20:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No nothing at uni...so far 
+
+--- MESSAGE 8 ---
+Date: 2022-03-13 20:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No the tv show Dark Angel
+
+--- MESSAGE 9 ---
+Date: 2022-03-14 07:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: I got up early for no reason hmmmm
+
+--- MESSAGE 10 ---
+Date: 2022-03-14 11:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: Ohhh no 🙇🏻‍♂️
+
+--- MESSAGE 11 ---
+Date: 2022-03-14 11:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: Maybe I could stop the blast with my hands 🤔
+
+--- MESSAGE 12 ---
+Date: 2022-03-15 07:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No show was on
+
+--- MESSAGE 13 ---
+Date: 2022-03-23 13:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No I'm in the class now
+
+--- MESSAGE 14 ---
+Date: 2022-03-24 15:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No one ever stays behind now 
+
+--- MESSAGE 15 ---
+Date: 2022-03-29 07:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No I don't 
+
+--- MESSAGE 16 ---
+Date: 2022-03-30 12:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: There is no APA for this at all
+
+--- MESSAGE 17 ---
+Date: 2022-03-30 13:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: I'm waiting out the front and no one is here 
+
+--- MESSAGE 18 ---
+Date: 2022-03-30 13:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: And the timetable says no class 
+
+--- MESSAGE 19 ---
+Date: 2022-04-26 13:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No more masked after Friday
+
+--- MESSAGE 20 ---
+Date: 2022-05-09 10:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No more fish and chips hmmmmmmm 😤😤😤
+
+--- MESSAGE 21 ---
+Date: 2022-05-12 19:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No you didn't Lou 
+
+--- MESSAGE 22 ---
+Date: 2022-05-25 08:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: Can you take yourself off no caller id?
+
+--- MESSAGE 23 ---
+Date: 2022-05-29 17:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No I am home now Lou, I was just about to call you to ask what I can eat for dinner 🙇🏻‍♂️
+
+--- MESSAGE 24 ---
+Date: 2022-06-23 11:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No it was not. 
+
+--- MESSAGE 25 ---
+Date: 2022-07-18 08:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: And now you're responding in such an immature way telling me to stop paying and not to come to court tomorrow.

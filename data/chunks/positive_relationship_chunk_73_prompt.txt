@@ -1,0 +1,202 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-10-29 17:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay I'll wait 
+
+--- MESSAGE 2 ---
+Date: 2022-10-30 09:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: It's okay 
+
+--- MESSAGE 3 ---
+Date: 2022-11-14 14:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay
+
+--- MESSAGE 4 ---
+Date: 2022-11-14 14:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: That is okay
+
+--- MESSAGE 5 ---
+Date: 2022-11-15 08:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: We are doing okay so far
+
+--- MESSAGE 6 ---
+Date: 2022-12-10 14:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay 
+
+--- MESSAGE 7 ---
+Date: 2022-12-10 21:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay
+
+--- MESSAGE 8 ---
+Date: 2022-12-11 13:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay
+
+--- MESSAGE 9 ---
+Date: 2022-12-30 22:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay, what don't I know? 
+
+--- MESSAGE 10 ---
+Date: 2023-01-13 10:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: It'd be nice if you would come and see your daughter but I know you must make time for Joshua first. 
+
+--- MESSAGE 11 ---
+Date: 2022-02-24 08:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.22)
+Text: Golly gosh we must be careful! 😬
+
+--- MESSAGE 12 ---
+Date: 2022-08-20 20:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.22)
+Text: I've messaged my manager and he said if it can't be resolved then not to worry at all
+
+--- MESSAGE 13 ---
+Date: 2022-09-22 18:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.22)
+Text: You couldn't just stop and put all of your attention on Lily. 
+
+--- MESSAGE 14 ---
+Date: 2022-11-14 10:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.22)
+Text: I haven't heard anything no 
+
+--- MESSAGE 15 ---
+Date: 2021-09-25 09:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.21)
+Text: Yes but then I wasn't working as much as I am now. 
+
+--- MESSAGE 16 ---
+Date: 2021-12-09 13:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.21)
+Text: It's not about me being right Lulu. You have your values on relationships and I have mine, some of the similar and they work and then there are some that don't work but for me that's normal because we can't be completely 100% in tune or else we would be robots programmed that way
+
+--- MESSAGE 17 ---
+Date: 2022-03-18 20:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.21)
+Keywords: wish
+Text: I wish I could say the same but I still prefer modern 🙇🏻‍♂️😂
+
+--- MESSAGE 18 ---
+Date: 2022-06-16 11:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.21)
+Text: Hey Lou I probably could yes but I would t be able to stay with him at home 
+
+--- MESSAGE 19 ---
+Date: 2022-08-09 21:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.21)
+Keywords: wish
+Text: I wish I could do something for her so much but there's nothing I can do. 
+
+--- MESSAGE 20 ---
+Date: 2022-09-17 21:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.21)
+Text: I don't have a truth. It would be nice to have someone here with me
+
+--- MESSAGE 21 ---
+Date: 2022-01-12 15:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.21)
+Text: I have not blocked you
+
+--- MESSAGE 22 ---
+Date: 2022-10-27 08:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.21)
+Text: You don't have to drop anything off 
+
+--- MESSAGE 23 ---
+Date: 2021-10-26 15:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.20)
+Text: I've seen these photos before 🥰 Joshua looks worried haha
+
+--- MESSAGE 24 ---
+Date: 2021-12-05 14:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.20)
+Text: Is arrival on Friday evening fine though?
+
+--- MESSAGE 25 ---
+Date: 2021-12-18 17:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.20)
+Text: I've got a scholarship, a permanent casual job, I'll be studying full time and also doing acting/directing jobs for next year

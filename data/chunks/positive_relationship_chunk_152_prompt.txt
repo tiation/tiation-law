@@ -1,0 +1,201 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-09-17 21:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Joshua has that already
+
+--- MESSAGE 2 ---
+Date: 2022-09-17 21:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Joshua has Michael who does that for him. 
+
+--- MESSAGE 3 ---
+Date: 2022-09-17 21:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Keywords: together
+Text: I have time limitations. I don't see you and Michael working out together for Joshua to see Lily so I don't know why you putting the Joshua situation onto me. 
+
+--- MESSAGE 4 ---
+Date: 2022-09-17 21:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I do. 
+
+--- MESSAGE 5 ---
+Date: 2022-09-17 21:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Michael has EVERY choice to make that decision. 
+
+--- MESSAGE 6 ---
+Date: 2022-09-17 21:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You always kicked me out of the house. What else was I meant to do, keep sleeping on the beach? 
+
+--- MESSAGE 7 ---
+Date: 2022-09-17 21:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We should be having conversation about what we are going to do with Lily when is discharged 
+
+--- MESSAGE 8 ---
+Date: 2022-09-17 21:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Not Joshua. 
+
+--- MESSAGE 9 ---
+Date: 2022-09-17 21:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Are you delusional? 
+
+--- MESSAGE 10 ---
+Date: 2022-09-17 21:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Can Lily?
+
+--- MESSAGE 11 ---
+Date: 2022-09-17 21:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: So she needs me more than Joshua needs me. 
+
+--- MESSAGE 12 ---
+Date: 2022-09-17 21:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Lily needs you more than Joshua needs you. 
+
+--- MESSAGE 13 ---
+Date: 2022-09-17 21:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: But again you don't see it that way
+
+--- MESSAGE 14 ---
+Date: 2022-09-17 21:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You really don't. 
+
+--- MESSAGE 15 ---
+Date: 2022-09-17 21:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Because that's how this system works. 
+
+--- MESSAGE 16 ---
+Date: 2022-09-17 22:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: And her words and actions will be tossed away by Michael and the courts. 
+
+--- MESSAGE 17 ---
+Date: 2022-09-17 22:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm not controlling others, I'm just stating what the results would be. 
+
+--- MESSAGE 18 ---
+Date: 2022-09-17 22:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'll tell you now, when Lily is discharged from the hospital her and I will be staying at my grandparents until I find my own place in Perth with Lily. 
+
+--- MESSAGE 19 ---
+Date: 2022-09-17 22:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Emphasised "I'll tell you now, when Lily is discharged from the hospital her and I will be staying at my grandparents until I find my own place in Perth with Lily. "
+
+--- MESSAGE 20 ---
+Date: 2022-09-17 22:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I did not. 
+
+--- MESSAGE 21 ---
+Date: 2022-09-17 22:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Have you not seen what happened to Lily? 
+
+--- MESSAGE 22 ---
+Date: 2022-09-17 22:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: The child who's needs should be met first 
+
+--- MESSAGE 23 ---
+Date: 2022-09-17 22:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It's all about Joshua 
+
+--- MESSAGE 24 ---
+Date: 2022-09-17 22:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It's always been about him. 
+
+--- MESSAGE 25 ---
+Date: 2022-09-17 22:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: He gets a life. 

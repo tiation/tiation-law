@@ -1,0 +1,222 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2021-11-08 12:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.65)
+Keywords: happy
+Text: She is very happy there right!?
+
+--- MESSAGE 2 ---
+Date: 2021-12-06 16:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.65)
+Text: Why don't you try some of the karaoke that I do for her, she loves it!! 👦🏻👦🏻
+
+--- MESSAGE 3 ---
+Date: 2021-09-24 10:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.65)
+Text: Yay!!!
+
+--- MESSAGE 4 ---
+Date: 2022-06-28 09:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Text: You have Louisa and you saying that you haven't ruined just shows what type of person you are. 
+
+Yes I have, and if you are not willing to cooperate with me about Lily then this is the action that will happen between us from now on. 
+
+--- MESSAGE 5 ---
+Date: 2022-06-16 17:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: good
+Text: It's all good Lou do not stress. 
+
+--- MESSAGE 6 ---
+Date: 2021-09-02 17:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: love
+Text: I love you 
+
+--- MESSAGE 7 ---
+Date: 2021-09-12 17:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: love
+Text: I love you Lulu 
+
+--- MESSAGE 8 ---
+Date: 2021-09-17 08:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: love
+Text: I love you Lulu 
+
+--- MESSAGE 9 ---
+Date: 2021-09-21 13:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: love
+Text: I love you 🙇🏻‍♂️🙇🏻‍♂️❤️
+
+--- MESSAGE 10 ---
+Date: 2021-09-28 08:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: best
+Text: I do my best 🙇🏻‍♂️ have you had some sleep?
+
+--- MESSAGE 11 ---
+Date: 2021-09-30 09:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Text: Yeah it's funny how they say things like that. It's such a traumatic thing because it's like an act of betrayal from your sibling hahaha 
+
+--- MESSAGE 12 ---
+Date: 2021-10-07 16:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: love
+Text: Lulu I love you 🙇🏻‍♂️🥰
+
+--- MESSAGE 13 ---
+Date: 2021-10-26 11:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: love
+Text: I love you, I have to go to uni now to have a meeting with student guild 
+
+--- MESSAGE 14 ---
+Date: 2021-10-26 13:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: love
+Text: I love you I will speak to you after 🙇🏻‍♂️
+
+--- MESSAGE 15 ---
+Date: 2021-10-31 19:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: love,best
+Text: I love you too Lulu and I do my best not for me but for you and the kids 🙇🏻‍♂️
+
+--- MESSAGE 16 ---
+Date: 2021-11-05 21:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: love
+Text: I love you too Lulu, remember you are my favourite ❤️🙇🏻‍♂️
+
+--- MESSAGE 17 ---
+Date: 2021-11-07 07:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: best
+Text: I do my best 🙇🏻‍♂️🙇🏻‍♂️
+
+--- MESSAGE 18 ---
+Date: 2021-11-10 16:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Text: We give him freedom 
+
+--- MESSAGE 19 ---
+Date: 2021-11-11 10:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: love
+Text: I love you Lulu 🙇🏻‍♂️🙇🏻‍♂️
+
+--- MESSAGE 20 ---
+Date: 2021-11-11 16:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: love
+Text: I love you Lulu ❤️🙇🏻‍♂️
+
+--- MESSAGE 21 ---
+Date: 2021-11-14 09:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: love
+Text: Hmmm I love you 🙇🏻‍♂️
+
+--- MESSAGE 22 ---
+Date: 2021-11-15 12:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: best
+Text: You know best 🙇🏻‍♂️
+
+--- MESSAGE 23 ---
+Date: 2021-11-15 12:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: well
+Text: Well I am proud of you for that☺️
+
+--- MESSAGE 24 ---
+Date: 2021-11-15 16:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: love
+Text: I love you Lulu 🙇🏻‍♂️
+
+--- MESSAGE 25 ---
+Date: 2021-11-22 11:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: love
+Text: I love you Lulu 🥰

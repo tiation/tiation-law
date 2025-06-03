@@ -1,0 +1,201 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-09-18 19:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Come*
+
+--- MESSAGE 2 ---
+Date: 2022-09-18 20:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm trying to look after Lily Lou 
+
+--- MESSAGE 3 ---
+Date: 2022-09-19 08:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You need to get gastro medicine then
+
+--- MESSAGE 4 ---
+Date: 2022-09-20 09:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It's normal at the moment 
+
+--- MESSAGE 5 ---
+Date: 2022-09-20 09:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I will ask today
+
+--- MESSAGE 6 ---
+Date: 2022-09-20 11:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Who have you messaged? 
+
+--- MESSAGE 7 ---
+Date: 2022-09-20 11:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: So far. 
+
+--- MESSAGE 8 ---
+Date: 2022-09-20 16:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Because I've been busy talking to people about how Lily is 
+
+--- MESSAGE 9 ---
+Date: 2022-09-20 16:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: They are taking her obs every 4 hours now 
+
+--- MESSAGE 10 ---
+Date: 2022-09-20 16:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: They said they will give her oxygen if her obs are out of the normal range 
+
+--- MESSAGE 11 ---
+Date: 2022-09-20 17:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You can make it earlier 
+
+--- MESSAGE 12 ---
+Date: 2022-09-20 19:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 13 ---
+Date: 2022-09-20 19:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Keywords: understand
+Text: I understand 
+
+--- MESSAGE 14 ---
+Date: 2022-09-21 10:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 15 ---
+Date: 2022-09-21 15:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Where have you gone?
+
+--- MESSAGE 16 ---
+Date: 2022-09-21 15:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Have you left the hospital?
+
+--- MESSAGE 17 ---
+Date: 2022-09-21 16:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Whatever Louisa. I'm not here to take Lily away from you but that's what you think
+
+--- MESSAGE 18 ---
+Date: 2022-09-21 16:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: This is what they have advised to do for now. 
+
+--- MESSAGE 19 ---
+Date: 2022-09-21 16:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Again, I'm not here to take Lily from you. 
+
+--- MESSAGE 20 ---
+Date: 2022-09-21 16:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You should've just let me have Lily 50% in the first place and maybe this wouldn't have happened to Lily 
+
+--- MESSAGE 21 ---
+Date: 2022-09-21 16:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Then why is she in this state? 
+
+--- MESSAGE 22 ---
+Date: 2022-09-21 16:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It's Lily who doesn't get a normal everyday life. 
+
+--- MESSAGE 23 ---
+Date: 2022-09-21 16:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: But here you are still making it all about Joshua. 
+
+--- MESSAGE 24 ---
+Date: 2022-09-21 16:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I know how are you 
+
+--- MESSAGE 25 ---
+Date: 2022-09-21 16:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I would've gone down and stayed with my family with her 

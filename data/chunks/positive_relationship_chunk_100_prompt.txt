@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2021-12-16 13:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Model**
+
+--- MESSAGE 2 ---
+Date: 2021-12-16 15:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What do I do with the rental car?
+
+--- MESSAGE 3 ---
+Date: 2021-12-16 15:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Did you send a screenshot of the transfer?
+
+--- MESSAGE 4 ---
+Date: 2021-12-16 15:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We will have to contact him and double check that 
+
+--- MESSAGE 5 ---
+Date: 2021-12-16 15:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: When did he say he paid it?
+
+--- MESSAGE 6 ---
+Date: 2021-12-16 16:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Did you hear back yet?
+
+--- MESSAGE 7 ---
+Date: 2021-12-16 16:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Did you hear back yet?
+
+--- MESSAGE 8 ---
+Date: 2021-12-16 17:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Did you hear back yet?
+
+--- MESSAGE 9 ---
+Date: 2021-12-16 17:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Lou?
+
+--- MESSAGE 10 ---
+Date: 2021-12-16 17:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Coming home now 
+
+--- MESSAGE 11 ---
+Date: 2021-12-17 11:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I have called and I have to go to the licensing centre to book it in 
+
+--- MESSAGE 12 ---
+Date: 2021-12-17 12:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: So I will go into the centre next week 
+
+--- MESSAGE 13 ---
+Date: 2021-12-17 12:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Did you hear back yet from the guy about the car?
+
+--- MESSAGE 14 ---
+Date: 2021-12-17 12:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: So you will have a new car today Lulu!
+
+--- MESSAGE 15 ---
+Date: 2021-12-17 12:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmmmm 
+
+--- MESSAGE 16 ---
+Date: 2021-12-17 12:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I guess so 
+
+--- MESSAGE 17 ---
+Date: 2021-12-17 12:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: But we will get the car today regardless
+
+--- MESSAGE 18 ---
+Date: 2021-12-17 16:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'll see you at gosnells station?
+
+--- MESSAGE 19 ---
+Date: 2021-12-17 16:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Can't wait for your new car Lulu 🥰
+
+--- MESSAGE 20 ---
+Date: 2021-12-17 18:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: McDonald's southern river 
+
+--- MESSAGE 21 ---
+Date: 2021-12-18 08:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 22 ---
+Date: 2021-12-18 08:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Do you see me!!?? 👦🏻
+
+--- MESSAGE 23 ---
+Date: 2021-12-18 08:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Lulu do you see meeeeee!!??? 👦🏻👦🏻
+
+--- MESSAGE 24 ---
+Date: 2021-12-18 12:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Did you see it pop up?
+
+--- MESSAGE 25 ---
+Date: 2021-12-18 14:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I've already tried to do this

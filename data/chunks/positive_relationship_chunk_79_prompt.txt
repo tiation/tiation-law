@@ -1,0 +1,202 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-03-19 11:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Do you want to go to Garden City cinemas at 4:40pm today?
+
+--- MESSAGE 2 ---
+Date: 2022-03-20 12:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: You want me to post this with that video you just sent?
+
+--- MESSAGE 3 ---
+Date: 2022-03-23 09:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: You want to do what that lady does?
+
+--- MESSAGE 4 ---
+Date: 2022-03-23 19:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: I want to take Lily to baby gymnastics 
+
+--- MESSAGE 5 ---
+Date: 2022-03-26 08:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: I want to get a kindle 🙇🏻‍♂️
+
+--- MESSAGE 6 ---
+Date: 2022-03-26 20:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: What do you want me to do Lou?
+
+--- MESSAGE 7 ---
+Date: 2022-03-30 11:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: This is my short term goal: 
+
+I want to aim for me to pass and achieve high results in all of my first assessments that are due for each of my units in my nursing degree at the beginning of this semester
+
+--- MESSAGE 8 ---
+Date: 2022-03-30 15:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Did you want me to get Lily on my way?
+
+--- MESSAGE 9 ---
+Date: 2022-03-31 17:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Do you want anything?
+
+--- MESSAGE 10 ---
+Date: 2022-04-04 17:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Is that what you want me to do?
+
+--- MESSAGE 11 ---
+Date: 2022-04-04 17:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: What do you want me to do?
+
+--- MESSAGE 12 ---
+Date: 2022-04-05 16:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: I want to go to the Maldives
+
+--- MESSAGE 13 ---
+Date: 2022-04-11 18:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: On private number?
+
+--- MESSAGE 14 ---
+Date: 2022-05-04 15:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Does Joshua want to go to the pools?
+
+--- MESSAGE 15 ---
+Date: 2022-05-05 15:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: What do you want me to do Lou? 
+
+--- MESSAGE 16 ---
+Date: 2022-06-23 08:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: What do you want?
+
+--- MESSAGE 17 ---
+Date: 2022-06-23 12:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: I no longer would like to continue our conversation. 
+
+--- MESSAGE 18 ---
+Date: 2022-07-01 21:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: What do you want me to do about him?
+
+--- MESSAGE 19 ---
+Date: 2022-07-18 08:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: And don't bypass this question I want an exact amount. 
+
+--- MESSAGE 20 ---
+Date: 2022-07-18 09:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: I want to pick Lily up tomorrow.
+
+--- MESSAGE 21 ---
+Date: 2022-07-19 16:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: What do you want me to say? 
+
+--- MESSAGE 22 ---
+Date: 2022-07-19 16:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: I want Lily 50% of the time. 
+
+--- MESSAGE 23 ---
+Date: 2022-07-19 16:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: You can keep telling yourself that all you want. I lived with you and I know the type of person you are. 
+
+--- MESSAGE 24 ---
+Date: 2022-07-23 04:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: You can call me whatever you want Louisa. 
+
+--- MESSAGE 25 ---
+Date: 2022-07-23 06:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: I don't know what you want me to do. 

@@ -1,0 +1,201 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-02-02 20:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Keywords: understand
+Text: Oh okay so that's how you turn it off, I understand now 
+
+--- MESSAGE 2 ---
+Date: 2022-02-04 13:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay, did you tell them that you'll have to pick him up?
+
+--- MESSAGE 3 ---
+Date: 2022-02-04 16:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay I won't
+
+--- MESSAGE 4 ---
+Date: 2022-02-05 10:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay then 
+
+--- MESSAGE 5 ---
+Date: 2022-02-06 10:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay I will look into that book, what did it say?
+
+--- MESSAGE 6 ---
+Date: 2022-02-06 10:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Hmm okay then I will have to read it. I do know briefly why he went into acting is because of his rap career not taking off as much as he wanted I think 
+
+--- MESSAGE 7 ---
+Date: 2022-02-07 15:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay then
+
+--- MESSAGE 8 ---
+Date: 2022-02-07 15:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Oh okay then, I'll have to come grab the car seat then 
+
+--- MESSAGE 9 ---
+Date: 2022-02-08 21:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Is everything okay?
+
+--- MESSAGE 10 ---
+Date: 2022-02-13 09:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay I'll see you soon then
+
+--- MESSAGE 11 ---
+Date: 2022-02-14 20:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: I'm just in the Uber now I'll call you after okay?
+
+--- MESSAGE 12 ---
+Date: 2022-02-15 13:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay we are coming now 
+
+--- MESSAGE 13 ---
+Date: 2022-02-15 20:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay 
+
+--- MESSAGE 14 ---
+Date: 2022-02-16 15:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Hmmmm okay 
+
+--- MESSAGE 15 ---
+Date: 2022-02-17 07:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Are you okay?
+
+--- MESSAGE 16 ---
+Date: 2022-02-17 11:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay I will 
+
+--- MESSAGE 17 ---
+Date: 2022-02-17 16:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay then 
+
+--- MESSAGE 18 ---
+Date: 2022-02-17 16:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay we will go to McDonald's O'Connor
+
+--- MESSAGE 19 ---
+Date: 2022-02-17 16:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: I will see you there when you get there okay
+
+--- MESSAGE 20 ---
+Date: 2022-02-18 11:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Okay then 
+
+--- MESSAGE 21 ---
+Date: 2022-02-18 11:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: That is okay Lou 🙇🏻‍♂️
+
+--- MESSAGE 22 ---
+Date: 2022-02-19 18:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: I'm working tomorrow so I'll send a follow up for you okay
+
+--- MESSAGE 23 ---
+Date: 2022-02-19 19:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: That's okay Lou 
+
+--- MESSAGE 24 ---
+Date: 2022-02-21 13:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: That's okay Lou 
+
+--- MESSAGE 25 ---
+Date: 2022-02-21 13:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.23)
+Text: Hmmmm okay then, nothing at your coles for night shift?

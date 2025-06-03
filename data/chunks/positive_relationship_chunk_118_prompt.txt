@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-03-08 11:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Morning Lou 🙇🏻‍♂️
+
+--- MESSAGE 2 ---
+Date: 2022-03-08 17:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 3 ---
+Date: 2022-03-08 19:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 4 ---
+Date: 2022-03-09 11:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Why has she got red marks on her head? 
+
+--- MESSAGE 5 ---
+Date: 2022-03-09 11:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Because she was sleeping on that side of the blanket and has left imprints? 
+
+--- MESSAGE 6 ---
+Date: 2022-03-09 11:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 7 ---
+Date: 2022-03-09 12:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 8 ---
+Date: 2022-03-09 12:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmmmmm
+
+--- MESSAGE 9 ---
+Date: 2022-03-09 13:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I've come to my uni to explore it 
+
+--- MESSAGE 10 ---
+Date: 2022-03-09 13:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 11 ---
+Date: 2022-03-09 13:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Coffee in the park 
+
+--- MESSAGE 12 ---
+Date: 2022-03-09 13:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: This is a real superhero 🙇🏻‍♂️
+
+--- MESSAGE 13 ---
+Date: 2022-03-09 14:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It might be with manual 
+
+--- MESSAGE 14 ---
+Date: 2022-03-09 14:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What's the brand of it again?
+
+--- MESSAGE 15 ---
+Date: 2022-03-09 14:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼Maybe call or send an email to them 
+
+--- MESSAGE 16 ---
+Date: 2022-03-09 14:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It's got a 3 year warranty 
+
+--- MESSAGE 17 ---
+Date: 2022-03-09 18:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What is on his hands? 😂
+
+--- MESSAGE 18 ---
+Date: 2022-03-09 18:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Doing her little plank for her abs
+
+--- MESSAGE 19 ---
+Date: 2022-03-09 19:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 20 ---
+Date: 2022-03-09 19:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Look at this baby, who is it? 🙇🏻‍♂️
+
+--- MESSAGE 21 ---
+Date: 2022-03-09 20:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It was later in my life that it got taken away 
+
+--- MESSAGE 22 ---
+Date: 2022-03-09 20:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: So are you coming tomorrow morning?
+
+--- MESSAGE 23 ---
+Date: 2022-03-09 20:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 24 ---
+Date: 2022-03-09 20:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: That's why you should never bite your nails 
+
+--- MESSAGE 25 ---
+Date: 2022-03-09 20:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How did you find out he had worms? Did you go to the doctor?

@@ -1,0 +1,202 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-01-12 16:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.38)
+Text: You not saying anything to me and just blocking me is disrespectful 
+
+--- MESSAGE 2 ---
+Date: 2022-03-28 18:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.38)
+Text: Why are you feeling sad my Lou? 
+
+--- MESSAGE 3 ---
+Date: 2022-04-09 19:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.38)
+Keywords: sorry,understand
+Text: I'm sorry that you are feeling that way and I understand that you are feeling depressed and I am here for you 
+
+--- MESSAGE 4 ---
+Date: 2022-07-23 08:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.38)
+Text: You've succeeded in ruining my life and everything else so now you can stop and leave me alone. 
+
+--- MESSAGE 5 ---
+Date: 2022-07-23 10:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.38)
+Text: You've succeeded in ruining my life and everything else so now you can stop and leave me alone. 
+
+--- MESSAGE 6 ---
+Date: 2022-08-10 20:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.38)
+Text: She would get upset over it 
+
+--- MESSAGE 7 ---
+Date: 2022-09-22 16:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.38)
+Text: I do know who you are, you are someone who wants power and control and when you don't get it, you fight people until you do. 
+
+--- MESSAGE 8 ---
+Date: 2022-12-24 17:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.38)
+Text: This is the worst thing that could ever happen and all of you just go on and live your lives like normal 
+
+--- MESSAGE 9 ---
+Date: 2022-01-15 08:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.39)
+Text: How am I not respecting you?
+
+--- MESSAGE 10 ---
+Date: 2023-01-16 20:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.39)
+Keywords: care
+Text: And you don't care
+
+--- MESSAGE 11 ---
+Date: 2022-11-05 18:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.39)
+Text: Your story does not make any sense Louisa. How can you sitting on the toilet not see that Lily had left Joshua's room, I know where the fucking toilet is and I know where Joshua's room is so there is no way you couldn't have seen Lily leave Joshua's room. 
+
+--- MESSAGE 12 ---
+Date: 2021-12-15 17:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.40)
+Text: From what you've written Lou I don't see how you would get in trouble
+
+--- MESSAGE 13 ---
+Date: 2021-12-24 17:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.40)
+Text: Everything is Adam's fault?
+
+--- MESSAGE 14 ---
+Date: 2022-02-05 20:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.40)
+Text: *no problem 
+
+--- MESSAGE 15 ---
+Date: 2022-03-13 09:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.40)
+Text: Because I am injured and can't do physical activities 
+
+--- MESSAGE 16 ---
+Date: 2022-04-19 17:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.40)
+Text: What's your problem?
+
+--- MESSAGE 17 ---
+Date: 2022-06-04 11:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.40)
+Text: The Blind Side?
+
+--- MESSAGE 18 ---
+Date: 2022-07-23 04:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.40)
+Text: Your behaviour is evil too but you don't see it 
+
+--- MESSAGE 19 ---
+Date: 2022-07-23 06:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.40)
+Text: This is insane. 
+
+--- MESSAGE 20 ---
+Date: 2022-07-23 12:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.40)
+Text: You are an insane person. 
+
+--- MESSAGE 21 ---
+Date: 2022-08-20 20:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.40)
+Text: I'm having lots of trouble with my laptop 
+
+--- MESSAGE 22 ---
+Date: 2022-09-17 22:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.40)
+Text: Yeah I tried with you too Louisa, I had a baby with you I was going to live and die with you. 
+
+--- MESSAGE 23 ---
+Date: 2022-09-21 16:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.40)
+Text: You kept refusing to tell me what happened to Lily 
+
+--- MESSAGE 24 ---
+Date: 2022-10-13 19:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.40)
+Text: Did I say that is a problem? 
+
+--- MESSAGE 25 ---
+Date: 2022-11-19 11:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.40)
+Text: You are right now. You don't think what happened to Lily was your fault?

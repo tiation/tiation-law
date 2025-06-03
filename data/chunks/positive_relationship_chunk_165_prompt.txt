@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-11-11 06:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Most likely on Sunday
+
+--- MESSAGE 2 ---
+Date: 2022-11-11 19:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I only needed furniture if I move out 
+
+--- MESSAGE 3 ---
+Date: 2022-11-13 09:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'll be back later this afternoon
+
+--- MESSAGE 4 ---
+Date: 2022-11-13 15:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'll be at the hospital in an hour 
+
+--- MESSAGE 5 ---
+Date: 2022-11-14 10:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I am with Lily now b
+
+--- MESSAGE 6 ---
+Date: 2022-11-14 14:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: The meeting is on Thursday
+
+--- MESSAGE 7 ---
+Date: 2022-11-14 14:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: 2pm they said
+
+--- MESSAGE 8 ---
+Date: 2022-11-15 08:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You do not need to send me money
+
+--- MESSAGE 9 ---
+Date: 2022-11-15 09:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Are you coming in today or not?
+
+--- MESSAGE 10 ---
+Date: 2022-11-16 12:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I am going to get a covid test
+
+--- MESSAGE 11 ---
+Date: 2022-11-16 13:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: https://m.youtube.com/watch?v=FD5VUPwJ9-0
+
+--- MESSAGE 12 ---
+Date: 2022-11-16 16:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm not seeing you in any light Louisa 
+
+--- MESSAGE 13 ---
+Date: 2022-11-16 16:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Whatever Louisa. 
+
+--- MESSAGE 14 ---
+Date: 2022-11-16 17:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You do!!
+
+--- MESSAGE 15 ---
+Date: 2022-11-16 17:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How could you say that??
+
+--- MESSAGE 16 ---
+Date: 2022-11-16 17:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You're saying Lily drowning was caused by normal parenting?!!
+
+--- MESSAGE 17 ---
+Date: 2022-11-19 11:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We shouldn't even be paying for treatments for Lily because you should've looked after Lily the way a normal parent should. 
+
+--- MESSAGE 18 ---
+Date: 2022-11-19 11:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: This is your doing. Lily will be bed ridden never having any experience of life because of you. 
+
+--- MESSAGE 19 ---
+Date: 2022-11-19 11:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Whatever Louisa. You just keep telling yourself that. 
+
+--- MESSAGE 20 ---
+Date: 2022-11-19 11:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm not speaking for my family or anyone. 
+
+--- MESSAGE 21 ---
+Date: 2022-11-19 11:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We had hospital transport. 
+
+--- MESSAGE 22 ---
+Date: 2022-11-19 11:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Then what happened to Lily. I don't believe your story Louisa, you say Lily was in Joshua's room yet you've told others that Lily was on the bathroom floor?
+
+--- MESSAGE 23 ---
+Date: 2022-11-19 11:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Which one is it?
+
+--- MESSAGE 24 ---
+Date: 2022-11-19 12:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I've got the report. 
+
+--- MESSAGE 25 ---
+Date: 2022-11-19 12:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I've got the report from them. 

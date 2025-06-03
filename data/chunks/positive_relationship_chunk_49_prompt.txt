@@ -1,0 +1,202 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-03-11 20:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: Send us your selfie with Lily like Joshua and I 🤪
+
+--- MESSAGE 2 ---
+Date: 2022-03-11 20:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: You look like this emoji now: 
+
+--- MESSAGE 3 ---
+Date: 2022-03-13 20:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: It sounds like Avatar really touched you 🙇🏻‍♂️
+
+--- MESSAGE 4 ---
+Date: 2022-03-18 10:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: Which cinema would you like to go to tomorrow hmmmm? 😤
+
+--- MESSAGE 5 ---
+Date: 2022-03-18 20:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: The natural lifestyle house?
+
+--- MESSAGE 6 ---
+Date: 2022-03-28 11:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: I thought it would be about something like that. We should watch the movie Lou 
+
+--- MESSAGE 7 ---
+Date: 2022-03-29 16:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: Would you like me to come over?
+
+--- MESSAGE 8 ---
+Date: 2022-03-30 14:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: Is that what you would like?
+
+--- MESSAGE 9 ---
+Date: 2022-04-04 16:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Keywords: thank
+Text: Thank you Lou 
+
+--- MESSAGE 10 ---
+Date: 2022-04-05 12:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: ￼Do you think Joshua would like this milkshake?
+
+--- MESSAGE 11 ---
+Date: 2022-04-20 12:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: It was at least like 85 ages I printed out 🙇🏻‍♂️
+
+--- MESSAGE 12 ---
+Date: 2022-05-03 12:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: I did and she gave the biggest smile ever 
+
+--- MESSAGE 13 ---
+Date: 2022-05-09 12:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: I mean like a vegan fast food chain that was in most areas 
+
+--- MESSAGE 14 ---
+Date: 2022-05-10 10:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: I'm going now Lou because I have to go get ready for my uni 🙇🏻‍♂️
+
+--- MESSAGE 15 ---
+Date: 2022-05-22 17:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: Is Lily still looking like she has covid?
+
+--- MESSAGE 16 ---
+Date: 2022-06-02 08:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Keywords: thank
+Text: Thank you so much my Lou 🙇🏻‍♂️
+
+--- MESSAGE 17 ---
+Date: 2022-06-21 21:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: Would you like me to come back to yours tonight or would you prefer if I go to my apartment instead?
+
+--- MESSAGE 18 ---
+Date: 2022-06-23 07:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: Like yesterday during the day
+
+--- MESSAGE 19 ---
+Date: 2022-06-23 10:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: Would you like me to comeback to yours tonight after I finish work or not?
+
+--- MESSAGE 20 ---
+Date: 2022-07-02 18:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: She had two naps today. One lasted like 45 minutes and the other about 20 minutes
+
+--- MESSAGE 21 ---
+Date: 2022-07-10 11:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: I would like to have Lily on Tuesday between the times you have suggested.
+
+--- MESSAGE 22 ---
+Date: 2022-07-12 11:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: In like 10 minutes 
+
+--- MESSAGE 23 ---
+Date: 2022-07-18 09:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: I would like to pick Lily up tomorrow from family court.
+
+--- MESSAGE 24 ---
+Date: 2022-07-18 09:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: Louisa you told me not to come to family court tomorrow anymore therefore my plans have now changed so now that you have made me change my plans I would like to have Lily.
+
+--- MESSAGE 25 ---
+Date: 2022-07-19 16:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: I would like to have Lily on Thursday.

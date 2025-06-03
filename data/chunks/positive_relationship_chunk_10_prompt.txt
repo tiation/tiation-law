@@ -1,0 +1,212 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2021-11-11 16:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.72)
+Keywords: love
+Text: I love you soooooooo much!!! 🥰
+
+--- MESSAGE 2 ---
+Date: 2022-02-12 16:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.72)
+Keywords: well
+Text: She really enjoyed the play and she cried a little because she felt it personally as she stated to me she is a coloured girl as well and it was hard for her growing up 
+
+--- MESSAGE 3 ---
+Date: 2021-11-20 12:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.72)
+Keywords: happy
+Text: But now she is chilled and happy 
+
+--- MESSAGE 4 ---
+Date: 2023-01-17 08:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.72)
+Text: Must be so nice for Joshua to be able to walk, talk and play with other kids. Lily just gets stared at by other kids 
+
+--- MESSAGE 5 ---
+Date: 2021-11-06 12:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.72)
+Keywords: happy,calm
+Text: She looks calm and happy 
+
+--- MESSAGE 6 ---
+Date: 2022-01-12 18:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.72)
+Text: Okay great, let me come and see Joshua then. 
+
+--- MESSAGE 7 ---
+Date: 2022-01-12 18:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.72)
+Text: Okay great, let me come and see Lily then. 
+
+--- MESSAGE 8 ---
+Date: 2022-02-14 20:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.72)
+Keywords: good
+Text: Him and I have become good friends 
+
+--- MESSAGE 9 ---
+Date: 2022-03-30 09:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.72)
+Text: Ohh okay then Lou that would be great 
+
+--- MESSAGE 10 ---
+Date: 2022-05-26 13:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.72)
+Keywords: well
+Text: Mine is going well, busy but fun 
+
+--- MESSAGE 11 ---
+Date: 2022-07-05 16:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.72)
+Keywords: good
+Text: That is good to hear. Yeah I'm doing okay so far, got a lot on this week and weekend 
+
+--- MESSAGE 12 ---
+Date: 2022-07-30 05:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.72)
+Keywords: calm
+Text: Hi Louisa. Yeah stay calm for Lily now because that's what Lily needs right now. Would you like me to come see you for a little bit? 
+
+--- MESSAGE 13 ---
+Date: 2021-09-30 09:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.72)
+Text: You are so beautiful Lulu 🙇🏻‍♂️
+
+--- MESSAGE 14 ---
+Date: 2021-11-08 16:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.71)
+Text: And for song choice I think I might do "You're welcome" from Moana because the character I'm auditioning for sounds like a womanising prick lol 😜
+
+--- MESSAGE 15 ---
+Date: 2021-12-17 12:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.71)
+Keywords: good,well
+Text: Okay well that's good then 
+
+--- MESSAGE 16 ---
+Date: 2022-02-09 18:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.71)
+Text: Haha thanks for saying that you didn't have to 
+
+--- MESSAGE 17 ---
+Date: 2022-03-28 11:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.71)
+Text: Yeah for King Richard he won 
+
+--- MESSAGE 18 ---
+Date: 2022-07-01 22:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.71)
+Keywords: thank
+Text: Thank you for those kind words Lou. I will see you tomorrow at 9am. Going to sleep now.
+
+--- MESSAGE 19 ---
+Date: 2022-08-09 21:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.71)
+Keywords: thank
+Text: Thank you for these kind words Lou ❤️
+
+--- MESSAGE 20 ---
+Date: 2022-02-20 19:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.71)
+Keywords: appreciate
+Text: Thanks for coming over I really appreciate it 
+
+--- MESSAGE 21 ---
+Date: 2022-07-18 09:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.71)
+Text: Nice response so mature. 
+
+--- MESSAGE 22 ---
+Date: 2021-10-05 14:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.70)
+Text: Yeah I can answer Polly, I just asked Joshua and he's keen (no surprise there) ☺️
+
+--- MESSAGE 23 ---
+Date: 2021-11-06 15:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.70)
+Text: It looks like you guys are having fun 
+
+--- MESSAGE 24 ---
+Date: 2021-11-23 08:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.70)
+Text: It looks like you guys are having lots of fun ☺️
+
+--- MESSAGE 25 ---
+Date: 2021-11-28 09:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.70)
+Text: Looks like you are all having fun at the beach ☺️☺️❤️

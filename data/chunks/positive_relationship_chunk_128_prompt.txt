@@ -1,0 +1,207 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-03-28 12:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How's your day going? ☺️
+
+--- MESSAGE 2 ---
+Date: 2022-03-28 12:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Sore*
+
+--- MESSAGE 3 ---
+Date: 2022-03-28 13:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Since it happened everyone's comments have been mixed 
+
+--- MESSAGE 4 ---
+Date: 2022-03-28 17:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 5 ---
+Date: 2022-03-28 18:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Keywords: together
+Text: You guys are having the bestest time together 🙇🏻‍♂️☺️
+
+--- MESSAGE 6 ---
+Date: 2022-03-29 07:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 7 ---
+Date: 2022-03-29 09:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Everyone is talking about it now 
+
+--- MESSAGE 8 ---
+Date: 2022-03-29 09:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Did the school contact yet?
+
+--- MESSAGE 9 ---
+Date: 2022-03-29 16:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hey Lou 
+
+--- MESSAGE 10 ---
+Date: 2022-03-29 16:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I've got to do this certificate thing tonight but that's it
+
+--- MESSAGE 11 ---
+Date: 2022-03-29 16:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Why do you ask? 🙇🏻‍♂️
+
+--- MESSAGE 12 ---
+Date: 2022-03-29 16:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'll be doing RAT tests on the kids when I'm there 
+
+--- MESSAGE 13 ---
+Date: 2022-03-30 09:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'll send you the example one 
+
+--- MESSAGE 14 ---
+Date: 2022-03-30 09:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: And then I'll send you my ones
+
+--- MESSAGE 15 ---
+Date: 2022-03-30 11:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 16 ---
+Date: 2022-03-30 11:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Can you list it out for me with this format:
+
+S
+M
+A
+R
+T
+
+--- MESSAGE 17 ---
+Date: 2022-03-30 11:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: The first one was just about my first assessments which is my short term and my long term is passing the units 
+
+--- MESSAGE 18 ---
+Date: 2022-03-30 11:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Did you see the example I sent you?
+
+--- MESSAGE 19 ---
+Date: 2022-03-30 12:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: All finished my Lou 🙇🏻‍♂️🙇🏻‍♂️
+
+--- MESSAGE 20 ---
+Date: 2022-03-30 12:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I fixed those up to the words ☺️
+
+--- MESSAGE 21 ---
+Date: 2022-03-30 12:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: This assessment is a pass/fail mark 
+
+--- MESSAGE 22 ---
+Date: 2022-03-30 13:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmmmmm I don't think I have a class today Lou 🤔
+
+--- MESSAGE 23 ---
+Date: 2022-03-30 14:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ?
+
+--- MESSAGE 24 ---
+Date: 2022-03-30 14:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼￼
+
+--- MESSAGE 25 ---
+Date: 2022-03-30 15:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ?

@@ -1,0 +1,208 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-03-29 07:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.48)
+Text: He's very lucky that Chris Rock didn't file a police report 
+
+--- MESSAGE 2 ---
+Date: 2022-08-09 21:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.48)
+Text: That's very nice Lou 
+
+--- MESSAGE 3 ---
+Date: 2022-09-27 08:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.48)
+Text: Very nice photos Lou 
+
+--- MESSAGE 4 ---
+Date: 2022-09-22 15:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.47)
+Keywords: trust
+Text: I don't want another partner, you think I'm ever going to trust anyone again? 
+
+--- MESSAGE 5 ---
+Date: 2022-09-21 16:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.47)
+Text: I didn't assault him. 
+
+--- MESSAGE 6 ---
+Date: 2023-02-28 15:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.47)
+Keywords: care
+Text: Since July last year Lily hasn't been able to do anything. She can't smile or eat or laugh or anything and you don't seem to care at all yet you tell everyone that you are a caring mum and lie about why Lily was taken from you. 
+
+--- MESSAGE 7 ---
+Date: 2022-01-27 09:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.47)
+Keywords: support
+Text: So what do I do about child support? Do I have to contact them?
+
+--- MESSAGE 8 ---
+Date: 2022-07-18 09:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.47)
+Text: Yeah because from previous experience with you I have lost friends. The thing is Louisa I shouldn't have had to show you the messages you should've believed and trusted me but you didn't. 
+
+--- MESSAGE 9 ---
+Date: 2022-11-16 16:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.47)
+Text: It's not an accusation it is the truth. 
+
+--- MESSAGE 10 ---
+Date: 2021-11-09 12:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Keywords: well
+Text: Well I don't know Lou, I don't know who to allow in my life. At the moment I'm so confused on who I want in my life including family and friends because I don't know now. I hate having friction or tension with people, it makes me feel uncomfortable. I don't want people in my life that think violence is "okay" to commit on other people. I don't have an inner circle, I don't have close friends anymore. 
+
+--- MESSAGE 11 ---
+Date: 2021-08-26 12:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Text: I mean you are reacting in a way that I have just given up on life and I'm working at Coles full time as a checkout operator haha
+
+--- MESSAGE 12 ---
+Date: 2021-08-26 16:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Text: Did you just want to stay in the house then? I can clean the house when I finish work. 
+
+--- MESSAGE 13 ---
+Date: 2021-09-02 14:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Text: Yeah that should be fine Lulu 
+
+--- MESSAGE 14 ---
+Date: 2021-09-04 07:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Text: You're not my genie Lulu haha
+
+--- MESSAGE 15 ---
+Date: 2021-09-10 17:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Text: He's doing a poo haha
+
+--- MESSAGE 16 ---
+Date: 2021-09-19 08:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Keywords: best
+Text: That was the best breakfast, see no one can beat you 🙇🏻‍♂️🥰
+
+--- MESSAGE 17 ---
+Date: 2021-09-25 14:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Text: We have received all the food haha 🙇🏻‍♂️😋
+
+--- MESSAGE 18 ---
+Date: 2021-11-15 13:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Keywords: best
+Text: You are the best Lou and no one can beat you ❤️👍🏻
+
+--- MESSAGE 19 ---
+Date: 2021-11-21 12:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Text: Aww how cute 
+
+--- MESSAGE 20 ---
+Date: 2021-11-22 17:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Text: Laughed at an image
+
+--- MESSAGE 21 ---
+Date: 2021-11-28 10:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Text: I kind of want to be healthy so maybe I just have chicken and bread rolls ☺️
+
+--- MESSAGE 22 ---
+Date: 2021-12-16 10:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Keywords: well
+Text: Okay well I'm just picking up the hire car now 
+
+--- MESSAGE 23 ---
+Date: 2021-12-16 10:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Keywords: well
+Text: Well I'm coming home now okay, I'll be back soon
+
+--- MESSAGE 24 ---
+Date: 2021-12-16 12:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Text: I'm trying to find options for us where we can benefit that's all. 
+
+--- MESSAGE 25 ---
+Date: 2021-12-16 13:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.46)
+Text: The ad is gone now haha 😜

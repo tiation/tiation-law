@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2021-12-18 14:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I told you I'm going to the centre on Monday
+
+--- MESSAGE 2 ---
+Date: 2021-12-18 14:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmmmm 😤😤
+
+--- MESSAGE 3 ---
+Date: 2021-12-18 17:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You've paid for the car and bed 
+
+--- MESSAGE 4 ---
+Date: 2021-12-20 08:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 5 ---
+Date: 2021-12-21 10:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We are here 
+
+--- MESSAGE 6 ---
+Date: 2021-12-22 11:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼￼
+
+--- MESSAGE 7 ---
+Date: 2021-12-22 11:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 8 ---
+Date: 2021-12-22 11:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I will
+
+--- MESSAGE 9 ---
+Date: 2021-12-22 11:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼￼￼￼
+
+--- MESSAGE 10 ---
+Date: 2021-12-22 12:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 11 ---
+Date: 2021-12-22 12:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 12 ---
+Date: 2021-12-22 13:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 13 ---
+Date: 2021-12-22 15:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ?
+
+--- MESSAGE 14 ---
+Date: 2021-12-22 15:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We are at the area you dropped us off at 
+
+--- MESSAGE 15 ---
+Date: 2021-12-22 15:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Golly gosh 
+
+--- MESSAGE 16 ---
+Date: 2021-12-23 15:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 17 ---
+Date: 2021-12-23 15:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Where is Lily's mask??
+
+--- MESSAGE 18 ---
+Date: 2021-12-23 15:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: She might become a superspreader!!!
+
+--- MESSAGE 19 ---
+Date: 2021-12-23 15:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmmmm then she must be 1.5m away from people 😤
+
+--- MESSAGE 20 ---
+Date: 2021-12-23 18:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Is Joshua having a sleepover do you know?
+
+--- MESSAGE 21 ---
+Date: 2021-12-24 12:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: 4 new cases today in WA
+
+--- MESSAGE 22 ---
+Date: 2021-12-24 12:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Make that 5 now 
+
+--- MESSAGE 23 ---
+Date: 2021-12-24 17:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What's a mater?
+
+--- MESSAGE 24 ---
+Date: 2021-12-24 17:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm leaving garden city now 
+
+--- MESSAGE 25 ---
+Date: 2021-12-24 17:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It seems that everyone wanted to get their Christmas gifts wrapped 

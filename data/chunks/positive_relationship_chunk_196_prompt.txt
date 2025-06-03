@@ -1,0 +1,203 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-09-22 15:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.57)
+Text: You can swear at me and say "fuck you" to me many times 
+
+--- MESSAGE 2 ---
+Date: 2022-10-09 06:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.57)
+Text: I hate you Louisa. 
+
+--- MESSAGE 3 ---
+Date: 2022-10-09 06:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.57)
+Text: I hate how you have let this happen to Lily. 
+
+--- MESSAGE 4 ---
+Date: 2022-10-20 15:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.57)
+Text: I tested negative 
+
+--- MESSAGE 5 ---
+Date: 2022-11-19 11:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.57)
+Text: You're a real piece of work. I'm not the one who let Lily drown that was you and always will be you
+
+--- MESSAGE 6 ---
+Date: 2022-12-30 21:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.57)
+Text: How can you say that? You kept Lily from me, you restricted me with her and then she drowned in the bath and now I am her carer, I'm not even a dad anymore I'm just a carer for Lily. You still get to be a parent with Joshua how nice. 
+
+--- MESSAGE 7 ---
+Date: 2022-12-31 08:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.57)
+Text: You're the one who let her drown because you think parenting from a book is the way to parent. 
+
+--- MESSAGE 8 ---
+Date: 2022-02-27 18:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.57)
+Text: I guess I'm just a little nervous because it's my arm, my poor delicate arm
+
+--- MESSAGE 9 ---
+Date: 2022-03-03 07:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.58)
+Keywords: best
+Text: Hmmm I am not feeling the best 
+
+--- MESSAGE 10 ---
+Date: 2022-03-18 20:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.58)
+Text: Aww that's so mean Lou, you would've been so scared then 
+
+--- MESSAGE 11 ---
+Date: 2022-09-18 09:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.58)
+Keywords: well
+Text: Well you can come here if you want to but apparently you're sick 
+
+--- MESSAGE 12 ---
+Date: 2022-02-15 22:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.58)
+Text: ￼This photo looks like she is coming up with an evil plan hehehe!!!
+
+--- MESSAGE 13 ---
+Date: 2022-11-05 19:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.58)
+Text: How the fuck can you not see that Lily crawled out of Joshua's room?!
+
+--- MESSAGE 14 ---
+Date: 2022-03-21 11:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.58)
+Text: That's really horrible Lou. 
+
+--- MESSAGE 15 ---
+Date: 2022-11-13 10:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.58)
+Text: I'll probably go back to mine for the night, I've had really bad hayfever since being down south
+
+--- MESSAGE 16 ---
+Date: 2022-02-01 08:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.59)
+Text: I'm 10 minutes away the traffic is horrendous 
+
+--- MESSAGE 17 ---
+Date: 2022-02-16 07:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.59)
+Text: The fire alarm has gone off and now everyone must evacuate 
+
+--- MESSAGE 18 ---
+Date: 2022-03-09 18:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.59)
+Text: I swear she starts to get upset when she realises she's not moving forward or feels stuck 
+
+--- MESSAGE 19 ---
+Date: 2022-03-19 09:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.59)
+Text: Hmmmm another fire alarm has gone off 😤😤
+
+--- MESSAGE 20 ---
+Date: 2022-07-19 20:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.59)
+Text: I don't know what you want me to say to this. You told me today that I was the worst thing that ever happened to you and then you sent me this message.
+
+--- MESSAGE 21 ---
+Date: 2022-07-23 12:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.59)
+Text: You are trying to ruin everything about me Louisa. 
+
+--- MESSAGE 22 ---
+Date: 2022-09-17 21:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.59)
+Text: And I'm not here going to waste my time to try and change that when Lily is the one who actually needs someone to focus on her and her alone
+
+--- MESSAGE 23 ---
+Date: 2022-11-10 21:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.59)
+Keywords: well
+Text: You may state you're not responsible for my feelings but you are damn well responsible for Lily and her current condition. 
+
+--- MESSAGE 24 ---
+Date: 2022-04-04 20:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.59)
+Text: Will this make me feel sick??? 🙇🏻‍♂️🙇🏻‍♂️🙇🏻‍♂️
+
+--- MESSAGE 25 ---
+Date: 2022-01-31 17:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.59)
+Text: But I do worry. 

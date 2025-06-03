@@ -1,0 +1,203 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2021-09-12 11:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmmmmmm
+
+--- MESSAGE 2 ---
+Date: 2021-09-12 11:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I will figures it out Lulu!! 🙇🏻‍♂️🥰
+
+--- MESSAGE 3 ---
+Date: 2021-09-12 12:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: https://www.instagram.com/p/CTsX6CEg8K-/?utm_medium=copy_link
+
+--- MESSAGE 4 ---
+Date: 2021-09-12 15:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 5 ---
+Date: 2021-09-12 17:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Lulu??
+
+--- MESSAGE 6 ---
+Date: 2021-09-12 18:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 7 ---
+Date: 2021-09-12 18:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I fix it
+
+--- MESSAGE 8 ---
+Date: 2021-09-12 18:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: That's not what I do. 
+
+--- MESSAGE 9 ---
+Date: 2021-09-12 18:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I don't plan on talking to anyone about my life. 
+
+--- MESSAGE 10 ---
+Date: 2021-09-12 19:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It's not a philosophy, it is a decision that I am making for myself and you and us. 
+
+--- MESSAGE 11 ---
+Date: 2021-09-12 19:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Keywords: understand
+Text: I don't understand. 
+
+--- MESSAGE 12 ---
+Date: 2021-09-12 19:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Keywords: understand
+Text: I am not focusing on things before, I am focusing on the things now in the present. I don't understand why you keep bringing things that I did before which don't happen now. 
+
+--- MESSAGE 13 ---
+Date: 2021-09-13 19:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Does that mean he's trying to get to see Joshua now?
+
+--- MESSAGE 14 ---
+Date: 2021-09-13 19:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Both
+
+--- MESSAGE 15 ---
+Date: 2021-09-13 19:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Ahh I see
+
+--- MESSAGE 16 ---
+Date: 2021-09-13 19:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Keywords: understand
+Text: I understand Lulu 
+
+--- MESSAGE 17 ---
+Date: 2021-09-13 19:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I know you have told me 
+
+--- MESSAGE 18 ---
+Date: 2021-09-13 19:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Obviously there will be more cons than pros 
+
+--- MESSAGE 19 ---
+Date: 2021-09-13 19:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: These messages make me think that of a child you're messaging. 
+
+--- MESSAGE 20 ---
+Date: 2021-09-15 19:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼Thoughts?
+
+--- MESSAGE 21 ---
+Date: 2021-09-16 09:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You left 🙇🏻‍♂️
+
+--- MESSAGE 22 ---
+Date: 2021-09-16 13:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼￼
+
+--- MESSAGE 23 ---
+Date: 2021-09-16 13:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: My mum has bought this stuff today
+
+--- MESSAGE 24 ---
+Date: 2021-09-16 13:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: This is called baby stuff Lulu 
+
+--- MESSAGE 25 ---
+Date: 2021-09-16 13:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: 🙇🏻‍♂️🙇🏻‍♂️🙇🏻‍♂️

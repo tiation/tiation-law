@@ -1,0 +1,221 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-09-22 17:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.88)
+Keywords: happy
+Text: You get to continue being the normal everyday parent with Joshua, you'll be able to watch him play and enjoy his life im so happy for you. 
+
+--- MESSAGE 2 ---
+Date: 2022-01-09 19:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.88)
+Keywords: love,care,support
+Text: I also didn't want Joshua and you to go through the same thing that I went through my whole life, I didn't want you guys to have the same legacy that I had no choice in. It's because I cared for you and Joshuas feelings above anything else, it's because I love you guys and I support and care for your needs. 
+
+--- MESSAGE 3 ---
+Date: 2022-09-17 22:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.88)
+Keywords: love,care
+Text: I don't need to do anything like that. You're trying to put unnecessary responsibility on me for a child who has more than enough care and love in his life over a baby/child who's only part of their brain that works is the one that keeps them breathing. 
+
+--- MESSAGE 4 ---
+Date: 2022-03-26 20:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.88)
+Keywords: friend
+Text: And I'm not going clubbing, my friend had said we are going to pot black to play pool so I'll be watching him and his friends play pool 😂
+
+--- MESSAGE 5 ---
+Date: 2022-12-24 17:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.88)
+Text: Must feel nice having Joshua call you mum. Must've been nice having Lily when she was healthy and you got to do everything with her, how nice. 
+
+--- MESSAGE 6 ---
+Date: 2021-09-20 12:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.88)
+Keywords: love,good,hope
+Text: I love you and I hope you've been having a good day Lulu 🥰
+
+--- MESSAGE 7 ---
+Date: 2021-10-31 12:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.88)
+Keywords: best
+Text: It looks like you guys are having the best fun 🙇🏻‍♂️
+
+--- MESSAGE 8 ---
+Date: 2021-12-06 08:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.88)
+Keywords: love
+Text: I love you too Lulu and thanks for supporting me ❤️
+
+--- MESSAGE 9 ---
+Date: 2022-03-12 20:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.88)
+Text: That's a pretty cool and inspirational blog about helping women run a business and have a life ☺️
+
+--- MESSAGE 10 ---
+Date: 2022-03-19 20:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.88)
+Keywords: love,good,hope
+Text: Goodnight Lou, I love you and I hope you have a good sleep 🙇🏻‍♂️❤️
+
+--- MESSAGE 11 ---
+Date: 2021-12-10 08:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.87)
+Keywords: sorry
+Text: Yes I agree our communication needs to be improved. I think our relationship is a safe space most of the time. I'm sorry for not communicating with you more Lou 
+
+--- MESSAGE 12 ---
+Date: 2022-03-26 19:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.87)
+Keywords: love,friend
+Text: I love you Lou. Would you like me to comeback to yours after I see my friend tonight? I can just bring my laptop with me
+
+--- MESSAGE 13 ---
+Date: 2022-02-25 17:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.87)
+Keywords: trust
+Text: But she is with me Lou, it's not like I go to some place and drop off and pick her up no it's not. I'm with her the whole time pretty much supervising the whole time. You've got to trust me with that I am also a parent just like you and I trust you to take Lily to see whoever because I trust that you would do the right thing for our children. 
+
+--- MESSAGE 14 ---
+Date: 2022-01-24 10:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.87)
+Keywords: good,well,hope
+Text: I hope you are well and hope you and the kids have a good day
+
+--- MESSAGE 15 ---
+Date: 2021-12-06 08:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.86)
+Text: I am pretty excited I can't wait to do this, I even had a dream about it last night just shows that I am subconsciously excited too!! 👦🏻👦🏻
+
+--- MESSAGE 16 ---
+Date: 2022-01-27 10:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.86)
+Keywords: well
+Text: Well hopefully by March she will be a little more patient and that, key word is hopefully haha
+
+--- MESSAGE 17 ---
+Date: 2022-09-22 19:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.86)
+Keywords: good
+Text: I already know I will be a great caregiver for Lily like I was a good dad to her. 
+
+--- MESSAGE 18 ---
+Date: 2021-09-30 09:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.86)
+Text: Oh my goodness!! Compared to Joshua she is so tiny!! Like extra tiny, she looks like a small chips from McDonald's 
+
+--- MESSAGE 19 ---
+Date: 2022-06-07 12:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.86)
+Keywords: best
+Text: That is okay my Lou! Lily was having the best time she was, she was watching everyone do their acting and she kept smiling every time I came on the stage 🙇🏻‍♂️🙇🏻‍♂️❤️❤️
+
+--- MESSAGE 20 ---
+Date: 2022-06-07 14:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.85)
+Keywords: good
+Text: It was so good to see your BEAUTIFUL BODY 🙇🏻‍♂️❤️
+
+--- MESSAGE 21 ---
+Date: 2021-12-18 17:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.85)
+Keywords: good
+Text: Who cares, we are alive and next year is going to be so good for us 
+
+--- MESSAGE 22 ---
+Date: 2022-02-28 12:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.85)
+Keywords: best,well
+Text: Ahhhhh well it's probably the best day to go then haha 
+
+--- MESSAGE 23 ---
+Date: 2023-01-09 12:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.85)
+Keywords: love,care,help
+Text: You don't reply to my messages for days, you don't see Lily at hospital even though she suffers yet you tell everyone that you love and care for your kids, you are responsible for Lily's current condition so you can be there to help her at the therapy that could reverse her condition 
+
+--- MESSAGE 24 ---
+Date: 2022-08-12 21:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.85)
+Keywords: help
+Text: They sound very lovely, it sounds like these families found ways to help heal them with new life 
+
+--- MESSAGE 25 ---
+Date: 2021-12-08 07:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.85)
+Keywords: love,well,hope
+Text: Hi Lou, I hope you and the kids are well and I do love you all

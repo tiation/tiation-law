@@ -1,0 +1,214 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-02-09 18:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.67)
+Keywords: love
+Text: I can't wait for you to see it tomorrow, you are going to love it!
+
+--- MESSAGE 2 ---
+Date: 2022-05-22 17:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.67)
+Keywords: love
+Text: And we love the Lily sooooooo much too!
+
+--- MESSAGE 3 ---
+Date: 2022-01-31 07:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.67)
+Keywords: well
+Text: Well hopefully I won't die soon haha
+
+--- MESSAGE 4 ---
+Date: 2021-10-05 10:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.66)
+Text: Hi Lou I saw the email about the kids party, although the party doesn't start till 11:30am, can we change the time frame?
+
+--- MESSAGE 5 ---
+Date: 2021-11-20 12:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.66)
+Text: Yes, yes she did 
+
+--- MESSAGE 6 ---
+Date: 2021-12-10 09:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.66)
+Keywords: together,good
+Text: It looks like you guys are having a good time together ❤️
+
+--- MESSAGE 7 ---
+Date: 2022-02-23 15:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.66)
+Keywords: help
+Text: I'll help you Lou. When I said I would help you as much as I can I meant it. 
+
+--- MESSAGE 8 ---
+Date: 2022-03-03 20:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.66)
+Keywords: thank,good
+Text: I am doing good Lou thank you for checking on me 
+
+--- MESSAGE 9 ---
+Date: 2022-03-14 11:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.66)
+Text: Ohh yes we can definitely do that Lou 
+
+--- MESSAGE 10 ---
+Date: 2022-03-23 09:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.66)
+Keywords: support,help
+Text: I'm here to help and support you guys 
+
+--- MESSAGE 11 ---
+Date: 2022-09-17 22:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.66)
+Text: I had thought that Lily was always safe with you as you are her mum and you had done so much "research" in parenting and done courses in parenting that an incident like this would never happen
+
+--- MESSAGE 12 ---
+Date: 2022-12-31 08:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.66)
+Keywords: hope
+Text: I hope whoever you get into a relationship next you tell them exactly what happened to Lily so then they can make a decision if they would like kids with you or not. 
+
+--- MESSAGE 13 ---
+Date: 2022-02-12 18:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.66)
+Text: So much people for a daytime session it's great! 🙇🏻‍♂️
+
+--- MESSAGE 14 ---
+Date: 2022-09-17 22:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.66)
+Text: Great! 
+
+--- MESSAGE 15 ---
+Date: 2022-11-17 18:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.66)
+Keywords: care
+Text: Can you stop telling Joshua that I care for him, because I don't. I don't want anything to do with that kid not even a gram of care. 
+
+--- MESSAGE 16 ---
+Date: 2021-11-24 12:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.65)
+Text: You are my inspiration remember??!!
+
+--- MESSAGE 17 ---
+Date: 2022-10-30 09:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.65)
+Keywords: good
+Text: Don't worry about it I'm all good 
+
+--- MESSAGE 18 ---
+Date: 2021-11-14 16:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.65)
+Keywords: please
+Text: Can you please get 2 dips of sweet chilli Mayo for me? I will transfer to you
+
+--- MESSAGE 19 ---
+Date: 2022-03-03 20:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.65)
+Text: Yeah I'm doing fine Lou I promise 
+
+--- MESSAGE 20 ---
+Date: 2022-03-09 18:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.65)
+Text: She sounded like a pterodactyl lol
+
+--- MESSAGE 21 ---
+Date: 2022-03-13 18:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.65)
+Text: Lily looks like she's passed out from a big night out lol 
+
+--- MESSAGE 22 ---
+Date: 2022-05-05 11:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.65)
+Keywords: well,hope
+Text: Hi Lou, hope you're well. Did you want to go get some lunch? 
+
+--- MESSAGE 23 ---
+Date: 2022-05-14 16:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.65)
+Keywords: thank
+Text: Aww thank you my Lou, I wanted to look modern and nice you know 👦🏻
+
+--- MESSAGE 24 ---
+Date: 2022-09-17 21:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.65)
+Keywords: care
+Text: I don't know if you can tell but Joshua can do normal things and doesn't need full time care. 
+
+--- MESSAGE 25 ---
+Date: 2022-02-05 13:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.65)
+Text: Oh okay then...I just went up the stairs with him really fast I didn't know he was hurt or anything but I'll be more careful or I'll won't carry him at all then to make things easier for him 

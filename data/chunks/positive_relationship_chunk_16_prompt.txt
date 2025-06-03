@@ -1,0 +1,223 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2021-11-24 12:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: love
+Text: I love you Lulu 🙇🏻‍♂️🙇🏻‍♂️
+
+--- MESSAGE 2 ---
+Date: 2021-11-26 14:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: love
+Text: I love you too 🙇🏻‍♂️🥰
+
+--- MESSAGE 3 ---
+Date: 2021-12-16 13:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: good
+Text: We should book it in for a service to make sure everything is all good with it
+
+--- MESSAGE 4 ---
+Date: 2021-12-24 16:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: best
+Text: I'm gonna do my best 👦🏻
+
+--- MESSAGE 5 ---
+Date: 2022-01-07 14:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: love
+Text: I love you too Lou. 
+
+--- MESSAGE 6 ---
+Date: 2022-01-09 19:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: love
+Text: I love you too Louisa, I really do. 
+
+--- MESSAGE 7 ---
+Date: 2022-01-09 19:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: love
+Text: I love you Louisa. ❤️
+
+--- MESSAGE 8 ---
+Date: 2022-01-11 08:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: love
+Text: I love you Louisa. 
+
+--- MESSAGE 9 ---
+Date: 2022-01-11 09:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: love
+Text: I love you Louisa exactly as you are. 
+
+--- MESSAGE 10 ---
+Date: 2022-01-23 18:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: appreciate,thank
+Text: Thank you for coming over to see me, I appreciate it a lot 😊
+
+--- MESSAGE 11 ---
+Date: 2022-01-24 14:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: happy
+Text: They went to sleep feeling happy maybe 
+
+--- MESSAGE 12 ---
+Date: 2022-02-02 20:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: appreciate,thank
+Text: I'm just leaving to go home now. Thank you I appreciate that a lot Lou 
+
+--- MESSAGE 13 ---
+Date: 2022-02-10 22:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: best
+Text: I'm doing my best to see it Lou 
+
+--- MESSAGE 14 ---
+Date: 2022-02-14 17:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: best
+Text: I do my best Lou 🙇🏻‍♂️
+
+--- MESSAGE 15 ---
+Date: 2022-02-21 13:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: love
+Text: I love already sent through all of it for you Lou 😊 and for the other jobs too 
+
+--- MESSAGE 16 ---
+Date: 2022-02-26 20:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: love
+Text: I love you too Lou 
+
+--- MESSAGE 17 ---
+Date: 2022-02-27 18:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: trust
+Text: Okay I trust you Lou 
+
+--- MESSAGE 18 ---
+Date: 2022-02-27 20:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: love
+Text: I love you too Lou. 
+
+--- MESSAGE 19 ---
+Date: 2022-02-28 12:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: best
+Text: It's probably best to get Di and Terry to get Joshua then after school 
+
+--- MESSAGE 20 ---
+Date: 2022-03-10 14:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: trust
+Text: It's going to be okay trust me
+
+--- MESSAGE 21 ---
+Date: 2022-03-13 09:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: love
+Text: Because you love me 👦🏻
+
+--- MESSAGE 22 ---
+Date: 2022-03-14 08:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: best
+Text: I do my best Lou 🙇🏻‍♂️
+
+--- MESSAGE 23 ---
+Date: 2022-03-14 15:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Text: Loved "I want to show Joshua parts of avatar and say that these are an embodiment of our aboriginal ancestors, and they believe in Eywa which is another word for the dreaming, Mother Earth or the universal us. And we believe that too. What do you think?"
+
+--- MESSAGE 24 ---
+Date: 2022-03-18 18:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Keywords: love
+Text: Lou, I love you 👦🏻❤️
+
+--- MESSAGE 25 ---
+Date: 2022-03-22 12:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.64)
+Text: Is that cool and funny?

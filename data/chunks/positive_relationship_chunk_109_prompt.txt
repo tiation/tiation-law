@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-02-04 17:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'll be over at around 6:30-7 then 😊
+
+--- MESSAGE 2 ---
+Date: 2022-02-05 08:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hey I'm working from 2pm till 10pm
+
+--- MESSAGE 3 ---
+Date: 2022-02-05 09:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Why's that?
+
+--- MESSAGE 4 ---
+Date: 2022-02-05 09:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ?
+
+--- MESSAGE 5 ---
+Date: 2022-02-05 13:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: For dinner
+
+--- MESSAGE 6 ---
+Date: 2022-02-05 13:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How did his psychology appointment go?
+
+--- MESSAGE 7 ---
+Date: 2022-02-05 18:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How is your night going?
+
+--- MESSAGE 8 ---
+Date: 2022-02-05 20:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm still at the theatre at the moment 
+
+--- MESSAGE 9 ---
+Date: 2022-02-07 10:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I sent you money today and I'll also be paying half your rent this week again too
+
+--- MESSAGE 10 ---
+Date: 2022-02-07 11:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'll come to you, where are you now? 
+
+--- MESSAGE 11 ---
+Date: 2022-02-07 11:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It's at the entrance of the IGA
+
+--- MESSAGE 12 ---
+Date: 2022-02-07 15:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Ohh wait never mind I just remembered they are at daycare 
+
+--- MESSAGE 13 ---
+Date: 2022-02-07 15:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'll see you at 5:30 as planned
+
+--- MESSAGE 14 ---
+Date: 2022-02-07 15:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: When can I get her?
+
+--- MESSAGE 15 ---
+Date: 2022-02-07 15:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm just getting the oil thing for you now 
+
+--- MESSAGE 16 ---
+Date: 2022-02-08 16:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 17 ---
+Date: 2022-02-08 16:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I took this video yesterday
+
+--- MESSAGE 18 ---
+Date: 2022-02-08 21:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hey you tried to call?
+
+--- MESSAGE 19 ---
+Date: 2022-02-08 21:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ??
+
+--- MESSAGE 20 ---
+Date: 2022-02-09 08:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'll comeback after the chiropractor too so I can take the crib and highchair for you
+
+--- MESSAGE 21 ---
+Date: 2022-02-09 16:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 22 ---
+Date: 2022-02-09 17:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Paid rent for you just then 
+
+--- MESSAGE 23 ---
+Date: 2022-02-09 17:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Okay*
+
+--- MESSAGE 24 ---
+Date: 2022-02-09 18:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 25 ---
+Date: 2022-02-09 18:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Can you see me??

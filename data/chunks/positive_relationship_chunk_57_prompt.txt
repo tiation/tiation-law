@@ -1,0 +1,201 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-01-09 18:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah that was before you sent the message. 
+
+--- MESSAGE 2 ---
+Date: 2022-01-12 19:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah and that's YOUR belief Louisa 
+
+--- MESSAGE 3 ---
+Date: 2022-01-18 11:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: We're in the middle of waiting at the moment to see if the festival is getting cancelled or not due to covid 
+
+--- MESSAGE 4 ---
+Date: 2022-01-18 16:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah I'll get the formula and bread and fruit for you 
+
+--- MESSAGE 5 ---
+Date: 2022-01-20 07:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah I can do that 
+
+--- MESSAGE 6 ---
+Date: 2022-01-28 09:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: It is what it is, only this time I'm the one who is actually helping 
+
+--- MESSAGE 7 ---
+Date: 2022-02-03 08:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: I know that. That's why I'm helping with the rent for you too 
+
+--- MESSAGE 8 ---
+Date: 2022-02-03 08:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah I do
+
+--- MESSAGE 9 ---
+Date: 2022-02-05 10:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah I can do that. I'm just at the chiropractor now 
+
+--- MESSAGE 10 ---
+Date: 2022-02-09 08:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Ohh yeah I'll just come do it now 
+
+--- MESSAGE 11 ---
+Date: 2022-02-11 11:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah I can do that for you Lou
+
+--- MESSAGE 12 ---
+Date: 2022-02-11 17:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah I can do that
+
+--- MESSAGE 13 ---
+Date: 2022-02-12 22:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah we can do that
+
+--- MESSAGE 14 ---
+Date: 2022-02-13 17:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah I can get you one Lou 
+
+--- MESSAGE 15 ---
+Date: 2022-02-14 18:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Keywords: sorry
+Text: I do fit about Valentine's Day I'm sorry 😔
+
+--- MESSAGE 16 ---
+Date: 2022-02-15 22:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah it's because of my wound I could feel that it was wet, there was blood 🙇🏻‍♂️
+
+--- MESSAGE 17 ---
+Date: 2022-02-22 13:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah I can do that
+
+--- MESSAGE 18 ---
+Date: 2022-02-24 16:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah I can do that 
+
+--- MESSAGE 19 ---
+Date: 2022-02-26 21:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah I will try and get to yours at around 9:30ish 
+
+--- MESSAGE 20 ---
+Date: 2022-02-27 17:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah I can do that 
+
+--- MESSAGE 21 ---
+Date: 2022-03-13 15:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah they are at Cannington in my size I shall go now 
+
+--- MESSAGE 22 ---
+Date: 2022-03-16 15:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Hey Lou, yeah I can do that for you I'll see you later tonight 🙇🏻‍♂️
+
+--- MESSAGE 23 ---
+Date: 2022-03-18 11:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah we can do that Lou 
+
+--- MESSAGE 24 ---
+Date: 2022-03-26 19:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Lou can I call you to say say a joke 🤪
+
+--- MESSAGE 25 ---
+Date: 2022-03-28 11:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: He made a joke about Will Smiths wife when she was going through a rough time in her life 

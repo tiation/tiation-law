@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-09-27 09:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: The one with the final fantasy design on it 
+
+--- MESSAGE 2 ---
+Date: 2022-09-28 07:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Why do you keep sending me things with Joshua?
+
+--- MESSAGE 3 ---
+Date: 2022-09-29 17:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I've finished 
+
+--- MESSAGE 4 ---
+Date: 2022-09-29 21:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: SHe's a bit off 
+
+--- MESSAGE 5 ---
+Date: 2022-09-30 15:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We are on the way back now 
+
+--- MESSAGE 6 ---
+Date: 2022-09-30 16:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 7 ---
+Date: 2022-10-01 11:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How is Lily going?
+
+--- MESSAGE 8 ---
+Date: 2022-10-01 16:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Yea that was my favourite show at one point in my life
+
+--- MESSAGE 9 ---
+Date: 2022-10-01 18:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How about you?
+
+--- MESSAGE 10 ---
+Date: 2022-10-02 15:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Work has been busy today
+
+--- MESSAGE 11 ---
+Date: 2022-10-02 15:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Finally have finished now 
+
+--- MESSAGE 12 ---
+Date: 2022-10-02 15:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Where are you now?
+
+--- MESSAGE 13 ---
+Date: 2022-10-02 15:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: So you're at your home 
+
+--- MESSAGE 14 ---
+Date: 2022-10-02 15:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm leaving my place now 
+
+--- MESSAGE 15 ---
+Date: 2022-10-03 08:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: See you soon
+
+--- MESSAGE 16 ---
+Date: 2022-10-03 10:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I've finished 
+
+--- MESSAGE 17 ---
+Date: 2022-10-04 08:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: The other place in Leederville is going to call me today
+
+--- MESSAGE 18 ---
+Date: 2022-10-04 08:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: They are going to do a session for Lily next week they said
+
+--- MESSAGE 19 ---
+Date: 2022-10-04 08:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: When are you coming in?
+
+--- MESSAGE 20 ---
+Date: 2022-10-04 10:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Finished
+
+--- MESSAGE 21 ---
+Date: 2022-10-04 15:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 22 ---
+Date: 2022-10-04 15:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 23 ---
+Date: 2022-10-05 07:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Lily has the leaks from her nose again 
+
+--- MESSAGE 24 ---
+Date: 2022-10-05 08:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: So I won't be in the room
+
+--- MESSAGE 25 ---
+Date: 2022-10-05 11:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Are you coming back?

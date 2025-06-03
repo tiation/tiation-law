@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-10-07 18:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 2 ---
+Date: 2022-10-09 05:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Can you come here with your mum and look after Lily
+
+--- MESSAGE 3 ---
+Date: 2022-10-09 06:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I am instructing people
+
+--- MESSAGE 4 ---
+Date: 2022-10-09 06:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I instructed your mum and my Aunty and cousin. 
+
+--- MESSAGE 5 ---
+Date: 2022-10-09 06:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I don't see Dianne and Terry who you state are Lily's grandparents spend a day or night with Lily. 
+
+--- MESSAGE 6 ---
+Date: 2022-10-09 06:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You know, the people who saw Lily more than anyone in my family. 
+
+--- MESSAGE 7 ---
+Date: 2022-10-10 08:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Lily has been coughing up secretions continuously on her own. Because you are Lily's mother I thought I should let you know. 
+
+--- MESSAGE 8 ---
+Date: 2022-10-10 10:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Her obs have been between 95-100 for oxygen 
+
+--- MESSAGE 9 ---
+Date: 2022-10-10 11:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: As you were too. 
+
+--- MESSAGE 10 ---
+Date: 2022-10-10 11:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You and Joshua are considered unsafe around Lily**
+
+--- MESSAGE 11 ---
+Date: 2022-10-11 12:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I had not slept since Friday night and needed to sleep at mine last night to reenergise
+
+--- MESSAGE 12 ---
+Date: 2022-10-11 12:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I am here at the hospital with Lily 
+
+--- MESSAGE 13 ---
+Date: 2022-10-11 13:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What do you mean another dive? 
+
+--- MESSAGE 14 ---
+Date: 2022-10-11 13:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Lily's weight has gone up 500 grams 
+
+--- MESSAGE 15 ---
+Date: 2022-10-11 18:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 16 ---
+Date: 2022-10-11 18:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: The turtle lights up the whole room 
+
+--- MESSAGE 17 ---
+Date: 2022-10-12 09:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: There is a family meeting/medical update after 1pm today
+
+--- MESSAGE 18 ---
+Date: 2022-10-12 09:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Are you going to be here for it?
+
+--- MESSAGE 19 ---
+Date: 2022-10-12 09:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: From what I've been told nothing has changed regarding that situation 
+
+--- MESSAGE 20 ---
+Date: 2022-10-13 08:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Kim said she was going to contact you
+
+--- MESSAGE 21 ---
+Date: 2022-10-13 08:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: About the meeting 
+
+--- MESSAGE 22 ---
+Date: 2022-10-13 08:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: They are not upping the gabapentin any further and Lily is completely off morphine now 
+
+--- MESSAGE 23 ---
+Date: 2022-10-13 08:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Lily will not be leaving the room due to her virus as this is hospital policy. If you really have an issue with this then bring it with the infections team and not me. 
+
+--- MESSAGE 24 ---
+Date: 2022-10-13 14:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Have you taken any of my clothes back to your place?
+
+--- MESSAGE 25 ---
+Date: 2022-10-13 17:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: https://music.apple.com/au/playlist/lilys-playlist/pl.u-zPyLl9LCdkrLYm

@@ -1,0 +1,217 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-02-18 13:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.54)
+Keywords: help
+Text: I'm going to help you Lou okay? You're not going to be financially struggling, I'm not Michael. I do actually help and buy things that are needed not wanted. 
+
+--- MESSAGE 2 ---
+Date: 2022-03-28 13:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.54)
+Text: Do you know what's weird though, Will Smith actually laughed at the joke 
+
+--- MESSAGE 3 ---
+Date: 2022-09-17 21:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.54)
+Keywords: good,miss
+Text: Yeah I do miss the good times Lou of course I do
+
+--- MESSAGE 4 ---
+Date: 2022-12-26 19:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.54)
+Text: Merry Christmas. Will you be at the session tomorrow?
+
+--- MESSAGE 5 ---
+Date: 2021-09-28 08:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.54)
+Keywords: peaceful
+Text: She looks really peaceful now 
+
+--- MESSAGE 6 ---
+Date: 2021-11-08 16:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.54)
+Keywords: good
+Text: That sounds good to me my Lulu!! 🥰🥰
+
+--- MESSAGE 7 ---
+Date: 2022-04-05 06:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.54)
+Keywords: good
+Text: Good morning Lou!! 👦🏻
+
+--- MESSAGE 8 ---
+Date: 2022-06-17 15:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.54)
+Keywords: good
+Text: It's more than a good enough excuse 
+
+--- MESSAGE 9 ---
+Date: 2022-08-20 09:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.54)
+Keywords: please
+Text: Okay comeback now, can you bring more coffee please?
+
+--- MESSAGE 10 ---
+Date: 2022-09-17 22:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.54)
+Keywords: care
+Text: Any parent would know that a baby has more needs and care than a 6 year old child.  
+
+--- MESSAGE 11 ---
+Date: 2022-09-15 17:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.54)
+Keywords: happy
+Text: No you're okay Louisa, you be there with Lily I'm more than happy to wait if you don't want me there 
+
+--- MESSAGE 12 ---
+Date: 2022-03-30 11:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.53)
+Text: And you must use the SMART way of doing it 
+
+--- MESSAGE 13 ---
+Date: 2022-02-21 13:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.53)
+Text: Ohh yes of course you can't leave the house!! 
+
+--- MESSAGE 14 ---
+Date: 2021-09-18 16:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.53)
+Text: Okay Lulu, what ones, like red and white or?
+
+--- MESSAGE 15 ---
+Date: 2021-09-26 16:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.53)
+Keywords: thank
+Text: Okay thank yous 🙇🏻‍♂️🙇🏻‍♂️
+
+--- MESSAGE 16 ---
+Date: 2021-11-07 16:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.53)
+Keywords: thank
+Text: Okay thank you for telling me 
+
+--- MESSAGE 17 ---
+Date: 2021-12-10 17:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.53)
+Keywords: thank
+Text: Okay thank you 
+
+--- MESSAGE 18 ---
+Date: 2021-12-18 17:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.53)
+Keywords: thank
+Text: Okay thank you Lou. 
+
+--- MESSAGE 19 ---
+Date: 2021-12-28 11:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.53)
+Text: Okay that sounds like a plan Lulu 
+
+--- MESSAGE 20 ---
+Date: 2022-02-12 16:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.53)
+Keywords: thank
+Text: Okay thank you
+
+--- MESSAGE 21 ---
+Date: 2022-02-21 08:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.53)
+Keywords: thank
+Text: Oh okay then, thank you Lou 🙇🏻‍♂️
+
+--- MESSAGE 22 ---
+Date: 2022-02-28 11:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.53)
+Keywords: thank
+Text: Okay thank you Lou 
+
+--- MESSAGE 23 ---
+Date: 2022-03-09 20:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.53)
+Text: Okay then go to the chemist in the morning. At least you can get it over the counter with ease 
+
+--- MESSAGE 24 ---
+Date: 2022-03-30 13:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.53)
+Text: Okay then Lou that sounds like a plan 👦🏻
+
+--- MESSAGE 25 ---
+Date: 2022-06-11 16:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.53)
+Keywords: happy
+Text: I no longer want to argue about this. I am happy to go to the party still with you if you want. I am going to get Joshua now 

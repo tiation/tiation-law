@@ -1,0 +1,202 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2023-03-14 17:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Keywords: please
+Text: Can you please reply back to confirm that you will or will not sign Lily's passport forms? 
+
+--- MESSAGE 2 ---
+Date: 2022-09-22 08:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.32)
+Text: Yeah that doesn't matter I don't want you here with Lily. 
+
+--- MESSAGE 3 ---
+Date: 2022-02-04 13:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.31)
+Keywords: sorry,good
+Text: Okay as long as they can get him that'll be good then. Hmmm I know you don't want to be alone Lou 🙁 I'm sorry I can't be there with you 
+
+--- MESSAGE 4 ---
+Date: 2022-03-26 08:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.31)
+Text: Like when she's 4 if she doesn't want to eat animals then that's her choice 
+
+--- MESSAGE 5 ---
+Date: 2022-08-13 20:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.31)
+Text: It sounded like you didn't want me to Lou 
+
+--- MESSAGE 6 ---
+Date: 2022-10-10 11:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.31)
+Text: I would like to reiterate to you that I do not want Joshua to see Lily at this time. 
+
+--- MESSAGE 7 ---
+Date: 2021-09-28 08:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.31)
+Text: Hey Lulu are you doing okay?? Xx
+
+--- MESSAGE 8 ---
+Date: 2021-11-21 14:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.31)
+Text: Okay so we are doing the bags on Wednesday right??
+
+--- MESSAGE 9 ---
+Date: 2021-12-31 09:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.31)
+Text: When we open the borders, Lily stays home okay??
+
+--- MESSAGE 10 ---
+Date: 2022-02-04 15:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.31)
+Text: Is everything okay??
+
+--- MESSAGE 11 ---
+Date: 2021-11-09 16:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.31)
+Text: I won't get in trouble? 🙇🏻‍♂️
+
+--- MESSAGE 12 ---
+Date: 2021-12-24 16:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.31)
+Text: Tell them that it's not your fault 
+
+--- MESSAGE 13 ---
+Date: 2022-09-17 21:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.31)
+Text: I'm not wasting my time on another woman or dating when Lily needs me
+
+--- MESSAGE 14 ---
+Date: 2022-10-18 07:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.31)
+Text: This isn't my problem. 
+
+--- MESSAGE 15 ---
+Date: 2022-10-18 14:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.31)
+Text: That is not my fault 
+
+--- MESSAGE 16 ---
+Date: 2022-11-19 12:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.31)
+Text: And that's why you've probably told everyone that what happened to Lily wasn't your fault at all. 
+
+--- MESSAGE 17 ---
+Date: 2022-11-03 12:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Personal gain?! You're the one who refuses to tell anyone the truth about what happened to Lily, the way you've been acting about Lily is so questionable, you act like her incident isn't a big deal. 
+
+--- MESSAGE 18 ---
+Date: 2021-11-10 16:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah I think so too and this is why I tell Joshua he's not allowed outside the gate of the car park 
+
+--- MESSAGE 19 ---
+Date: 2021-11-10 16:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah we had it in primary school from what I can remember 
+
+--- MESSAGE 20 ---
+Date: 2021-11-11 16:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah I'll be there a little later around 5:30ish
+
+--- MESSAGE 21 ---
+Date: 2021-11-15 11:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah go ahead my Lulu 
+
+--- MESSAGE 22 ---
+Date: 2021-11-21 12:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah I can do that 
+
+--- MESSAGE 23 ---
+Date: 2021-12-16 15:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah and I can give it to you 
+
+--- MESSAGE 24 ---
+Date: 2021-12-17 12:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: Yeah probably 
+
+--- MESSAGE 25 ---
+Date: 2021-12-26 14:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.30)
+Text: The attachment you sent 

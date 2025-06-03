@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-08-11 12:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: But it's up to you 
+
+--- MESSAGE 2 ---
+Date: 2022-08-11 18:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I got the food I'm going up now 
+
+--- MESSAGE 3 ---
+Date: 2022-08-12 09:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How is Lily? 
+
+--- MESSAGE 4 ---
+Date: 2022-08-12 09:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: And do you need a coffee or anything?
+
+--- MESSAGE 5 ---
+Date: 2022-08-12 21:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Why have you sent me these stories?
+
+--- MESSAGE 6 ---
+Date: 2022-08-12 21:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Will just have to wait and see what happens Lou 
+
+--- MESSAGE 7 ---
+Date: 2022-08-12 21:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Is Lily asleep?
+
+--- MESSAGE 8 ---
+Date: 2022-08-13 10:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'll be down soon 
+
+--- MESSAGE 9 ---
+Date: 2022-08-13 10:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Just had to wait for a washing machine 
+
+--- MESSAGE 10 ---
+Date: 2022-08-13 10:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We needed 2 washing machines 
+
+--- MESSAGE 11 ---
+Date: 2022-08-13 10:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It's already done though 
+
+--- MESSAGE 12 ---
+Date: 2022-08-13 10:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It had to be done 
+
+--- MESSAGE 13 ---
+Date: 2022-08-13 10:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: So much washing to wash 
+
+--- MESSAGE 14 ---
+Date: 2022-08-13 11:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: The bell is not working 
+
+--- MESSAGE 15 ---
+Date: 2022-08-13 17:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I've got the food
+
+--- MESSAGE 16 ---
+Date: 2022-08-13 20:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What do you mean?
+
+--- MESSAGE 17 ---
+Date: 2022-08-13 20:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I send to you virtually too then Lou ❤️
+
+--- MESSAGE 18 ---
+Date: 2022-08-14 10:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Where did you get this information from?
+
+--- MESSAGE 19 ---
+Date: 2022-08-14 10:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I never read the bible 
+
+--- MESSAGE 20 ---
+Date: 2022-08-14 10:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I know you told me 
+
+--- MESSAGE 21 ---
+Date: 2022-08-14 17:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Got the food Lou 
+
+--- MESSAGE 22 ---
+Date: 2022-08-15 11:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Meet upstairs for lunch?
+
+--- MESSAGE 23 ---
+Date: 2022-08-15 17:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Got the food 
+
+--- MESSAGE 24 ---
+Date: 2022-08-15 18:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I've got the cutlery 
+
+--- MESSAGE 25 ---
+Date: 2022-08-15 18:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Just come to the room

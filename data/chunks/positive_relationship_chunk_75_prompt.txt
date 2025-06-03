@@ -1,0 +1,208 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-08-25 12:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.18)
+Text: No thanks I got everything I need 
+
+--- MESSAGE 2 ---
+Date: 2022-09-17 22:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.18)
+Text: No thanks. 
+
+--- MESSAGE 3 ---
+Date: 2022-09-18 09:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.18)
+Keywords: good
+Text: That's no good Louisa
+
+--- MESSAGE 4 ---
+Date: 2022-09-18 09:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.18)
+Keywords: well
+Text: Are you feeling dizzy as well? 
+
+--- MESSAGE 5 ---
+Date: 2022-10-20 15:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.18)
+Text: No thanks 
+
+--- MESSAGE 6 ---
+Date: 2022-07-18 14:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.17)
+Text: Okay. Why don't you want me there? 
+
+--- MESSAGE 7 ---
+Date: 2021-11-21 21:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.17)
+Text: I know Lulu I never forget 🙇🏻‍♂️
+
+--- MESSAGE 8 ---
+Date: 2022-09-17 20:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.17)
+Text: I haven't forgotten the email. I'm rewording it. 
+
+--- MESSAGE 9 ---
+Date: 2022-09-26 12:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.17)
+Text: Don't forget the card
+
+--- MESSAGE 10 ---
+Date: 2021-09-12 19:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.17)
+Keywords: sorry
+Text: Look I am sorry Lou. I don't want to fight anymore about this. 
+
+--- MESSAGE 11 ---
+Date: 2021-12-08 20:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.17)
+Text: Do you want me to order you guys anything??
+
+--- MESSAGE 12 ---
+Date: 2022-03-26 17:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.17)
+Text: Did you want something??
+
+--- MESSAGE 13 ---
+Date: 2022-04-09 18:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.17)
+Text: Did you want anything Lou??
+
+--- MESSAGE 14 ---
+Date: 2022-11-07 17:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.17)
+Text: I am busy down here. Can we talk later on this week? What do you want to talk about?
+
+--- MESSAGE 15 ---
+Date: 2022-02-03 08:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.16)
+Text: Yeah I know but I worry about you and the kids because I don't ever want you guys to go without. I can go without no problem because it's just me 
+
+--- MESSAGE 16 ---
+Date: 2021-10-01 14:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.15)
+Keywords: sorry
+Text: Okay I'm sorry. I'll sort it out then, the budget for food should be $150 a week, $75 each 
+
+--- MESSAGE 17 ---
+Date: 2021-10-28 18:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.15)
+Keywords: sorry
+Text: Ohhh okay Lulus, I'm sorry Lulu  🙇🏻‍♂️🙇🏻‍♂️🙇🏻‍♂️
+
+--- MESSAGE 18 ---
+Date: 2022-01-07 14:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.15)
+Keywords: love,sorry
+Text: I never wanted you and I to be in this situation Lulu and I'm sorry that I have failed that. I love you Lou 
+
+--- MESSAGE 19 ---
+Date: 2022-01-12 15:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.15)
+Keywords: sorry
+Text: Okay Louisa if you want to say that you can. I'm sorry that you feel that way towards me and I'm sorry that if I'm coming off as narcissistic as that wasn't my intention. 
+
+--- MESSAGE 20 ---
+Date: 2022-01-15 07:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.15)
+Text: I want people in my life. I want to pick and choose people in my life. 
+
+--- MESSAGE 21 ---
+Date: 2022-02-02 07:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.15)
+Keywords: sorry
+Text: Aww that's okay, sorry I wasn't awake 🙇🏻‍♂️
+
+--- MESSAGE 22 ---
+Date: 2022-02-02 19:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.15)
+Text: What do you want me to put up then Louisa, you don't have our relationship status up at all. You don't tell me what you want to do with us or anything
+
+--- MESSAGE 23 ---
+Date: 2022-02-05 13:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.15)
+Text: No I'll talk to him tomorrow about it when we get McDonald's it'll be easier that way I think
+
+--- MESSAGE 24 ---
+Date: 2022-02-14 13:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.15)
+Text: 62 new cases of covid in WA today, we must be careful 🙇🏻‍♂️
+
+--- MESSAGE 25 ---
+Date: 2022-02-17 15:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.15)
+Text: Yeah I've got all of it but are you doing it too is what I'm asking?

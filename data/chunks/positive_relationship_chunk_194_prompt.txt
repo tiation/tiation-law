@@ -1,0 +1,206 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2021-08-26 12:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.52)
+Text: I don't know why you are being so upset about this? 
+
+--- MESSAGE 2 ---
+Date: 2022-01-09 18:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.52)
+Keywords: love
+Text: You don't love every human. 
+
+--- MESSAGE 3 ---
+Date: 2022-03-26 20:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.52)
+Text: Because I can't play lol
+
+--- MESSAGE 4 ---
+Date: 2022-07-23 12:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.52)
+Keywords: love
+Text: You don't love me 
+
+--- MESSAGE 5 ---
+Date: 2022-07-23 12:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.52)
+Keywords: love
+Text: What you are doing is not love. 
+
+--- MESSAGE 6 ---
+Date: 2022-11-05 19:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.52)
+Keywords: love
+Text: You don't love Lily. 
+
+--- MESSAGE 7 ---
+Date: 2021-11-09 12:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.53)
+Keywords: sorry
+Text: You are right, I am acting immaturely and my responses were wrong. I'm sorry for that Lou 
+
+--- MESSAGE 8 ---
+Date: 2022-01-26 12:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.53)
+Text: My stupid wifi isn't working again and I have to hotspot 😡
+
+--- MESSAGE 9 ---
+Date: 2022-02-04 13:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.53)
+Text: Hmmm they are stupid then. Have you organised anything?
+
+--- MESSAGE 10 ---
+Date: 2022-03-09 20:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.53)
+Text: It's not just from eating unhealthy it can be more than that. Maybe change his sheets and blanket?
+
+--- MESSAGE 11 ---
+Date: 2022-03-28 13:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.53)
+Text: That's what I think too, he must've seen her reaction and realised it had hurt her feelings 
+
+--- MESSAGE 12 ---
+Date: 2022-09-17 22:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.53)
+Text: It's disgusting. 
+
+--- MESSAGE 13 ---
+Date: 2022-09-22 15:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.53)
+Text: I don't know why I even bother talking to you Louisa. I've messaged you regarding Lily being alone for 2 hours and you've made it about something else 
+
+--- MESSAGE 14 ---
+Date: 2022-11-10 21:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.53)
+Text: Lily has no brother and needs no brother. 
+
+--- MESSAGE 15 ---
+Date: 2022-11-19 12:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.53)
+Text: No they said to me there is no evidence because you hadn't told them what actually happened and therefore couldn't charge you. 
+
+--- MESSAGE 16 ---
+Date: 2022-08-10 20:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.53)
+Text: I know that Lily didn't like it when we fought 
+
+--- MESSAGE 17 ---
+Date: 2022-09-22 16:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.54)
+Text: You are so delusional it's scary. 
+
+--- MESSAGE 18 ---
+Date: 2022-03-28 11:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.54)
+Text: I would never join the armed forces because of all the crap that happens 
+
+--- MESSAGE 19 ---
+Date: 2021-09-12 18:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.54)
+Text: My direct debit didn't come out because I stopped it when we had our last big fight 
+
+--- MESSAGE 20 ---
+Date: 2022-01-12 19:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.54)
+Text: You think I would just let our kids have something bad happen to them and you think that I would just let it go don't you?
+
+--- MESSAGE 21 ---
+Date: 2022-06-07 16:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.54)
+Text: When you say it's bad, can you give me an example?
+
+--- MESSAGE 22 ---
+Date: 2022-07-23 04:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.54)
+Text: Why do you want to ruin my life so much?
+
+--- MESSAGE 23 ---
+Date: 2022-07-23 12:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.54)
+Text: You are here to destroy my life
+
+--- MESSAGE 24 ---
+Date: 2022-09-14 19:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.54)
+Keywords: thank
+Text: You keep having digs at me, I said thank you for the hungry jacks, your reply was unacceptable and unnecessary. I tell you that on Friday I have work early in the morning, your reply again was unacceptable and unnecessary.
+
+--- MESSAGE 25 ---
+Date: 2022-09-21 16:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.54)
+Text: I never said you were a bad parent. 

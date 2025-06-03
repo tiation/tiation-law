@@ -1,0 +1,21 @@
+{
+  "start_time": "2025-06-03T15:57:32.459613",
+  "completed_batches": 1,
+  "completed_message_ids": [],
+  "failed_message_ids": [
+    "97a8fbff-9c27-4b0a-ab17-61bb10e12210",
+    "fd11e01e-7958-4e90-bd5a-e1d69acbacd8",
+    "a7fc39dc-c3ba-42e1-9b5b-16248fd5083e",
+    "961b9776-b925-4aa3-95c2-faa061a2826c",
+    "a050444e-9cd8-4f52-92f8-237c7aebc8c3",
+    "63f2cd67-37ee-4ad9-a789-8fbf8fbfdc9c",
+    "ffa31382-e7e7-4fb3-b8db-318ab0712d55",
+    "e0473caa-4bd0-49c6-ba2f-271c8ae1af4b",
+    "027b90ac-11d0-4bd1-8069-013670f8cd00",
+    "9858e791-ce56-4d0a-99fa-da698c9a8064"
+  ],
+  "daily_counts": {
+    "2025-06-03": 1
+  },
+  "last_batch_time": "2025-06-03T15:59:04.604496"
+}

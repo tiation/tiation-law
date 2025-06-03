@@ -1,0 +1,205 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2021-12-08 18:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: -0.04)
+Text: Don't ever think that you are not enough because it's not true, you've always been more than enough okay? 
+
+--- MESSAGE 2 ---
+Date: 2021-08-21 15:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.05)
+Text: Hey Lulu, I'm just with my grandad at the moment. I'm going to leave around 4?
+
+--- MESSAGE 3 ---
+Date: 2021-10-04 11:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.05)
+Text: We will leave here in about 5 minutes ☺️☺️
+
+--- MESSAGE 4 ---
+Date: 2021-10-09 14:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.05)
+Text: My mu and sister will leave around 5ish, my mum has work tomorrow morning early that's why
+
+--- MESSAGE 5 ---
+Date: 2021-12-05 14:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.05)
+Text: So that means we leave on Sunday?
+
+--- MESSAGE 6 ---
+Date: 2021-12-18 17:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.05)
+Text: Does Joshua's bedroom look like a kid who hasn't got anything or disadvantaged? 
+
+--- MESSAGE 7 ---
+Date: 2022-01-09 17:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.05)
+Keywords: please
+Text: Can we make it please on Thursday from 6pm to Saturday night 7pm instead, as at the moment doing Thursday morning will be difficult to organise with work
+
+--- MESSAGE 8 ---
+Date: 2022-01-30 16:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.05)
+Text: I'll leave at 5 
+
+--- MESSAGE 9 ---
+Date: 2022-02-02 07:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.05)
+Text: And leave soon because I'm catching the bus to work 
+
+--- MESSAGE 10 ---
+Date: 2022-02-06 14:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.05)
+Text: I'll leave in 10 minutes 
+
+--- MESSAGE 11 ---
+Date: 2022-02-17 16:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.05)
+Text: I'll leave now 
+
+--- MESSAGE 12 ---
+Date: 2022-02-17 18:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.05)
+Text: Did you leave it in the door?
+
+--- MESSAGE 13 ---
+Date: 2022-02-28 13:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.05)
+Text: Maybe you could leave them?
+
+--- MESSAGE 14 ---
+Date: 2022-03-11 20:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.05)
+Text: 21 take it or leave it hmmmm 😤
+
+--- MESSAGE 15 ---
+Date: 2022-03-29 07:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.05)
+Keywords: better
+Text: It's better for him to say that then to say nothing at all. He's owned up to it and stated he was wrong 
+
+--- MESSAGE 16 ---
+Date: 2022-03-29 16:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.05)
+Text: I'll leave now
+
+--- MESSAGE 17 ---
+Date: 2022-04-11 18:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.05)
+Text: I leave now
+
+--- MESSAGE 18 ---
+Date: 2022-05-06 13:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.05)
+Text: I'm going to leave now 
+
+--- MESSAGE 19 ---
+Date: 2022-07-21 15:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.05)
+Text: Okay then. Next weekend when I drop Lily off I will take Joshua for the night on Saturday night
+
+--- MESSAGE 20 ---
+Date: 2022-08-08 11:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.05)
+Text: Haha that's okay Lou no need to be scared at all for me 
+
+--- MESSAGE 21 ---
+Date: 2022-09-02 16:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.05)
+Text: Did you just leave?
+
+--- MESSAGE 22 ---
+Date: 2022-09-21 17:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.05)
+Text: Then why did you leave today?
+
+--- MESSAGE 23 ---
+Date: 2022-09-22 15:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.05)
+Keywords: good
+Text: Lily doesn't need to be taught how to be a good person. She already is. 
+
+Unlike Joshua, Lily has to learn everything about life at a slow pace. Again you compare Joshua and Lily as equals which I find unfair and disrespectful towards Lily. 
+
+--- MESSAGE 24 ---
+Date: 2022-10-09 06:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.05)
+Text: I can't control everyone's actions once I leave. 
+
+--- MESSAGE 25 ---
+Date: 2022-10-19 08:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.05)
+Text: I'm just about to leave the hospital till tomorrow.

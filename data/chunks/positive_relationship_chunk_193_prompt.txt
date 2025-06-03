@@ -1,0 +1,201 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-02-16 11:06:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.50)
+Text: Did you like evil planner Lily photo?? 🙇🏻‍♂️
+
+--- MESSAGE 2 ---
+Date: 2022-02-16 11:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.51)
+Text: Ohh that's annoying Lou!! 
+
+--- MESSAGE 3 ---
+Date: 2022-10-10 10:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.51)
+Text: At the moment her tone has not been great as she is needing to continuously cough and she is going back into her arching of her back 
+
+--- MESSAGE 4 ---
+Date: 2021-11-20 16:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.51)
+Text: My sister has been abused again 😔
+
+--- MESSAGE 5 ---
+Date: 2021-12-28 19:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.51)
+Text: The prison abolition movement 
+
+--- MESSAGE 6 ---
+Date: 2022-01-12 15:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.51)
+Text: Because you judge me on so much Louisa and I get sick of it 
+
+--- MESSAGE 7 ---
+Date: 2022-01-16 15:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.51)
+Text: How have I insulted you?
+
+--- MESSAGE 8 ---
+Date: 2022-02-02 13:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.51)
+Text: Every time I open my mouth wide there is pain on one side 
+
+--- MESSAGE 9 ---
+Date: 2022-02-19 18:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.51)
+Text: Lily sounds angry 
+
+--- MESSAGE 10 ---
+Date: 2022-03-02 07:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.51)
+Text: Hmmm I have been awake since 4am with pain Lou
+
+--- MESSAGE 11 ---
+Date: 2022-03-02 14:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.51)
+Text: I think I got sick from the medicine 
+
+--- MESSAGE 12 ---
+Date: 2022-03-14 11:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.51)
+Text: No I went and got it myself, no point getting just item delivered silly 🤪
+
+--- MESSAGE 13 ---
+Date: 2022-03-30 14:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.51)
+Text: We are angry twins
+
+--- MESSAGE 14 ---
+Date: 2022-05-09 10:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.51)
+Text: Makes me feel sick Lou 
+
+--- MESSAGE 15 ---
+Date: 2022-05-22 16:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.51)
+Text: Maybe because we left she is sick now 
+
+--- MESSAGE 16 ---
+Date: 2022-09-08 09:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.51)
+Text: You are a liar Louisa. 
+
+--- MESSAGE 17 ---
+Date: 2022-10-06 18:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.51)
+Text: Lily needs someone with her as she is sick
+
+--- MESSAGE 18 ---
+Date: 2022-11-03 09:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.51)
+Text: You should feel angry at yourself. 
+
+--- MESSAGE 19 ---
+Date: 2022-11-03 09:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.51)
+Text: It's disturbing that you can't tell anyone what exactly happened. 
+
+--- MESSAGE 20 ---
+Date: 2022-11-10 20:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.51)
+Keywords: understand
+Text: Do you understand how angry I am? 
+
+--- MESSAGE 21 ---
+Date: 2021-12-18 17:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.51)
+Text: It's not like we have no money right now whatsoever, we are still able to buy things and afford to do things if we need
+
+--- MESSAGE 22 ---
+Date: 2022-07-12 19:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.51)
+Text: No that's not it. It's like the iPad charger 
+
+--- MESSAGE 23 ---
+Date: 2022-12-21 08:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.51)
+Text: Because I've still got a lot of stuff here that I can't fit anywhere and I have no room for additional things and I had told them this 
+
+--- MESSAGE 24 ---
+Date: 2022-09-22 15:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.52)
+Text: You were allowed to have Lily for full custody and I had to accept that but because it's happening to you, you find it unfair. 
+
+--- MESSAGE 25 ---
+Date: 2021-11-09 12:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.52)
+Text: But why should I have them even there? Isn't it easier to just not have them at all? 

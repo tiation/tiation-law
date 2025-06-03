@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2021-10-09 14:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: My mum said donuts and crackers and dip 
+
+--- MESSAGE 2 ---
+Date: 2021-10-10 12:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Done Lulu!! 
+
+--- MESSAGE 3 ---
+Date: 2021-10-11 17:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 4 ---
+Date: 2021-10-14 11:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Chinese food for lunch Lulu?
+
+--- MESSAGE 5 ---
+Date: 2021-10-14 11:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Wokinabox??
+
+--- MESSAGE 6 ---
+Date: 2021-10-15 08:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Bring Lily here when you are leaving and I can take her for you ☺️
+
+--- MESSAGE 7 ---
+Date: 2021-10-16 09:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼This is Lily 
+
+--- MESSAGE 8 ---
+Date: 2021-10-16 14:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼￼￼￼￼￼￼￼￼
+
+--- MESSAGE 9 ---
+Date: 2021-10-16 16:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How should I word it?
+
+--- MESSAGE 10 ---
+Date: 2021-10-16 16:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I've said this so far 
+
+--- MESSAGE 11 ---
+Date: 2021-10-16 16:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Should I do it in a group message then?
+
+--- MESSAGE 12 ---
+Date: 2021-10-16 16:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm the only one working right now 
+
+--- MESSAGE 13 ---
+Date: 2021-10-16 16:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I sent a message to both Belinda and Simon 
+
+--- MESSAGE 14 ---
+Date: 2021-10-16 16:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm really busy at the moment
+
+--- MESSAGE 15 ---
+Date: 2021-10-16 16:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: This is what I need!!!
+
+--- MESSAGE 16 ---
+Date: 2021-10-17 18:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I will come down stairs to grab it my Lulu 🙇🏻‍♂️
+
+--- MESSAGE 17 ---
+Date: 2021-10-17 18:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: For doing what Lulu?
+
+--- MESSAGE 18 ---
+Date: 2021-10-17 18:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: 🙇🏻‍♂️🙇🏻‍♂️🙇🏻‍♂️
+
+--- MESSAGE 19 ---
+Date: 2021-10-18 15:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 20 ---
+Date: 2021-10-18 18:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I've got the runs 🙇🏻‍♂️🙇🏻‍♂️
+
+--- MESSAGE 21 ---
+Date: 2021-10-21 19:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: https://www.facebook.com/92409946191/posts/10159544539106192/?d=n
+
+--- MESSAGE 22 ---
+Date: 2021-10-24 09:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I sent 150 for you and 100 for the phone 
+
+--- MESSAGE 23 ---
+Date: 2021-10-26 11:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I have to work on Friday now
+
+--- MESSAGE 24 ---
+Date: 2021-10-26 11:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'll be home soon
+
+--- MESSAGE 25 ---
+Date: 2021-10-26 11:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How far are you Lulu?

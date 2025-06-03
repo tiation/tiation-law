@@ -1,0 +1,216 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-12-22 15:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: She has to be. I can't let her keep living her life having no life at all 
+
+--- MESSAGE 2 ---
+Date: 2022-12-29 21:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: No 
+
+--- MESSAGE 3 ---
+Date: 2022-01-13 14:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: So you want me to waste a year of my life being a slave? 
+
+--- MESSAGE 4 ---
+Date: 2022-01-27 10:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.30)
+Text: It's a 3 hour film and I don't want Joshua to be terrified the entire time and scar him haha
+
+--- MESSAGE 5 ---
+Date: 2022-03-11 20:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.31)
+Text: Oh my goodness why are you so angry Lou? 🙇🏻‍♂️
+
+--- MESSAGE 6 ---
+Date: 2022-01-16 15:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.31)
+Keywords: support
+Text: I don't support it and you need to start seeing that. 
+
+--- MESSAGE 7 ---
+Date: 2022-03-23 09:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.31)
+Keywords: help
+Text: I don't need help, I have the things I need
+
+--- MESSAGE 8 ---
+Date: 2022-09-21 16:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.31)
+Text: I'm not trying to treat you that way Louisa 
+
+--- MESSAGE 9 ---
+Date: 2022-10-10 08:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.31)
+Text: Lily is not healthy enough to go to the appointment tomorrow
+
+--- MESSAGE 10 ---
+Date: 2021-10-14 11:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.31)
+Text: Oh my god no one can beat you!!!!! 🙇🏻‍♂️🙇🏻‍♂️
+
+--- MESSAGE 11 ---
+Date: 2022-03-15 06:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.31)
+Text: Lou something weird happened last night!!
+
+--- MESSAGE 12 ---
+Date: 2022-01-08 07:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.32)
+Keywords: love,support,together,happy,sorry,listen,positive,good,better
+Text: Hi Louisa, 
+
+I never said what you did was wrong. I agreed with you that what my Aunty said was not a nice thing to do and I wanted to sort it out on my own so that there would be no further conflict. You didn't listen to me and took it upon yourself to bring things up to her about events that occurred 40-50 years ago. Why? It is irrelevant to what TODAYS issue is, we are sorting out todays problems, the ones that are in our face. The message you had sent was different to the one you had shown me in your notes, the one you had shown me I had found much more mature and reasonable and relevant to the issue at hand but this was not the message you had sent. 
+
+You have called me an asshole, despicable, a little pussy and the worst man you've ever met in your life. These are words of abuse that you've said to me Louisa. I'm not here to correct you or anything but if you really see me as that, then you have forgotten all of the good and positive things I have brought to you and Joshua throughout our relationship. 
+
+I never wanted this Lulu. I never wanted you and I to be in this situation EVER. I wanted us to be a cooperative family unit, to be on equal grounds between us and have happiness in our lives. I want people in my life and you want people in your life. I have never told you to pick sides as this is something I don't believe in (personally I think it's a childish act). I'm not someone who does this, I'm someone who wants EVERYONE to work together and to be happy with each other and to get along, this is something you have told me that you want too. 
+
+People in their lives make mistakes whether it's the past or the present. I choose people in my life who can forgive themselves and move towards a positive and better right way of life. You stated to me that you don't support my grandparents for supporting my uncle, okay that's fine you can think that way that's YOUR choice and MY grandparents choice is theirs but that doesn't mean we have now a non-violent person (YOU) and violent people (GRANDPARENTS). It's just someone's beliefs it does not define someone as a person, remember when you stated at your philosophy club when you said that you would let a baby get killed by someone even though you had the power to stop it with a gun? That was YOUR belief right and everyone else stated they would kill that person ti save the baby. YOUR belief was completely the opposite to THEIR belief. Now did they judge you and think that you are completely wrong and decided that you need to be blocked due to your belief? No they didn't. Because it is YOUR belief Louisa. Anyway I know what I've said will not be heard or understood by you. 
+
+I love you Louisa and I always will. I don't want to go to court but if you're not going to let me see the kids and cooperate and work with me as I have asked you to, then that's what has to happen and I'm sorry. 
+
+Love Adam
+
+--- MESSAGE 13 ---
+Date: 2021-08-26 11:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.32)
+Text: I'm confused Lou 
+
+--- MESSAGE 14 ---
+Date: 2021-11-14 16:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.32)
+Text: I'm confused am I putting timer for 10 minutes now?
+
+--- MESSAGE 15 ---
+Date: 2022-01-20 19:44:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.32)
+Text: I'm gonna have to delay my surgery till later because that week of rehearsals I have to be in 
+
+--- MESSAGE 16 ---
+Date: 2022-02-12 16:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.32)
+Text: It's kind of what I wanted her to feel too so she can feel validated and that there are people out there who have suffered the same as her
+
+--- MESSAGE 17 ---
+Date: 2022-03-11 10:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.32)
+Text: Do you think I should delay the movies till next week? 
+
+--- MESSAGE 18 ---
+Date: 2022-06-28 14:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.32)
+Text: So what you're saying Louisa is that if I go to circle of security and anger management I am then allowed to see Lily again? 
+
+--- MESSAGE 19 ---
+Date: 2022-11-05 18:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.32)
+Text: Car accidents happen all the time. Babies drowning in baths happen 5 times a year on average. 
+
+--- MESSAGE 20 ---
+Date: 2022-12-30 19:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.32)
+Text: Did you by chance lean or do anything to Lily's legs? Because she seems to be in pain when I move them 
+
+--- MESSAGE 21 ---
+Date: 2022-01-15 08:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.32)
+Text: I didn't leave the kids Louisa, I left you. So you can stop saying that I left the whole family. It is untrue. 
+
+--- MESSAGE 22 ---
+Date: 2022-09-17 21:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.32)
+Text: I never said he'd be cut out, I said I don't want to be his stepdad
+
+--- MESSAGE 23 ---
+Date: 2022-10-17 08:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.32)
+Keywords: good
+Text: No it wasn't to hurt you, not everything is about you. I thought about things and decided to change my mind on my choice about not allowing Joshua to see Lily. I organised and on the morning of Michael messaged me saying Joshua visiting might now be a good idea as Joshua was misbehaving and acting selfish and whinging about everything as I knew he would.  
+
+--- MESSAGE 24 ---
+Date: 2021-09-24 10:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.33)
+Text: That's not nice 🥺
+
+--- MESSAGE 25 ---
+Date: 2022-07-23 07:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: negative (score: -0.33)
+Text: That is not true Louisa. 

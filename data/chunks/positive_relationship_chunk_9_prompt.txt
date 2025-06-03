@@ -1,0 +1,221 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-09-23 12:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.74)
+Keywords: care
+Text: Do I want Lily in my custody and care full time? Yes. 
+
+--- MESSAGE 2 ---
+Date: 2021-10-28 11:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.73)
+Text: Yeah that is quite perfect Lulu 
+
+--- MESSAGE 3 ---
+Date: 2021-11-07 16:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.73)
+Keywords: good,well
+Text: Well that's really good then Lulu!!! That it's more than enough ☺️
+
+--- MESSAGE 4 ---
+Date: 2022-02-08 12:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.73)
+Keywords: good,hope
+Text: Hey Lou, I hope you've had a good day today. How is your car going? Is it leaking oil still?
+
+--- MESSAGE 5 ---
+Date: 2022-02-11 19:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.73)
+Keywords: together
+Text: Looks like you guys are having fun together and MORE Lego??
+
+--- MESSAGE 6 ---
+Date: 2022-02-21 11:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.73)
+Keywords: best
+Text: Cars are the best right Lou!!??
+
+--- MESSAGE 7 ---
+Date: 2022-04-05 16:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.73)
+Keywords: happy
+Text: Why is our baby so happy all the time?? ☺️
+
+--- MESSAGE 8 ---
+Date: 2021-09-17 08:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.73)
+Keywords: love
+Text: Okay then I love you so much
+
+--- MESSAGE 9 ---
+Date: 2021-10-01 09:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.73)
+Text: Hahaha she's doing tummy time, does she like it?
+
+--- MESSAGE 10 ---
+Date: 2021-10-31 11:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.73)
+Keywords: best
+Text: Okay my Lulu I will remember my best 🙇🏻‍♂️
+
+--- MESSAGE 11 ---
+Date: 2021-11-22 12:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.73)
+Keywords: best
+Text: Ohh I see then, then that's okay your best is all we need ☺️
+
+--- MESSAGE 12 ---
+Date: 2021-12-16 13:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.73)
+Keywords: good,well
+Text: Well that's good Lou well done
+
+--- MESSAGE 13 ---
+Date: 2022-01-09 17:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.73)
+Keywords: love,sorry,understand
+Text: Look Lou I understand that you feel that way and I'm sorry that you do. I want to cooperate with you and I love you okay? 
+
+--- MESSAGE 14 ---
+Date: 2022-01-24 14:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.73)
+Text: Lily looks like she's just there for the ride hahaha
+
+--- MESSAGE 15 ---
+Date: 2022-02-20 06:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.73)
+Keywords: together,good
+Text: Good morning Lou, did you want to come here after I finish work and go get dinner together? My car doesn't seem to be running good at the moment 🙇🏻‍♂️
+
+--- MESSAGE 16 ---
+Date: 2022-02-21 16:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.73)
+Keywords: care,hope
+Text: Hope you and the kids are taking care 
+
+--- MESSAGE 17 ---
+Date: 2022-03-11 11:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.73)
+Keywords: best
+Text: Okay, it's probably best to call Target first and see what they say 
+
+--- MESSAGE 18 ---
+Date: 2022-03-26 18:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.73)
+Keywords: love
+Text: We love you Lou okay 🙇🏻‍♂️❤️
+
+--- MESSAGE 19 ---
+Date: 2022-07-23 06:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.73)
+Keywords: happy
+Text: You can say what you want Louisa that's fine. I'm happy that you can have that and I don't want to interfere in that at all because it's your life
+
+--- MESSAGE 20 ---
+Date: 2022-05-29 17:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.73)
+Text: It looks like you guys are having the most fun 🙇🏻‍♂️
+
+--- MESSAGE 21 ---
+Date: 2021-12-11 15:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.73)
+Text: Hahaha yeah I think he is! I'll speak to him when I come back today/tonight
+
+--- MESSAGE 22 ---
+Date: 2022-02-03 18:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.73)
+Text: Joshua looks like he had fun at gymnastics again!
+
+--- MESSAGE 23 ---
+Date: 2021-10-23 11:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.73)
+Keywords: thank,best
+Text: Thank you so much for the food Lulu, you are the best and no one can beat you!! 🙇🏻‍♂️🥰❤️
+
+--- MESSAGE 24 ---
+Date: 2021-11-10 16:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.73)
+Keywords: thank
+Text: Phew thank goodness!! 
+
+--- MESSAGE 25 ---
+Date: 2022-06-23 11:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.73)
+Keywords: please
+Text: Louisa I really don't know what to say to you anymore. This isn't the first time that you have pulled a stunt like this as you have previously told me before you have done this with previous partners. 
+
+I do not want to be with you anymore, as of now our relationship is over as your actions towards me are toxic. I would like to have Lily every second week please as we are equally both her parents. If you are not wanting to do that then that is your choice we will then be going to family court. 

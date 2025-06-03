@@ -1,0 +1,201 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-09-22 07:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: When you put the dress on Lily don't do the buttons. 
+
+--- MESSAGE 2 ---
+Date: 2022-09-22 07:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: She did a massive poo
+
+--- MESSAGE 3 ---
+Date: 2022-09-22 08:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: When are you coming here?
+
+--- MESSAGE 4 ---
+Date: 2022-09-22 08:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Did I say that??
+
+--- MESSAGE 5 ---
+Date: 2022-09-22 08:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Keywords: understand
+Text: I'll never understand you. 
+
+--- MESSAGE 6 ---
+Date: 2022-09-22 09:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: My mum is here and she can only stay till around 4-5
+
+--- MESSAGE 7 ---
+Date: 2022-09-22 12:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I won't be finishing work till 7pm tonight so are you going to be there till then?
+
+--- MESSAGE 8 ---
+Date: 2022-09-22 12:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I did not say this. 
+
+--- MESSAGE 9 ---
+Date: 2022-09-22 13:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What?!
+
+--- MESSAGE 10 ---
+Date: 2022-09-22 13:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I did not say this today.
+
+--- MESSAGE 11 ---
+Date: 2022-09-22 15:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Are you going to be there for Lily tonight?
+
+--- MESSAGE 12 ---
+Date: 2022-09-22 15:07:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Can someone be with you during that time?
+
+--- MESSAGE 13 ---
+Date: 2022-09-22 15:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: From 5pm-7pm?
+
+--- MESSAGE 14 ---
+Date: 2022-09-22 15:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: My mum is with Lily now until 5pm
+
+--- MESSAGE 15 ---
+Date: 2022-09-22 15:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I did not Louisa. 
+
+--- MESSAGE 16 ---
+Date: 2022-09-22 15:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You think you know everything but you don't Louisa. 
+
+--- MESSAGE 17 ---
+Date: 2022-09-22 15:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You do believe in knowledge. You told me to live my life the way you wanted it. 
+
+--- MESSAGE 18 ---
+Date: 2022-09-22 15:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I have to live my life now with my daughter never having any normality in her life. 
+
+--- MESSAGE 19 ---
+Date: 2022-09-22 15:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How dare you!!
+
+--- MESSAGE 20 ---
+Date: 2022-09-22 15:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: If it was the other way around, you wouldn't even let me in the hospital. 
+
+--- MESSAGE 21 ---
+Date: 2022-09-22 15:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: If that was their standards Louisa then they wouldn't have advised me to go to family court. 
+
+--- MESSAGE 22 ---
+Date: 2022-09-22 15:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What do you mean?
+
+--- MESSAGE 23 ---
+Date: 2022-09-22 15:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Then the steps that have been advised must happen. 
+
+--- MESSAGE 24 ---
+Date: 2022-09-22 15:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: It's my choice to have full custody of Lily with you having times and days with Lily too. 
+
+--- MESSAGE 25 ---
+Date: 2022-09-22 15:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: That is not the reason why I'm going to family court. 

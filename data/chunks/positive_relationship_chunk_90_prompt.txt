@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2021-10-26 13:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'll let you know though ❤️
+
+--- MESSAGE 2 ---
+Date: 2021-10-26 13:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmmm 
+
+--- MESSAGE 3 ---
+Date: 2021-10-26 13:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We could start selling the Tiida now then 
+
+--- MESSAGE 4 ---
+Date: 2021-10-26 13:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I mean my car should be here by December now 
+
+--- MESSAGE 5 ---
+Date: 2021-10-26 13:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: *hopefully*
+
+--- MESSAGE 6 ---
+Date: 2021-10-26 13:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: When it's here, I was going to sell it or trade it in 
+
+--- MESSAGE 7 ---
+Date: 2021-10-26 14:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: On my way home now Lulu 🙇🏻‍♂️
+
+--- MESSAGE 8 ---
+Date: 2021-10-26 15:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm home now 🙇🏻‍♂️
+
+--- MESSAGE 9 ---
+Date: 2021-10-27 08:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Already sent my Lulu 🙇🏻‍♂️
+
+--- MESSAGE 10 ---
+Date: 2021-10-27 09:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I sent it to the guy individually 
+
+--- MESSAGE 11 ---
+Date: 2021-10-27 09:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I don't think he's seen it, should I send it in the group chat?
+
+--- MESSAGE 12 ---
+Date: 2021-10-27 11:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 13 ---
+Date: 2021-10-28 11:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What do we make?
+
+--- MESSAGE 14 ---
+Date: 2021-10-28 17:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Done my Lulu 🙇🏻‍♂️
+
+--- MESSAGE 15 ---
+Date: 2021-10-28 18:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: And I will call tomorrow
+
+--- MESSAGE 16 ---
+Date: 2021-10-28 18:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: 🥺
+
+--- MESSAGE 17 ---
+Date: 2021-10-29 16:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: All done Lulu 
+
+--- MESSAGE 18 ---
+Date: 2021-10-31 08:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 19 ---
+Date: 2021-10-31 20:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You did it!! 
+
+--- MESSAGE 20 ---
+Date: 2021-10-31 20:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You figured it out I knew you could!!
+
+--- MESSAGE 21 ---
+Date: 2021-11-02 09:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We are home 
+
+--- MESSAGE 22 ---
+Date: 2021-11-02 09:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We are here 🙇🏻‍♂️
+
+--- MESSAGE 23 ---
+Date: 2021-11-02 11:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Ohh golly gosh 🙇🏻‍♂️
+
+--- MESSAGE 24 ---
+Date: 2021-11-03 15:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 25 ---
+Date: 2021-11-04 08:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼

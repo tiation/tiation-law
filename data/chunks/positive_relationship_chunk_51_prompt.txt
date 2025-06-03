@@ -1,0 +1,204 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-11-16 16:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: You never know the last time you'll see your daughter smile will be.
+
+--- MESSAGE 2 ---
+Date: 2022-11-19 11:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: You're right I don't have any idea because I'm not an unsafe parent like you. 
+
+--- MESSAGE 3 ---
+Date: 2022-11-23 14:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: I am taking Lily to my place if you would like to come see her 
+
+--- MESSAGE 4 ---
+Date: 2022-11-29 13:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: Lily is leaving the hospital tomorrow, I am here at the hospital till around 4:30, so if you would like to see her you can.
+
+--- MESSAGE 5 ---
+Date: 2022-11-30 16:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: If you would like to see Lily you can, she is at my place currently for the night 
+
+--- MESSAGE 6 ---
+Date: 2022-12-06 10:12:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Keywords: thank
+Text: Thank you for clarifying 
+
+--- MESSAGE 7 ---
+Date: 2022-12-06 19:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Keywords: thank
+Text: Thank you 
+
+--- MESSAGE 8 ---
+Date: 2022-12-10 14:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: I will be at my place tonight and tomorrow night with Lily if you would like to see her
+
+--- MESSAGE 9 ---
+Date: 2022-12-29 22:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: I was getting Lily's medicine ready for her 
+
+--- MESSAGE 10 ---
+Date: 2023-01-03 17:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: You know how like normal kids use their bones when they're developing? 
+
+--- MESSAGE 11 ---
+Date: 2023-01-15 09:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: Just like you did on the 26th of July last year.
+
+--- MESSAGE 12 ---
+Date: 2022-09-26 10:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: She is very alert today
+
+--- MESSAGE 13 ---
+Date: 2021-11-10 16:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: Yeah it really is! 
+
+--- MESSAGE 14 ---
+Date: 2021-09-22 16:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: Hmmm okay then lulus I shall!!
+
+--- MESSAGE 15 ---
+Date: 2021-10-04 14:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: Hey Lulu!! That's okay Lily and I are just in the park at Subiaco
+
+--- MESSAGE 16 ---
+Date: 2021-10-26 12:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: Aww that is okay Lulu I'm taking the bus!! 🙇🏻‍♂️
+
+--- MESSAGE 17 ---
+Date: 2022-03-15 12:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: Okay Lou I'll see you soon!! 👦🏻
+
+--- MESSAGE 18 ---
+Date: 2022-01-12 19:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: You're acting as if I didn't get punished. 
+
+--- MESSAGE 19 ---
+Date: 2022-03-11 20:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: I am not jealous Lou hmmmm
+
+--- MESSAGE 20 ---
+Date: 2022-09-17 21:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.36)
+Text: He is actually not getting punished. He's actually got his Dad in his life now and that's what is probably being drilled into him by Michael and his family 
+
+--- MESSAGE 21 ---
+Date: 2022-09-17 21:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.35)
+Keywords: care
+Text: What's changed? Maybe Lily who never got a chance to even walk and is now needing full time care, that's what has changed. 
+
+--- MESSAGE 22 ---
+Date: 2022-05-06 09:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.35)
+Keywords: happy
+Text: I don't want to fight or argue with you anymore Lou. You want me to be nicer to Joshua? Okay I'll do that. You don't want me to be angry ever? Okay I'll do that. I'm tired of this situation with you. I want to be with you and the kids and be happy with you
+
+--- MESSAGE 23 ---
+Date: 2022-01-09 18:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.35)
+Text: I've never wanted this life with you. One where I had to pick and choose sides, you told me from the beginning of our relationship that you loved every human but that was a lie. 
+
+--- MESSAGE 24 ---
+Date: 2022-03-28 12:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.35)
+Text: You shouldn't feel guilty Lou, you are allowed to have days off silly 🙇🏻‍♂️
+
+--- MESSAGE 25 ---
+Date: 2021-09-02 12:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.34)
+Text: Don't worry we are about to have lunch soon 🙇🏻‍♂️🙇🏻‍♂️

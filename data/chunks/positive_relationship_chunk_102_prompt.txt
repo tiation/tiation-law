@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2021-12-25 12:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We are going to visit my mum and grandad 
+
+--- MESSAGE 2 ---
+Date: 2021-12-25 13:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: 2 new cases today in WA
+
+--- MESSAGE 3 ---
+Date: 2021-12-25 15:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I've finished now 
+
+--- MESSAGE 4 ---
+Date: 2021-12-25 15:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Where am I ubering to?
+
+--- MESSAGE 5 ---
+Date: 2021-12-25 15:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Coming now 
+
+--- MESSAGE 6 ---
+Date: 2021-12-26 14:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How do I respond to this?
+
+--- MESSAGE 7 ---
+Date: 2021-12-28 11:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: The name rings a bell, why is that?
+
+--- MESSAGE 8 ---
+Date: 2021-12-28 19:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: https://wagingnonviolence.org/2021/12/the-new-spider-man-movie-is-a-lesson-in-restorative-justice/
+
+--- MESSAGE 9 ---
+Date: 2021-12-31 09:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: https://amp.9news.com.au/article/ec2ce723-28be-4b87-b7ea-463abe3c0b30
+
+--- MESSAGE 10 ---
+Date: 2021-12-31 09:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: This is why covid needs to be contained 
+
+--- MESSAGE 11 ---
+Date: 2021-12-31 09:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 12 ---
+Date: 2021-12-31 12:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Shall we comeback and get you??
+
+--- MESSAGE 13 ---
+Date: 2021-12-31 12:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Aww man 
+
+--- MESSAGE 14 ---
+Date: 2021-12-31 12:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: At least it's just that 
+
+--- MESSAGE 15 ---
+Date: 2021-12-31 12:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmmmm
+
+--- MESSAGE 16 ---
+Date: 2021-12-31 12:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I can't return the hire car anyway 
+
+--- MESSAGE 17 ---
+Date: 2021-12-31 12:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: They had half a day today because of New Years
+
+--- MESSAGE 18 ---
+Date: 2022-01-02 13:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I didn't throw you under any bus. 
+
+--- MESSAGE 19 ---
+Date: 2022-01-05 12:05:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How are you and the kids? 
+
+--- MESSAGE 20 ---
+Date: 2022-01-06 20:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: If that's the way you see me Louisa then that's all I can say. 
+
+--- MESSAGE 21 ---
+Date: 2022-01-07 11:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: When am I allowed to see the kids? 
+
+--- MESSAGE 22 ---
+Date: 2022-01-07 13:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What actions? 
+
+--- MESSAGE 23 ---
+Date: 2022-01-07 13:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Who's the public that you are referring to?
+
+--- MESSAGE 24 ---
+Date: 2022-01-09 17:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Are we starting this routine this coming week then?
+
+--- MESSAGE 25 ---
+Date: 2022-01-09 18:37:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I wasn't talking to her. I haven't spoken to her since you sent that message to her. 

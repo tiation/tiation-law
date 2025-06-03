@@ -1,0 +1,221 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2021-12-16 10:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.27)
+Keywords: well
+Text: Well I'm grabbing this car now and I've put you down as additional driver 
+
+--- MESSAGE 2 ---
+Date: 2022-01-12 16:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.27)
+Text: Oh my god man. 
+
+--- MESSAGE 3 ---
+Date: 2022-01-13 14:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.27)
+Keywords: well
+Text: Well I'm not doing that. 
+
+--- MESSAGE 4 ---
+Date: 2022-01-16 15:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.27)
+Keywords: well
+Text: Well I don't. 
+
+--- MESSAGE 5 ---
+Date: 2022-01-18 16:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.27)
+Keywords: well
+Text: I might as well get it for you while I'm there
+
+--- MESSAGE 6 ---
+Date: 2022-02-15 11:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.27)
+Keywords: well
+Text: Is your car still going well?
+
+--- MESSAGE 7 ---
+Date: 2022-02-16 11:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.27)
+Keywords: well
+Text: Well if you're still there when it's time to get Joshua just let me know
+
+--- MESSAGE 8 ---
+Date: 2022-02-21 13:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.27)
+Keywords: well
+Text: Have you been looking for other jobs as well? 
+
+--- MESSAGE 9 ---
+Date: 2022-03-26 08:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.27)
+Keywords: good
+Text: Of course we can influence her yes, I mean we can show her documentaries on why bring vegan is good and what they do to the animals is bad and then she can make her decision then 
+
+--- MESSAGE 10 ---
+Date: 2022-04-12 10:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.27)
+Keywords: well
+Text: I'm doing well Lou ☺️
+
+--- MESSAGE 11 ---
+Date: 2022-05-09 10:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.27)
+Keywords: well
+Text: Well this is why we have private health insurance my Lou 
+
+--- MESSAGE 12 ---
+Date: 2022-05-22 18:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.27)
+Text: Hmmm it looks like your sister was definitely done wrong by your parents. 
+
+--- MESSAGE 13 ---
+Date: 2022-06-17 11:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.27)
+Keywords: well
+Text: And Lily is doing well 
+
+--- MESSAGE 14 ---
+Date: 2022-06-23 07:38:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.27)
+Keywords: well
+Text: Well why don't you tell me these things before? 
+
+--- MESSAGE 15 ---
+Date: 2022-07-15 20:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.27)
+Keywords: well
+Text: Well you said you're going to court on Tuesday correct or not?
+
+--- MESSAGE 16 ---
+Date: 2022-07-18 09:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.27)
+Keywords: well
+Text: Well what we are talking about now about Matt isn't relevant at all anymore. 
+
+--- MESSAGE 17 ---
+Date: 2022-07-18 15:57:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.27)
+Text: It makes no sense to me. It's like you're trying to put me through a trivia or give me a riddle to solve. 
+
+--- MESSAGE 18 ---
+Date: 2022-07-18 18:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.27)
+Text: In the car park as originally agreed on. 
+
+--- MESSAGE 19 ---
+Date: 2022-07-21 15:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.27)
+Keywords: well
+Text: Well he goes to Michaels now every week 
+
+--- MESSAGE 20 ---
+Date: 2022-08-13 09:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.27)
+Keywords: well
+Text: I need to do my washing as well too
+
+--- MESSAGE 21 ---
+Date: 2022-08-14 10:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.27)
+Keywords: well
+Text: Well that's very uplifting Lou 
+
+--- MESSAGE 22 ---
+Date: 2022-08-20 11:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.27)
+Keywords: well
+Text: I'm just on the toilet again Lou as well 
+
+--- MESSAGE 23 ---
+Date: 2022-08-27 07:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.27)
+Keywords: well
+Text: Well where is this service in WA? 
+
+--- MESSAGE 24 ---
+Date: 2022-09-03 18:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.27)
+Keywords: well
+Text: Well where are you going to sleep Lou?
+
+--- MESSAGE 25 ---
+Date: 2022-09-17 21:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.27)
+Keywords: well
+Text: And I believe Michael has probably made that choice as well and he has every right to as he is Joshua's Dad 

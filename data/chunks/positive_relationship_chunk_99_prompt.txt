@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2021-12-10 17:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ?
+
+--- MESSAGE 2 ---
+Date: 2021-12-11 11:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: That's more than reasonable in my opinion 
+
+--- MESSAGE 3 ---
+Date: 2021-12-11 16:17:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Lou?
+
+--- MESSAGE 4 ---
+Date: 2021-12-11 16:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: 🙇🏻‍♂️
+
+--- MESSAGE 5 ---
+Date: 2021-12-11 18:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm just waiting in the car park area 
+
+--- MESSAGE 6 ---
+Date: 2021-12-14 17:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I've finished rehearsals now 
+
+--- MESSAGE 7 ---
+Date: 2021-12-15 14:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We might be finishing early today at around 4
+
+--- MESSAGE 8 ---
+Date: 2021-12-15 14:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmm I will let you know Lulu 
+
+--- MESSAGE 9 ---
+Date: 2021-12-15 14:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Still waiting to see if we are finishing early
+
+--- MESSAGE 10 ---
+Date: 2021-12-15 14:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Spider-Man and Dune are both out 
+
+--- MESSAGE 11 ---
+Date: 2021-12-15 16:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: But you didn't lie Lou 
+
+--- MESSAGE 12 ---
+Date: 2021-12-15 16:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We've finished now, on my way home 
+
+--- MESSAGE 13 ---
+Date: 2021-12-16 10:08:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Fucking stupid*
+
+--- MESSAGE 14 ---
+Date: 2021-12-16 10:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Have you contacted the insurance yet? 
+
+--- MESSAGE 15 ---
+Date: 2021-12-16 10:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: You can't say that I was driving 
+
+--- MESSAGE 16 ---
+Date: 2021-12-16 10:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Because it's a manual and I don't have a manual license remember?
+
+--- MESSAGE 17 ---
+Date: 2021-12-16 10:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: So that we have something to drive for the next week
+
+--- MESSAGE 18 ---
+Date: 2021-12-16 10:35:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What does your insurance cover?
+
+--- MESSAGE 19 ---
+Date: 2021-12-16 10:45:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: We can use that after this car hire expires 
+
+--- MESSAGE 20 ---
+Date: 2021-12-16 10:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm not letting you go without a car
+
+--- MESSAGE 21 ---
+Date: 2021-12-16 12:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Or not
+
+--- MESSAGE 22 ---
+Date: 2021-12-16 13:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How many kms etc?
+
+--- MESSAGE 23 ---
+Date: 2021-12-16 13:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Service history and that
+
+--- MESSAGE 24 ---
+Date: 2021-12-16 13:31:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: How many kms did it say it had done 
+
+--- MESSAGE 25 ---
+Date: 2021-12-16 13:46:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Did it say it had log books and that too?

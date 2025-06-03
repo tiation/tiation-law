@@ -1,0 +1,201 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-03-13 16:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I can't tie my shoe laces 
+
+--- MESSAGE 2 ---
+Date: 2022-03-13 16:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Wait I did it!! 😤
+
+--- MESSAGE 3 ---
+Date: 2022-03-13 16:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ✊🏿
+
+--- MESSAGE 4 ---
+Date: 2022-03-13 16:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 5 ---
+Date: 2022-03-13 16:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmmmmm 🙇🏻‍♂️
+
+--- MESSAGE 6 ---
+Date: 2022-03-13 16:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I don't believe in the gods
+
+--- MESSAGE 7 ---
+Date: 2022-03-13 16:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmmmmm I will think about this 
+
+--- MESSAGE 8 ---
+Date: 2022-03-13 18:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 9 ---
+Date: 2022-03-13 18:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: She is very aware with her eyes right?
+
+--- MESSAGE 10 ---
+Date: 2022-03-13 18:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 11 ---
+Date: 2022-03-13 19:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 12 ---
+Date: 2022-03-13 20:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Why is that Lou?
+
+--- MESSAGE 13 ---
+Date: 2022-03-13 20:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Force*
+
+--- MESSAGE 14 ---
+Date: 2022-03-13 20:48:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Keywords: together
+Text: We should watch it together Lou 
+
+--- MESSAGE 15 ---
+Date: 2022-03-14 07:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Two beans 
+
+--- MESSAGE 16 ---
+Date: 2022-03-14 07:47:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: A big bean and a little bean
+
+--- MESSAGE 17 ---
+Date: 2022-03-14 07:49:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Because of covid so they will be recorded only and put online to watch 
+
+--- MESSAGE 18 ---
+Date: 2022-03-14 08:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: That's what I'm doing Lou!! 👦🏻
+
+--- MESSAGE 19 ---
+Date: 2022-03-14 08:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm doing my assignment where it's basically me writing my nursing resume 
+
+--- MESSAGE 20 ---
+Date: 2022-03-14 09:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Lou if you are wondering where your food bank card is, I have it in my wallet 🙇🏻‍♂️
+
+--- MESSAGE 21 ---
+Date: 2022-03-14 11:02:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I have my other uni class at 2pm today to talk about medical pluralism 🙇🏻‍♂️
+
+--- MESSAGE 22 ---
+Date: 2022-03-14 11:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I think it's from the jalapeño poppers I had for a snack last night 🙇🏻‍♂️😰
+
+--- MESSAGE 23 ---
+Date: 2022-03-14 11:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmmm it cost $12 🙇🏻‍♂️
+
+--- MESSAGE 24 ---
+Date: 2022-03-14 11:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Golly gosh Lou, we would have to drive really fast down south away from the whole area
+
+--- MESSAGE 25 ---
+Date: 2022-03-14 11:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Awwwwwwww I guess you are right Lou 🙇🏻‍♂️

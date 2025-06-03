@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-07-23 06:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: I don't even know what you want from me Louisa. I'm just done with it. 
+
+--- MESSAGE 2 ---
+Date: 2022-07-25 11:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: The only time I want you and I to contact is when it is about Lily. 
+
+--- MESSAGE 3 ---
+Date: 2022-07-27 07:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Do you want a coffee Lou?
+
+--- MESSAGE 4 ---
+Date: 2022-07-28 22:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Did you want the chips and gravy? 
+
+--- MESSAGE 5 ---
+Date: 2022-07-28 22:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: In case you want to snack on something 
+
+--- MESSAGE 6 ---
+Date: 2022-07-30 09:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Do you want a cheese and tomato croissant or ham and cheese toaster?
+
+--- MESSAGE 7 ---
+Date: 2022-08-02 07:58:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Do you want a coffee or anything?
+
+--- MESSAGE 8 ---
+Date: 2022-08-06 09:19:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Did you want anything?
+
+--- MESSAGE 9 ---
+Date: 2022-08-07 09:52:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Do you want anything to eat/drink?
+
+--- MESSAGE 10 ---
+Date: 2022-08-08 08:53:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Did you want anything?
+
+--- MESSAGE 11 ---
+Date: 2022-08-09 08:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Did you want me to get you anything?
+
+--- MESSAGE 12 ---
+Date: 2022-08-09 13:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Is there anything you want me to get you?
+
+--- MESSAGE 13 ---
+Date: 2022-08-09 14:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Do you want me to get you a toothbrush?
+
+--- MESSAGE 14 ---
+Date: 2022-08-10 09:03:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Did you want me to get you anything?
+
+--- MESSAGE 15 ---
+Date: 2022-08-10 09:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Did you want one?
+
+--- MESSAGE 16 ---
+Date: 2022-08-11 08:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Do you want anything?
+
+--- MESSAGE 17 ---
+Date: 2022-08-11 08:59:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Do you want a coffee?
+
+--- MESSAGE 18 ---
+Date: 2022-08-16 09:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Do you want a coffee?
+
+--- MESSAGE 19 ---
+Date: 2022-08-19 09:42:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Do you want a coffee?
+
+--- MESSAGE 20 ---
+Date: 2022-08-20 21:43:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Do you want me to message my mum for you then?
+
+--- MESSAGE 21 ---
+Date: 2022-08-23 11:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Do you want any food or not?
+
+--- MESSAGE 22 ---
+Date: 2022-09-07 07:01:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: I'm awake if you want to come 
+
+--- MESSAGE 23 ---
+Date: 2022-09-14 17:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: The ones here at the hospital and I do want to know what Brooke is deciding 
+
+--- MESSAGE 24 ---
+Date: 2022-09-14 19:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: Is that what you want?
+
+--- MESSAGE 25 ---
+Date: 2022-09-14 19:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.08)
+Text: You can come here earlier if you want 

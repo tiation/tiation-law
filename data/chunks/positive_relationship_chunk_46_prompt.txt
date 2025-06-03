@@ -1,0 +1,207 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2021-11-28 10:55:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.39)
+Keywords: please
+Text: Am I allowed to go to the movies tonight please?? 🙇🏻‍♂️
+
+--- MESSAGE 2 ---
+Date: 2022-12-05 11:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.39)
+Text: Are you sure 1.35 is enough??
+
+--- MESSAGE 3 ---
+Date: 2022-03-13 16:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.39)
+Text: But it's about God 
+
+--- MESSAGE 4 ---
+Date: 2022-11-19 12:13:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.39)
+Text: Do you know how many people have said that what happened to Lily should never had happened as everyone knows you don't leave an unsupervised baby with a running bath going at the same time. Like every fucking normal parent knows that. 
+
+--- MESSAGE 5 ---
+Date: 2022-07-23 12:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.39)
+Text: I won't lie Louisa yes you are a beautiful person. 
+
+--- MESSAGE 6 ---
+Date: 2021-10-17 18:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.39)
+Keywords: good
+Text: That's really good to see but why is he using his hands?? Where is his fork?
+
+--- MESSAGE 7 ---
+Date: 2022-09-22 13:09:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.39)
+Text: My apologies I honestly don't remember feeling that way or sending that 
+
+--- MESSAGE 8 ---
+Date: 2022-09-17 22:16:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.39)
+Text: Not her fault?? 
+
+--- MESSAGE 9 ---
+Date: 2021-11-28 09:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.38)
+Keywords: best
+Text: I'm just doing my best and what's right for not just me but for everyone else. 
+
+--- MESSAGE 10 ---
+Date: 2022-01-09 17:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.38)
+Text: I did apologise to you Louisa 
+
+--- MESSAGE 11 ---
+Date: 2022-01-12 15:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.38)
+Keywords: support
+Text: I have been wanting to support you this whole time but you refuse my support. I sent you money on Monday, I've paid for the rent today, I've offered to buy Joshua's school stuff
+
+--- MESSAGE 12 ---
+Date: 2022-01-12 16:00:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.38)
+Text: I walk on eggshells too hoping I won't get kicked out or told to leave the house again 
+
+--- MESSAGE 13 ---
+Date: 2022-01-14 06:54:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.38)
+Keywords: please
+Text: Send it via email please, only if you want to 
+
+--- MESSAGE 14 ---
+Date: 2022-03-03 20:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.38)
+Text: Haha no I will be fine Lou 
+
+--- MESSAGE 15 ---
+Date: 2022-03-28 17:22:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.38)
+Text: Awwwww she got kissed by the dog 😂😂😂
+
+--- MESSAGE 16 ---
+Date: 2022-04-11 16:18:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.38)
+Keywords: please
+Text: I want to talk to now please 🙇🏻‍♂️
+
+--- MESSAGE 17 ---
+Date: 2022-04-20 15:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.38)
+Text: Hmmmm I'm getting stronger 
+
+--- MESSAGE 18 ---
+Date: 2022-05-06 10:11:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.38)
+Text: I wanted to talk with you and resolve the issue before I left
+
+--- MESSAGE 19 ---
+Date: 2022-06-13 14:41:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.38)
+Text: Ohh no my darling 😰
+
+--- MESSAGE 20 ---
+Date: 2022-07-01 10:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.38)
+Keywords: please
+Text: I want to see my daughter today please
+
+--- MESSAGE 21 ---
+Date: 2022-07-03 11:26:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.38)
+Text: I have sent this to you because I am not wanting to be potentially held accountable for it as Joshua and I have had no rough play or any sort of physical play at all today. I'm assuming this is from his martial arts class where Joshua has told me they practice headlocks with each other.
+
+--- MESSAGE 22 ---
+Date: 2022-07-29 14:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.38)
+Text: I'll be up soon I had to get another bloody RAT test done even though I'm pretty sure I did it less than 24 hours ago 
+
+--- MESSAGE 23 ---
+Date: 2022-08-10 20:56:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.38)
+Text: I'm still alive for now 
+
+--- MESSAGE 24 ---
+Date: 2022-09-17 21:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.38)
+Text: Accept it and move on
+
+--- MESSAGE 25 ---
+Date: 2022-09-17 21:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: positive (score: 0.38)
+Text: That's right Louisa and you have to accept that. 

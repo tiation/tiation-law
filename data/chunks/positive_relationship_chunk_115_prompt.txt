@@ -1,0 +1,200 @@
+
+You are analyzing text messages for evidence that could support a legal defense case.
+Focus specifically on identifying evidence of Positive Relationships.
+
+Look for messages that demonstrate:
+- Evidence of love
+- Evidence of care
+- Evidence of trust
+- Evidence of respect
+- Evidence of support
+- Evidence of help
+- Evidence of appreciate
+- Evidence of thank
+- Evidence of sorry
+- Evidence of good
+
+For each message, provide:
+1. A brief assessment of how it shows Positive Relationships
+2. Key phrases or words that serve as evidence
+3. How this could support the defense case
+
+IMPORTANT: Focus ONLY on Positive Relationships in your analysis.
+
+
+Here are the messages to analyze:
+
+--- MESSAGE 1 ---
+Date: 2022-02-24 16:50:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Must be running late or something 
+
+--- MESSAGE 2 ---
+Date: 2022-02-24 17:29:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hey Lou I'm just going to take Joshua with me to the chiro 
+
+--- MESSAGE 3 ---
+Date: 2022-02-25 17:25:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Today and tonight is meant to be time with me and Lily.
+
+--- MESSAGE 4 ---
+Date: 2022-02-25 18:10:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: In 30 minutes or so I'm driving at the moment 
+
+--- MESSAGE 5 ---
+Date: 2022-02-25 19:33:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Why have you not been claiming the psychology appointments on the private health insurance? Send me the invoices and I'll sort it out and then you can get money back from it. 
+
+--- MESSAGE 6 ---
+Date: 2022-02-25 19:36:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I'm not going to need it as I'll be a cripple anyway 
+
+--- MESSAGE 7 ---
+Date: 2022-02-26 10:23:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 8 ---
+Date: 2022-02-26 10:51:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 9 ---
+Date: 2022-02-26 21:04:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I just can't believe that though Lou 
+
+--- MESSAGE 10 ---
+Date: 2022-02-26 21:15:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What time am I coming tomorrow?
+
+--- MESSAGE 11 ---
+Date: 2022-02-26 21:20:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I don't have religious stories though. I'll have to do research on it first. 
+
+--- MESSAGE 12 ---
+Date: 2022-02-27 15:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Psychology is 2 months and major dental is 1 year
+
+--- MESSAGE 13 ---
+Date: 2022-02-27 15:32:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: But minor dental is immediate
+
+--- MESSAGE 14 ---
+Date: 2022-02-27 17:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Okay**
+
+--- MESSAGE 15 ---
+Date: 2022-02-27 18:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I can have a light breakfast before 7:00am and then nothing after that 🙇🏻‍♂️
+
+--- MESSAGE 16 ---
+Date: 2022-02-27 18:39:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: ￼
+
+--- MESSAGE 17 ---
+Date: 2022-02-27 20:24:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: That's what I need to get 
+
+--- MESSAGE 18 ---
+Date: 2022-02-27 20:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: What is Lily doing now?
+
+--- MESSAGE 19 ---
+Date: 2022-02-27 20:28:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Ohh my gosh he needs to go to sleep 
+
+--- MESSAGE 20 ---
+Date: 2022-02-27 20:30:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: I know you are Lou 
+
+--- MESSAGE 21 ---
+Date: 2022-02-27 20:34:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: My last sleep with two arms 🙇🏻‍♂️ goodnight Lou
+
+--- MESSAGE 22 ---
+Date: 2022-02-28 07:14:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Aww which one?
+
+--- MESSAGE 23 ---
+Date: 2022-02-28 07:21:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Hmmmm I guess you are right 
+
+--- MESSAGE 24 ---
+Date: 2022-02-28 07:27:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Am I allowed to drink water?
+
+--- MESSAGE 25 ---
+Date: 2022-02-28 07:40:00
+From: 61488180171
+Direction: incoming
+Sentiment: neutral (score: 0.00)
+Text: Lou?
