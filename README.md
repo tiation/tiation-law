@@ -1,6 +1,6 @@
 There comes a moment in every courtroom, as in every civilization, when conscience and reason must clasp hands.  We stand at such a threshold in *Crown v Tia*.  The prosecution’s charge—*that a mother, through callous indifference or secret malice, delivered her own child to death*—rings like a discordant note against both the harmonies of physics and the deep rhythm of maternal attachment.
 
-![image](https://github.com/tiation/Law/blob/main/nft_2.mp4)
+![video](https://github.com/tiation/Law/blob/main/nft_2.mp4)
 
 Like Martin Luther King Jr., we refuse to see tragedy as destiny.  We affirm that the arc of evidence, bent by honest scrutiny, curves toward exoneration.  And like Albert Einstein, we ground that moral arc in measurable reality: seconds on a 000 call log, litres per minute through a drain, diffusion of oxygen in an anoxic brain.  These data speak with quiet authority, dispersing the fog of rumour that has branded Tia a murderer without a single forensic footprint to sustain the claim.
 
