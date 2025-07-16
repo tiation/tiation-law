@@ -1,5 +1,4 @@
 **Independent Psychological Commentary**
-*Prepared by: \[Name], PhD, MPsych(Clin), MAPS, Forensic & Clinical Psychologist*
 *Date: 29 May 2025*
 *Jurisdiction: Western Australia*
 
