@@ -7,7 +7,9 @@
 
 ## About
 
-This repository contains comprehensive legal defense documentation for *Crown v Tia*, a criminal negligence case involving the accidental drowning of a child. The documentation presents a multi-faceted defense strategy combining scientific evidence, legal precedent, and family dynamics analysis to establish the mother's innocence.
+![Case Overview](https://github.com/tiation/Law/blob/main/IMG_2710.jpeg)
+
+This repository contains comprehensive legal defense documentation for *Crown v Tia*, a criminal negligence case involving the accidental drowning of a child. The documentation presents a multi-faceted defense strategy combining scientific evidence, legal precedent, and family dynamics analysis to establish the mother's innocence. For a detailed view, visit our [GitHub Pages site](https://tiation.github.io/Law).
 
 ![Case Overview](https://github.com/tiation/Law/blob/main/JoshuaLily.jpg)
 

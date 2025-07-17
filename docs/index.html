@@ -3,33 +3,288 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Law Defense Documentation</title>
+    <title>Law Defense Documentation - Enterprise Legal Analysis</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            background-color: #f8f9fa;
+        }
+        .hero {
+            background: linear-gradient(135deg, #00d4ff 0%, #0099cc 50%, #0066ff 100%);
+            color: white;
+            padding: 4rem 0;
+            margin-bottom: 3rem;
+            position: relative;
+            overflow: hidden;
+        }
+        .hero::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: linear-gradient(45deg, rgba(0,212,255,0.1) 0%, rgba(0,255,255,0.2) 100%);
+            animation: pulse 3s ease-in-out infinite alternate;
+        }
+        @keyframes pulse {
+            0% { opacity: 0.3; }
+            100% { opacity: 0.7; }
+        }
+        .card {
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+            border: none;
+            margin-bottom: 2rem;
+            border-radius: 12px;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+        }
+        .feature-icon {
+            color: #00d4ff;
+            font-size: 3rem;
+            margin-bottom: 1rem;
+        }
+        .btn-primary {
+            background: linear-gradient(135deg, #00d4ff 0%, #0099cc 100%);
+            border: none;
+            border-radius: 25px;
+            padding: 0.75rem 2rem;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 16px rgba(0, 153, 204, 0.3);
+        }
+        .section-title {
+            color: #00d4ff;
+            border-bottom: 3px solid #00d4ff;
+            padding-bottom: 0.5rem;
+            margin-bottom: 2rem;
+        }
+        .stats-card {
+            background: linear-gradient(135deg, #00d4ff 0%, #0099cc 100%);
+            color: white;
+            border-radius: 12px;
+            padding: 2rem;
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+        .stats-number {
+            font-size: 3rem;
+            font-weight: bold;
+            margin-bottom: 0.5rem;
+        }
+        .navbar {
+            background: linear-gradient(135deg, #00d4ff 0%, #0099cc 100%);
+            padding: 1rem 0;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+        .navbar-brand {
+            font-weight: 700;
+            color: white !important;
+        }
+        .nav-link {
+            color: white !important;
+            font-weight: 500;
+        }
+        .nav-link:hover {
+            color: #e0f7ff !important;
+        }
+        .enterprise-badge {
+            background: linear-gradient(135deg, #ff6b6b 0%, #ee5a24 100%);
+            color: white;
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            font-size: 0.875rem;
+            font-weight: 600;
+            margin-left: 1rem;
+        }
+        .timeline-item {
+            border-left: 3px solid #00d4ff;
+            padding-left: 2rem;
+            margin-bottom: 2rem;
+            position: relative;
+        }
+        .timeline-item::before {
+            content: '';
+            position: absolute;
+            left: -8px;
+            top: 0;
+            width: 16px;
+            height: 16px;
+            background: #00d4ff;
+            border-radius: 50%;
+        }
+    </style>
 </head>
 <body>
-    <div class="container">
-        <header class="mt-5">
-            <h1>Law Defense Documentation</h1>
-            <p class="lead">Welcome to the official documentation site for the defense in <em>Crown v Tia</em>.</p>
-        </header>
-        <main>
-            <section id="about" class="mt-4">
-                <h2>About</h2>
-                <p>This repository contains comprehensive legal defense documentation for <em>Crown v Tia</em>, a criminal negligence case involving the accidental drowning of a child. Our efforts focus on establishing the mother's innocence using scientific evidence, legal precedents, and family dynamics.</p>
-            </section>
-            <section id="key-arguments" class="mt-4">
-                <h2>Key Defense Arguments</h2>
-                <ul>
-                    <li><strong>Scientific Evidence</strong>: Timelines and analyses explaining the evidence.</li>
-                    <li><strong>Legal Precedent</strong>: Arguments regarding the standard of gross negligence.</li>
-                    <li><strong>Family Dynamics</strong>: Psychological analysis of familial patterns.</li>
+    <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
+        <div class="container">
+            <a class="navbar-brand" href="#">Law Defense Documentation</a>
+            <span class="enterprise-badge">Enterprise Grade</span>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#about">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#evidence">Evidence</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#documentation">Documentation</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://github.com/tiation/Law" target="_blank">GitHub</a>
+                    </li>
                 </ul>
-            </section>
-        </main>
-        <footer class="mt-5 mb-3 text-muted">
-            <p>&copy; 2025 Law Defense Team</p>
-        </footer>
+            </div>
+        </div>
+    </nav>
+
+    <div class="hero" style="margin-top: 76px;">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-8">
+                    <h1 class="display-3 font-weight-bold">Law Defense Documentation</h1>
+                    <p class="lead mb-4">Enterprise-grade legal defense documentation for <em>Crown v Tia</em> - Comprehensive case analysis with scientific evidence, legal precedent, and expert testimony</p>
+                    <a href="https://github.com/tiation/Law" class="btn btn-primary btn-lg mr-3">View Repository</a>
+                    <a href="#documentation" class="btn btn-outline-light btn-lg">Read Documentation</a>
+                </div>
+                <div class="col-lg-4">
+                    <div class="stats-card">
+                        <div class="stats-number">60-90</div>
+                        <div>Seconds Timeline</div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
+
+    <div class="container">
+        <section id="about" class="mb-5">
+            <h2 class="section-title">About This Case</h2>
+            <div class="row">
+                <div class="col-lg-8">
+                    <div class="card">
+                        <div class="card-body">
+                            <h3 class="card-title">Crown v Tia - Criminal Negligence Defense</h3>
+                            <p class="card-text">This repository contains comprehensive legal defense documentation for <em>Crown v Tia</em>, a criminal negligence case involving the accidental drowning of a child. The documentation presents a multi-faceted defense strategy combining scientific evidence, legal precedent, and family dynamics analysis to establish the mother's innocence.</p>
+                            <p class="card-text">Our enterprise-grade documentation includes verified timelines, expert testimony matrices, comparative case law analysis, and comprehensive evidence cataloging - all designed to provide a robust defense framework.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="card">
+                        <div class="card-body text-center">
+                            <i class="fas fa-balance-scale feature-icon"></i>
+                            <h5>Case Status</h5>
+                            <p class="text-success font-weight-bold">Active Defense</p>
+                            <hr>
+                            <p class="small text-muted">Comprehensive defense strategy with multi-disciplinary expert analysis</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="evidence" class="mb-5">
+            <h2 class="section-title">Key Defense Evidence</h2>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="card">
+                        <div class="card-body text-center">
+                            <i class="fas fa-clock feature-icon"></i>
+                            <h5>Timeline Verification</h5>
+                            <p>Independently verified evidence narrows the window of unsupervised risk to less than 90 seconds</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card">
+                        <div class="card-body text-center">
+                            <i class="fas fa-flask feature-icon"></i>
+                            <h5>Scientific Analysis</h5>
+                            <p>Hydrodynamic analysis explaining the "empty bathtub" and "dry hair" observations</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card">
+                        <div class="card-body text-center">
+                            <i class="fas fa-user-md feature-icon"></i>
+                            <h5>Medical Evidence</h5>
+                            <p>Forensic findings consistent with accidental submersion, not intentional harm</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="documentation" class="mb-5">
+            <h2 class="section-title">Documentation Structure</h2>
+            <div class="row">
+                <div class="col-lg-8">
+                    <div class="timeline-item">
+                        <h5>Comprehensive Case Summary</h5>
+                        <p>Overview of key facts and defense strategy with detailed legal framework analysis</p>
+                    </div>
+                    <div class="timeline-item">
+                        <h5>Evidence Catalog</h5>
+                        <p>Detailed records of physical, timeline, and expert evidence with verification sources</p>
+                    </div>
+                    <div class="timeline-item">
+                        <h5>Legal Memorandum</h5>
+                        <p>Comprehensive legal analysis, offense elements, and precedent comparisons</p>
+                    </div>
+                    <div class="timeline-item">
+                        <h5>Expert Testimony Matrix</h5>
+                        <p>Four pillars of technical truth with credentialed witnesses and anticipated opinions</p>
+                    </div>
+                    <div class="timeline-item">
+                        <h5>Family Dynamics Analysis</h5>
+                        <p>Psychological exploration of scapegoat mechanisms and generational patterns</p>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <h6>Quick Access</h6>
+                            <a href="https://github.com/tiation/Law" class="btn btn-primary btn-sm btn-block mb-2">View on GitHub</a>
+                            <a href="https://github.com/tiation/Law/blob/main/README.md" class="btn btn-outline-primary btn-sm btn-block mb-2">Full README</a>
+                            <a href="https://tiation.github.io/Law" class="btn btn-outline-primary btn-sm btn-block">GitHub Pages</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <footer class="bg-dark text-white py-4 mt-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8">
+                    <p>&copy; 2025 Law Defense Team | Enterprise Documentation Repository</p>
+                </div>
+                <div class="col-md-4 text-md-right">
+                    <a href="https://github.com/tiation/Law" class="text-white mr-3"><i class="fab fa-github"></i> GitHub</a>
+                    <a href="https://tiation.github.io/Law" class="text-white"><i class="fas fa-external-link-alt"></i> Pages</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
 

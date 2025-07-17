@@ -1,5 +1,5 @@
 title: "Law Defense Documentation"
-description: "Comprehensive legal defense documentation for Crown v Tia"
+description: "Enterprise-grade legal defense documentation for Crown v Tia - Comprehensive case analysis with scientific evidence, legal precedent, and expert testimony"
 author: "Tia Astor"
 email: "tia@example.com"
 baseurl: "/Law"
@@ -23,3 +23,31 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - "*.orig"
+  - "*.pdf"
+  - "*.jpeg"
+  - "*.jpg"
+  - "*.png"
+  - "*.mp4"
+  - "*.txt"
+  - "Messages/"
+  - "Photos/"
+  - "Precedents/"
+  - "Endorsements/"
+  - "Public-Advocacy/"
+  - "brief/"
+  - "book_attachment_theory/"
+  - "docs/"
+
+github:
+  repository_url: https://github.com/tiation/Law
+  
+seo:
+  name: "Law Defense Documentation"
+  description: "Enterprise-grade legal defense documentation repository"
+  author: "Tia Astor"
+  
+navigation:
+  - title: "GitHub Repository"
+    url: "https://github.com/tiation/Law"
+  - title: "Documentation"
+    url: "https://github.com/tiation/Law/blob/main/README.md"
