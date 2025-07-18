@@ -3,22 +3,50 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Law Defense Documentation</title>
+    <title>Law Defense Documentation - Crown v Tia</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <style>
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            line-height: 1.6;
-            background-color: #f8f9fa;
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
         }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            background: linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 50%, #0a0a0a 100%);
+            color: #e0e0e0;
+            min-height: 100vh;
+            position: relative;
+            overflow-x: hidden;
+        }
+        
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: radial-gradient(circle at 20% 80%, rgba(0, 255, 255, 0.1) 0%, transparent 50%),
+                        radial-gradient(circle at 80% 20%, rgba(255, 0, 255, 0.1) 0%, transparent 50%);
+            pointer-events: none;
+            z-index: -1;
+        }
+        
         .hero {
-            background: linear-gradient(135deg, #00d4ff 0%, #0099cc 50%, #0066ff 100%);
+            background: linear-gradient(135deg, #000 0%, #1a1a1a 50%, #000 100%);
             color: white;
-            padding: 4rem 0;
-            margin-bottom: 2rem;
+            padding: 6rem 0;
+            margin-bottom: 3rem;
             position: relative;
             overflow: hidden;
+            border-bottom: 3px solid;
+            border-image: linear-gradient(90deg, #00ffff, #ff00ff, #00ffff) 1;
         }
+        
         .hero::before {
             content: '';
             position: absolute;
@@ -26,86 +54,209 @@
             left: 0;
             right: 0;
             bottom: 0;
-            background: linear-gradient(45deg, rgba(0,212,255,0.1) 0%, rgba(0,255,255,0.2) 100%);
-            animation: pulse 3s ease-in-out infinite alternate;
+            background: linear-gradient(45deg, rgba(0,255,255,0.1) 0%, rgba(255,0,255,0.1) 100%);
+            animation: neonPulse 4s ease-in-out infinite alternate;
         }
-        @keyframes pulse {
+        
+        @keyframes neonPulse {
             0% { opacity: 0.3; }
-            100% { opacity: 0.7; }
+            100% { opacity: 0.8; }
         }
-        .card {
-            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
-            border: none;
-            margin-bottom: 1.5rem;
-            border-radius: 12px;
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-        }
-        .card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
-        }
-        .badge-custom {
-            background: linear-gradient(135deg, #00d4ff 0%, #0099cc 100%);
-            color: white;
-            padding: 0.5rem 1rem;
-            border-radius: 20px;
-            font-size: 0.875rem;
-            border: 2px solid rgba(255,255,255,0.3);
-        }
-        .btn-primary {
-            background: linear-gradient(135deg, #00d4ff 0%, #0099cc 100%);
-            border: none;
-            border-radius: 25px;
-            padding: 0.75rem 1.5rem;
-            font-weight: 500;
-            transition: all 0.3s ease;
-        }
-        .btn-primary:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 6px 12px rgba(0, 153, 204, 0.3);
-        }
-        .btn-outline-primary {
-            border: 2px solid #00d4ff;
-            color: #00d4ff;
-            border-radius: 25px;
-            padding: 0.75rem 1.5rem;
-            font-weight: 500;
-            transition: all 0.3s ease;
-        }
-        .btn-outline-primary:hover {
-            background: linear-gradient(135deg, #00d4ff 0%, #0099cc 100%);
-            color: white;
-            transform: translateY(-2px);
-        }
-        .navbar {
-            background: linear-gradient(135deg, #00d4ff 0%, #0099cc 100%);
-            padding: 1rem 0;
-        }
-        .text-cyan {
-            color: #00d4ff;
-        }
-        .glow-text {
-            text-shadow: 0 0 10px rgba(0, 212, 255, 0.5);
-        }
-        .enterprise-header {
-            background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
-            padding: 2rem 0;
-            margin-bottom: 2rem;
-            border-bottom: 3px solid #00d4ff;
-        }
-        .feature-icon {
-            color: #00d4ff;
-            font-size: 2rem;
+        
+        .hero-title {
+            font-size: 4rem;
+            font-weight: 900;
+            text-shadow: 0 0 20px rgba(0, 255, 255, 0.8),
+                         0 0 40px rgba(0, 255, 255, 0.6),
+                         0 0 60px rgba(0, 255, 255, 0.4);
             margin-bottom: 1rem;
+            animation: titleGlow 3s ease-in-out infinite alternate;
+        }
+        
+        @keyframes titleGlow {
+            0% { text-shadow: 0 0 20px rgba(0, 255, 255, 0.8), 0 0 40px rgba(0, 255, 255, 0.6), 0 0 60px rgba(0, 255, 255, 0.4); }
+            100% { text-shadow: 0 0 30px rgba(255, 0, 255, 0.8), 0 0 50px rgba(255, 0, 255, 0.6), 0 0 70px rgba(255, 0, 255, 0.4); }
+        }
+        
+        .hero-subtitle {
+            font-size: 1.8rem;
+            margin-bottom: 2rem;
+            text-shadow: 0 0 10px rgba(0, 255, 255, 0.5);
+        }
+        
+        .card {
+            background: rgba(20, 20, 20, 0.9);
+            border: 1px solid rgba(0, 255, 255, 0.3);
+            border-radius: 15px;
+            margin-bottom: 2rem;
+            transition: all 0.3s ease;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
+            backdrop-filter: blur(10px);
+        }
+        
+        .card:hover {
+            transform: translateY(-10px) scale(1.02);
+            border-color: rgba(0, 255, 255, 0.8);
+            box-shadow: 0 15px 50px rgba(0, 255, 255, 0.2),
+                        0 0 30px rgba(0, 255, 255, 0.1) inset;
+        }
+        
+        .card-title {
+            color: #00ffff;
+            font-weight: 700;
+            text-shadow: 0 0 10px rgba(0, 255, 255, 0.5);
+            margin-bottom: 1.5rem;
+        }
+        
+        .card-text {
+            color: #e0e0e0;
+            line-height: 1.8;
+        }
+        
+        .badge-custom {
+            background: linear-gradient(135deg, #00ffff 0%, #ff00ff 100%);
+            color: white;
+            padding: 0.8rem 1.5rem;
+            border-radius: 25px;
+            font-size: 1rem;
+            font-weight: 600;
+            border: 2px solid rgba(255,255,255,0.3);
+            text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+            animation: badgeGlow 2s ease-in-out infinite alternate;
+        }
+        
+        @keyframes badgeGlow {
+            0% { box-shadow: 0 0 10px rgba(0, 255, 255, 0.5); }
+            100% { box-shadow: 0 0 20px rgba(255, 0, 255, 0.5); }
+        }
+        
+        .btn-primary {
+            background: linear-gradient(135deg, #00ffff 0%, #0099cc 100%);
+            border: none;
+            border-radius: 25px;
+            padding: 1rem 2rem;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        
+        .btn-primary:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 30px rgba(0, 255, 255, 0.4);
+            background: linear-gradient(135deg, #ff00ff 0%, #cc0099 100%);
+        }
+        
+        .btn-outline-primary {
+            border: 2px solid #00ffff;
+            color: #00ffff;
+            border-radius: 25px;
+            padding: 1rem 2rem;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            background: transparent;
+        }
+        
+        .btn-outline-primary:hover {
+            background: linear-gradient(135deg, #00ffff 0%, #ff00ff 100%);
+            color: white;
+            transform: translateY(-3px);
+            box-shadow: 0 10px 30px rgba(0, 255, 255, 0.4);
+        }
+        
+        .text-cyan {
+            color: #00ffff;
+            text-shadow: 0 0 10px rgba(0, 255, 255, 0.5);
+        }
+        
+        .text-magenta {
+            color: #ff00ff;
+            text-shadow: 0 0 10px rgba(255, 0, 255, 0.5);
+        }
+        
+        .feature-icon {
+            color: #00ffff;
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            text-shadow: 0 0 20px rgba(0, 255, 255, 0.8);
+        }
+        
+        .list-unstyled li {
+            margin-bottom: 0.8rem;
+            padding-left: 1.5rem;
+            position: relative;
+        }
+        
+        .list-unstyled li::before {
+            content: '▶';
+            position: absolute;
+            left: 0;
+            color: #00ffff;
+            text-shadow: 0 0 10px rgba(0, 255, 255, 0.8);
+        }
+        
+        .footer {
+            background: linear-gradient(135deg, #000 0%, #1a1a1a 100%);
+            border-top: 3px solid;
+            border-image: linear-gradient(90deg, #00ffff, #ff00ff, #00ffff) 1;
+            padding: 3rem 0;
+            margin-top: 4rem;
+        }
+        
+        .container {
+            position: relative;
+            z-index: 1;
+        }
+        
+        .defense-pillar {
+            background: linear-gradient(135deg, rgba(0, 255, 255, 0.1) 0%, rgba(255, 0, 255, 0.1) 100%);
+            padding: 1.5rem;
+            border-radius: 10px;
+            margin-bottom: 1rem;
+            border-left: 4px solid #00ffff;
+        }
+        
+        .case-stat {
+            text-align: center;
+            padding: 2rem;
+            background: rgba(0, 255, 255, 0.1);
+            border-radius: 15px;
+            margin-bottom: 1.5rem;
+        }
+        
+        .case-stat h3 {
+            color: #00ffff;
+            font-size: 2.5rem;
+            font-weight: 900;
+            text-shadow: 0 0 15px rgba(0, 255, 255, 0.8);
+        }
+        
+        .case-stat p {
+            color: #e0e0e0;
+            margin-bottom: 0;
+            font-size: 1.1rem;
+        }
+        
+        @media (max-width: 768px) {
+            .hero-title {
+                font-size: 2.5rem;
+            }
+            
+            .hero-subtitle {
+                font-size: 1.3rem;
+            }
         }
     </style>
 </head>
 <body>
     <div class="hero">
-        <div class="container">
-            <h1 class="display-4">Law Defense Documentation</h1>
-            <p class="lead">Comprehensive legal defense documentation for <em>Crown v Tia</em></p>
-            <span class="badge-custom">Active Defense Case</span>
+        <div class="container text-center">
+            <h1 class="hero-title">LAW DEFENSE</h1>
+            <h2 class="hero-subtitle">Crown v Tia - Criminal Negligence Defense</h2>
+            <p class="lead mb-4">Enterprise-grade legal defense documentation with scientific evidence, expert testimony, and comprehensive case analysis</p>
+            <span class="badge-custom"><i class="fas fa-shield-alt"></i> Active Defense Case</span>
         </div>
     </div>
 
@@ -114,35 +265,31 @@
             <div class="col-md-8">
                 <div class="card">
                     <div class="card-body">
-                        <h2 class="card-title">About This Case</h2>
+                        <h2 class="card-title"><i class="fas fa-info-circle"></i> Case Overview</h2>
                         <p class="card-text">
                             This repository contains comprehensive legal defense documentation for <em>Crown v Tia</em>, 
                             a criminal negligence case involving the accidental drowning of a child. The documentation 
                             presents a multi-faceted defense strategy combining scientific evidence, legal precedent, 
                             and family dynamics analysis to establish the mother's innocence.
                         </p>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <div class="card-body">
-                        <h2 class="card-title">Key Defense Arguments</h2>
-                        <div class="row">
-                            <div class="col-md-6">
-                                <h5>Scientific Evidence</h5>
-                                <ul>
-                                    <li>Precise Timeline: 60-90 second window</li>
-                                    <li>Physics Analysis: Drain rate calculations</li>
-                                    <li>Medical Findings: Consistent with drowning</li>
-                                </ul>
+                        <div class="row mt-4">
+                            <div class="col-md-4">
+                                <div class="case-stat">
+                                    <h3><90</h3>
+                                    <p>Seconds Unsupervised</p>
+                                </div>
                             </div>
-                            <div class="col-md-6">
-                                <h5>Legal Precedent</h5>
-                                <ul>
-                                    <li>Gross Departure Standard</li>
-                                    <li>Foreseeability Analysis</li>
-                                    <li>Burden of Proof</li>
-                                </ul>
+                            <div class="col-md-4">
+                                <div class="case-stat">
+                                    <h3>5</h3>
+                                    <p>Defense Pillars</p>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="case-stat">
+                                    <h3>100+</h3>
+                                    <p>Evidence Documents</p>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -150,40 +297,82 @@
 
                 <div class="card">
                     <div class="card-body">
-                        <h2 class="card-title">Documentation Structure</h2>
-                        <ol>
-                            <li>Comprehensive Case Summary</li>
-                            <li>Evidence Catalog</li>
-                            <li>Legal Memorandum</li>
-                            <li>Defense Strategy</li>
-                            <li>Family Dynamics Analysis</li>
-                            <li>Medical and Scientific Evidence</li>
-                        </ol>
+                        <h2 class="card-title"><i class="fas fa-balance-scale"></i> Key Defense Arguments</h2>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="defense-pillar">
+                                    <h5 class="text-cyan"><i class="fas fa-microscope"></i> Scientific Evidence</h5>
+                                    <ul class="list-unstyled">
+                                        <li>Precise Timeline: 60-90 second window</li>
+                                        <li>Physics Analysis: Drain rate calculations</li>
+                                        <li>Medical Findings: Consistent with drowning</li>
+                                        <li>Hydrodynamic Evidence: Empty bath analysis</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="defense-pillar">
+                                    <h5 class="text-magenta"><i class="fas fa-gavel"></i> Legal Precedent</h5>
+                                    <ul class="list-unstyled">
+                                        <li>Gross Departure Standard</li>
+                                        <li>Foreseeability Analysis</li>
+                                        <li>Burden of Proof Requirements</li>
+                                        <li>Comparable Case Law</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="card-body">
+                        <h2 class="card-title"><i class="fas fa-folder-open"></i> Documentation Structure</h2>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <ol class="list-unstyled">
+                                    <li class="mb-3"><i class="fas fa-file-alt text-cyan"></i> Comprehensive Case Summary</li>
+                                    <li class="mb-3"><i class="fas fa-archive text-cyan"></i> Evidence Catalog</li>
+                                    <li class="mb-3"><i class="fas fa-scroll text-cyan"></i> Legal Memorandum</li>
+                                </ol>
+                            </div>
+                            <div class="col-md-6">
+                                <ol class="list-unstyled" start="4">
+                                    <li class="mb-3"><i class="fas fa-chess text-magenta"></i> Defense Strategy</li>
+                                    <li class="mb-3"><i class="fas fa-users text-magenta"></i> Family Dynamics Analysis</li>
+                                    <li class="mb-3"><i class="fas fa-flask text-magenta"></i> Medical & Scientific Evidence</li>
+                                </ol>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
 
             <div class="col-md-4">
                 <div class="card">
-                    <div class="card-body">
-                        <h5 class="card-title">Case Status</h5>
-                        <p class="text-success">Active Defense</p>
+                    <div class="card-body text-center">
+                        <h5 class="card-title"><i class="fas fa-heartbeat"></i> Case Status</h5>
+                        <p class="text-cyan h4">Active Defense</p>
                         <hr>
-                        <h6>Repository Links</h6>
-                        <a href="https://github.com/tiation/Law" class="btn btn-primary btn-sm mb-2 d-block">View on GitHub</a>
-                        <a href="https://github.com/tiation/Law/blob/main/README.md" class="btn btn-outline-primary btn-sm d-block">Read Full Documentation</a>
+                        <h6 class="text-magenta">Repository Links</h6>
+                        <a href="https://github.com/tiation/Law" class="btn btn-primary btn-sm mb-2 d-block">
+                            <i class="fab fa-github"></i> View on GitHub
+                        </a>
+                        <a href="https://github.com/tiation/Law/blob/main/README.md" class="btn btn-outline-primary btn-sm d-block">
+                            <i class="fas fa-book"></i> Read Full Documentation
+                        </a>
                     </div>
                 </div>
 
                 <div class="card">
                     <div class="card-body">
-                        <h6>Defense Pillars</h6>
+                        <h6 class="text-cyan"><i class="fas fa-shield-alt"></i> Defense Pillars</h6>
                         <ul class="list-unstyled">
-                            <li>✓ Timeline Verification</li>
-                            <li>✓ Hydrodynamic Analysis</li>
-                            <li>✓ Medical Evidence</li>
-                            <li>✓ Family Dynamics</li>
-                            <li>✓ Comparative Criminology</li>
+                            <li><i class="fas fa-clock text-cyan"></i> Timeline Verification</li>
+                            <li><i class="fas fa-water text-cyan"></i> Hydrodynamic Analysis</li>
+                            <li><i class="fas fa-stethoscope text-cyan"></i> Medical Evidence</li>
+                            <li><i class="fas fa-home text-cyan"></i> Family Dynamics</li>
+                            <li><i class="fas fa-chart-line text-cyan"></i> Comparative Criminology</li>
                         </ul>
                     </div>
                 </div>
@@ -191,10 +380,17 @@
         </div>
     </div>
 
-    <footer class="mt-5 py-4 bg-light">
+    <footer class="footer">
         <div class="container">
-            <div class="text-center text-muted">
-                <p>&copy; 2025 Law Defense Team | Documentation Repository</p>
+            <div class="text-center">
+                <p class="text-cyan mb-2">
+                    <i class="fas fa-shield-alt"></i> 
+                    &copy; 2025 Law Defense Team | Enterprise Documentation Repository
+                </p>
+                <p class="text-muted mb-0">
+                    <i class="fas fa-code"></i> 
+                    Built with enterprise-grade documentation standards
+                </p>
             </div>
         </div>
     </footer>

@@ -1,7 +1,7 @@
-title: "Law Defense Documentation"
-description: "Enterprise-grade legal defense documentation for Crown v Tia - Comprehensive case analysis with scientific evidence, legal precedent, and expert testimony"
+title: "Law Defense Documentation - Crown v Tia"
+description: "Enterprise-grade legal defense documentation for Crown v Tia - Comprehensive case analysis with scientific evidence, legal precedent, and expert testimony featuring dark neon theme"
 author: "Tia Astor"
-email: "tia@example.com"
+email: "tia@github.com"
 baseurl: "/Law"
 url: "https://tiation.github.io"
 
@@ -11,6 +11,8 @@ theme: minima
 
 # Dark neon theme configuration
 color_scheme: dark
+neon_theme: true
+default_theme: dark
 
 plugins:
   - jekyll-feed
@@ -52,5 +54,9 @@ seo:
 navigation:
   - title: "GitHub Repository"
     url: "https://github.com/tiation/Law"
-  - title: "Documentation"
+  - title: "Full Documentation"
     url: "https://github.com/tiation/Law/blob/main/README.md"
+  - title: "Case Overview"
+    url: "https://github.com/tiation/Law/blob/main/00_OVERVIEW.md"
+  - title: "Defense Strategy"
+    url: "https://github.com/tiation/Law/blob/main/DEFENSE_STRATEGY.md"
